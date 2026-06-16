@@ -10,17 +10,21 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 
 ### Staging Status
 
-The current status of the H.C. Andersen productions within this house:
+The current status of the H.C. Andersen productions within this house, cataloged by their BFN (Birger Frank Nielsen bibliography) numbers:
 
-- [ ] **Example Production** — Planned
+- [ ] **BFN 267: Fyrtøjet** — Planned
+- [ ] **BFN 268: Lille Claus og store Claus** — Planned
+- [x] **BFN 269: Prinsessen paa Ærten** — Staged
+- [ ] **BFN 270: Den lille Idas Blomster** — Planned
 
 ## Origin
 
-H.C. Andersen's writings, historical archives, and cultural context.
+The authoritative source of truth for the authentic Danish texts, titles, and publication history is the official register of the H.C. Andersen Centret at Syddansk Universitet:
 
-| Source            | Key Work / Event | Scope                            |
-| ----------------- | ---------------- | -------------------------------- |
-| **H.C. Andersen** | Canonical works  | Description of the source canon. |
+| Source            | Key Work / Event                       | Scope                         |
+| ----------------- | -------------------------------------- | ----------------------------- |
+| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | Chronological works database. |
+| **H.C. Andersen** | BFN 267–270                            | Canonical tales (1835).       |
 
 ## Restrictions
 
