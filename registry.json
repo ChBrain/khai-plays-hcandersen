@@ -1,8 +1,13 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "plays": [
+    {
+      "id": "bfn267_fyrtoejet",
+      "title": "The Tinderbox",
+      "description": "En soldat stiger til tops og bliver konge ved hjælp af et magisk fyrtøj og tre store hunde."
+    },
     {
       "id": "bfn269_prinsessen_paa_aerten",
       "title": "The Princess and the Pea",
