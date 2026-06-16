@@ -12,7 +12,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 
 The current status of the H.C. Andersen productions within this house, cataloged by their BFN (Birger Frank Nielsen bibliography) numbers:
 
-- [ ] **BFN 267: Fyrtøjet** — Planned
+- [x] **BFN 267: Fyrtøjet** — Staged
 - [ ] **BFN 268: Lille Claus og store Claus** — Planned
 - [x] **BFN 269: Prinsessen paa Ærten** — Staged
 - [ ] **BFN 270: Den lille Idas Blomster** — Planned
