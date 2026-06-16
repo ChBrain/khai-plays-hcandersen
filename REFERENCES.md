@@ -18,8 +18,8 @@ The current status of the H.C. Andersen productions within this house:
 
 H.C. Andersen's writings, historical archives, and cultural context.
 
-| Source               | Key Work / Event | Scope                            |
-| -------------------- | ---------------- | -------------------------------- |
+| Source            | Key Work / Event | Scope                            |
+| ----------------- | ---------------- | -------------------------------- |
 | **H.C. Andersen** | Canonical works  | Description of the source canon. |
 
 ## Restrictions
