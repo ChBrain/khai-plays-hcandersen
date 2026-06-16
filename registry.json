@@ -1,6 +1,12 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.0.1",
-  "plays": []
+  "version": "0.1.0",
+  "plays": [
+    {
+      "id": "bfn269_prinsessen_paa_aerten",
+      "title": "The Princess and the Pea",
+      "description": "En prins søger en ægte prinsesse, som til sidst findes ved hjælp af en enkelt ært under tyve madrasser."
+    }
+  ]
 }
