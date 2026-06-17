@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -17,6 +17,21 @@
       "id": "bfn269_prinsessen_paa_aerten",
       "title": "The Princess and the Pea",
       "description": "En prins søger en ægte prinsesse, som til sidst findes ved hjælp af en enkelt ært under tyve madrasser."
+    },
+    {
+      "id": "bfn270_den_lille_idas_blomster",
+      "title": "Little Ida's Flowers",
+      "description": "Ida oplever sine visne blomster danse til et midnatsbal og begraver dem derefter i haven, så de kan gro igen."
+    },
+    {
+      "id": "bfn278_tommelise",
+      "title": "Thumbelina",
+      "description": "Den lille pige Tommelise overvinder tvungne ægteskaber med tudser og muldvarpe og flyver mod friheden med en svale."
+    },
+    {
+      "id": "bfn280_den_uartige_dreng",
+      "title": "The Naughty Boy",
+      "description": "Amor søger ly hos en gammel digter i stormen, men skyder ham i hjertet med sin pil efter at være blevet varmet op."
     }
   ]
 }

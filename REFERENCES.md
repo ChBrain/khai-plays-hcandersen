@@ -16,6 +16,8 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 268: Lille Claus og store Claus** — Staged
 - [x] **BFN 269: Prinsessen paa Ærten** — Staged
 - [x] **BFN 270: Den lille Idas Blomster** — Staged
+- [x] **BFN 278: Tommelise** — Staged
+- [x] **BFN 280: Den uartige Dreng** — Staged
 
 ## Origin
 
