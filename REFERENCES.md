@@ -21,6 +21,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 280: Den uartige Dreng** — Staged
 - [x] **BFN 304: Den lille Havfrue** — Staged
 - [x] **BFN 305: Kejserens nye Klæder** — Staged
+- [x] **BFN 320: Lykkens Galoscher** — Staged
 
 ## Origin
 
