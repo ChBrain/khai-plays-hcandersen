@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -57,6 +57,11 @@
       "id": "bfn326_gaaseurten",
       "title": "The Daisy",
       "description": "En lille gåseurt oplever lærkens sang og kærlighed, men må dele dens tragiske skæbne i et trangt fuglebur."
+    },
+    {
+      "id": "bfn327_tinsoldaten",
+      "title": "The Steadfast Tin Soldier",
+      "description": "En tinsoldat forbliver standhaftig i sin kærlighed til en papirdanserinde gennem svære prøvelser og flammer."
     }
   ]
 }
