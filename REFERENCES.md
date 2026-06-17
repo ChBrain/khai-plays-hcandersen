@@ -15,7 +15,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 267: Fyrtøjet** — Staged
 - [x] **BFN 268: Lille Claus og store Claus** — Staged
 - [x] **BFN 269: Prinsessen paa Ærten** — Staged
-- [ ] **BFN 270: Den lille Idas Blomster** — Planned
+- [x] **BFN 270: Den lille Idas Blomster** — Staged
 
 ## Origin
 
