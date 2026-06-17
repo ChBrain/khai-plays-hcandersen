@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -27,6 +27,11 @@
       "id": "bfn278_tommelise",
       "title": "Thumbelina",
       "description": "Den lille pige Tommelise overvinder tvungne ægteskaber med tudser og muldvarpe og flyver mod friheden med en svale."
+    },
+    {
+      "id": "bfn279_rejsekammeraten",
+      "title": "The Traveling Companion",
+      "description": "Johannes betaler en død mands gæld og får hjælp af en mystisk ledsager til at bryde en prinsesses forbandelse."
     },
     {
       "id": "bfn280_den_uartige_dreng",
