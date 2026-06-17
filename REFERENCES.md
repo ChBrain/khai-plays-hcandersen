@@ -23,6 +23,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 305: Kejserens nye Klæder** — Staged
 - [x] **BFN 320: Lykkens Galoscher** — Staged
 - [x] **BFN 326: Gåseurten** — Staged
+- [x] **BFN 327: Den standhaftige Tinsoldat** — Staged
 
 ## Origin
 
