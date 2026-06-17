@@ -32,17 +32,19 @@ Never `--no-verify`. Never merge; open the PR and stop.
 
 ## Versioning
 
-The minor version IS the play count, computed not chosen. The `version` script
-runs `khai-tests registry build` after `changeset version`, which derives the
-version (minor set to the play count) and reconciles both `package.json` and
-`registry.json`. So a changeset only ever picks the release level; the count
-owns the minor.
+The minor version IS the play count, computed not chosen. `khai-tests registry
+build` (run by the `version` script) sets the version from the play count:
+`0.<count>.0` (the minor is the count, the patch resets to 0), reconciling both
+`package.json` and `registry.json`. The build is the single writer of the
+version; never hand-edit it.
 
-- **Adding a play** -> a `patch` changeset is enough to cut the release; the
-  build bumps the minor for you when it counts the new play. Do not hand-edit
-  the version or add a `minor` changeset for the count, that double-bump is the
-  drift the build now heals.
-- **Everything else** (governance, formatting, etc.) -> a `patch` changeset.
+- **Adding a play** -> no changeset. The play PR runs `khai-tests registry build`,
+  which moves the minor to the new play count and resets the patch to 0
+  (`0.<count>.0`); `changeset publish` ships it. A per-play changeset would
+  re-bump the patch on top of the minor the build already moved, the
+  `0.<count>.1` drift to avoid.
+- **A non-play change** (governance, formatting, a fix to existing content) ->
+  a `patch` changeset; it ships at the same play count.
 
 A non-zero major resets the minor while the count keeps climbing, so a house
 stays `0.x`; the numbering guard rejects a major bump.
