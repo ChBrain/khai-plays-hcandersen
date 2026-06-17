@@ -25,6 +25,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 326: Gåseurten** — Staged
 - [x] **BFN 327: Den standhaftige Tinsoldat** — Staged
 - [x] **BFN 328: De vilde Svaner** — Staged
+- [x] **BFN 353: Paradisets Have** — Staged
 
 ## Origin
 
