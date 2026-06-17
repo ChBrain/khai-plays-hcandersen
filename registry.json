@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -62,6 +62,11 @@
       "id": "bfn327_tinsoldaten",
       "title": "The Steadfast Tin Soldier",
       "description": "En tinsoldat forbliver standhaftig i sin kærlighed til en papirdanserinde gennem svære prøvelser og flammer."
+    },
+    {
+      "id": "bfn328_svanerne",
+      "title": "The Wild Swans",
+      "description": "Elisa må udstå stumhed og strikke brændenældeskjorter for at befri sine elleve brødre fra heksens forbandelse."
     }
   ]
 }
