@@ -19,6 +19,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 278: Tommelise** — Staged
 - [x] **BFN 279: Rejsekammeraten** — Staged
 - [x] **BFN 280: Den uartige Dreng** — Staged
+- [x] **BFN 304: Den lille Havfrue** — Staged
 
 ## Origin
 
