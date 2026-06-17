@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -52,6 +52,11 @@
       "id": "bfn320_lykkens_galoscher",
       "title": "The Galoshes of Fortune",
       "description": "Et par magiske galoscher opfylder bærerens ønsker, hvilket fører til absurde og ubehagelige situationer."
+    },
+    {
+      "id": "bfn326_gaaseurten",
+      "title": "The Daisy",
+      "description": "En lille gåseurt oplever lærkens sang og kærlighed, men må dele dens tragiske skæbne i et trangt fuglebur."
     }
   ]
 }
