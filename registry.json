@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -42,6 +42,11 @@
       "id": "bfn304_den_lille_havfrue",
       "title": "The Little Mermaid",
       "description": "Den lille havfrue ofrer sin stemme og sit liv i havet for at få menneskeben og søge en udødelig sjæl som menneske."
+    },
+    {
+      "id": "bfn305_kejserens_nye_klaeder",
+      "title": "The Emperor's New Clothes",
+      "description": "Kejseren bedrages til at bære usynlige klæder i en procession, indtil et lille barn råber, at han ikke har noget på."
     }
   ]
 }
