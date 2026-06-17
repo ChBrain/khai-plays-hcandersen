@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.5.1
+
+### Patch Changes
+
+- cb41a6f: Staging the fifth play BFN 278 (Tommelise) under plays/
+
 ## 0.0.1
 
 ### Patch Changes
