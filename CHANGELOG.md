@@ -1,5 +1,16 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.7.1
+
+### Patch Changes
+
+- ef82d17: Ship and export `registry.json`. The file exists in the repo but was excluded
+  from the published package (absent from `files`, no `exports`), so consumers fell
+  back to deprecated `## Arc` markdown parsing. Add `registry.json` to `files` and
+  an `exports` map (`.`, `./package.json`, `./registry.json`), matching the other
+  houses. Packaging fix only — no play change, so it ships at the same play count.
+- 93d8025: Staging the sixth play BFN 280 (Den uartige Dreng) under plays/
+
 ## 0.5.1
 
 ### Patch Changes
