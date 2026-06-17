@@ -27,7 +27,6 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 328: De vilde Svaner** — Staged
 - [x] **BFN 353: Paradisets Have** — Staged
 
-
 ## Origin
 
 The authoritative source of truth for the authentic Danish texts, titles, and publication history is the official register of the H.C. Andersen Centret at Syddansk Universitet:
