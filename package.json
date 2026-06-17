@@ -3,6 +3,11 @@
   "version": "0.6.0",
   "description": "khai plays: the H.C. Andersen production house. Plays staged with khai; the source is credited where it is in the public domain.",
   "type": "module",
+  "exports": {
+    ".": "./package.json",
+    "./package.json": "./package.json",
+    "./registry.json": "./registry.json"
+  },
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -14,6 +19,7 @@
   },
   "files": [
     "plays/**",
+    "registry.json",
     "README.md",
     "LICENSE",
     "LICENSE-CODE"
