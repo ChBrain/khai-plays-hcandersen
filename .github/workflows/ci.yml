@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: read
+  packages: read
 
 jobs:
   khai-tests:
@@ -44,7 +45,7 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: npx khai-guard --base "$BASE_SHA" --head "$HEAD_SHA"
-  branch-scope:
+  khai-branch-scope:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
