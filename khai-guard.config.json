@@ -22,9 +22,18 @@
       "SECURITY.md",
       "registry.json"
     ],
-    "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
+    "riders": [
+      {
+        "pattern": "management/orders/**",
+        "fallback": "governance"
+      }
+    ],
     "lanes": [
-      { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
+      {
+        "pattern": "play/*",
+        "layer": "solution",
+        "allow": ["plays/**"]
+      },
       {
         "pattern": "governance/*",
         "layer": "governance",
@@ -42,15 +51,34 @@
           "audit/**"
         ]
       },
-      { "pattern": "changeset-release/*", "layer": "general", "allow": [] },
+      {
+        "pattern": "changeset-release/*",
+        "layer": "general",
+        "allow": []
+      },
       {
         "pattern": "dependabot/*",
         "layer": "general",
         "allow": ["**/package.json", "**/package-lock.json", ".github/workflows/**"]
       },
-      { "pattern": "chore/*", "layer": "general", "allow": [] },
-      { "pattern": "fix/*", "layer": "general", "allow": [] },
-      { "pattern": "docs/*", "layer": "general", "allow": [] }
+      {
+        "pattern": "chore/*",
+        "layer": "general",
+        "allow": []
+      },
+      {
+        "pattern": "fix/*",
+        "layer": "general",
+        "allow": []
+      },
+      {
+        "pattern": "docs/*",
+        "layer": "general",
+        "allow": []
+      }
     ]
+  },
+  "changesetPolicy": {
+    "countDrivenAdd": ["plays/*/play_*.md"]
   }
 }
