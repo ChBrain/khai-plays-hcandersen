@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -67,6 +67,11 @@
       "id": "bfn328_svanerne",
       "title": "The Wild Swans",
       "description": "Elisa må udstå stumhed og strikke brændenældeskjorter for at befri sine elleve brødre fra heksens forbandelse."
+    },
+    {
+      "id": "bfn353_paradisets_have",
+      "title": "The Garden of Paradise",
+      "description": "En kongeprins flyver med østenvinden til Paradisets Have, men bukker under for fristelsen og kysser den smukke fe."
     }
   ]
 }
