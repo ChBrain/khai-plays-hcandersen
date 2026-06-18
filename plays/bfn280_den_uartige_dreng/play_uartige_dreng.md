@@ -37,6 +37,7 @@ En gammel, venlig digter sidder i sin lune stue en stormfuld aften, da det banke
 - [Beskydning](process_beskydning.md)
 - [Digterens Plan](plan_digterens_plan.md)
 - [Amors Plan](plan_amors_plan.md)
+- [det Komiske](pitch_comic.md)
 
 ## Triggers
 

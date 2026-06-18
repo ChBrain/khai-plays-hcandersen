@@ -41,6 +41,7 @@ Den lille havfrue bor på havets bund, men længes efter menneskenes verden og e
 - [Opofrelse](process_opofrelse.md)
 - [Havfruens Plan](plan_havfruens_plan.md)
 - [Heksens Plan](plan_heksens_plan.md)
+- [Sorgen](pitch_grief.md)
 
 ## Triggers
 

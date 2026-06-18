@@ -43,6 +43,8 @@ Den unge, forældreløse Johannes drager ud i verden efter sin fars død. Han br
 - [Befrielse](process_befrielse.md)
 - [Johannes' Plan](plan_johannes_plan.md)
 - [Rejsekammeratens Plan](plan_rejsekammeratens_plan.md)
+- [det Heltemodige](pitch_heroic.md)
+- [det Uhyggelige](pitch_dread.md)
 
 ## Triggers
 

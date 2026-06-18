@@ -44,6 +44,7 @@ Den lille Ida er ked af, at hendes blomster er visnet. Studenten forklarer hende
 - [Begravelsen](process_begravelsen.md)
 - [Idas Plan](plan_idas_plan.md)
 - [Studentens Plan](plan_studentens_plan.md)
+- [det Vidunderlige](pitch_wonder.md)
 
 ## Triggers
 

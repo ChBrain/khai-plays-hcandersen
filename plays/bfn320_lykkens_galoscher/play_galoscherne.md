@@ -44,6 +44,8 @@ To feer efterlader et par magiske galoscher i hallen. Galoscherne har den egensk
 - [Erkendelse](process_erkendelse.md)
 - [Feernes Plan](plan_feernes_plan.md)
 - [Menneskets Plan](plan_menneskets_plan.md)
+- [det Komiske](pitch_comic.md)
+- [det Uhyggelige](pitch_dread.md)
 
 ## Triggers
 

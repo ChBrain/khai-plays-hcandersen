@@ -44,6 +44,7 @@ En videnssøgende kongeprins, der forgæves søger efter vejen til det tabte Par
 - [Syndefald](process_syndefald.md)
 - [Prinsens Plan](plan_prinsens_plan.md)
 - [Vindenes Plan](plan_vindenes_plan.md)
+- [det Vidunderlige](pitch_wonder.md)
 
 ## Triggers
 
