@@ -1,5 +1,20 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.14.1
+
+### Patch Changes
+
+- f686729: Converge hcandersen management onto the shared blueprint core (Order 0c). The voice layer
+  and the chain-owned core (positions, shared Choregos personas, plan_stage_the_score)
+  now match the blueprint verbatim; cast the house Director (Jean Hersholt) as overlay.
+  Keeps its existing Roadie + touring as overlay (deferred); homes already present. The convergence gate reports 0 findings; house conformance passes.
+- 0805bbe: Sync the Director position to the current blueprint: the cast named as the
+  producer (the separation of two stances), and "tune the pitch" added to the
+  redirect idioms. Brings the house in line with the chain canon (khai #505/#506).
+- 62979db: Re-converge the Director seat to the control loop: position_director and
+  plan_stage_the_score match the rewritten blueprint core (the Director runs a
+  living production and captures a run, not a teller).
+
 ## 0.7.1
 
 ### Patch Changes
