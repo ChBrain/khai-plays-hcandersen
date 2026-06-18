@@ -35,6 +35,7 @@ En prins rejser ud for at finde en rigtig prinsesse, men vender hjem uden result
 - [Ærten](piece_aerten.md)
 - [Sengen](piece_sengen.md)
 - [Proeven](process_proeven.md)
+- [det Komiske](pitch_comic.md)
 
 ## Triggers
 

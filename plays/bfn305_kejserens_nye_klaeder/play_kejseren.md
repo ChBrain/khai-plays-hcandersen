@@ -44,6 +44,7 @@ Kejseren lever kun for nye, smukke klæder. En dag ankommer to bedragere til bye
 - [Afsløringen](process_afsloeringen.md)
 - [Kejserens Plan](plan_kejserens_plan.md)
 - [Bedragernes Plan](plan_bedragernes_plan.md)
+- [det Komiske](pitch_comic.md)
 
 ## Triggers
 

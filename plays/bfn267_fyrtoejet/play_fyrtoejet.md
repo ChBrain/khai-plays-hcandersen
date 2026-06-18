@@ -48,6 +48,7 @@ En fattig soldat får fingrene i et magisk fyrtøj, som viser sig at kunne hidka
 - [Transport](process_transport.md)
 - [Heksens Plan](plan_heksens_plan.md)
 - [Soldatens Plan](plan_soldatens_plan.md)
+- [det Heltemodige](pitch_heroic.md)
 
 ## Triggers
 

@@ -44,6 +44,7 @@ En lille gåseurt vokser i græsset uden for en fornem have og er lykkelig i sol
 - [Medfølelse](process_medfoelse.md)
 - [Gåseurtens Plan](plan_gaaseurtens_plan.md)
 - [Drengenes Plan](plan_drengenes_plan.md)
+- [Vemodet](pitch_grief.md)
 
 ## Triggers
 

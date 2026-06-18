@@ -44,6 +44,7 @@ En tinsoldat, støbt med kun ét ben, forelsker sig i en smuk papirdanserinde, d
 - [Forbrænding](process_forbraending.md)
 - [Soldatens Plan](plan_soldatens_plan.md)
 - [Troldens Plan](plan_troldens_plan.md)
+- [det Stille](pitch_still.md)
 
 ## Triggers
 

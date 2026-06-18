@@ -44,6 +44,7 @@ Elleve kongesønner forvandles til vilde svaner af deres onde stedmoder, dronnin
 - [Forløsning](process_forloesning.md)
 - [Elisas Plan](plan_elisas_plan.md)
 - [Dronningens Plan](plan_dronningens_plan.md)
+- [det Heltemodige](pitch_heroic.md)
 
 ## Triggers
 

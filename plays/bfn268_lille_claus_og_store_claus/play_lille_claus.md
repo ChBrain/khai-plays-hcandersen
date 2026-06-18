@@ -43,6 +43,7 @@ Lille Claus ejer kun én hest, mens Store Claus ejer fire. Da Lille Claus kalder
 - [Bedraget](process_bedraget.md)
 - [Lille Claus' Plan](plan_lille_claus_plan.md)
 - [Store Claus' Plan](plan_store_claus_plan.md)
+- [det Komiske](pitch_comic.md)
 
 ## Triggers
 
