@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.14.2
+
+### Patch Changes
+
+- 1610977: Add a pitch (the tonal key: tenor, undertow, nerve, echo) to every H.C. Andersen play, in Danish and wired into each play's Company. 16 pitches across 14 plays.
+
 ## 0.14.1
 
 ### Patch Changes
