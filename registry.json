@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -77,6 +77,11 @@
       "id": "bfn354_den_flyvende_kuffert",
       "title": "The Flying Trunk",
       "description": "En købmandssøn flyver i en magisk kuffert til Tyrkiet, vinder en prinsesse, men mister alt da kufferten brænder."
+    },
+    {
+      "id": "bfn355_storkene",
+      "title": "The Storks",
+      "description": "En storkefamilie på et tag plages af drengenes onde sang, men lærer at flyve og tager en retfærdig hævn over dem."
     }
   ]
 }
