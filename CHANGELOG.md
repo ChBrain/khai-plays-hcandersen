@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.19.1
+
+### Patch Changes
+
+- 9e3662a: Stage BFN 410 in REFERENCES.md.
+
 ## 0.14.2
 
 ### Patch Changes
