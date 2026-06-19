@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.14.2",
+  "version": "0.15.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -72,6 +72,11 @@
       "id": "bfn353_paradisets_have",
       "title": "The Garden of Paradise",
       "description": "En kongeprins flyver med østenvinden til Paradisets Have, men bukker under for fristelsen og kysser den smukke fe."
+    },
+    {
+      "id": "bfn354_den_flyvende_kuffert",
+      "title": "The Flying Trunk",
+      "description": "En købmandssøn flyver i en magisk kuffert til Tyrkiet, vinder en prinsesse, men mister alt da kufferten brænder."
     }
   ]
 }
