@@ -28,6 +28,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 353: Paradisets Have** — Staged
 - [x] **BFN 354: Den flyvende Kuffert** — Staged
 - [x] **BFN 355: Storkene** — Staged
+- [x] **BFN 386: Den onde Fyrste** — Staged
 
 ## Origin
 
