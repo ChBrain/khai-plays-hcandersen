@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -87,6 +87,11 @@
       "id": "bfn386_den_onde_fyrste",
       "title": "The Wicked Prince",
       "description": "En hovmodig fyrste erobrer verden og angriber Gud med et luftskib, men knuses af en engel og en enkelt myg."
+    },
+    {
+      "id": "bfn409_ole_lukoeje",
+      "title": "Ole Lukoie",
+      "description": "Ole Lukøje besøger Hjalmar hver nat, sprøjter sød mælk i hans øjne og viser drømme, før Døden henter ham."
     }
   ]
 }
