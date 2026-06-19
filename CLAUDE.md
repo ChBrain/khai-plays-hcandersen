@@ -43,8 +43,17 @@ version; never hand-edit it.
   (`0.<count>.0`); `changeset publish` ships it. A per-play changeset would
   re-bump the patch on top of the minor the build already moved, the
   `0.<count>.1` drift to avoid.
-- **A non-play change** (governance, formatting, a fix to existing content) ->
-  a `patch` changeset; it ships at the same play count.
+- **A non-play change that ships package content** (a fix to an existing play,
+  the registry, the README) -> a `patch` changeset; it ships at the same play
+  count.
+- **A change that ships no package content** -> an **empty** changeset
+  (`npx changeset add --empty`). Anything outside the package `files`
+  (`REFERENCES.md`, docs, tooling, the gates, this file) ships nothing, so a
+  `patch` changeset there republishes identical content and drifts the version
+  (the `0.<count>.1` patch). An empty changeset records the PR and merges green
+  without cutting a release. Staging a coming play in `REFERENCES.md` is the
+  common case: empty, not patch. `changeset-check` flags a releasing changeset
+  that ships nothing.
 
 A non-zero major resets the minor while the count keeps climbing, so a house
 stays `0.x`; the numbering guard rejects a major bump.
