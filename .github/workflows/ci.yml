@@ -82,7 +82,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: changeset presence gate
+        # The bot's "Version Packages" PR (changeset-release/*) consumes
+        # changesets, so it carries none by design — don't red it. The job still
+        # runs (so the required check reports green), only this gate step is
+        # skipped. khai-guard also exempts the release branch from its own
+        # changeset-check; this covers the interim until the house bumps to the
+        # guard version that ships that fix.
+        if: ${{ !startsWith(github.head_ref, 'changeset-release/') }}
         env:
+          HEAD_REF: ${{ github.head_ref }}
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-        run: npx khai-guard changeset-check --base "$BASE_SHA" --head "$HEAD_SHA"
+        run: npx khai-guard changeset-check --branch "$HEAD_REF" --base "$BASE_SHA" --head "$HEAD_SHA"
