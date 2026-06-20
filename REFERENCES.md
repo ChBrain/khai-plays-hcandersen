@@ -1,5 +1,5 @@
 ---
-updated: "2026-01-01"
+updated: "2026-06-20"
 ---
 
 # H.C. Andersen House: Reference
