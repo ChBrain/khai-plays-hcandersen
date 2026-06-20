@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -102,6 +102,11 @@
       "id": "bfn411_boghveden",
       "title": "The Buckwheat",
       "description": "En stolt boghvede nægter at bøje sig for stormen og bliver afsvedet, mens de ydmyge afgrøder overlever."
+    },
+    {
+      "id": "bfn437_engelen",
+      "title": "The Angel",
+      "description": "En engel fører et afdødt barn til Himlen, mens de samler minder og en vissen markblomst fra barnets jordeliv."
     }
   ]
 }
