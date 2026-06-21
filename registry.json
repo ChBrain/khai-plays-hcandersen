@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.40.1",
+  "version": "0.45.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -199,9 +199,34 @@
       "description": "Et forfaldent hus står i kontrast til moderne omgivelser, mens en tinsoldat bringer trøst til dets ensomme beboer."
     },
     {
+      "id": "bfn529_flipperne",
+      "title": "The Shirt Collar",
+      "description": "En pralende flip frier til alle han møder, ender som klud og genanvendes til papir."
+    },
+    {
+      "id": "bfn529_historien_om_en_moder",
+      "title": "The Story of a Mother",
+      "description": "En moders desperate kamp og opofrelse for at redde sit syge barn fra Døden."
+    },
+    {
+      "id": "bfn529_lykkelige_familie",
+      "title": "The Happy Family",
+      "description": "Hvide snegle i en skræppeskov drømmer om herregården og sikrer slægtens overlevelse gennem en arving."
+    },
+    {
       "id": "bfn529_vanddraaben",
       "title": "The Drop of Water",
       "description": "Krible-Krable ser i en vanddråbe en kaotisk mikroverden af kæmpende vanddyr."
+    },
+    {
+      "id": "bfn549_hoerren",
+      "title": "The Flax",
+      "description": "Hørrens rejse fra grøn plante på marken gennem forvandling til tråd, linned, papir og til sidst aske og ånd."
+    },
+    {
+      "id": "bfn550_fugl_foeniks",
+      "title": "The Phoenix Bird",
+      "description": "Fugl Føniks genfødes af asken i Paradisets have og spreder poesiens og sangens evige lys til menneskeheden."
     }
   ]
 }
