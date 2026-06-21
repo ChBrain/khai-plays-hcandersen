@@ -47,6 +47,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 482: Stoppenaalen** — Staged
 - [x] **BFN 486: Den lille Pige med Svovlstikkerne** — Staged
 - [x] **BFN 517: Den gamle Gadeløgte** — Staged
+- [x] **BFN 518: Nabofamilierne** — Staged
+- [x] **BFN 519: Lille Tuk** — Staged
+- [x] **BFN 520: Skyggen** — Staged
+- [x] **BFN 529: Det gamle Hus** — Staged
+- [x] **BFN 529: Vanddraaben** — Staged
 
 ## Origin
 
