@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.21.0",
+  "version": "0.24.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -104,9 +104,24 @@
       "description": "En stolt boghvede nægter at bøje sig for stormen og bliver afsvedet, mens de ydmyge afgrøder overlever."
     },
     {
+      "id": "bfn436_nattergalen",
+      "title": "The Nightingale",
+      "description": "En sand nattergal bringes til kejserens hof, forvises til fordel for en kunstfugl, men redder senere kejseren fra Døden."
+    },
+    {
       "id": "bfn437_engelen",
       "title": "The Angel",
       "description": "En engel fører et afdødt barn til Himlen, mens de samler minder og en vissen markblomst fra barnets jordeliv."
+    },
+    {
+      "id": "bfn438_kjaerestefolkene",
+      "title": "The Sweethearts",
+      "description": "En snurretop frier til en læderbold, der afviser ham, forsvinder i en tagrende og genfindes år efter i skraldet."
+    },
+    {
+      "id": "bfn439_grimme_aelling",
+      "title": "The Ugly Duckling",
+      "description": "En grim, grå svaneunge udstødes og mobbes af gårdspladsens fugle, indtil han genkender sig selv som en hvid svane."
     }
   ]
 }
