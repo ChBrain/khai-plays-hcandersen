@@ -33,4 +33,4 @@ Nøglen, der spænder fjedrene, indtil fjederspændingen ophører eller urværke
 
 ## Echo
 
-## Får [Mekanisk Urværk](piece_mekanisk_urvaerk.md) til at snurre og kunstfuglen til at synge sin melodi, hvilket ender med fjederslip eller urværksnedbrud.
+Får [Mekanisk Urværk](piece_mekanisk_urvaerk.md) til at snurre og kunstfuglen til at synge sin melodi, hvilket ender med fjederslip eller urværksnedbrud.

@@ -33,4 +33,4 @@ Fuglens naturlige ånd, dens uafhængighed og dens evne til at føle medlidenhed
 
 ## Echo
 
-## Fremkalder [Tårerne](piece_taarer.md) i herskerens øjne, driver [Døden](persona_doeden.md) væk fra [Dødslejet](place_doedslejet.md), og genopretter herskerens liv.
+Fremkalder [Tårerne](piece_taarer.md) i herskerens øjne, driver [Døden](persona_doeden.md) væk fra [Dødslejet](place_doedslejet.md), og genopretter herskerens liv.

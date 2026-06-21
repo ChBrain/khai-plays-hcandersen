@@ -33,4 +33,4 @@ Vinterens modgang, forårets varme, og det biologiske ophav som svaneæg.
 
 ## Echo
 
-## Frembringer svaneskikkelsen, som afsløres i [Spejlbilledet](piece_spejlbilledet.md), og fuldfører ællingens accept hos [Svanerne](persona_svanerne.md).
+Frembringer svaneskikkelsen, som afsløres i [Spejlbilledet](piece_spejlbilledet.md), og fuldfører ællingens accept hos [Svanerne](persona_svanerne.md).

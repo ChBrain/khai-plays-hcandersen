@@ -33,4 +33,4 @@ Vandets konstante påvirkning og tidens lange gang uden menneskelig kontakt elle
 
 ## Echo
 
-## Forvandler den fine [Bolden](persona_bolden.md) til en mudret, grå og uigenkendelig klump, der ender i [Skraldebunken](place_skraldebunken.md).
+Forvandler den fine [Bolden](persona_bolden.md) til en mudret, grå og uigenkendelig klump, der ender i [Skraldebunken](place_skraldebunken.md).

@@ -33,4 +33,4 @@ Gårdspladsens intolerance over for alt, der bryder med deres fastlagte standard
 
 ## Echo
 
-## Fører til ællingens flugt fra andegården og hans efterfølgende isolation i vildmarken, hvilket er nødvendigt for hans overlevelse og sande rejse.
+Fører til ællingens flugt fra andegården og hans efterfølgende isolation i vildmarken, hvilket er nødvendigt for hans overlevelse og sande rejse.

@@ -33,4 +33,4 @@ Snoren og drengens træk, samt toppens fine, balancerede mahognikrop.
 
 ## Echo
 
-## Får toppen til at fremstå levende og beundringsværdig for omgivelserne, og tvinger ham til sidst til at hoppe højt under legen, hvilket sender ham mod skraldebunken.
+Får toppen til at fremstå levende og beundringsværdig for omgivelserne, og tvinger ham til sidst til at hoppe højt under legen, hvilket sender ham mod skraldebunken.
