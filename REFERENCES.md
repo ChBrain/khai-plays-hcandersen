@@ -36,6 +36,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 437: Engelen** — Staged
 - [x] **BFN 438: Kjærestefolkene** — Staged
 - [x] **BFN 439: Den grimme Ælling** — Staged
+- [x] **BFN 455: Grantræet** — Staged
+- [x] **BFN 456: Snedronningen** — Staged
+- [x] **BFN 468: Elverhøi** — Staged
+- [x] **BFN 469: De røde Skoe** — Staged
+- [x] **BFN 470: Springfyrene** — Staged
 
 ## Origin
 
