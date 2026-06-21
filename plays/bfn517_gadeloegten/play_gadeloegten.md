@@ -44,7 +44,7 @@ En gammel gadeløgte står foran sin pensionering og frygter at blive smeltet om
 - [plot_sidste_aften.md](plot_sidste_aften.md) igangsættes af gadeløgtens sidste aften i aktiv tjeneste på gaden.
 - [plot_afskeden.md](plot_afskeden.md) igangsættes af løgtens nedtagning og rådhusets dom over dens skæbne.
 - [plot_kaelderlivet.md](plot_kaelderlivet.md) igangsættes af vægterens beslutning om at tage løgten med hjem.
-- [plot_drømme.md](plot_drømme.md) igangsættes af løgtens evne til at lyse op og genkalde erindringer i mørket.
+- [plot_droemme.md](plot_droemme.md) igangsættes af løgtens evne til at lyse op og genkalde erindringer i mørket.
 
 ## Stakes
 

@@ -33,7 +33,7 @@ En stoppenål, der anser sig selv for at være så fin, at hun bilder sig ind at
 - [Lak](piece_lak.md)
 - [Køkkenet](place_koekkenet.md)
 - [Rendestenen](place_rendestenen.md)
-- [Knæk](process_knæk.md)
+- [Knæk](process_knaek.md)
 - [Pral](process_pral.md)
 - [Stoppenålens stolthed](plan_stoppenaal_stolthed.md)
 - [Satire og stolthed](pitch_satire_stolthed.md)

@@ -46,5 +46,5 @@ The play files must be placed in `plays/bfn517_gadeloegten/` and follow the hous
 - [x] `plays/bfn517_gadeloegten/plot_sidste_aften.md` is created and casts company elements
 - [x] `plays/bfn517_gadeloegten/plot_afskeden.md` is created and casts company elements
 - [x] `plays/bfn517_gadeloegten/plot_kaelderlivet.md` is created and casts company elements
-- [x] `plays/bfn517_gadeloegten/plot_drømme.md` is created and casts company elements
+- [x] `plays/bfn517_gadeloegten/plot_droemme.md` is created and casts company elements
 - [x] The local validation tests (`npm test`) run successfully with zero errors

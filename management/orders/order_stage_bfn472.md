@@ -41,11 +41,11 @@ The play files must be placed in `plays/bfn472_holger_danske/` and follow the ho
 - [x] `plays/bfn472_holger_danske/place_vaerkstedet.md` is created
 - [x] `plays/bfn472_holger_danske/process_erindring.md` is created
 - [x] `plays/bfn472_holger_danske/process_vaekning.md` is created
-- [x] `plays/bfn472_holger_danske/plan_holger_danske_drøm.md` is created and linked to `persona_holger_danske.md`
+- [x] `plays/bfn472_holger_danske/plan_holger_danske_droem.md` is created and linked to `persona_holger_danske.md`
 - [x] `plays/bfn472_holger_danske/plan_billedskaerer_skabning.md` is created and linked to `persona_billedskaereren.md`
 - [x] `plays/bfn472_holger_danske/pitch_patriotisme.md` is created
 - [x] `plays/bfn472_holger_danske/plot_vaerksted.md` is created and casts company elements
 - [x] `plays/bfn472_holger_danske/plot_kasematter.md` is created and casts company elements
-- [x] `plays/bfn472_holger_danske/plot_drømmen.md` is created and casts company elements
+- [x] `plays/bfn472_holger_danske/plot_droemmen.md` is created and casts company elements
 - [x] `plays/bfn472_holger_danske/plot_sejlads.md` is created and casts company elements
 - [x] The local validation tests (`npm test`) run successfully with zero errors

@@ -25,7 +25,7 @@ Kokkepigen trækker stoppenålen op af syæsken for at reparere en gammel, slidt
 
 ## Action
 
-Stoppenålen [Stoppenaalen](persona_stoppenaalen.md), der indtager den [Hovmodig](position_hovmodig.md)e position, forsøger at føre sin plan [Stoppenålens stolthed](plan_stoppenaal_stolthed.md) ud i livet under den herskende tone [Satire og stolthed](pitch_satire_stolthed.md), men spiler sig så stift ud, at hun oplever et voldsomt [Knæk](process_knæk.md). Efterfølgende forsynes hun med et hoved af [Lak](piece_lak.md) og placeres i kokkepigens tørklæde.
+Stoppenålen [Stoppenaalen](persona_stoppenaalen.md), der indtager den [Hovmodig](position_hovmodig.md)e position, forsøger at føre sin plan [Stoppenålens stolthed](plan_stoppenaal_stolthed.md) ud i livet under den herskende tone [Satire og stolthed](pitch_satire_stolthed.md), men spiler sig så stift ud, at hun oplever et voldsomt [Knæk](process_knaek.md). Efterfølgende forsynes hun med et hoved af [Lak](piece_lak.md) og placeres i kokkepigens tørklæde.
 
 ## Stage
 

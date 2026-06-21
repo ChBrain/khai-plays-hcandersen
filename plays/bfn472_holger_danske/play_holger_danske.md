@@ -36,7 +36,7 @@ I Kronborgs dybe kasematter sover Holger Danske. Hans skæg er vokset fast i mar
 - [Værkstedet](place_vaerkstedet.md)
 - [Erindring](process_erindring.md)
 - [Vækning](process_vaekning.md)
-- [Holger Danskes drøm](plan_holger_danske_drøm.md)
+- [Holger Danskes drøm](plan_holger_danske_droem.md)
 - [Billedskærerens skabning](plan_billedskaerer_skabning.md)
 - [Patriotisme](pitch_patriotisme.md)
 
@@ -44,7 +44,7 @@ I Kronborgs dybe kasematter sover Holger Danske. Hans skæg er vokset fast i mar
 
 - [plot_vaerksted.md](plot_vaerksted.md) igangsættes af billedskærerens arbejde på galionsfiguren og historiefortællingen for barnebarnet.
 - [plot_kasematter.md](plot_kasematter.md) udløses af Holger Danskes slumren under Kronborg, hvor skægget vokser fast i marmorbordet.
-- [plot_drømmen.md](plot_drømmen.md) udløses af englens besøg og Holger Danskes drømme om Danmarks historie og skæbne.
+- [plot_droemmen.md](plot_droemmen.md) udløses af englens besøg og Holger Danskes drømme om Danmarks historie og skæbne.
 - [plot_sejlads.md](plot_sejlads.md) udløses af skibets afsejling med galionsfiguren, der bærer mindet ud i verden.
 
 ## Stakes
