@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.35.0",
+  "version": "0.40.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -177,6 +177,31 @@
       "id": "bfn517_gadeloegten",
       "title": "The Old Street Lamp",
       "description": "En gammel, trofast gadeløgte pensioneres og reddes af den gamle vægter til et nyt og roligt liv i hans kælder."
+    },
+    {
+      "id": "bfn518_nabofamilierne",
+      "title": "The Neighbouring Families",
+      "description": "To nabofamilier - de stolte roser og de støjende gråspurve - lever side om side adskilt af et hegn."
+    },
+    {
+      "id": "bfn519_lille_tuk",
+      "title": "Little Tuk",
+      "description": "En lille dreng passer sin søster frem for lektierne, men i en drøm besøger byerne ham og lærer ham geografien."
+    },
+    {
+      "id": "bfn520_skyggen",
+      "title": "The Shadow",
+      "description": "En lærds mands skygge river sig løs, vinder magt og vender tilbage for at tilintetgøre sin tidligere herre."
+    },
+    {
+      "id": "bfn529_det_gamle_hus",
+      "title": "The Old House",
+      "description": "Et forfaldent hus står i kontrast til moderne omgivelser, mens en tinsoldat bringer trøst til dets ensomme beboer."
+    },
+    {
+      "id": "bfn529_vanddraaben",
+      "title": "The Drop of Water",
+      "description": "Krible-Krable ser i en vanddråbe en kaotisk mikroverden af kæmpende vanddyr."
     }
   ]
 }
