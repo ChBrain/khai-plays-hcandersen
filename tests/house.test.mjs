@@ -82,3 +82,28 @@ describe("Hcandersen house: plays conform to the canon", () => {
     expect(errors).toEqual([]);
   });
 });
+
+// The engines a play house runs on are CONTENT, not tooling. npm's *production*
+// dependency graph is the single source of truth for the engines a house carries
+// (the zip bundler derives the set from it, never a hardcoded list), so every
+// @chbrain/khai-engine-* must be a runtime `dependency`, and the spine — the
+// neutral contract every house runs on — must be present. An engine stranded in
+// `devDependencies` is present for the test run (engine discovery scans
+// node_modules) yet invisible to the production graph: a finding, not a style
+// choice.
+describe("House: engines are declared as content dependencies", () => {
+  const pkg = JSON.parse(readFileSync(join(root, "package.json"), "utf8"));
+  const isEngine = (name) => name.startsWith("@chbrain/khai-engine-");
+
+  it("no engine is stranded in devDependencies", () => {
+    const stranded = Object.keys(pkg.devDependencies ?? {}).filter(isEngine);
+    expect(
+      stranded,
+      `engines are content and must be runtime dependencies; move to "dependencies": ${stranded.join(", ")}`,
+    ).toEqual([]);
+  });
+
+  it("the spine engine is a runtime dependency (the contract every house runs on)", () => {
+    expect(Object.keys(pkg.dependencies ?? {})).toContain("@chbrain/khai-engine-spine");
+  });
+});
