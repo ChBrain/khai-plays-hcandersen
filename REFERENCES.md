@@ -52,6 +52,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 520: Skyggen** — Staged
 - [x] **BFN 529: Det gamle Hus** — Staged
 - [x] **BFN 529: Vanddraaben** — Staged
+- [x] **BFN 529: Flipperne** — Staged
+- [x] **BFN 529: Den lykkelige familie** — Staged
+- [x] **BFN 529: Historien om en moder** — Staged
+- [x] **BFN 549: Hørren** — Staged
+- [x] **BFN 550: Fugl Føniks** — Staged
 
 ## Origin
 
