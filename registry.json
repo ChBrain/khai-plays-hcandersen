@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.29.0",
+  "version": "0.35.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -147,6 +147,36 @@
       "id": "bfn470_springfyrene",
       "title": "The Jumpers",
       "description": "En loppe, en græshoppe og en springgås konkurrerer om prinsessen, og springgåsen vinder med sin forstand."
+    },
+    {
+      "id": "bfn471_hyrdinden",
+      "title": "The Shepherdess and the Chimney Sweep",
+      "description": "To porcelænsfigurer flygter ud i den store verden, men hyrdindens angst tvinger dem til at vende om."
+    },
+    {
+      "id": "bfn472_holger_danske",
+      "title": "Ogier the Dane",
+      "description": "Holger Danske sover under Kronborg og venter på at vågne, mens en billedskærer foreviger ham i en galionsfigur."
+    },
+    {
+      "id": "bfn474_klokken",
+      "title": "The Bell",
+      "description": "En mystisk klokkes klang i skoven drager byens folk, men kun kongesønnen og fattigdrengen vandrer til dens ophav."
+    },
+    {
+      "id": "bfn482_stoppenaalen",
+      "title": "The Darning Needle",
+      "description": "En stoppenål, der tror hun er en synål, knækker og ender i rendestenen, men bevarer sit hovmod til det sidste."
+    },
+    {
+      "id": "bfn486_svovlstikkerne",
+      "title": "The Little Match Girl",
+      "description": "En frysende pige tænder svovlstikker nytårsaften, ser visioner og dør i kulden for at forenes med sin bedstemor."
+    },
+    {
+      "id": "bfn517_gadeloegten",
+      "title": "The Old Street Lamp",
+      "description": "En gammel, trofast gadeløgte pensioneres og reddes af den gamle vægter til et nyt og roligt liv i hans kælder."
     }
   ]
 }
