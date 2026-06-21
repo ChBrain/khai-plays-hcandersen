@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.24.0",
+  "version": "0.29.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -122,6 +122,31 @@
       "id": "bfn439_grimme_aelling",
       "title": "The Ugly Duckling",
       "description": "En grim, grå svaneunge udstødes og mobbes af gårdspladsens fugle, indtil han genkender sig selv som en hvid svane."
+    },
+    {
+      "id": "bfn455_grantraeet",
+      "title": "The Fir Tree",
+      "description": "Et ungt grantræ har så travlt med at længes efter fremtiden, at det glemmer at glæde sig over nuet."
+    },
+    {
+      "id": "bfn456_snedronningen",
+      "title": "The Snow Queen",
+      "description": "Gerda søger efter Kay, som er bortført af Snedronningen, og redder ham med sine varme tårer i ispaladset."
+    },
+    {
+      "id": "bfn468_elverhoei",
+      "title": "The Elfin Hill",
+      "description": "Elverkongen holder gilde i Elverhøi for troldgubben fra Dovre og sønnerne for at arrangere et strategisk giftermål."
+    },
+    {
+      "id": "bfn469_roede_skoe",
+      "title": "The Red Shoes",
+      "description": "Karen besættes af sine røde sko og tvinges til at danse utrætteligt, indtil hun søger bod og tilgivelse."
+    },
+    {
+      "id": "bfn470_springfyrene",
+      "title": "The Jumpers",
+      "description": "En loppe, en græshoppe og en springgås konkurrerer om prinsessen, og springgåsen vinder med sin forstand."
     }
   ]
 }
