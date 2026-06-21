@@ -53,7 +53,6 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 529: Det gamle Hus** — Staged
 - [x] **BFN 529: Vanddraaben** — Staged
 
-
 ## Origin
 
 The authoritative source of truth for the authentic Danish texts, titles, and publication history is the official register of the H.C. Andersen Centret at Syddansk Universitet:
