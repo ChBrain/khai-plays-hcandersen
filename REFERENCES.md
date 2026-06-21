@@ -41,6 +41,12 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 468: Elverhøi** — Staged
 - [x] **BFN 469: De røde Skoe** — Staged
 - [x] **BFN 470: Springfyrene** — Staged
+- [x] **BFN 471: Hyrdinden og Skorstensfejeren** — Staged
+- [x] **BFN 472: Holger Danske** — Staged
+- [x] **BFN 474: Klokken** — Staged
+- [x] **BFN 482: Stoppenaalen** — Staged
+- [x] **BFN 486: Den lille Pige med Svovlstikkerne** — Staged
+- [x] **BFN 517: Den gamle Gadeløgte** — Staged
 
 ## Origin
 
