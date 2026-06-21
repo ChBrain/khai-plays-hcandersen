@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.45.0",
+  "version": "0.45.1",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
