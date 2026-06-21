@@ -25,7 +25,7 @@ Stilheden sænker sig over Øresund, og mørket omslutter slottets kældre.
 
 ## Action
 
-[Holger Danske](persona_holger_danske.md), der besætter positionen som [Vogter](position_vogter.md), slumrer dybt i [Kronborg](place_kronborg.md)s kældre ved siden af [Skjoldet](piece_skjoldet.md) og lader sig indhylle i planen [Holger Danskes drøm](plan_holger_danske_drøm.md).
+[Holger Danske](persona_holger_danske.md), der besætter positionen som [Vogter](position_vogter.md), slumrer dybt i [Kronborg](place_kronborg.md)s kældre ved siden af [Skjoldet](piece_skjoldet.md) og lader sig indhylle i planen [Holger Danskes drøm](plan_holger_danske_droem.md).
 
 ## Stage
 

@@ -38,7 +38,7 @@ The play files must be placed in `plays/bfn482_stoppenaalen/` and follow the hou
 - [x] `plays/bfn482_stoppenaalen/piece_lak.md` is created
 - [x] `plays/bfn482_stoppenaalen/place_koekkenet.md` is created
 - [x] `plays/bfn482_stoppenaalen/place_rendestenen.md` is created
-- [x] `plays/bfn482_stoppenaalen/process_knæk.md` is created
+- [x] `plays/bfn482_stoppenaalen/process_knaek.md` is created
 - [x] `plays/bfn482_stoppenaalen/process_pral.md` is created
 - [x] `plays/bfn482_stoppenaalen/plan_stoppenaal_stolthed.md` is created and linked to `persona_stoppenaalen.md`
 - [x] `plays/bfn482_stoppenaalen/pitch_satire_stolthed.md` is created
