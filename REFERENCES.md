@@ -57,6 +57,13 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 529: Historien om en moder** — Staged
 - [x] **BFN 549: Hørren** — Staged
 - [x] **BFN 550: Fugl Føniks** — Staged
+- [x] **BFN 606: Årets Historie** — Staged
+- [x] **BFN 606: Verdens dejligste Rose** — Staged
+- [x] **BFN 606: Et Billede fra Kastelsvolden** — Staged
+- [x] **BFN 606: På den yderste Dag** — Staged
+- [x] **BFN 606: Det er ganske vist!** — Staged
+- [x] **BFN 606: Svanereden** — Staged
+- [x] **BFN 606: Et godt Humør** — Staged
 
 ## Origin
 
