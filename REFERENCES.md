@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-22"
+updated: "2026-06-20"
 ---
 
 # H.C. Andersen House: Reference
@@ -64,11 +64,6 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 606: Det er ganske vist!** — Staged
 - [x] **BFN 606: Svanereden** — Staged
 - [x] **BFN 606: Et godt Humør** — Staged
-- [x] **BFN 616: Hjertesorg** — Staged
-- [x] **BFN 616: Alt paa sin rette Plads!** — Staged
-- [x] **BFN 616: Nissen hos Spekhøkeren** — Staged
-- [x] **BFN 616: Om Aartusinder** — Staged
-- [x] **BFN 616: Under Piletræet** — Staged
 
 ## Origin
 
