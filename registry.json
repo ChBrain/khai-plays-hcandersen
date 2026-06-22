@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.45.1",
+  "version": "0.52.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -227,6 +227,41 @@
       "id": "bfn550_fugl_foeniks",
       "title": "The Phoenix Bird",
       "description": "Fugl Føniks genfødes af asken i Paradisets have og spreder poesiens og sangens evige lys til menneskeheden."
+    },
+    {
+      "id": "bfn606_aarets_historie",
+      "title": "The Story of the Year",
+      "description": "En fortælling om årstidernes skiften og spurvenes evige søgen efter forår midt i vinterens kulde."
+    },
+    {
+      "id": "bfn606_det_er_ganske_vist",
+      "title": "It's Quite True!",
+      "description": "En lille fjer spredes og vokser gennem sladder, indtil den bliver til en historie om fem døde høns."
+    },
+    {
+      "id": "bfn606_et_billede_fra_kastelsvolden",
+      "title": "A Picture from the Citadel Ramparts",
+      "description": "En veteran og et legende barn mødes på volden i en bittersød kontrast mellem liv og fængsel."
+    },
+    {
+      "id": "bfn606_et_godt_humoer",
+      "title": "Good Humor",
+      "description": "En humorist arver sin fars gode humør og bruger det til at spidde borgerskabets dysterhed."
+    },
+    {
+      "id": "bfn606_paa_den_yderste_dag",
+      "title": "On the Last Day",
+      "description": "En afdød mands sjæl rejser mod Himlen med en engel og møder Guds uendelige nåde under dommen."
+    },
+    {
+      "id": "bfn606_svanereden",
+      "title": "The Swan's Nest",
+      "description": "Mellem Østersøen og Vesterhavet ligger en gammel svanerede, hvorfra stolte svaner flyver ud over hele verden."
+    },
+    {
+      "id": "bfn606_verdens_dejligste_rose",
+      "title": "The World's Fairest Rose",
+      "description": "En døende dronning kan kun frelses ved at se verdens dejligste rose, som viser sig i den dybeste kærlighed i hjertet."
     }
   ]
 }
