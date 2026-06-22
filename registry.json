@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.52.0",
+  "version": "0.57.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -262,6 +262,31 @@
       "id": "bfn606_verdens_dejligste_rose",
       "title": "The World's Fairest Rose",
       "description": "En døende dronning kan kun frelses ved at se verdens dejligste rose, som viser sig i den dybeste kærlighed i hjertet."
+    },
+    {
+      "id": "bfn616_alt_paa_sin_rette_plads",
+      "title": "Everything in its Right Place",
+      "description": "En stolt herremand og en gåsepige bytter roller, da en stormfuld blæst sætter alt på sin rette plads."
+    },
+    {
+      "id": "bfn616_hjertesorg",
+      "title": "Grief of Heart",
+      "description": "Børn betaler knapper for at se en hundegrav, mens en fattig dreng udelukkes og rammes af ægte hjertesorg."
+    },
+    {
+      "id": "bfn616_nissen_hos_spekhoekeren",
+      "title": "The Goblin and the Grocer",
+      "description": "En nisse trækkes mellem de materielle glæder hos spækhøkeren og de poetiske åbenbaringer på studentens loftskammer."
+    },
+    {
+      "id": "bfn616_om_aartusinder",
+      "title": "In a Thousand Years",
+      "description": "Amerikas unge flyver i luftskib over verdenshavet for at se det gamle Europas historiske ruiner på en hastig rundrejse."
+    },
+    {
+      "id": "bfn616_under_piletraeet",
+      "title": "Under the Willow Tree",
+      "description": "En melankolsk fortælling om barndomsvennerne Knud og Johanne, hvis kærlighed og drømme skilles under piletræets skygge."
     }
   ]
 }
