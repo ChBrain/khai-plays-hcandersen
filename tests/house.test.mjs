@@ -107,3 +107,28 @@ describe("House: engines are declared as content dependencies", () => {
     expect(Object.keys(pkg.dependencies ?? {})).toContain("@chbrain/khai-engine-spine");
   });
 });
+
+// Filenames must be ASCII. A non-ASCII filename (Danish oe/ae written as the raw
+// letter, German umlauts, and the like) breaks its links across platforms: macOS
+// stores paths decomposed (NFD) and Linux composed (NFC), so a link's bytes stop
+// matching the stored name, and tooling and zip-bundling mishandle the UTF-8
+// path. The house convention transliterates; this guard makes that a gate, not a
+// habit.
+describe("House: filenames are ASCII", () => {
+  it("no file carries a non-ASCII name", () => {
+    const offenders = [];
+    const walk = (dir) => {
+      for (const e of readdirSync(dir, { withFileTypes: true })) {
+        if (e.name === "node_modules" || e.name.startsWith(".")) continue;
+        const full = join(dir, e.name);
+        if (/[^\x00-\x7F]/.test(e.name)) offenders.push(full.slice(root.length + 1));
+        if (e.isDirectory()) walk(full);
+      }
+    };
+    walk(root);
+    expect(
+      offenders,
+      `non-ASCII filenames break links across platforms (NFC/NFD); transliterate them: ${offenders.join(", ")}`,
+    ).toEqual([]);
+  });
+});
