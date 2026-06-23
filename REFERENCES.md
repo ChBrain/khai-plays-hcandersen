@@ -79,6 +79,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 769: Pebersvendens Nathue** — Staged
 - [x] **BFN 770: Noget** — Staged
 - [x] **BFN 771: Det gamle Egetræes sidste Drøm** — Staged
+- [x] **BFN 782: Vinden fortæller om Valdemar Daae og hans Døttre** — Staged
+- [x] **BFN 782: Pigen, som traadte paa Brødet** — Staged
+- [x] **BFN 782: Taarnvægteren Ole** — Staged
+- [x] **BFN 782: Anne Lisbeth** — Staged
+- [x] **BFN 782: Børnesnak** — Staged
 
 ## Origin
 
