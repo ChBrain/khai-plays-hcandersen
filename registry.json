@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.57.0",
+  "version": "0.62.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -287,6 +287,31 @@
       "id": "bfn616_under_piletraeet",
       "title": "Under the Willow Tree",
       "description": "En melankolsk fortælling om barndomsvennerne Knud og Johanne, hvis kærlighed og drømme skilles under piletræets skygge."
+    },
+    {
+      "id": "bfn622_hun_duede_ikke",
+      "title": "She Was No Good",
+      "description": "En fattig vaskekone slider sig ihjel for sin søn, mens borgmesteren dømmer hende hårdt."
+    },
+    {
+      "id": "bfn635_to_jomfruer",
+      "title": "Two Maidens",
+      "description": "To stolte brolæggerjomfruer kæmper mod et nyt, sjelløst navn og mister derved deres fremtidige lykke."
+    },
+    {
+      "id": "bfn638_den_sidste_perle",
+      "title": "The Last Pearl",
+      "description": "Engle bringer velsignelser til et nyfødt barn, men den sidste perle, sorgen, mangler for at fuldende livet."
+    },
+    {
+      "id": "bfn667_ved_det_yderste_hav",
+      "title": "At the Utmost Sea",
+      "description": "En døende sømand under polarnatten finder gennem drømme en forbindelse til sit hjem."
+    },
+    {
+      "id": "bfn668_pengegrisen",
+      "title": "The Money Pig",
+      "description": "En lersparegris fyldt med mønter ser ned på legetøjet, indtil den falder og går i stykker."
     }
   ]
 }
