@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.67.0",
+  "version": "0.72.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -337,6 +337,31 @@
       "id": "bfn771_det_gamle_egetraes_sidste_droem",
       "title": "The Old Oak Tree's Last Dream",
       "description": "Et egetræ drømmer julenat sin skønneste drøm om himlen, mens en vinterstorm knækker dets rødder."
+    },
+    {
+      "id": "bfn782_anne_lisbeth",
+      "title": "Anne Lisbeth",
+      "description": "En moder forlader sit eget barn for herskabets skyld, men hjemsøges af hans ånd og soner sin skyld på stranden."
+    },
+    {
+      "id": "bfn782_boernesnak",
+      "title": "Children's Talk",
+      "description": "En rig pige hævder, at folk med '-sen'-navne intet er, men en fattig lerdreng vokser op og modbeviser hendes ord."
+    },
+    {
+      "id": "bfn782_pigen_som_traadte_paa_broedet",
+      "title": "The Girl Who Trod on the Loaf",
+      "description": "Den stolte pige Inger træder på et brød for at skåne sine sko og synker i dyndet, men forløses til sidst af en tåre."
+    },
+    {
+      "id": "bfn782_taarnvaegteren_ole",
+      "title": "Ole the Tower-Keeper",
+      "description": "En gammel tårnvægter deler sine filosofiske og satiriske historier om byens dårskab med en trofast besøgende."
+    },
+    {
+      "id": "bfn782_vinden_fortaeller_om_valdemar_daae",
+      "title": "The Wind Tells of Valdemar Daae and His Daughters",
+      "description": "En beretning om herremanden Valdemar Daae, der forarmes af sin besættelse af alkymien, indtil vinden blæser alt bort."
     }
   ]
 }
