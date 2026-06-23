@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.62.0",
+  "version": "0.67.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -312,6 +312,31 @@
       "id": "bfn668_pengegrisen",
       "title": "The Money Pig",
       "description": "En lersparegris fyldt med mønter ser ned på legetøjet, indtil den falder og går i stykker."
+    },
+    {
+      "id": "bfn766_flaskehalsen",
+      "title": "The Bottle Neck",
+      "description": "En flaske gennemgår en lang livscyklus fra stolthed til brud, indtil kun halsen er tilbage som fuglekop."
+    },
+    {
+      "id": "bfn768_suppe_paa_en_poelsepind",
+      "title": "Soup on a Sausage Peg",
+      "description": "Musekongen lover sin hånd til den, der kan koge suppe på en pølsepind, hvilket sender en mus ud på en lang rejse."
+    },
+    {
+      "id": "bfn769_pebersvendens_nathue",
+      "title": "The Pepperman's Nightcap",
+      "description": "En ensom pebersvends stille liv og død i København, mens minderne om hans ungdom holdes i live af en gammel nathue."
+    },
+    {
+      "id": "bfn770_noget",
+      "title": "Something",
+      "description": "Fem brødre søger at blive noget i verden, men ved Himmelporten vejer en simpel mursten tungere end de andres store ord."
+    },
+    {
+      "id": "bfn771_det_gamle_egetraes_sidste_droem",
+      "title": "The Old Oak Tree's Last Dream",
+      "description": "Et egetræ drømmer julenat sin skønneste drøm om himlen, mens en vinterstorm knækker dets rødder."
     }
   ]
 }
