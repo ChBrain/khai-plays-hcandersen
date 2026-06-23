@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-22"
+updated: "2026-06-23"
 ---
 
 # H.C. Andersen House: Reference
@@ -69,6 +69,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 616: Nissen hos Spekhøkeren** — Staged
 - [x] **BFN 616: Om Aartusinder** — Staged
 - [x] **BFN 616: Under Piletræet** — Staged
+- [x] **BFN 622: Hun duede ikke** — Staged
+- [x] **BFN 635: To Jomfruer** — Staged
+- [x] **BFN 638: Den sidste Perle** — Staged
+- [x] **BFN 667: Ved det yderste Hav** — Staged
+- [x] **BFN 668: Pengegrisen** — Staged
 
 ## Origin
 
