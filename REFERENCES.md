@@ -74,6 +74,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 638: Den sidste Perle** — Staged
 - [x] **BFN 667: Ved det yderste Hav** — Staged
 - [x] **BFN 668: Pengegrisen** — Staged
+- [x] **BFN 766: Flaskehalsen** — Staged
+- [x] **BFN 768: Suppe paa en Pølsepind** — Staged
+- [x] **BFN 769: Pebersvendens Nathue** — Staged
+- [x] **BFN 770: Noget** — Staged
+- [x] **BFN 771: Det gamle Egetræes sidste Drøm** — Staged
 
 ## Origin
 
