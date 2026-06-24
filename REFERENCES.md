@@ -89,11 +89,21 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 794: Pen og Blækhuus** — Staged
 - [x] **BFN 794: Barnet i Graven** — Staged
 - [x] **BFN 794: En Historie fra Klitterne** — Staged
+- [x] **BFN 814: Sommerfuglen** — Staged
+- [x] **BFN 815: Bispen paa Børglum og hans Frænde** — Staged
 - [x] **BFN 817: Tolv med Posten** — Staged
 - [x] **BFN 817: Skarnbassen** — Staged
 - [x] **BFN 817: Hvad Fatter gjør, det er altid det Rigtige** — Staged
 - [x] **BFN 817: De Vises Steen** — Staged
 - [x] **BFN 817: Sneemanden** — Staged
+- [x] **BFN 817: I Andegaarden** — Staged
+- [x] **BFN 817: Det nye Aarhundredes Musa** — Staged
+- [x] **BFN 828: Iisjomfruen** — Staged
+- [x] **BFN 828: Psychen** — Staged
+- [x] **BFN 828: Sneglen og Rosenhækken** — Staged
+- [x] **BFN 830: Sølvskillingen** — Staged
+- [x] **BFN 841: Sommergjækken** — Staged
+- [x] **BFN 856: Theepotten** — Staged
 
 ## Origin
 
