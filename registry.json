@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.72.0",
+  "version": "0.77.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -362,6 +362,31 @@
       "id": "bfn782_vinden_fortaeller_om_valdemar_daae",
       "title": "The Wind Tells of Valdemar Daae and His Daughters",
       "description": "En beretning om herremanden Valdemar Daae, der forarmes af sin besættelse af alkymien, indtil vinden blæser alt bort."
+    },
+    {
+      "id": "bfn794_barnet_i_graven",
+      "title": "The Child in the Grave",
+      "description": "En moders dybe sorg over sit døde barn lindres af en himmelsk åbenbaring ved graven."
+    },
+    {
+      "id": "bfn794_deilig",
+      "title": "Beautiful!",
+      "description": "En kunstner forelsker sig i en smuk krop, men finder først den sande skønhed og sjælen i tabet."
+    },
+    {
+      "id": "bfn794_en_historie_fra_klitterne",
+      "title": "A Story from the Sand Dunes",
+      "description": "Jørgen overlever et skibbrud, vokser op i klitterne og finder forløsning med Clara i den sanddækkede kirke."
+    },
+    {
+      "id": "bfn794_gaardhanen_og_veirhanen",
+      "title": "The Yard Cock and the Weathercock",
+      "description": "En stolt gårdhane og en stiv vejrhane strides om storhed, indtil stormen viser altings forfald."
+    },
+    {
+      "id": "bfn794_pen_og_blaekhuus",
+      "title": "Pen and Inkstand",
+      "description": "Pennen og blækhuset strides om, hvem der skaber digtningen, indtil digteren og den sande inspiration indfinder sig."
     }
   ]
 }
