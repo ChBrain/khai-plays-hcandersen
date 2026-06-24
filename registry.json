@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.77.0",
+  "version": "0.82.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -387,6 +387,31 @@
       "id": "bfn794_pen_og_blaekhuus",
       "title": "Pen and Inkstand",
       "description": "Pennen og blækhuset strides om, hvem der skaber digtningen, indtil digteren og den sande inspiration indfinder sig."
+    },
+    {
+      "id": "bfn817_de_vises_steen",
+      "title": "The Philosopher's Stone",
+      "description": "En søgende rejser ud i verden for at finde de vises sten, men vildledes af skyggens bedrag."
+    },
+    {
+      "id": "bfn817_hvad_fatter_gjoer",
+      "title": "What the Old Man Does is Always Right",
+      "description": "En godtroende bonde gør kun dårlige byttehandler, men vinder alligevel guld pga. sin kones urokkelige kærlighed."
+    },
+    {
+      "id": "bfn817_skarnbassen",
+      "title": "The Beetle",
+      "description": "En hovmodig skarnbasse forlader kejserens stald i vrede, men må efter en svær rejse vende ydmyget hjem."
+    },
+    {
+      "id": "bfn817_sneemanden",
+      "title": "The Snowman",
+      "description": "En sneemand forelsker sig i en kakkelovn og smelter væk, da foråret kommer."
+    },
+    {
+      "id": "bfn817_tolv_med_posten",
+      "title": "Twelve by the Mail",
+      "description": "Tolv rejsende ankommer med postvognen nytårsaften for at fordele årets måneder imellem sig."
     }
   ]
 }
