@@ -89,6 +89,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 794: Pen og Blækhuus** — Staged
 - [x] **BFN 794: Barnet i Graven** — Staged
 - [x] **BFN 794: En Historie fra Klitterne** — Staged
+- [x] **BFN 817: Tolv med Posten** — Staged
+- [x] **BFN 817: Skarnbassen** — Staged
+- [x] **BFN 817: Hvad Fatter gjør, det er altid det Rigtige** — Staged
+- [x] **BFN 817: De Vises Steen** — Staged
+- [x] **BFN 817: Sneemanden** — Staged
 
 ## Origin
 
