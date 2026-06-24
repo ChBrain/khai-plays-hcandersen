@@ -104,6 +104,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 830: Sølvskillingen** — Staged
 - [x] **BFN 841: Sommergjækken** — Staged
 - [x] **BFN 856: Theepotten** — Staged
+- [x] **BFN 890: Lygtemændene ere i Byen, sagde Mosekonen** — Staged
+- [x] **BFN 890: Veirmøllen** — Staged
+- [x] **BFN 890: Stormen flytter Skilt** — Staged
+- [x] **BFN 890: I Børnestuen** — Staged
+- [x] **BFN 890: Guldskat** — Staged
 
 ## Origin
 
