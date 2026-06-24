@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.87.0",
+  "version": "0.92.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -437,6 +437,31 @@
       "id": "bfn828_iisjomfruen",
       "title": "The Ice-Maiden",
       "description": "Iisjomfruen kræver den unge jæger Rudy i bjergenes dybe kløfter og den kolde sø."
+    },
+    {
+      "id": "bfn828_psychen",
+      "title": "Psychen",
+      "description": "En ung romersk kunstner søger sjælens evige skønhed i ler og marmor, før eftermælet gendøbes fra jordens dyb."
+    },
+    {
+      "id": "bfn828_sneglen_og_rosenhaekken",
+      "title": "The Snail and the Rosebush",
+      "description": "En selvglad snegl trækker sig ind i sit hus, mens en rosenhæk trofast blomstrer for verden."
+    },
+    {
+      "id": "bfn830_soelvskillingen",
+      "title": "The Silver Shilling",
+      "description": "En sølvskilling rejser ud i verden, udstødes som falsk med et hul, men genoprejses ved hjemkomsten til sit hjemland."
+    },
+    {
+      "id": "bfn841_sommergjaekken",
+      "title": "The Snowdrop",
+      "description": "En lille sommergæk bryder gennem sneen, plukkes, lægges i et brev og presses i en bog som et minde om kærlighed."
+    },
+    {
+      "id": "bfn856_theepotten",
+      "title": "The Teapot",
+      "description": "En stolt theepotte mister sin hank og tud, degraderes til urtepotte, men finder ny skønhed ved at huse en blomst."
     }
   ]
 }
