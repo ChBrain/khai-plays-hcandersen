@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.82.0",
+  "version": "0.87.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -389,14 +389,34 @@
       "description": "Pennen og blækhuset strides om, hvem der skaber digtningen, indtil digteren og den sande inspiration indfinder sig."
     },
     {
+      "id": "bfn814_sommerfuglen",
+      "title": "The Butterfly",
+      "description": "En sommerfugl søger den rette brud blandt havens blomster, men ender fastnålet i stuen."
+    },
+    {
+      "id": "bfn815_bispen_paa_boerglum",
+      "title": "The Bishop of Boerglum and his Kinsman",
+      "description": "En grådig bisp plyndrer sine frænder, indtil slægtens hævner Jens Glob fælder ham julenat under messen."
+    },
+    {
       "id": "bfn817_de_vises_steen",
       "title": "The Philosopher's Stone",
       "description": "En søgende rejser ud i verden for at finde de vises sten, men vildledes af skyggens bedrag."
     },
     {
+      "id": "bfn817_det_nye_aarhundredes_musa",
+      "title": "The Muse of the New Century",
+      "description": "Musaen fra det nye århundrede bringer den sande digtergnist og oplysning til en ny tids modtagere."
+    },
+    {
       "id": "bfn817_hvad_fatter_gjoer",
       "title": "What the Old Man Does is Always Right",
       "description": "En godtroende bonde gør kun dårlige byttehandler, men vinder alligevel guld pga. sin kones urokkelige kærlighed."
+    },
+    {
+      "id": "bfn817_i_andegaarden",
+      "title": "In the Duck Yard",
+      "description": "En fremmed sangfugl søger ly i en andegård, men knuses af den herskesyge portugisiske ands falske godhed."
     },
     {
       "id": "bfn817_skarnbassen",
@@ -412,6 +432,11 @@
       "id": "bfn817_tolv_med_posten",
       "title": "Twelve by the Mail",
       "description": "Tolv rejsende ankommer med postvognen nytårsaften for at fordele årets måneder imellem sig."
+    },
+    {
+      "id": "bfn828_iisjomfruen",
+      "title": "The Ice-Maiden",
+      "description": "Iisjomfruen kræver den unge jæger Rudy i bjergenes dybe kløfter og den kolde sø."
     }
   ]
 }
