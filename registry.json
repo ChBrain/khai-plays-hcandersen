@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.92.0",
+  "version": "0.97.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -462,6 +462,31 @@
       "id": "bfn856_theepotten",
       "title": "The Teapot",
       "description": "En stolt theepotte mister sin hank og tud, degraderes til urtepotte, men finder ny skønhed ved at huse en blomst."
+    },
+    {
+      "id": "bfn890_guldskat",
+      "title": "Golden Treasure",
+      "description": "Peter vokser op med musikken, drager i krig med sin tromme og vender hjem som en hædret musiker til moders glæde."
+    },
+    {
+      "id": "bfn890_i_boernestuen",
+      "title": "In the Children's Room",
+      "description": "Gudfaderen omdanner en børnestue til et teater, hvor en handske vækkes til live."
+    },
+    {
+      "id": "bfn890_lygtemaendene",
+      "title": "Will-o'-the-Wisps Are in Town",
+      "description": "Mosekonen brygger og lygtemændene drager i byen."
+    },
+    {
+      "id": "bfn890_stormen_flytter_skilt",
+      "title": "The Storm Shifts the Signboards",
+      "description": "En storm ombytter byens skilte i natten og afslører hykleri og skjulte sandheder gennem bidende satire."
+    },
+    {
+      "id": "bfn890_veirmoellen",
+      "title": "The Windmill",
+      "description": "En stolt vejrmølle brænder, men genopbygges af mølleren og finder derved sin dybere mening."
     }
   ]
 }
