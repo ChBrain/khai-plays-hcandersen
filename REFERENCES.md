@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-23"
+updated: "2026-06-24"
 ---
 
 # H.C. Andersen House: Reference
@@ -84,6 +84,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 782: Taarnvægteren Ole** — Staged
 - [x] **BFN 782: Anne Lisbeth** — Staged
 - [x] **BFN 782: Børnesnak** — Staged
+- [x] **BFN 794: Deilig!** — Staged
+- [x] **BFN 794: Gaardhanen og Veirhanen** — Staged
+- [x] **BFN 794: Pen og Blækhuus** — Staged
+- [x] **BFN 794: Barnet i Graven** — Staged
+- [x] **BFN 794: En Historie fra Klitterne** — Staged
 
 ## Origin
 
