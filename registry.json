@@ -1,8 +1,13 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.107.0",
+  "version": "0.112.0",
   "plays": [
+    {
+      "id": "bfn1257_herrebladene",
+      "title": "The Court Cards",
+      "description": "Kortene i papirslottet vågner til live og diskuterer renlighed, hovmod og livets sande værdier."
+    },
     {
       "id": "bfn267_fyrtoejet",
       "title": "The Tinderbox",
@@ -537,6 +542,26 @@
       "id": "bfn958_gudfaders_billedbog",
       "title": "Godfather's Picture Book",
       "description": "En smuk billedbog med klipninger og fortællinger om København, erindring og en gammel tranlygtes skæbne."
+    },
+    {
+      "id": "bfn969_hvem_var_den_lykkeligste",
+      "title": "Who Was the Happiest?",
+      "description": "En strid om, hvem af havens skabninger der var den lykkeligste, mens vinden søger svaret over gravkammeret."
+    },
+    {
+      "id": "bfn977_ugedagene",
+      "title": "The Days of the Week",
+      "description": "Ugedagene mødes til gilde for at finde ud af, hvem af dem der er den vigtigste dag i det evige kredsløb."
+    },
+    {
+      "id": "bfn978_dryaden",
+      "title": "The Dryad",
+      "description": "En dryade forlader sit kastanjetræ for at opleve Paris, men hendes frihed koster hende livet."
+    },
+    {
+      "id": "bfn981_laserne",
+      "title": "The Rags",
+      "description": "Dansk las og norsk las skændes i kludebunken, før de begge kværnes og genanvendes til fint hvidt papir."
     }
   ]
 }
