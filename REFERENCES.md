@@ -119,6 +119,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 944: Nissen og Madamen** — Staged
 - [x] **BFN 957: Peiter, Peter og Peer** — Staged
 - [x] **BFN 958: Gudfaders Billedbog** — Staged
+- [x] **BFN 969: Hvem var den Lykkeligste?** — Staged
+- [x] **BFN 977: Ugedagene** — Staged
+- [x] **BFN 978: Dryaden** — Staged
+- [x] **BFN 981: Laserne** — Staged
+- [x] **BFN 1257: Herrebladene** — Staged
 
 ## Origin
 
