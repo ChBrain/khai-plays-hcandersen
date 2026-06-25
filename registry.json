@@ -1,8 +1,28 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.117.0",
+  "version": "0.122.0",
   "plays": [
+    {
+      "id": "bfn1002_oldefaer",
+      "title": "Great-grandfather",
+      "description": "Oldefar mindes fortiden i den lune stue, mens barnebarnet drømmer om fremskridt og dampmaskiner."
+    },
+    {
+      "id": "bfn1004_det_utroligste",
+      "title": "The Most Incredible Thing",
+      "description": "En kunstners vidunderlige ur knuses af en voldsmand, men kunstens ånd genopstår og sejrer til sidst."
+    },
+    {
+      "id": "bfn1005_lysene",
+      "title": "The Candles",
+      "description": "To lys har forskellige skæbner: det ene stolt i stuen, det andet ydmygt og glædesbringende i hytten."
+    },
+    {
+      "id": "bfn1018_hvad_hele_familien_sagde",
+      "title": "What the Whole Family Said",
+      "description": "Lille Maries fødselsdag og Gudfaders fortælling minder os om, at livet selv er det smukkeste eventyr."
+    },
     {
       "id": "bfn1257_herrebladene",
       "title": "The Court Cards",
@@ -577,6 +597,11 @@
       "id": "bfn991_solskins_historier",
       "title": "Sunshine Stories",
       "description": "Vinden afbryder Solskinnet, som fortæller historier om varmen og lysets velsignelser i stuen og verden."
+    },
+    {
+      "id": "bfn992_hoense_grethes_familie",
+      "title": "Chicken Grethe's Family",
+      "description": "Hønse-Grethes simple liv og Marie Grubbes historiske minder flettes sammen i herregårdens skygge."
     },
     {
       "id": "bfn992_hvad_man_kan_hitte_paa",
