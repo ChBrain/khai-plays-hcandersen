@@ -128,6 +128,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 991: Solskins-Historier** — Staged
 - [x] **BFN 992: Hvad man kan hitte paa** — Staged
 - [x] **BFN 992: Hvad Tidselen oplevede** — Staged
+- [x] **BFN 992: Hønse-Grethes Familie** — Staged
+- [x] **BFN 1002: Oldefa'er** — Staged
+- [x] **BFN 1004: Det Utroligste** — Staged
+- [x] **BFN 1005: Lysene** — Staged
+- [x] **BFN 1018: Hvad hele Familien sagde** — Staged
 - [x] **BFN 1257: Herrebladene** — Staged
 
 ## Origin
