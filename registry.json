@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.97.0",
+  "version": "0.102.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -389,6 +389,11 @@
       "description": "Pennen og blækhuset strides om, hvem der skaber digtningen, indtil digteren og den sande inspiration indfinder sig."
     },
     {
+      "id": "bfn804_flyttedagen",
+      "title": "Moving Day",
+      "description": "Ole Tårnvægter fortæller om flyttedagen, døden, kongerne og forgængelighedens store omnibus i København."
+    },
+    {
       "id": "bfn814_sommerfuglen",
       "title": "The Butterfly",
       "description": "En sommerfugl søger den rette brud blandt havens blomster, men ender fastnålet i stuen."
@@ -487,6 +492,26 @@
       "id": "bfn890_veirmoellen",
       "title": "The Windmill",
       "description": "En stolt vejrmølle brænder, men genopbygges af mølleren og finder derved sin dybere mening."
+    },
+    {
+      "id": "bfn910_moster",
+      "title": "Auntie",
+      "description": "Moster elsker teatret over alt og lever i en verden af skuespil og dramatiske visioner."
+    },
+    {
+      "id": "bfn910_skrubtudsen",
+      "title": "The Toad",
+      "description": "En lille skrubtudse drømmer om det store lys og begynder en farefuld rejse mod himlen, drevet af sin indre længsel."
+    },
+    {
+      "id": "bfn911_gjemt_er_ikke_glemt",
+      "title": "Kept Secret but not Forgotten",
+      "description": "Tre fortællinger om barmhjertighed, solskin og kærlig sorg, som gemmes i erindringen og aldrig glemmes."
+    },
+    {
+      "id": "bfn912_portnerens_soen",
+      "title": "The Porter's Son",
+      "description": "Georg, portnerens søn, overvinder klasseskel gennem sin kunst og vinder sin elskede Emilie trods alle hindringer."
     }
   ]
 }
