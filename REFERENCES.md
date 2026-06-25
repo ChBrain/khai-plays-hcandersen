@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-24"
+updated: "2026-06-25"
 ---
 
 # H.C. Andersen House: Reference
@@ -114,6 +114,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 910: Skrubtudsen** — Staged
 - [x] **BFN 911: Gjemt er ikke glemt** — Staged
 - [x] **BFN 912: Portnerens Søn** — Staged
+- [x] **BFN 932: Vænø og Glænø** — Staged
+- [x] **BFN 943: De smaa Grønne** — Staged
+- [x] **BFN 944: Nissen og Madamen** — Staged
+- [x] **BFN 957: Peiter, Peter og Peer** — Staged
+- [x] **BFN 958: Gudfaders Billedbog** — Staged
 
 ## Origin
 
