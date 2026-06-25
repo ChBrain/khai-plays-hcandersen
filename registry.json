@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.112.0",
+  "version": "0.117.0",
   "plays": [
     {
       "id": "bfn1257_herrebladene",
@@ -562,6 +562,31 @@
       "id": "bfn981_laserne",
       "title": "The Rags",
       "description": "Dansk las og norsk las skændes i kludebunken, før de begge kværnes og genanvendes til fint hvidt papir."
+    },
+    {
+      "id": "bfn985_lykken_kan_ligge_i_en_pind",
+      "title": "Luck can lie in a Pin",
+      "description": "Drejeren og hans kone mister alt i en storm, men finder rigdom og lykke i pæregrenens små pinde."
+    },
+    {
+      "id": "bfn990_kometen",
+      "title": "The Comet",
+      "description": "En dreng ser en komet, og hele hans liv trækkes op i lyset af dens evighed."
+    },
+    {
+      "id": "bfn991_solskins_historier",
+      "title": "Sunshine Stories",
+      "description": "Vinden afbryder Solskinnet, som fortæller historier om varmen og lysets velsignelser i stuen og verden."
+    },
+    {
+      "id": "bfn992_hvad_man_kan_hitte_paa",
+      "title": "What One Can Invent",
+      "description": "En ung digter søger inspiration hos en klog kone i skoven for at overvinde sin svære skriveblokering."
+    },
+    {
+      "id": "bfn992_hvad_tidselen_oplevede",
+      "title": "What the Thistle Experienced",
+      "description": "En stolt tidsel på marken drømmer om roserne, spises af et æsel og plukkes til sidst som et minde om kærlighed."
     }
   ]
 }
