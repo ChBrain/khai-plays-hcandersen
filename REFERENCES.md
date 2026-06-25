@@ -89,6 +89,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 794: Pen og Blækhuus** — Staged
 - [x] **BFN 794: Barnet i Graven** — Staged
 - [x] **BFN 794: En Historie fra Klitterne** — Staged
+- [x] **BFN 804: Flyttedagen** — Staged
 - [x] **BFN 814: Sommerfuglen** — Staged
 - [x] **BFN 815: Bispen paa Børglum og hans Frænde** — Staged
 - [x] **BFN 817: Tolv med Posten** — Staged
@@ -109,6 +110,10 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 890: Stormen flytter Skilt** — Staged
 - [x] **BFN 890: I Børnestuen** — Staged
 - [x] **BFN 890: Guldskat** — Staged
+- [x] **BFN 910: Moster** — Staged
+- [x] **BFN 910: Skrubtudsen** — Staged
+- [x] **BFN 911: Gjemt er ikke glemt** — Staged
+- [x] **BFN 912: Portnerens Søn** — Staged
 
 ## Origin
 
