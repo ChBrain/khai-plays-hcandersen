@@ -30,24 +30,24 @@ The play files must be placed in `plays/bfn978_dryaden/` and follow the house la
 
 ## Targets
 
-- [ ] `plays/bfn978_dryaden/play_dryaden.md` is created and lists the complete company
-- [ ] `plays/bfn978_dryaden/persona_dryade.md` is created and links to `position_bundet.md`
-- [ ] `plays/bfn978_dryaden/persona_devil.md` is created and links to `position_fritsvaevende.md`
-- [ ] `plays/bfn978_dryaden/persona_menneske.md` is created and links to `position_skabende.md`
-- [ ] `plays/bfn978_dryaden/position_bundet.md` is created
-- [ ] `plays/bfn978_dryaden/position_fritsvaevende.md` is created
-- [ ] `plays/bfn978_dryaden/position_skabende.md` is created
-- [ ] `plays/bfn978_dryaden/piece_kastanjetrae.md` is created
-- [ ] `plays/bfn978_dryaden/piece_udstilling.md` is created
-- [ ] `plays/bfn978_dryaden/place_landskab.md` is created
-- [ ] `plays/bfn978_dryaden/place_paris.md` is created
-- [ ] `plays/bfn978_dryaden/process_frigoerelse.md` is created
-- [ ] `plays/bfn978_dryaden/process_forgaengelse.md` is created
-- [ ] `plays/bfn978_dryaden/plan_udflugt.md` is created and linked to `persona_dryade.md`
-- [ ] `plays/bfn978_dryaden/plan_fristelse.md` is created and linked to `persona_devil.md`
-- [ ] `plays/bfn978_dryaden/pitch_modernitet.md` is created
-- [ ] `plays/bfn978_dryaden/plot_laengsel.md` is created and casts company elements
-- [ ] `plays/bfn978_dryaden/plot_pagten.md` is created and casts company elements
-- [ ] `plays/bfn978_dryaden/plot_udstillingen.md` is created and casts company elements
-- [ ] `plays/bfn978_dryaden/plot_undergangen.md` is created and casts company elements
-- [ ] The local validation tests (`npm test`) run successfully with zero errors
+- [x] `plays/bfn978_dryaden/play_dryaden.md` is created and lists the complete company
+- [x] `plays/bfn978_dryaden/persona_dryade.md` is created and links to `position_bundet.md`
+- [x] `plays/bfn978_dryaden/persona_devil.md` is created and links to `position_fritsvaevende.md`
+- [x] `plays/bfn978_dryaden/persona_menneske.md` is created and links to `position_skabende.md`
+- [x] `plays/bfn978_dryaden/position_bundet.md` is created
+- [x] `plays/bfn978_dryaden/position_fritsvaevende.md` is created
+- [x] `plays/bfn978_dryaden/position_skabende.md` is created
+- [x] `plays/bfn978_dryaden/piece_kastanjetrae.md` is created
+- [x] `plays/bfn978_dryaden/piece_udstilling.md` is created
+- [x] `plays/bfn978_dryaden/place_landskab.md` is created
+- [x] `plays/bfn978_dryaden/place_paris.md` is created
+- [x] `plays/bfn978_dryaden/process_frigoerelse.md` is created
+- [x] `plays/bfn978_dryaden/process_forgaengelse.md` is created
+- [x] `plays/bfn978_dryaden/plan_udflugt.md` is created and linked to `persona_dryade.md`
+- [x] `plays/bfn978_dryaden/plan_fristelse.md` is created and linked to `persona_devil.md`
+- [x] `plays/bfn978_dryaden/pitch_modernitet.md` is created
+- [x] `plays/bfn978_dryaden/plot_laengsel.md` is created and casts company elements
+- [x] `plays/bfn978_dryaden/plot_pagten.md` is created and casts company elements
+- [x] `plays/bfn978_dryaden/plot_udstillingen.md` is created and casts company elements
+- [x] `plays/bfn978_dryaden/plot_undergangen.md` is created and casts company elements
+- [x] The local validation tests (`npm test`) run successfully with zero errors

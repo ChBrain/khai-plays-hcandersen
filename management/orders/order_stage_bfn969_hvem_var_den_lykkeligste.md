@@ -30,24 +30,24 @@ The play files must be placed in `plays/bfn969_hvem_var_den_lykkeligste/` and fo
 
 ## Targets
 
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/play_hvem_var_den_lykkeligste.md` is created and lists the complete company
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/persona_solskin.md` is created and links to `position_naerende.md`
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/persona_dug.md` is created and links to `position_naerende.md`
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/persona_haek.md` is created and links to `position_moderlig.md`
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/position_moderlig.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/position_naerende.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/position_undersoegende.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/piece_rose.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/piece_avis.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/place_haven.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/place_gravkammeret.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/process_livsgivende.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/process_livsforloeb.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/plan_omsorg.md` is created and linked to `persona_haek.md`
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/plan_opdrag.md` is created and linked to `position_undersoegende.md`
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/pitch_forgaengelighed.md` is created
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/plot_striden.md` is created and casts company elements
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/plot_vinden.md` is created and casts company elements
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/plot_doedslejet.md` is created and casts company elements
-- [ ] `plays/bfn969_hvem_var_den_lykkeligste/plot_lugekonen.md` is created and casts company elements
-- [ ] The local validation tests (`npm test`) run successfully with zero errors
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/play_hvem_var_den_lykkeligste.md` is created and lists the complete company
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/persona_solskin.md` is created and links to `position_naerende.md`
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/persona_dug.md` is created and links to `position_naerende.md`
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/persona_haek.md` is created and links to `position_moderlig.md`
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/position_moderlig.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/position_naerende.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/position_undersoegende.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/piece_rose.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/piece_avis.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/place_haven.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/place_gravkammeret.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/process_livsgivende.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/process_livsforloeb.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/plan_omsorg.md` is created and linked to `persona_haek.md`
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/plan_opdrag.md` is created and linked to `position_undersoegende.md`
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/pitch_forgaengelighed.md` is created
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/plot_striden.md` is created and casts company elements
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/plot_vinden.md` is created and casts company elements
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/plot_doedslejet.md` is created and casts company elements
+- [x] `plays/bfn969_hvem_var_den_lykkeligste/plot_lugekonen.md` is created and casts company elements
+- [x] The local validation tests (`npm test`) run successfully with zero errors

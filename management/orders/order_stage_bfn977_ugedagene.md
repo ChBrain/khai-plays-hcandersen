@@ -23,31 +23,31 @@ The house must stage BFN 977 (_Ugedagene_) to establish the hundred and ninth pr
 
 ## Implementation
 
-The play files must be placed in `plays/bfn977_ugedagene/` and follow the house language policy:
+Job files must be placed in `plays/bfn977_ugedagene/` and follow the house language policy:
 
 - Structural elements and frontmatter in English.
 - Narrative prose, projections, actions, shadows, tells, and staging notes in Danish.
 
 ## Targets
 
-- [ ] `plays/bfn977_ugedagene/play_ugedagene.md` is created and lists the complete company
-- [ ] `plays/bfn977_ugedagene/persona_soendag.md` is created and links to `position_ledende.md`
-- [ ] `plays/bfn977_ugedagene/persona_mandag.md` is created and links to `position_arbejdende.md`
-- [ ] `plays/bfn977_ugedagene/persona_skuddag.md` is created and links to `position_huserende.md`
-- [ ] `plays/bfn977_ugedagene/position_ledende.md` is created
-- [ ] `plays/bfn977_ugedagene/position_arbejdende.md` is created
-- [ ] `plays/bfn977_ugedagene/position_huserende.md` is created
-- [ ] `plays/bfn977_ugedagene/piece_kappe.md` is created
-- [ ] `plays/bfn977_ugedagene/piece_maske.md` is created
-- [ ] `plays/bfn977_ugedagene/place_kalender.md` is created
-- [ ] `plays/bfn977_ugedagene/place_gilde.md` is created
-- [ ] `plays/bfn977_ugedagene/process_arbejde.md` is created
-- [ ] `plays/bfn977_ugedagene/process_fejring.md` is created
-- [ ] `plays/bfn977_ugedagene/plan_frigoerelse.md` is created and linked to `persona_mandag.md`
-- [ ] `plays/bfn977_ugedagene/plan_kammeratskab.md` is created and linked to `persona_soendag.md`
-- [ ] `plays/bfn977_ugedagene/pitch_tidscyklus.md` is created
-- [ ] `plays/bfn977_ugedagene/plot_hverdagen.md` is created and casts company elements
-- [ ] `plays/bfn977_ugedagene/plot_planen.md` is created and casts company elements
-- [ ] `plays/bfn977_ugedagene/plot_karneval.md` is created and casts company elements
-- [ ] `plays/bfn977_ugedagene/plot_afsked.md` is created and casts company elements
-- [ ] The local validation tests (`npm test`) run successfully with zero errors
+- [x] `plays/bfn977_ugedagene/play_ugedagene.md` is created and lists the complete company
+- [x] `plays/bfn977_ugedagene/persona_soendag.md` is created and links to `position_ledende.md`
+- [x] `plays/bfn977_ugedagene/persona_mandag.md` is created and links to `position_arbejdende.md`
+- [x] `plays/bfn977_ugedagene/persona_skuddag.md` is created and links to `position_huserende.md`
+- [x] `plays/bfn977_ugedagene/position_ledende.md` is created
+- [x] `plays/bfn977_ugedagene/position_arbejdende.md` is created
+- [x] `plays/bfn977_ugedagene/position_huserende.md` is created
+- [x] `plays/bfn977_ugedagene/piece_kappe.md` is created
+- [x] `plays/bfn977_ugedagene/piece_maske.md` is created
+- [x] `plays/bfn977_ugedagene/place_kalender.md` is created
+- [x] `plays/bfn977_ugedagene/place_gilde.md` is created
+- [x] `plays/bfn977_ugedagene/process_arbejde.md` is created
+- [x] `plays/bfn977_ugedagene/process_fejring.md` is created
+- [x] `plays/bfn977_ugedagene/plan_frigoerelse.md` is created and linked to `persona_mandag.md`
+- [x] `plays/bfn977_ugedagene/plan_kammeratskab.md` is created and linked to `persona_soendag.md`
+- [x] `plays/bfn977_ugedagene/pitch_tidscyklus.md` is created
+- [x] `plays/bfn977_ugedagene/plot_hverdagen.md` is created and casts company elements
+- [x] `plays/bfn977_ugedagene/plot_planen.md` is created and casts company elements
+- [x] `plays/bfn977_ugedagene/plot_karneval.md` is created and casts company elements
+- [x] `plays/bfn977_ugedagene/plot_afsked.md` is created and casts company elements
+- [x] The local validation tests (`npm test`) run successfully with zero errors

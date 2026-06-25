@@ -30,22 +30,22 @@ The play files must be placed in `plays/bfn981_laserne/` and follow the house la
 
 ## Targets
 
-- [ ] `plays/bfn981_laserne/play_laserne.md` is created and lists the complete company
-- [ ] `plays/bfn981_laserne/persona_dansk_las.md` is created and links to `position_beskeden.md`
-- [ ] `plays/bfn981_laserne/persona_norsk_las.md` is created and links to `position_stolt.md`
-- [ ] `plays/bfn981_laserne/position_beskeden.md` is created
-- [ ] `plays/bfn981_laserne/position_stolt.md` is created
-- [ ] `plays/bfn981_laserne/position_lige.md` is created
-- [ ] `plays/bfn981_laserne/piece_kludebunke.md` is created
-- [ ] `plays/bfn981_laserne/piece_papir.md` is created
-- [ ] `plays/bfn981_laserne/place_fabrik.md` is created
-- [ ] `plays/bfn981_laserne/place_bunken.md` is created
-- [ ] `plays/bfn981_laserne/process_disput.md` is created
-- [ ] `plays/bfn981_laserne/process_genanvendelse.md` is created
-- [ ] `plays/bfn981_laserne/plan_selvhaevdelse.md` is created and linked to `persona_norsk_las.md`
-- [ ] `plays/bfn981_laserne/plan_forsvar.md` is created and linked to `persona_dansk_las.md`
-- [ ] `plays/bfn981_laserne/pitch_satire.md` is created
-- [ ] `plays/bfn981_laserne/plot_moedet.md` is created and casts company elements
-- [ ] `plays/bfn981_laserne/plot_ordkrigen.md` is created and casts company elements
-- [ ] `plays/bfn981_laserne/plot_skabelsen.md` is created and casts company elements
-- [ ] The local validation tests (`npm test`) run successfully with zero errors
+- [x] `plays/bfn981_laserne/play_laserne.md` is created and lists the complete company
+- [x] `plays/bfn981_laserne/persona_dansk_las.md` is created and links to `position_beskeden.md`
+- [x] `plays/bfn981_laserne/persona_norsk_las.md` is created and links to `position_stolt.md`
+- [x] `plays/bfn981_laserne/position_beskeden.md` is created
+- [x] `plays/bfn981_laserne/position_stolt.md` is created
+- [x] `plays/bfn981_laserne/position_lige.md` is created
+- [x] `plays/bfn981_laserne/piece_kludebunke.md` is created
+- [x] `plays/bfn981_laserne/piece_papir.md` is created
+- [x] `plays/bfn981_laserne/place_fabrik.md` is created
+- [x] `plays/bfn981_laserne/place_bunken.md` is created
+- [x] `plays/bfn981_laserne/process_disput.md` is created
+- [x] `plays/bfn981_laserne/process_genanvendelse.md` is created
+- [x] `plays/bfn981_laserne/plan_selvhaevdelse.md` is created and linked to `persona_norsk_las.md`
+- [x] `plays/bfn981_laserne/plan_forsvar.md` is created and linked to `persona_dansk_las.md`
+- [x] `plays/bfn981_laserne/pitch_satire.md` is created
+- [x] `plays/bfn981_laserne/plot_moedet.md` is created and casts company elements
+- [x] `plays/bfn981_laserne/plot_ordkrigen.md` is created and casts company elements
+- [x] `plays/bfn981_laserne/plot_skabelsen.md` is created and casts company elements
+- [x] The local validation tests (`npm test`) run successfully with zero errors

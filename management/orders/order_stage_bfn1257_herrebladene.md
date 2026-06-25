@@ -30,23 +30,23 @@ The play files must be placed in `plays/bfn1257_herrebladene/` and follow the ho
 
 ## Targets
 
-- [ ] `plays/bfn1257_herrebladene/play_herrebladene.md` is created and lists the complete company
-- [ ] `plays/bfn1257_herrebladene/persona_william.md` is created and links to `position_legende.md`
-- [ ] `plays/bfn1257_herrebladene/persona_hjerterknaegt.md` is created and links to `position_moraliserende.md`
-- [ ] `plays/bfn1257_herrebladene/persona_konge.md` is created and links to `position_hovmodig.md`
-- [ ] `plays/bfn1257_herrebladene/position_legende.md` is created
-- [ ] `plays/bfn1257_herrebladene/position_hovmodig.md` is created
-- [ ] `plays/bfn1257_herrebladene/position_moraliserende.md` is created
-- [ ] `plays/bfn1257_herrebladene/piece_spilkort.md` is created
-- [ ] `plays/bfn1257_herrebladene/piece_papirslot.md` is created
-- [ ] `plays/bfn1257_herrebladene/place_stue.md` is created
-- [ ] `plays/bfn1257_herrebladene/place_riddersal.md` is created
-- [ ] `plays/bfn1257_herrebladene/process_personificering.md` is created
-- [ ] `plays/bfn1257_herrebladene/process_kritik.md` is created
-- [ ] `plays/bfn1257_herrebladene/plan_leg.md` is created and linked to `persona_william.md`
-- [ ] `plays/bfn1257_herrebladene/plan_moral.md` is created and linked to `persona_hjerterknaegt.md`
-- [ ] `plays/bfn1257_herrebladene/pitch_hverdagsmoral.md` is created
-- [ ] `plays/bfn1257_herrebladene/plot_slottet.md` is created and casts company elements
-- [ ] `plays/bfn1257_herrebladene/plot_livet.md` is created and casts company elements
-- [ ] `plays/bfn1257_herrebladene/plot_praeken.md` is created and casts company elements
-- [ ] The local validation tests (`npm test`) run successfully with zero errors
+- [x] `plays/bfn1257_herrebladene/play_herrebladene.md` is created and lists the complete company
+- [x] `plays/bfn1257_herrebladene/persona_william.md` is created and links to `position_legende.md`
+- [x] `plays/bfn1257_herrebladene/persona_hjerterknaegt.md` is created and links to `position_moraliserende.md`
+- [x] `plays/bfn1257_herrebladene/persona_konge.md` is created and links to `position_hovmodig.md`
+- [x] `plays/bfn1257_herrebladene/position_legende.md` is created
+- [x] `plays/bfn1257_herrebladene/position_hovmodig.md` is created
+- [x] `plays/bfn1257_herrebladene/position_moraliserende.md` is created
+- [x] `plays/bfn1257_herrebladene/piece_spilkort.md` is created
+- [x] `plays/bfn1257_herrebladene/piece_papirslot.md` is created
+- [x] `plays/bfn1257_herrebladene/place_stue.md` is created
+- [x] `plays/bfn1257_herrebladene/place_riddersal.md` is created
+- [x] `plays/bfn1257_herrebladene/process_personificering.md` is created
+- [x] `plays/bfn1257_herrebladene/process_kritik.md` is created
+- [x] `plays/bfn1257_herrebladene/plan_leg.md` is created and linked to `persona_william.md`
+- [x] `plays/bfn1257_herrebladene/plan_moral.md` is created and linked to `persona_hjerterknaegt.md`
+- [x] `plays/bfn1257_herrebladene/pitch_hverdagsmoral.md` is created
+- [x] `plays/bfn1257_herrebladene/plot_slottet.md` is created and casts company elements
+- [x] `plays/bfn1257_herrebladene/plot_livet.md` is created and casts company elements
+- [x] `plays/bfn1257_herrebladene/plot_praeken.md` is created and casts company elements
+- [x] The local validation tests (`npm test`) run successfully with zero errors
