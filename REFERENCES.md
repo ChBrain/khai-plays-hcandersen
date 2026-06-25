@@ -138,6 +138,10 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 1018: Gartneren og Herskabet** — Staged
 - [x] **BFN 1018: Hvad hele Familien sagde** — Staged
 - [x] **BFN 1024: Hvad gamle Johanne fortalte** — Staged
+- [x] **BFN 1025: Portner-nøglen** — Staged
+- [x] **BFN 1026: Krøblingen** — Staged
+- [x] **BFN 1027: Tante Tandpine** — Staged
+- [x] **BFN 1028: Loppen og Professoren** — Staged
 - [x] **BFN 1257: Herrebladene** — Staged
 
 ## Origin
