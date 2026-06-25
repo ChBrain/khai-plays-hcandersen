@@ -123,6 +123,11 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 977: Ugedagene** — Staged
 - [x] **BFN 978: Dryaden** — Staged
 - [x] **BFN 981: Laserne** — Staged
+- [x] **BFN 985: Lykken kan ligge i en Pind** — Staged
+- [x] **BFN 990: Kometen** — Staged
+- [x] **BFN 991: Solskins-Historier** — Staged
+- [x] **BFN 992: Hvad man kan hitte paa** — Staged
+- [x] **BFN 992: Hvad Tidselen oplevede** — Staged
 - [x] **BFN 1257: Herrebladene** — Staged
 
 ## Origin
