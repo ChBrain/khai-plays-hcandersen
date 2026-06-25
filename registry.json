@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.127.0",
+  "version": "0.131.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -47,6 +47,26 @@
       "id": "bfn1024_hvad_gamle_johanne_fortalte",
       "title": "What Old Johanne Told",
       "description": "Gamle Johanne beretter om sølle Rasmus, der modløs visner bort, mens trofast omhu og erindring lever videre."
+    },
+    {
+      "id": "bfn1025_portner_noeglen",
+      "title": "The Gate Key",
+      "description": "En kammerråd søger vejledning hos en gammel portnøgle, men finder sin skæbne i et praktisk ægteskab med Lene."
+    },
+    {
+      "id": "bfn1026_kroeblingen",
+      "title": "The Cripple",
+      "description": "En lam dreng finder trøst i en eventyrbog og redder en sangfugl, hvilket fører til hans helbredelse."
+    },
+    {
+      "id": "bfn1027_tante_tandpine",
+      "title": "Auntie Toothache",
+      "description": "Rasmussen plages af Madam Tandpines pinefulde besøg, mens tantens søde sager nærer den groteske smerte."
+    },
+    {
+      "id": "bfn1028_loppen_og_professoren",
+      "title": "The Flea and the Professor",
+      "description": "En luftslipper og hans dresserede loppe fanges af vilde, men undslipper ved list og en stor ballon."
     },
     {
       "id": "bfn1257_herrebladene",
