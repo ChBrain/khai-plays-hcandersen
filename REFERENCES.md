@@ -132,7 +132,12 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 1002: Oldefa'er** — Staged
 - [x] **BFN 1004: Det Utroligste** — Staged
 - [x] **BFN 1005: Lysene** — Staged
+- [x] **BFN 1011: Spørg Amagermo'er!** — Staged
+- [x] **BFN 1012: Dandse, dandse Dukke min!** — Staged
+- [x] **BFN 1014: Den store Søslange** — Staged
+- [x] **BFN 1018: Gartneren og Herskabet** — Staged
 - [x] **BFN 1018: Hvad hele Familien sagde** — Staged
+- [x] **BFN 1024: Hvad gamle Johanne fortalte** — Staged
 - [x] **BFN 1257: Herrebladene** — Staged
 
 ## Origin
