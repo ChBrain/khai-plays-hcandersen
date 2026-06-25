@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.102.0",
+  "version": "0.107.0",
   "plays": [
     {
       "id": "bfn267_fyrtoejet",
@@ -512,6 +512,31 @@
       "id": "bfn912_portnerens_soen",
       "title": "The Porter's Son",
       "description": "Georg, portnerens søn, overvinder klasseskel gennem sin kunst og vinder sin elskede Emilie trods alle hindringer."
+    },
+    {
+      "id": "bfn932_vaenoe_og_glaenoe",
+      "title": "Vaenoe and Glaenoe",
+      "description": "En ø opsluges af havet, mens en anden trues og beskyttes af menneskets dæmninger."
+    },
+    {
+      "id": "bfn943_de_smaa_groenne",
+      "title": "The Greenies",
+      "description": "En rosenbusk hjemsøges af indbildske bladlus, der udsuges af mariehønen i havens lille og grusomme drama."
+    },
+    {
+      "id": "bfn944_nissen_og_madamen",
+      "title": "The Goblin and the Woman",
+      "description": "Nissen må vælge mellem madammens grød og gartnerens vers i en strid om poesi og praktisk husholdning."
+    },
+    {
+      "id": "bfn957_peiter_peter_og_peer",
+      "title": "Peiter, Peter, and Peer",
+      "description": "Storken bringer de tre brødre Peiter, Peter og Peer til verden, hvor de møder hver deres skæbne undervejs."
+    },
+    {
+      "id": "bfn958_gudfaders_billedbog",
+      "title": "Godfather's Picture Book",
+      "description": "En smuk billedbog med klipninger og fortællinger om København, erindring og en gammel tranlygtes skæbne."
     }
   ]
 }
