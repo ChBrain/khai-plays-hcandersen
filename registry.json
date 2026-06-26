@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.151.0",
+  "version": "0.156.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -17,6 +17,11 @@
       "id": "bfn1005_lysene",
       "title": "The Candles",
       "description": "To lys har forskellige skæbner: det ene stolt i stuen, det andet ydmygt og glædesbringende i hytten."
+    },
+    {
+      "id": "bfn1007_marionetspilleren",
+      "title": "The Puppet-Player",
+      "description": "En marionetspiller drømmer om levende skuespillere, men dukkerne gør oprør og kræver deres egen frihed."
     },
     {
       "id": "bfn1011_spoerg_amagermoer",
@@ -509,6 +514,11 @@
       "description": "Helgas splittede sjæl kæmper mellem dyndets mørke og kristendommens frelsende lys."
     },
     {
+      "id": "bfn776_hurtigloeberne",
+      "title": "The Fast Runners",
+      "description": "En munter historie om haren, sneglen og uglen, der kappes om en pris på skovens løbebane."
+    },
+    {
       "id": "bfn782_anne_lisbeth",
       "title": "Anne Lisbeth",
       "description": "En moder forlader sit eget barn for herskabets skyld, men hjemsøges af hans ånd og soner sin skyld på stranden."
@@ -557,6 +567,11 @@
       "id": "bfn794_pen_og_blaekhuus",
       "title": "Pen and Inkstand",
       "description": "Pennen og blækhuset strides om, hvem der skaber digtningen, indtil digteren og den sande inspiration indfinder sig."
+    },
+    {
+      "id": "bfn799_to_broedre",
+      "title": "Two Brothers",
+      "description": "To brødre ærer deres fædreland: den ene med naturvidenskabens lys, den anden med lovens og retfærdighedens sværd."
     },
     {
       "id": "bfn804_flyttedagen",
@@ -629,6 +644,11 @@
       "description": "En sølvskilling rejser ud i verden, udstødes som falsk med et hul, men genoprejses ved hjemkomsten til sit hjemland."
     },
     {
+      "id": "bfn833_den_gamle_kirkeklokke",
+      "title": "The Old Church Bell",
+      "description": "En gammel kirkeklokkes klang overlever støberiet og tårnet for at inspirere et ungt digterbarn."
+    },
+    {
       "id": "bfn841_sommergjaekken",
       "title": "The Snowdrop",
       "description": "En lille sommergæk bryder gennem sneen, plukkes, lægges i et brev og presses i en bog som et minde om kærlighed."
@@ -637,6 +657,11 @@
       "id": "bfn856_theepotten",
       "title": "The Teapot",
       "description": "En stolt theepotte mister sin hank og tud, degraderes til urtepotte, men finder ny skønhed ved at huse en blomst."
+    },
+    {
+      "id": "bfn886_folkesangens_fugl",
+      "title": "The Bird of Popular Song",
+      "description": "Folkesangens Fugl flyver over vand og skov for at bringe sang, erindring og poesi til folket."
     },
     {
       "id": "bfn890_guldskat",
