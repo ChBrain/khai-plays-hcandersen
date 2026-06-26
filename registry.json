@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.186.0",
+  "version": "0.196.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -214,6 +214,16 @@
       "description": "Månen ser en syg pige i sit kammer ved vinduet, hvor en spire i en urtepotte spirer."
     },
     {
+      "id": "bfn360_enogtyvende_aften",
+      "title": "Twenty-First Evening",
+      "description": "Månen ser en pige trøste sin dukke efterladt i et træ i haven."
+    },
+    {
+      "id": "bfn360_femogtyvende_aften",
+      "title": "Twenty-Fifth Evening",
+      "description": "Månen ser en lille skorstensfejer dreng dukke op på taget i morgengryet."
+    },
+    {
       "id": "bfn360_femte_aften",
       "title": "Fifth Evening",
       "description": "Månen fortæller om en ung pige, der tårevædet tager afsked med sit hjertes udkårne ved skibets afsejling."
@@ -222,6 +232,11 @@
       "id": "bfn360_femtende_aften",
       "title": "Fifteenth Evening",
       "description": "Månen ser en ung danserinde på scenen, der drømmer om sin første store optræden."
+    },
+    {
+      "id": "bfn360_fireogtyvende_aften",
+      "title": "Twenty-Fourth Evening",
+      "description": "Månen ser ind i et borgerhus i Frankfurt, hvor en pige sidder stille med en rose."
     },
     {
       "id": "bfn360_fjerde_aften",
@@ -244,6 +259,11 @@
       "description": "Månen fortæller om en gøgler på torvet, der underholder med sin tromme og maske under nattens stjerner."
     },
     {
+      "id": "bfn360_niogtyvende_aften",
+      "title": "Twenty-Ninth Evening",
+      "description": "Månen oplyser en rejsende karet foran en kro, hvor kusken venter."
+    },
+    {
       "id": "bfn360_nittende_aften",
       "title": "Nineteenth Evening",
       "description": "Månen finder en gøgler i skovbrynet, der hviler ved sin vogn og koger i sin gryde."
@@ -252,6 +272,16 @@
       "id": "bfn360_ottende_aften",
       "title": "The Eighth Evening",
       "description": "Månen fortæller om en fange i et tårn, der længes efter frihed bag cellens gitter."
+    },
+    {
+      "id": "bfn360_otteogtyvende_aften",
+      "title": "Twenty-Eighth Evening",
+      "description": "Månen lyser over Vreta klosterkirke i Sverige og kigger ned i stenkisterne."
+    },
+    {
+      "id": "bfn360_sexogtyvende_aften",
+      "title": "Twenty-Sixth Evening",
+      "description": "Månen lyser over smalle gader i Kina og kigger ind i et tempel, hvor en præst tænder lamperne."
     },
     {
       "id": "bfn360_sextende_aften",
@@ -274,6 +304,11 @@
       "description": "Månen fortæller om en ensom svanes flyvning mod en skovsø under den dybe nattehimmel."
     },
     {
+      "id": "bfn360_syvogtyvende_aften",
+      "title": "Twenty-Seventh Evening",
+      "description": "Månen skinner over havet og følger en flok vilde svaner, hvoraf en træt svane synker."
+    },
+    {
       "id": "bfn360_tiende_aften",
       "title": "Tenth Evening",
       "description": "Månen og digteren søger poesi og ro ved skoven og grøften i nattens stille stund."
@@ -284,9 +319,24 @@
       "description": "Månen ser en rig mand i hans store sal, der trods sin rigdom føler en dyb, indre ensomhed."
     },
     {
+      "id": "bfn360_toogtyvende_aften",
+      "title": "Twenty-Second Evening",
+      "description": "Månen lyser ind i Tyrol, hvor en mand betragter de hellige billeder på husets mure under nattehimlen."
+    },
+    {
       "id": "bfn360_tredie_aften",
       "title": "Third Evening",
       "description": "Månen ser ned i en snæver stue, hvor en moder synger vuggesang for sit barn ved sengen."
+    },
+    {
+      "id": "bfn360_tredivte_aften",
+      "title": "Thirtieth Evening",
+      "description": "Månen ser en bjørnetrækker og hans bjørn lege på torvet i en lille by."
+    },
+    {
+      "id": "bfn360_treogtyvende_aften",
+      "title": "Twenty-Third Evening",
+      "description": "Månen kigger ind i et kammer i København, hvor en lille dreng forundres over gøgen i et gøgur."
     },
     {
       "id": "bfn360_trettende_aften",
