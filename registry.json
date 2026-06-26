@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.196.0",
+  "version": "0.206.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -77,6 +77,16 @@
       "id": "bfn1257_herrebladene",
       "title": "The Court Cards",
       "description": "Kortene i papirslottet vågner til live og diskuterer renlighed, hovmod og livets sande værdier."
+    },
+    {
+      "id": "bfn1259_qvaek",
+      "title": "Croak",
+      "description": "En lille tudse i en grøft kvækker om sit simple liv, mens en dreng kaster sten i vandet."
+    },
+    {
+      "id": "bfn1260_skriveren",
+      "title": "The Penman",
+      "description": "En flittig skriver arbejder med sin fjerpen ved det mørke skrivebord og nedskriver livets begivenheder."
     },
     {
       "id": "bfn16_dykker_klokken",
@@ -414,6 +424,11 @@
       "description": "Gerda søger efter Kay, som er bortført af Snedronningen, og redder ham med sine varme tårer i ispaladset."
     },
     {
+      "id": "bfn457_een_og_tredivte_aften",
+      "title": "Thirty-First Evening",
+      "description": "Månen ser en fange i en celle, der ridser en melodi ind i fængselsvæggen som et sidste farvel."
+    },
+    {
       "id": "bfn458_hyldemoer",
       "title": "The Elder-Mother",
       "description": "En syg dreng hører eventyret om Hyldemor og mindes et langt og kærligt liv under hyldetræets grene."
@@ -487,6 +502,16 @@
       "id": "bfn520_skyggen",
       "title": "The Shadow",
       "description": "En lærds mands skygge river sig løs, vinder magt og vender tilbage for at tilintetgøre sin tidligere herre."
+    },
+    {
+      "id": "bfn523_to_og_tredivte_aften",
+      "title": "Thirty-Second Evening",
+      "description": "Månen forsøger at kigge frem bag de jagende skyer under en kold og blæsende nat."
+    },
+    {
+      "id": "bfn523_tre_og_tredivte_aften",
+      "title": "Thirty-Third Evening",
+      "description": "Månen tager afsked med den fattige maler i tagkammeret og lover at huske deres aftener sammen."
     },
     {
       "id": "bfn529_det_gamle_hus",
@@ -982,6 +1007,31 @@
       "id": "bfn992_hvad_tidselen_oplevede",
       "title": "What the Thistle Experienced",
       "description": "En stolt tidsel på marken drømmer om roserne, spises af et æsel og plukkes til sidst som et minde om kærlighed."
+    },
+    {
+      "id": "sdu191_danske_folkesagn",
+      "title": "Danish Popular Legends",
+      "description": "En historisk fortælling om de gamle danske folkesagn, der overleveres langs åer og skove."
+    },
+    {
+      "id": "sdu203_den_foerste_aften",
+      "title": "The First Evening",
+      "description": "Månens allerførste aften, hvor den ser ind til den unge digter og inspirerer hans første fortælling."
+    },
+    {
+      "id": "sdu204_man_siger",
+      "title": "Folks Say",
+      "description": "Byens borgere hvisker og spreder rygter om hinanden, baseret på hvad \"man siger\"."
+    },
+    {
+      "id": "sdu205_den_fattige_kone_og_den_lille_canariefugl",
+      "title": "The Poor Woman and the Canary",
+      "description": "En fattig, ensom kone deler sit sidste brød med sin lille kanariefugl, som synger en trøstende sang."
+    },
+    {
+      "id": "sdu206_urbanus",
+      "title": "Urbanus",
+      "description": "Munken Urbanus lytter til en skovfugls sang og opdager, at der er gået hundrede år under hans lytning."
     }
   ]
 }
