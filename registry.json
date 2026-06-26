@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.141.0",
+  "version": "0.146.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -409,6 +409,11 @@
       "description": "En melankolsk fortælling om barndomsvennerne Knud og Johanne, hvis kærlighed og drømme skilles under piletræets skygge."
     },
     {
+      "id": "bfn621_fem_fra_en_aertebaelg",
+      "title": "Five Peas from a Pod",
+      "description": "Fem ærter spredes i verden; den mindste spirer i en tagrende og bringer håb til en syg pige."
+    },
+    {
       "id": "bfn622_hun_duede_ikke",
       "title": "She Was No Good",
       "description": "En fattig vaskekone slider sig ihjel for sin søn, mens borgmesteren dømmer hende hårdt."
@@ -432,6 +437,26 @@
       "id": "bfn668_pengegrisen",
       "title": "The Money Pig",
       "description": "En lersparegris fyldt med mønter ser ned på legetøjet, indtil den falder og går i stykker."
+    },
+    {
+      "id": "bfn737_et_blad_fra_himlen",
+      "title": "A Leaf from Heaven",
+      "description": "Et himmelsk blad daler ned og udfordrer menneskets lærdom, men forstås fuldt ud af et enfoldigt barn."
+    },
+    {
+      "id": "bfn738_klods_hans",
+      "title": "Jack the Dullard",
+      "description": "Klods-Hans vinder prinsessen og kongeriget med en død krage, en gammel træsko og pludder fra grøften."
+    },
+    {
+      "id": "bfn739_ib_og_lille_christine",
+      "title": "Ib and Little Christine",
+      "description": "Ib og lille Christine vokser op sammen i skoven, men deres skæbner skilles før de finder forløsning."
+    },
+    {
+      "id": "bfn748_aerens_tornevei",
+      "title": "The Thorny Path of Honor",
+      "description": "Geniet vandrer ad en tornet vej gennem modgang, men historien skænker ham anerkendelse og en gylden krone."
     },
     {
       "id": "bfn766_flaskehalsen",
