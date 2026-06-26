@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.136.0",
+  "version": "0.141.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -269,6 +269,11 @@
       "description": "En frysende pige tænder svovlstikker nytårsaften, ser visioner og dør i kulden for at forenes med sin bedstemor."
     },
     {
+      "id": "bfn512_fra_et_vindue_i_vartou",
+      "title": "From a Window in Vartov",
+      "description": "En gammel pige sidder ved Vartous vindue, mindes sin ungdoms kærlighed og skuer ud på voldens grønne liv."
+    },
+    {
       "id": "bfn517_gadeloegten",
       "title": "The Old Street Lamp",
       "description": "En gammel, trofast gadeløgte pensioneres og reddes af den gamle vægter til et nyt og roligt liv i hans kælder."
@@ -322,6 +327,26 @@
       "id": "bfn550_fugl_foeniks",
       "title": "The Phoenix Bird",
       "description": "Fugl Føniks genfødes af asken i Paradisets have og spreder poesiens og sangens evige lys til menneskeheden."
+    },
+    {
+      "id": "bfn591_den_stumme_bog",
+      "title": "The Mute Book",
+      "description": "En studerende begraves med en bog fuld af tørrede blade, hvor hvert blad gemmer på et stumt minde."
+    },
+    {
+      "id": "bfn591_en_historie",
+      "title": "A Story",
+      "description": "En digter søger sandheden i sit kammer, mens hans skrift dømmes af verden på markedet under lyset."
+    },
+    {
+      "id": "bfn594_der_er_forskjel",
+      "title": "There is a Difference",
+      "description": "En stolt æblegren i en vase og en ydmyg mælkebøtte i grøften lærer om livets sande værdisættelse under solen."
+    },
+    {
+      "id": "bfn602_den_gamle_gravsteen",
+      "title": "The Old Gravestone",
+      "description": "Et gammelt ægtepar mindes i deres hyggelige gård, før graven og erindringen forvandler deres eftermæle."
     },
     {
       "id": "bfn606_aarets_historie",
