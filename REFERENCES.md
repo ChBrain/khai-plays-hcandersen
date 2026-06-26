@@ -99,6 +99,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 771: Det gamle Egetræes sidste Drøm** — Staged
 - [x] **BFN 772: ABC-Bogen** — Staged
 - [x] **BFN 775: Dynd-Kongens Datter** — Staged
+- [x] **BFN 776: Hurtigløberne** — Staged
 - [x] **BFN 782: Vinden fortæller om Valdemar Daae og hans Døttre** — Staged
 - [x] **BFN 782: Pigen, som traadte paa Brødet** — Staged
 - [x] **BFN 782: Taarnvægteren Ole** — Staged
@@ -109,6 +110,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 794: Pen og Blækhuus** — Staged
 - [x] **BFN 794: Barnet i Graven** — Staged
 - [x] **BFN 794: En Historie fra Klitterne** — Staged
+- [x] **BFN 799: To Brødre** — Staged
 - [x] **BFN 804: Flyttedagen** — Staged
 - [x] **BFN 814: Sommerfuglen** — Staged
 - [x] **BFN 815: Bispen paa Børglum og hans Frænde** — Staged
@@ -123,8 +125,10 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 828: Psychen** — Staged
 - [x] **BFN 828: Sneglen og Rosenhækken** — Staged
 - [x] **BFN 830: Sølvskillingen** — Staged
+- [x] **BFN 833: Den gamle Kirkeklokke** — Staged
 - [x] **BFN 841: Sommergjækken** — Staged
 - [x] **BFN 856: Theepotten** — Staged
+- [x] **BFN 886: Folkesangens Fugl** — Staged
 - [x] **BFN 890: Lygtemændene ere i Byen, sagde Mosekonen** — Staged
 - [x] **BFN 890: Veirmøllen** — Staged
 - [x] **BFN 890: Stormen flytter Skilt** — Staged
@@ -152,6 +156,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 1002: Oldefa'er** — Staged
 - [x] **BFN 1004: Det Utroligste** — Staged
 - [x] **BFN 1005: Lysene** — Staged
+- [x] **BFN 1007: Marionetspilleren** — Staged
 - [x] **BFN 1011: Spørg Amagermo'er!** — Staged
 - [x] **BFN 1012: Dandse, dandse Dukke min!** — Staged
 - [x] **BFN 1014: Den store Søslange** — Staged
