@@ -80,6 +80,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 439: Den grimme Ælling** — Staged
 - [x] **BFN 455: Grantræet** — Staged
 - [x] **BFN 456: Snedronningen** — Staged
+- [x] **BFN 457: Een og tredivte Aften** — Staged
 - [x] **BFN 458: Hyldemoer** — Staged
 - [x] **BFN 468: Elverhøi** — Staged
 - [x] **BFN 469: De røde Skoe** — Staged
@@ -95,6 +96,8 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 518: Nabofamilierne** — Staged
 - [x] **BFN 519: Lille Tuk** — Staged
 - [x] **BFN 520: Skyggen** — Staged
+- [x] **BFN 523: To og tredivte Aften** — Staged
+- [x] **BFN 523: Tre og tredivte Aften** — Staged
 - [x] **BFN 529: Det gamle Hus** — Staged
 - [x] **BFN 529: Vanddraaben** — Staged
 - [x] **BFN 529: Flipperne** — Staged
@@ -208,6 +211,13 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 1027: Tante Tandpine** — Staged
 - [x] **BFN 1028: Loppen og Professoren** — Staged
 - [x] **BFN 1257: Herrebladene** — Staged
+- [x] **BFN 1259: Qvæk** — Staged
+- [x] **BFN 1260: Skriveren** — Staged
+- [x] **SDU 191: Danske Folkesagn** — Staged
+- [x] **SDU 203: Den første Aften** — Staged
+- [x] **SDU 204: "Man siger -"!** — Staged
+- [x] **SDU 205: Den fattige Kone og den lille Canariefugl** — Staged
+- [x] **SDU 206: Urbanus** — Staged
 
 ## Origin
 
