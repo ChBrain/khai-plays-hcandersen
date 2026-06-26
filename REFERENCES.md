@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-25"
+updated: "2026-06-26"
 ---
 
 # H.C. Andersen House: Reference
@@ -89,11 +89,16 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 738: Klods-Hans** — Staged
 - [x] **BFN 739: Ib og lille Christine** — Staged
 - [x] **BFN 748: Ærens Tornevei** — Staged
+- [x] **BFN 749: Jødepigen** — Staged
+- [x] **BFN 760: Et Stykke Perlesnor** — Staged
+- [x] **BFN 761: Klokkedybet** — Staged
 - [x] **BFN 766: Flaskehalsen** — Staged
 - [x] **BFN 768: Suppe paa en Pølsepind** — Staged
 - [x] **BFN 769: Pebersvendens Nathue** — Staged
 - [x] **BFN 770: Noget** — Staged
 - [x] **BFN 771: Det gamle Egetræes sidste Drøm** — Staged
+- [x] **BFN 772: ABC-Bogen** — Staged
+- [x] **BFN 775: Dynd-Kongens Datter** — Staged
 - [x] **BFN 782: Vinden fortæller om Valdemar Daae og hans Døttre** — Staged
 - [x] **BFN 782: Pigen, som traadte paa Brødet** — Staged
 - [x] **BFN 782: Taarnvægteren Ole** — Staged
