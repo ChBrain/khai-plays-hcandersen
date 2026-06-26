@@ -25,6 +25,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 326: Gåseurten** — Staged
 - [x] **BFN 327: Den standhaftige Tinsoldat** — Staged
 - [x] **BFN 328: De vilde Svaner** — Staged
+- [x] **BFN 345: Rosen-Alfen** — Staged
 - [x] **BFN 353: Paradisets Have** — Staged
 - [x] **BFN 354: Den flyvende Kuffert** — Staged
 - [x] **BFN 355: Storkene** — Staged
@@ -32,18 +33,22 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 409: Ole Lukøje** — Staged
 - [x] **BFN 410: Svinedrengen** — Staged
 - [x] **BFN 411: Boghveden** — Staged
+- [x] **BFN 417: Metalsvinet** — Staged
+- [x] **BFN 417: Venskabs-Pagten** — Staged
 - [x] **BFN 436: Nattergalen** — Staged
 - [x] **BFN 437: Engelen** — Staged
 - [x] **BFN 438: Kjærestefolkene** — Staged
 - [x] **BFN 439: Den grimme Ælling** — Staged
 - [x] **BFN 455: Grantræet** — Staged
 - [x] **BFN 456: Snedronningen** — Staged
+- [x] **BFN 458: Hyldemoer** — Staged
 - [x] **BFN 468: Elverhøi** — Staged
 - [x] **BFN 469: De røde Skoe** — Staged
 - [x] **BFN 470: Springfyrene** — Staged
 - [x] **BFN 471: Hyrdinden og Skorstensfejeren** — Staged
 - [x] **BFN 472: Holger Danske** — Staged
 - [x] **BFN 474: Klokken** — Staged
+- [x] **BFN 481: Bedstemoder** — Staged
 - [x] **BFN 482: Stoppenaalen** — Staged
 - [x] **BFN 486: Den lille Pige med Svovlstikkerne** — Staged
 - [x] **BFN 517: Den gamle Gadeløgte** — Staged
