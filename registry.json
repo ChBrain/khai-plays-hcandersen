@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.146.0",
+  "version": "0.151.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -459,6 +459,21 @@
       "description": "Geniet vandrer ad en tornet vej gennem modgang, men historien skænker ham anerkendelse og en gylden krone."
     },
     {
+      "id": "bfn749_joedepigen",
+      "title": "The Jewish Girl",
+      "description": "Sarah holder sit løfte til sin afdøde moder, men længes i sit indre efter den kristne forløsning."
+    },
+    {
+      "id": "bfn760_et_stykke_perlesnor",
+      "title": "A Section of Pearl-String",
+      "description": "Danmark bindes sammen af jernbanens skinner som en perlesnor, mens den rejsende samler sine erindringer."
+    },
+    {
+      "id": "bfn761_klokkedybet",
+      "title": "The Bell-Deep",
+      "description": "En kirkeklokke falder i Odense Å, hvor Åmanden lytter til dens klang og minder fra dybet."
+    },
+    {
       "id": "bfn766_flaskehalsen",
       "title": "The Bottle Neck",
       "description": "En flaske gennemgår en lang livscyklus fra stolthed til brud, indtil kun halsen er tilbage som fuglekop."
@@ -482,6 +497,16 @@
       "id": "bfn771_det_gamle_egetraes_sidste_droem",
       "title": "The Old Oak Tree's Last Dream",
       "description": "Et egetræ drømmer julenat sin skønneste drøm om himlen, mens en vinterstorm knækker dets rødder."
+    },
+    {
+      "id": "bfn772_abc_bogen",
+      "title": "The ABC Book",
+      "description": "Striden og samarbejdet mellem bogstaverne i ABC-bogen, fra A til Å."
+    },
+    {
+      "id": "bfn775_dynd_kongens_datter",
+      "title": "The Marsh King's Daughter",
+      "description": "Helgas splittede sjæl kæmper mellem dyndets mørke og kristendommens frelsende lys."
     },
     {
       "id": "bfn782_anne_lisbeth",
