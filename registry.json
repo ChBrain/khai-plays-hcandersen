@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.156.0",
+  "version": "0.166.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -79,6 +79,26 @@
       "description": "Kortene i papirslottet vågner til live og diskuterer renlighed, hovmod og livets sande værdier."
     },
     {
+      "id": "bfn16_dykker_klokken",
+      "title": "The Diving Bell",
+      "description": "En dykker stiger ned på havbunden i sin klokke og møder en havfrue i det hemmelighedsfulde dyb."
+    },
+    {
+      "id": "bfn162_alferne_paa_heden",
+      "title": "The Elves on the Heath",
+      "description": "Alferne danser på heden under måneskinnet, mens en fattig hyrde iagttager deres mystiske værn om den vilde natur."
+    },
+    {
+      "id": "bfn162_et_boerneeventyr",
+      "title": "A Child's Tale",
+      "description": "To børn leger i haven og huset, mens kærlighed og tro spirer gennem deres uskyldige leg."
+    },
+    {
+      "id": "bfn168_det_sjunkne_kloster",
+      "title": "The Sunken Monastery",
+      "description": "Et kloster synker i søen, mens munken beder og åmanden ser til fra dybet."
+    },
+    {
       "id": "bfn267_fyrtoejet",
       "title": "The Tinderbox",
       "description": "En soldat stiger til tops og bliver konge ved hjælp af et magisk fyrtøj og tre store hunde."
@@ -112,6 +132,21 @@
       "id": "bfn280_den_uartige_dreng",
       "title": "The Naughty Boy",
       "description": "Amor søger ly hos en gammel digter i stormen, men skyder ham i hjertet med sin pil efter at være blevet varmet op."
+    },
+    {
+      "id": "bfn295_det_er_dig_fabelen_sigter_til",
+      "title": "It is You, the Fable refers to!",
+      "description": "Fabelen søger mennesket for at spejle dets forfængelighed og afsløre den skjulte sandhed."
+    },
+    {
+      "id": "bfn296_talismanen",
+      "title": "The Talisman",
+      "description": "Et ungt par søger lykkens talisman og finder den i hyttens simple nøjsomhed."
+    },
+    {
+      "id": "bfn297_den_gamle_gud_lever_endnu",
+      "title": "The Old God Still Lives",
+      "description": "En troende fader og hans håbende barn finder uventet hjælp i nød, da en fugl bringer dem brød."
     },
     {
       "id": "bfn304_den_lille_havfrue",
@@ -182,6 +217,11 @@
       "id": "bfn411_boghveden",
       "title": "The Buckwheat",
       "description": "En stolt boghvede nægter at bøje sig for stormen og bliver afsvedet, mens de ydmyge afgrøder overlever."
+    },
+    {
+      "id": "bfn417_en_rose_fra_homers_grav",
+      "title": "A Rose from Homer's Grave",
+      "description": "En rose ved Homers grav drømmer om udødelighed og flyver ud i verden som erindring i en sangers bog."
     },
     {
       "id": "bfn417_metalsvinet",
@@ -344,6 +384,11 @@
       "description": "En digter søger sandheden i sit kammer, mens hans skrift dømmes af verden på markedet under lyset."
     },
     {
+      "id": "bfn591_svinene",
+      "title": "The Pigs",
+      "description": "En munter og bidende samtale mellem en ørn på en mødding og en gammel so i stalden om stolthed og rigtigt liv."
+    },
+    {
       "id": "bfn594_der_er_forskjel",
       "title": "There is a Difference",
       "description": "En stolt æblegren i en vase og en ydmyg mælkebøtte i grøften lærer om livets sande værdisættelse under solen."
@@ -442,6 +487,11 @@
       "id": "bfn668_pengegrisen",
       "title": "The Money Pig",
       "description": "En lersparegris fyldt med mønter ser ned på legetøjet, indtil den falder og går i stykker."
+    },
+    {
+      "id": "bfn72_doedningen",
+      "title": "The Dead Man",
+      "description": "Johannes betaler en død mands gæld og får følgeskab af en mystisk hjælper, der beskytter ham på rejsen."
     },
     {
       "id": "bfn737_et_blad_fra_himlen",
