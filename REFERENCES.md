@@ -37,6 +37,16 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 353: Paradisets Have** — Staged
 - [x] **BFN 354: Den flyvende Kuffert** — Staged
 - [x] **BFN 355: Storkene** — Staged
+- [x] **BFN 360: Første Aften** — Staged
+- [x] **BFN 360: Anden Aften** — Staged
+- [x] **BFN 360: Tredie Aften** — Staged
+- [x] **BFN 360: Fjerde Aften** — Staged
+- [x] **BFN 360: Femte Aften** — Staged
+- [x] **BFN 360: Sjette Aften** — Staged
+- [x] **BFN 360: Syvende Aften** — Staged
+- [x] **BFN 360: Ottende Aften** — Staged
+- [x] **BFN 360: Niende Aften** — Staged
+- [x] **BFN 360: Tiende Aften** — Staged
 - [x] **BFN 386: Den onde Fyrste** — Staged
 - [x] **BFN 409: Ole Lukøje** — Staged
 - [x] **BFN 410: Svinedrengen** — Staged
