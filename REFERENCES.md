@@ -57,6 +57,16 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 360: Attende Aften** — Staged
 - [x] **BFN 360: Nittende Aften** — Staged
 - [x] **BFN 360: Tyvende Aften** — Staged
+- [x] **BFN 360: En og tyvende Aften** — Staged
+- [x] **BFN 360: To og tyvende Aften** — Staged
+- [x] **BFN 360: Tre og tyvende Aften** — Staged
+- [x] **BFN 360: Fire og tyvende Aften** — Staged
+- [x] **BFN 360: Fem og tyvende Aften** — Staged
+- [x] **BFN 360: Sex og tyvende Aften** — Staged
+- [x] **BFN 360: Syv og tyvende Aften** — Staged
+- [x] **BFN 360: Otte og tyvende Aften** — Staged
+- [x] **BFN 360: Ni og tyvende Aften** — Staged
+- [x] **BFN 360: Tredivte Aften** — Staged
 - [x] **BFN 386: Den onde Fyrste** — Staged
 - [x] **BFN 409: Ole Lukøje** — Staged
 - [x] **BFN 410: Svinedrengen** — Staged
