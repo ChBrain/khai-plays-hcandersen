@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.176.0",
+  "version": "0.186.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -204,14 +204,34 @@
       "description": "Månen ser ned i haven, hvor en lille dreng leger, og fortæller ham om natten og legetøjets hemmelige liv."
     },
     {
+      "id": "bfn360_attende_aften",
+      "title": "Eighteenth Evening",
+      "description": "Månen skinner over havet, hvor en fisker arbejder med sit net i sin lille båd."
+    },
+    {
+      "id": "bfn360_ellevte_aften",
+      "title": "Eleventh Evening",
+      "description": "Månen ser en syg pige i sit kammer ved vinduet, hvor en spire i en urtepotte spirer."
+    },
+    {
       "id": "bfn360_femte_aften",
       "title": "Fifth Evening",
       "description": "Månen fortæller om en ung pige, der tårevædet tager afsked med sit hjertes udkårne ved skibets afsejling."
     },
     {
+      "id": "bfn360_femtende_aften",
+      "title": "Fifteenth Evening",
+      "description": "Månen ser en ung danserinde på scenen, der drømmer om sin første store optræden."
+    },
+    {
       "id": "bfn360_fjerde_aften",
       "title": "Fourth Evening",
       "description": "Månen ser en fattig kunstner male i sit atelier, hvor pensel og lærred fanger nattens skønhed."
+    },
+    {
+      "id": "bfn360_fjortende_aften",
+      "title": "Fourteenth Evening",
+      "description": "Månen lyser på en gammel soldat, der sidder med sin medalje og sabel og mindes krigen."
     },
     {
       "id": "bfn360_foerste_aften",
@@ -224,14 +244,29 @@
       "description": "Månen fortæller om en gøgler på torvet, der underholder med sin tromme og maske under nattens stjerner."
     },
     {
+      "id": "bfn360_nittende_aften",
+      "title": "Nineteenth Evening",
+      "description": "Månen finder en gøgler i skovbrynet, der hviler ved sin vogn og koger i sin gryde."
+    },
+    {
       "id": "bfn360_ottende_aften",
       "title": "The Eighth Evening",
       "description": "Månen fortæller om en fange i et tårn, der længes efter frihed bag cellens gitter."
     },
     {
+      "id": "bfn360_sextende_aften",
+      "title": "Sixteenth Evening",
+      "description": "Månen oplyser en rejsende i ørkenen, der søger ly i sit telt under stjernerne."
+    },
+    {
       "id": "bfn360_sjette_aften",
       "title": "Sixth Evening",
       "description": "Månen kigger ind ad et lille kvistvindue og fortæller om den fattige students søgen efter sandhed."
+    },
+    {
+      "id": "bfn360_syttende_aften",
+      "title": "Seventeenth Evening",
+      "description": "Månen ser en gammel kone, der sidder på kirkegården og pynter sin mands grav med friske blomster."
     },
     {
       "id": "bfn360_syvende_aften",
@@ -244,9 +279,24 @@
       "description": "Månen og digteren søger poesi og ro ved skoven og grøften i nattens stille stund."
     },
     {
+      "id": "bfn360_tolvte_aften",
+      "title": "Twelfth Evening",
+      "description": "Månen ser en rig mand i hans store sal, der trods sin rigdom føler en dyb, indre ensomhed."
+    },
+    {
       "id": "bfn360_tredie_aften",
       "title": "Third Evening",
       "description": "Månen ser ned i en snæver stue, hvor en moder synger vuggesang for sit barn ved sengen."
+    },
+    {
+      "id": "bfn360_trettende_aften",
+      "title": "Thirteenth Evening",
+      "description": "Månen ser ind i en fattig hytte, hvor en flittig mand og hans kærlige kone deler brød."
+    },
+    {
+      "id": "bfn360_tyvende_aften",
+      "title": "Twentieth Evening",
+      "description": "Månen ser en dreng på stranden, der leger med en spand, mens bølgerne skyller ind."
     },
     {
       "id": "bfn386_den_onde_fyrste",
