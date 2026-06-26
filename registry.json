@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.166.0",
+  "version": "0.176.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -197,6 +197,56 @@
       "id": "bfn355_storkene",
       "title": "The Storks",
       "description": "En storkefamilie på et tag plages af drengenes onde sang, men lærer at flyve og tager en retfærdig hævn over dem."
+    },
+    {
+      "id": "bfn360_anden_aften",
+      "title": "Second Evening",
+      "description": "Månen ser ned i haven, hvor en lille dreng leger, og fortæller ham om natten og legetøjets hemmelige liv."
+    },
+    {
+      "id": "bfn360_femte_aften",
+      "title": "Fifth Evening",
+      "description": "Månen fortæller om en ung pige, der tårevædet tager afsked med sit hjertes udkårne ved skibets afsejling."
+    },
+    {
+      "id": "bfn360_fjerde_aften",
+      "title": "Fourth Evening",
+      "description": "Månen ser en fattig kunstner male i sit atelier, hvor pensel og lærred fanger nattens skønhed."
+    },
+    {
+      "id": "bfn360_foerste_aften",
+      "title": "First Evening",
+      "description": "Månen fortæller om en lille pige i den snævre gade, som drømmer i månelysets skær."
+    },
+    {
+      "id": "bfn360_niende_aften",
+      "title": "The Ninth Evening",
+      "description": "Månen fortæller om en gøgler på torvet, der underholder med sin tromme og maske under nattens stjerner."
+    },
+    {
+      "id": "bfn360_ottende_aften",
+      "title": "The Eighth Evening",
+      "description": "Månen fortæller om en fange i et tårn, der længes efter frihed bag cellens gitter."
+    },
+    {
+      "id": "bfn360_sjette_aften",
+      "title": "Sixth Evening",
+      "description": "Månen kigger ind ad et lille kvistvindue og fortæller om den fattige students søgen efter sandhed."
+    },
+    {
+      "id": "bfn360_syvende_aften",
+      "title": "Seventh Evening",
+      "description": "Månen fortæller om en ensom svanes flyvning mod en skovsø under den dybe nattehimmel."
+    },
+    {
+      "id": "bfn360_tiende_aften",
+      "title": "Tenth Evening",
+      "description": "Månen og digteren søger poesi og ro ved skoven og grøften i nattens stille stund."
+    },
+    {
+      "id": "bfn360_tredie_aften",
+      "title": "Third Evening",
+      "description": "Månen ser ned i en snæver stue, hvor en moder synger vuggesang for sit barn ved sengen."
     },
     {
       "id": "bfn386_den_onde_fyrste",
