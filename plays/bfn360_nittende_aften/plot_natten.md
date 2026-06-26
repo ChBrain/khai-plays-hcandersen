@@ -25,7 +25,7 @@ Når skyerne viger, og månen står over skovens mørke kroner.
 
 ## Action
 
-Højt oppe på himlen stiger [Maanen](persona_maanen.md) frem som [Fortaeller](position_fortaeller.md). Med sit skarpe lys oplyser den skovbrynet og igangsætter sin [Fortaelling](process_fortaelling.md), der giver natten en [Satirisk](pitch_satirisk.md) karakter.
+Højt oppe på himlen stiger [Maanen](persona_maanen.md) frem som [Fortaeller](position_fortaeller.md). Med sit skarpe lys oplyser den den mørke [skoven](place_skoven.md) og igangsætter sin [Fortaelling](process_fortaelling.md), der giver natten en [Satirisk](pitch_satirisk.md) karakter.
 
 ## Stage
 

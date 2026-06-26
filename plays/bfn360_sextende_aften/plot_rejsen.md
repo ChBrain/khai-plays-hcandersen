@@ -25,7 +25,7 @@ Når månelyset rammer teltets lyse dug i sandet.
 
 ## Action
 
-Inde i [teltet](place_teltet.md) hviler [Den Rejsende](persona_den_rejsende.md) i sin position som [Soegende](position_soegende). Ved siden af sin [Kamel](piece_kamel.md) vogter han sin [Vandflaske](piece_vandflaske.md) under den lange [Rejse](process_rejse.md). His plan om [Redning](plan_redning.md) udfolder sig under nattens [Mystisk](pitch_mystisk.md) undertone.
+Inde i [teltet](place_teltet.md) hviler [Den Rejsende](persona_den_rejsende.md) i sin position som [Soegende](position_soegende.md). Ved siden af sin [Kamel](piece_kamel.md) vogter han sin [Vandflaske](piece_vandflaske.md) under den lange [Rejse](process_rejse.md). His plan om [Redning](plan_redning.md) udfolder sig under nattens [Mystisk](pitch_mystisk.md) undertone.
 
 ## Stage
 

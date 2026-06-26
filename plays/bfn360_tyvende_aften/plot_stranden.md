@@ -25,7 +25,7 @@ Når måneskinnet rammer det våde sandslot ved vandkanten.
 
 ## Action
 
-Nede på [stranden](place_stranden.md) sidder [Drengen](persona_drengen.md) i sin position som [Leger](position_leger). Med sin [Spand](piece_spand.md) bygger han sandslotte, mens den mørke [Boelge](piece_boelge.md) ruller ind fra [havet](place_havet.md) og igangsætter sin [Forgaengelighed](process_forgaengelighed.md). Drengens plan om [Leg](plan_leg.md) udfolder sig under nattens [Melankolsk](pitch_melankolsk.md) undertone.
+Nede på [stranden](place_stranden.md) sidder [Drengen](persona_drengen.md) i sin position som [Leger](position_leger.md). Med sin [Spand](piece_spand.md) bygger han sandslotte, mens den mørke [Boelge](piece_boelge.md) ruller ind fra [havet](place_havet.md) og igangsætter sin [Forgaengelighed](process_forgaengelighed.md). Drengens plan om [Leg](plan_leg.md) udfolder sig under nattens [Melankolsk](pitch_melankolsk.md) undertone.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Når månens stråler rammer de sprællende fisk i nettet.
 
 ## Action
 
-Ude på [havet](place_havet.md) står [Fiskeren](persona_fiskeren.md) i sin position som [Arbejdende](position_arbejdende) i sin [Baad](place_baaden.md). Med sit [Net](piece_net.md) udfører han sin natlige [Fangst](process_fangst.md). Hans plan om [Nytte](plan_nytte.md) udfolder sig under nattens dybe og [Poetisk](pitch_poetisk.md) undertone.
+Ude på [havet](place_havet.md) står [Fiskeren](persona_fiskeren.md) i sin position som [Arbejdende](position_arbejdende.md) i sin [Baad](piece_baad.md) ved [Baaden](place_baaden.md). Med sit [Net](piece_net.md) udfører han sin natlige [Fangst](process_fangst.md). Hans plan om [Nytte](plan_nytte.md) udfolder sig under nattens dybe og [Poetisk](pitch_poetisk.md) undertone.
 
 ## Stage
 

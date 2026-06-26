@@ -25,7 +25,7 @@ Når spotlightet af måneskin rammer danserindens hvide dragt.
 
 ## Action
 
-Nede på [scenen](place_scenen.md) står [Pigen](persona_pigen.md) i sin position som [Danser](position_danser). I sin lette [Tutu](piece_tutu.md) og foran det tunge [Taeppe](piece_taeppe.md) indleder hun sin [Dans](process_dans). Hendes plan om [Succes](plan_succes.md) udfolder sig under nattens [Eventyrlig](pitch_eventyrlig.md) klang.
+Nede på [scenen](place_scenen.md) står [Pigen](persona_pigen.md) i sin position som [Danser](position_danser.md). I sin lette [Tutu](piece_tutu.md) og foran det tunge [Taeppe](piece_taeppe.md) indleder hun sin [Dans](process_dans.md). Hendes plan om [Succes](plan_succes.md) udfolder sig under nattens [Eventyrlig](pitch_eventyrlig.md) klang.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Når solen synker i sandet, og ørkenkulden indtræffer.
 
 ## Action
 
-Højt oppe på himlen træder [Maanen](persona_maanen.md) frem som [Fortaeller](position_fortaeller.md). Med sit blege lys oplyser den ørkensandet og igangsætter sin [Fortaelling](process_fortaelling.md), der giver natten en [Mystisk](pitch_mystisk.md) karakter.
+Højt oppe på himlen træder [Maanen](persona_maanen.md) frem som [Fortaeller](position_fortaeller.md). Med sit blege lys oplyser den den golde [ørkenen](place_oerkenen.md) og igangsætter sin [Fortaelling](process_fortaelling.md), der giver natten en [Mystisk](pitch_mystisk.md) karakter.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Når månens stråler rammer krystallysekronen i salens midte.
 
 ## Action
 
-Nede i [salen](place_salen.md) sidder [Manden](persona_manden.md) i sin position som [Ensom](position_ensom.md). Under den kolde [Lysekrone](piece_lysekrone.md) reflekterer han over sit liv i en stille [Tilbageskuen](process_tilbageskuen.md). Hans plan om [Ro](plan_ro.md) udfolder sig under nattens [Melankolsk](pitch_melankolsk.md) undertone.
+Nede i [salen](place_salen.md) sidder [Manden](persona_manden.md) i sin position som [Ensom](position_ensom.md). Omgivet af fortidens [Guld](piece_guld.md) under den kolde [Lysekrone](piece_lysekrone.md) reflekterer han over sit liv i en stille [Tilbageskuen](process_tilbageskuen.md). Hans plan om [Ro](plan_ro.md) udfolder sig under nattens [Melankolsk](pitch_melankolsk.md) undertone.
 
 ## Stage
 

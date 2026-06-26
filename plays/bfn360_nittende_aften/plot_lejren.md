@@ -25,7 +25,7 @@ Når måneskinnet rammer jerngryden over bålets flammer.
 
 ## Action
 
-Nede i [lejren](place_lejren.md) sidder [Goegleren](persona_goegleren.md) i sin position som [Spiller](position_spiller) ved siden af sin [Vogn](piece_vogn.md). Han koger sin suppe i sin [Gryde](piece_gryde.md) og finder sin [Hvile](process_hvile.md). Hans plan om [Overlevelse](plan_overlevelse.md) udfolder sig under nattens [Satirisk](pitch_satirisk.md) undertone.
+Nede i [lejren](place_lejren.md) sidder [Goegleren](persona_goegleren.md) i sin position som [Spiller](position_spiller.md) ved siden af sin [Vogn](piece_vogn.md). Han koger sin suppe i sin [Gryde](piece_gryde.md) og finder sin [Hvile](process_hvile.md). Hans plan om [Overlevelse](plan_overlevelse.md) udfolder sig under nattens [Satirisk](pitch_satirisk.md) undertone.
 
 ## Stage
 

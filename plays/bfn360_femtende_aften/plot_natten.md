@@ -25,7 +25,7 @@ Når forestillingen er forbi, og teaterhuset tømmes.
 
 ## Action
 
-Højt på himlen stiger [Maanen](persona_maanen.md) frem over teatrets tag. Som [Fortaeller](position_fortaeller.md) sender den en spotlight af månelys gennem ruden og igangsætter sin [Fortaelling](process_fortaelling.md), der sætter den [Eventyrlig](pitch_eventyrlig.md) tone.
+Højt på himlen stiger [Maanen](persona_maanen.md) frem over teatrets tag. Som [Fortaeller](position_fortaeller.md) sender den en spotlight af månelys gennem ruden ind i den tomme [salen](place_salen.md) og igangsætter sin [Fortaelling](process_fortaelling.md), der sætter den [Eventyrlig](pitch_eventyrlig.md) tone.
 
 ## Stage
 

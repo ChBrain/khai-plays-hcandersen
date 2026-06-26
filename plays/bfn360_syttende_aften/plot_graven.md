@@ -25,7 +25,7 @@ Når månens lys rammer den ensomme kvinde ved gravstedet.
 
 ## Action
 
-Nede på [kirkegaarden](place_kirkegaarden.md) sidder [Konen](persona_konen.md) i sin position som [Erindrende](position_erindrende). Med sin [Spade](piece_spade.md) planter hun blomster og lægger en [Krans](piece_krans.md) på [graven](place_graven.md). Hendes plan om [Erindring](plan_erindring.md) og hendes dybe [Sorg](process_sorg.md) udfolder sig under nattens [Melankolsk](pitch_melankolsk.md) undertone.
+Nede på [kirkegaarden](place_kirkegaarden.md) sidder [Konen](persona_konen.md) i sin position som [Erindrende](position_erindrende.md). Med sin [Spade](piece_spade.md) planter hun blomster og lægger en [Krans](piece_krans.md) på [graven](place_graven.md). Hendes plan om [Erindring](plan_erindring.md) og hendes dybe [Sorg](process_sorg.md) udfolder sig under nattens [Melankolsk](pitch_melankolsk.md) undertone.
 
 ## Stage
 
