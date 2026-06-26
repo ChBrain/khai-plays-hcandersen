@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-26"
 ---
 
-# Order: Stage SDU 204 Man siger -! 
+# Order: Stage SDU 204 Man siger -!
 
 ## Direction
 
