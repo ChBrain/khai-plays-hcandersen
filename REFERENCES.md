@@ -51,6 +51,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 481: Bedstemoder** — Staged
 - [x] **BFN 482: Stoppenaalen** — Staged
 - [x] **BFN 486: Den lille Pige med Svovlstikkerne** — Staged
+- [x] **BFN 512: Fra et Vindue i Vartou** — Staged
 - [x] **BFN 517: Den gamle Gadeløgte** — Staged
 - [x] **BFN 518: Nabofamilierne** — Staged
 - [x] **BFN 519: Lille Tuk** — Staged
@@ -62,6 +63,10 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 529: Historien om en moder** — Staged
 - [x] **BFN 549: Hørren** — Staged
 - [x] **BFN 550: Fugl Føniks** — Staged
+- [x] **BFN 591: Den stumme Bog** — Staged
+- [x] **BFN 591: En Historie** — Staged
+- [x] **BFN 594: Der er Forskjel** — Staged
+- [x] **BFN 602: Den gamle Gravsteen** — Staged
 - [x] **BFN 606: Årets Historie** — Staged
 - [x] **BFN 606: Verdens dejligste Rose** — Staged
 - [x] **BFN 606: Et Billede fra Kastelsvolden** — Staged
