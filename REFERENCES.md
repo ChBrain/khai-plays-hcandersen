@@ -12,6 +12,11 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 
 The current status of the H.C. Andersen productions within this house, cataloged by their BFN (Birger Frank Nielsen bibliography) numbers:
 
+- [x] **BFN 16: Dykker-Klokken** — Staged
+- [x] **BFN 72: Dødningen** — Staged
+- [x] **BFN 162: Alferne paa Heden** — Staged
+- [x] **BFN 162: Et Børneeventyr** — Staged
+- [x] **BFN 168: Det sjunkne Kloster** — Staged
 - [x] **BFN 267: Fyrtøjet** — Staged
 - [x] **BFN 268: Lille Claus og store Claus** — Staged
 - [x] **BFN 269: Prinsessen paa Ærten** — Staged
@@ -19,6 +24,9 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 278: Tommelise** — Staged
 - [x] **BFN 279: Rejsekammeraten** — Staged
 - [x] **BFN 280: Den uartige Dreng** — Staged
+- [x] **BFN 295: Det er Dig, Fabelen sigter til!** — Staged
+- [x] **BFN 296: Talismanen** — Staged
+- [x] **BFN 297: Den gamle Gud lever endnu** — Staged
 - [x] **BFN 304: Den lille Havfrue** — Staged
 - [x] **BFN 305: Kejserens nye Klæder** — Staged
 - [x] **BFN 320: Lykkens Galoscher** — Staged
@@ -35,6 +43,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 411: Boghveden** — Staged
 - [x] **BFN 417: Metalsvinet** — Staged
 - [x] **BFN 417: Venskabs-Pagten** — Staged
+- [x] **BFN 417: En Rose fra Homers Grav** — Staged
 - [x] **BFN 436: Nattergalen** — Staged
 - [x] **BFN 437: Engelen** — Staged
 - [x] **BFN 438: Kjærestefolkene** — Staged
@@ -65,6 +74,7 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 550: Fugl Føniks** — Staged
 - [x] **BFN 591: Den stumme Bog** — Staged
 - [x] **BFN 591: En Historie** — Staged
+- [x] **BFN 591: Svinene** — Staged
 - [x] **BFN 594: Der er Forskjel** — Staged
 - [x] **BFN 602: Den gamle Gravsteen** — Staged
 - [x] **BFN 606: Årets Historie** — Staged
