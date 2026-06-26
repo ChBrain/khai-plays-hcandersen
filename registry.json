@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.131.0",
+  "version": "0.136.0",
   "plays": [
     {
       "id": "bfn1002_oldefaer",
@@ -139,6 +139,11 @@
       "description": "Elisa må udstå stumhed og strikke brændenældeskjorter for at befri sine elleve brødre fra heksens forbandelse."
     },
     {
+      "id": "bfn345_rosen_alfen",
+      "title": "The Rose Elf",
+      "description": "En lille rosenalf afslører et hemmeligt mord for en ung pige, hvis sorg fører til en tragisk og blomstrende hævn."
+    },
+    {
       "id": "bfn353_paradisets_have",
       "title": "The Garden of Paradise",
       "description": "En kongeprins flyver med østenvinden til Paradisets Have, men bukker under for fristelsen og kysser den smukke fe."
@@ -174,6 +179,16 @@
       "description": "En stolt boghvede nægter at bøje sig for stormen og bliver afsvedet, mens de ydmyge afgrøder overlever."
     },
     {
+      "id": "bfn417_metalsvinet",
+      "title": "The Metal Pig",
+      "description": "En fattig dreng i Firenze oplever en magisk nat på ryggen af metalsvinet, der fører ham ind i kunstens verden."
+    },
+    {
+      "id": "bfn417_venskabs_pagten",
+      "title": "The Pact of Friendship",
+      "description": "To venner indgår en hellig venskabspagt i Grækenland, men kærligheden til den samme pige sætter pagten på prøve."
+    },
+    {
       "id": "bfn436_nattergalen",
       "title": "The Nightingale",
       "description": "En sand nattergal bringes til kejserens hof, forvises til fordel for en kunstfugl, men redder senere kejseren fra Døden."
@@ -204,6 +219,11 @@
       "description": "Gerda søger efter Kay, som er bortført af Snedronningen, og redder ham med sine varme tårer i ispaladset."
     },
     {
+      "id": "bfn458_hyldemoer",
+      "title": "The Elder-Mother",
+      "description": "En syg dreng hører eventyret om Hyldemor og mindes et langt og kærligt liv under hyldetræets grene."
+    },
+    {
       "id": "bfn468_elverhoei",
       "title": "The Elfin Hill",
       "description": "Elverkongen holder gilde i Elverhøi for troldgubben fra Dovre og sønnerne for at arrangere et strategisk giftermål."
@@ -232,6 +252,11 @@
       "id": "bfn474_klokken",
       "title": "The Bell",
       "description": "En mystisk klokkes klang i skoven drager byens folk, men kun kongesønnen og fattigdrengen vandrer til dens ophav."
+    },
+    {
+      "id": "bfn481_bedstemoder",
+      "title": "Grandmother",
+      "description": "Bedstemoder sidder i sin lænestol, fuld af kærlighed, men må sige farvel og efterlade minder hos sit barnebarn."
     },
     {
       "id": "bfn482_stoppenaalen",
