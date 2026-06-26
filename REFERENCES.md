@@ -79,11 +79,16 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **BFN 616: Nissen hos Spekhøkeren** — Staged
 - [x] **BFN 616: Om Aartusinder** — Staged
 - [x] **BFN 616: Under Piletræet** — Staged
+- [x] **BFN 621: Fem fra en Ærtebælg** — Staged
 - [x] **BFN 622: Hun duede ikke** — Staged
 - [x] **BFN 635: To Jomfruer** — Staged
 - [x] **BFN 638: Den sidste Perle** — Staged
 - [x] **BFN 667: Ved det yderste Hav** — Staged
 - [x] **BFN 668: Pengegrisen** — Staged
+- [x] **BFN 737: Et Blad fra Himlen** — Staged
+- [x] **BFN 738: Klods-Hans** — Staged
+- [x] **BFN 739: Ib og lille Christine** — Staged
+- [x] **BFN 748: Ærens Tornevei** — Staged
 - [x] **BFN 766: Flaskehalsen** — Staged
 - [x] **BFN 768: Suppe paa en Pølsepind** — Staged
 - [x] **BFN 769: Pebersvendens Nathue** — Staged
