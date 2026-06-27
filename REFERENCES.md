@@ -10,210 +10,208 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 
 ### Staging Status
 
-The current status of the H.C. Andersen productions within this house, cataloged by their BFN (Birger Frank Nielsen bibliography) numbers:
-
-- [x] **BFN 16: Dykker-Klokken** — Staged
-- [x] **BFN 72: Dødningen** — Staged
-- [x] **BFN 162: Alferne paa Heden** — Staged
-- [x] **BFN 162: Et Børneeventyr** — Staged
-- [x] **BFN 168: Det sjunkne Kloster** — Staged
-- [x] **BFN 267: Fyrtøjet** — Staged
-- [x] **BFN 268: Lille Claus og store Claus** — Staged
-- [x] **BFN 269: Prinsessen paa Ærten** — Staged
-- [x] **BFN 270: Den lille Idas Blomster** — Staged
-- [x] **BFN 278: Tommelise** — Staged
-- [x] **BFN 279: Rejsekammeraten** — Staged
-- [x] **BFN 280: Den uartige Dreng** — Staged
-- [x] **BFN 295: Det er Dig, Fabelen sigter til!** — Staged
-- [x] **BFN 296: Talismanen** — Staged
-- [x] **BFN 297: Den gamle Gud lever endnu** — Staged
-- [x] **BFN 304: Den lille Havfrue** — Staged
-- [x] **BFN 305: Kejserens nye Klæder** — Staged
-- [x] **BFN 320: Lykkens Galoscher** — Staged
-- [x] **BFN 326: Gåseurten** — Staged
-- [x] **BFN 327: Den standhaftige Tinsoldat** — Staged
-- [x] **BFN 328: De vilde Svaner** — Staged
-- [x] **BFN 345: Rosen-Alfen** — Staged
-- [x] **BFN 353: Paradisets Have** — Staged
-- [x] **BFN 354: Den flyvende Kuffert** — Staged
-- [x] **BFN 355: Storkene** — Staged
-- [x] **BFN 360: Første Aften** — Staged
-- [x] **BFN 360: Anden Aften** — Staged
-- [x] **BFN 360: Tredie Aften** — Staged
-- [x] **BFN 360: Fjerde Aften** — Staged
-- [x] **BFN 360: Femte Aften** — Staged
-- [x] **BFN 360: Sjette Aften** — Staged
-- [x] **BFN 360: Syvende Aften** — Staged
-- [x] **BFN 360: Ottende Aften** — Staged
-- [x] **BFN 360: Niende Aften** — Staged
-- [x] **BFN 360: Tiende Aften** — Staged
-- [x] **BFN 360: Ellevte Aften** — Staged
-- [x] **BFN 360: Tolvte Aften** — Staged
-- [x] **BFN 360: Trettende Aften** — Staged
-- [x] **BFN 360: Fjortende Aften** — Staged
-- [x] **BFN 360: Femtende Aften** — Staged
-- [x] **BFN 360: Sextende Aften** — Staged
-- [x] **BFN 360: Syttende Aften** — Staged
-- [x] **BFN 360: Attende Aften** — Staged
-- [x] **BFN 360: Nittende Aften** — Staged
-- [x] **BFN 360: Tyvende Aften** — Staged
-- [x] **BFN 360: En og tyvende Aften** — Staged
-- [x] **BFN 360: To og tyvende Aften** — Staged
-- [x] **BFN 360: Tre og tyvende Aften** — Staged
-- [x] **BFN 360: Fire og tyvende Aften** — Staged
-- [x] **BFN 360: Fem og tyvende Aften** — Staged
-- [x] **BFN 360: Sex og tyvende Aften** — Staged
-- [x] **BFN 360: Syv og tyvende Aften** — Staged
-- [x] **BFN 360: Otte og tyvende Aften** — Staged
-- [x] **BFN 360: Ni og tyvende Aften** — Staged
-- [x] **BFN 360: Tredivte Aften** — Staged
-- [x] **BFN 386: Den onde Fyrste** — Staged
-- [x] **BFN 409: Ole Lukøje** — Staged
-- [x] **BFN 410: Svinedrengen** — Staged
-- [x] **BFN 411: Boghveden** — Staged
-- [x] **BFN 417: Metalsvinet** — Staged
-- [x] **BFN 417: Venskabs-Pagten** — Staged
-- [x] **BFN 417: En Rose fra Homers Grav** — Staged
-- [x] **BFN 436: Nattergalen** — Staged
-- [x] **BFN 437: Engelen** — Staged
-- [x] **BFN 438: Kjærestefolkene** — Staged
-- [x] **BFN 439: Den grimme Ælling** — Staged
-- [x] **BFN 455: Grantræet** — Staged
-- [x] **BFN 456: Snedronningen** — Staged
-- [x] **BFN 457: Een og tredivte Aften** — Staged
-- [x] **BFN 458: Hyldemoer** — Staged
-- [x] **BFN 468: Elverhøi** — Staged
-- [x] **BFN 469: De røde Skoe** — Staged
-- [x] **BFN 470: Springfyrene** — Staged
-- [x] **BFN 471: Hyrdinden og Skorstensfejeren** — Staged
-- [x] **BFN 472: Holger Danske** — Staged
-- [x] **BFN 474: Klokken** — Staged
-- [x] **BFN 481: Bedstemoder** — Staged
-- [x] **BFN 482: Stoppenaalen** — Staged
-- [x] **BFN 486: Den lille Pige med Svovlstikkerne** — Staged
-- [x] **BFN 512: Fra et Vindue i Vartou** — Staged
-- [x] **BFN 517: Den gamle Gadeløgte** — Staged
-- [x] **BFN 518: Nabofamilierne** — Staged
-- [x] **BFN 519: Lille Tuk** — Staged
-- [x] **BFN 520: Skyggen** — Staged
-- [x] **BFN 523: To og tredivte Aften** — Staged
-- [x] **BFN 523: Tre og tredivte Aften** — Staged
-- [x] **BFN 529: Det gamle Hus** — Staged
-- [x] **BFN 529: Vanddraaben** — Staged
-- [x] **BFN 529: Flipperne** — Staged
-- [x] **BFN 529: Den lykkelige familie** — Staged
-- [x] **BFN 529: Historien om en moder** — Staged
-- [x] **BFN 549: Hørren** — Staged
-- [x] **BFN 550: Fugl Føniks** — Staged
-- [x] **BFN 591: Den stumme Bog** — Staged
-- [x] **BFN 591: En Historie** — Staged
-- [x] **BFN 591: Svinene** — Staged
-- [x] **BFN 594: Der er Forskjel** — Staged
-- [x] **BFN 602: Den gamle Gravsteen** — Staged
-- [x] **BFN 606: Årets Historie** — Staged
-- [x] **BFN 606: Verdens dejligste Rose** — Staged
-- [x] **BFN 606: Et Billede fra Kastelsvolden** — Staged
-- [x] **BFN 606: På den yderste Dag** — Staged
-- [x] **BFN 606: Det er ganske vist!** — Staged
-- [x] **BFN 606: Svanereden** — Staged
-- [x] **BFN 606: Et godt Humør** — Staged
-- [x] **BFN 616: Hjertesorg** — Staged
-- [x] **BFN 616: Alt paa sin rette Plads!** — Staged
-- [x] **BFN 616: Nissen hos Spekhøkeren** — Staged
-- [x] **BFN 616: Om Aartusinder** — Staged
-- [x] **BFN 616: Under Piletræet** — Staged
-- [x] **BFN 621: Fem fra en Ærtebælg** — Staged
-- [x] **BFN 622: Hun duede ikke** — Staged
-- [x] **BFN 635: To Jomfruer** — Staged
-- [x] **BFN 638: Den sidste Perle** — Staged
-- [x] **BFN 667: Ved det yderste Hav** — Staged
-- [x] **BFN 668: Pengegrisen** — Staged
-- [x] **BFN 737: Et Blad fra Himlen** — Staged
-- [x] **BFN 738: Klods-Hans** — Staged
-- [x] **BFN 739: Ib og lille Christine** — Staged
-- [x] **BFN 748: Ærens Tornevei** — Staged
-- [x] **BFN 749: Jødepigen** — Staged
-- [x] **BFN 760: Et Stykke Perlesnor** — Staged
-- [x] **BFN 761: Klokkedybet** — Staged
-- [x] **BFN 766: Flaskehalsen** — Staged
-- [x] **BFN 768: Suppe paa en Pølsepind** — Staged
-- [x] **BFN 769: Pebersvendens Nathue** — Staged
-- [x] **BFN 770: Noget** — Staged
-- [x] **BFN 771: Det gamle Egetræes sidste Drøm** — Staged
-- [x] **BFN 772: ABC-Bogen** — Staged
-- [x] **BFN 775: Dynd-Kongens Datter** — Staged
-- [x] **BFN 776: Hurtigløberne** — Staged
-- [x] **BFN 782: Vinden fortæller om Valdemar Daae og hans Døttre** — Staged
-- [x] **BFN 782: Pigen, som traadte paa Brødet** — Staged
-- [x] **BFN 782: Taarnvægteren Ole** — Staged
-- [x] **BFN 782: Anne Lisbeth** — Staged
-- [x] **BFN 782: Børnesnak** — Staged
-- [x] **BFN 794: Deilig!** — Staged
-- [x] **BFN 794: Gaardhanen og Veirhanen** — Staged
-- [x] **BFN 794: Pen og Blækhuus** — Staged
-- [x] **BFN 794: Barnet i Graven** — Staged
-- [x] **BFN 794: En Historie fra Klitterne** — Staged
-- [x] **BFN 799: To Brødre** — Staged
-- [x] **BFN 804: Flyttedagen** — Staged
-- [x] **BFN 814: Sommerfuglen** — Staged
-- [x] **BFN 815: Bispen paa Børglum og hans Frænde** — Staged
-- [x] **BFN 817: Tolv med Posten** — Staged
-- [x] **BFN 817: Skarnbassen** — Staged
-- [x] **BFN 817: Hvad Fatter gjør, det er altid det Rigtige** — Staged
-- [x] **BFN 817: De Vises Steen** — Staged
-- [x] **BFN 817: Sneemanden** — Staged
-- [x] **BFN 817: I Andegaarden** — Staged
-- [x] **BFN 817: Det nye Aarhundredes Musa** — Staged
-- [x] **BFN 828: Iisjomfruen** — Staged
-- [x] **BFN 828: Psychen** — Staged
-- [x] **BFN 828: Sneglen og Rosenhækken** — Staged
-- [x] **BFN 830: Sølvskillingen** — Staged
-- [x] **BFN 833: Den gamle Kirkeklokke** — Staged
-- [x] **BFN 841: Sommergjækken** — Staged
-- [x] **BFN 856: Theepotten** — Staged
-- [x] **BFN 886: Folkesangens Fugl** — Staged
-- [x] **BFN 890: Lygtemændene ere i Byen, sagde Mosekonen** — Staged
-- [x] **BFN 890: Veirmøllen** — Staged
-- [x] **BFN 890: Stormen flytter Skilt** — Staged
-- [x] **BFN 890: I Børnestuen** — Staged
-- [x] **BFN 890: Guldskat** — Staged
-- [x] **BFN 910: Moster** — Staged
-- [x] **BFN 910: Skrubtudsen** — Staged
-- [x] **BFN 911: Gjemt er ikke glemt** — Staged
-- [x] **BFN 912: Portnerens Søn** — Staged
-- [x] **BFN 932: Vænø og Glænø** — Staged
-- [x] **BFN 943: De smaa Grønne** — Staged
-- [x] **BFN 944: Nissen og Madamen** — Staged
-- [x] **BFN 957: Peiter, Peter og Peer** — Staged
-- [x] **BFN 958: Gudfaders Billedbog** — Staged
-- [x] **BFN 969: Hvem var den Lykkeligste?** — Staged
-- [x] **BFN 977: Ugedagene** — Staged
-- [x] **BFN 978: Dryaden** — Staged
-- [x] **BFN 981: Laserne** — Staged
-- [x] **BFN 985: Lykken kan ligge i en Pind** — Staged
-- [x] **BFN 990: Kometen** — Staged
-- [x] **BFN 991: Solskins-Historier** — Staged
-- [x] **BFN 992: Hvad man kan hitte paa** — Staged
-- [x] **BFN 992: Hvad Tidselen oplevede** — Staged
-- [x] **BFN 992: Hønse-Grethes Familie** — Staged
-- [x] **BFN 1002: Oldefa'er** — Staged
-- [x] **BFN 1004: Det Utroligste** — Staged
-- [x] **BFN 1005: Lysene** — Staged
-- [x] **BFN 1007: Marionetspilleren** — Staged
-- [x] **BFN 1011: Spørg Amagermo'er!** — Staged
-- [x] **BFN 1012: Dandse, dandse Dukke min!** — Staged
-- [x] **BFN 1014: Den store Søslange** — Staged
-- [x] **BFN 1018: Gartneren og Herskabet** — Staged
-- [x] **BFN 1018: Hvad hele Familien sagde** — Staged
-- [x] **BFN 1024: Hvad gamle Johanne fortalte** — Staged
-- [x] **BFN 1025: Portner-nøglen** — Staged
-- [x] **BFN 1026: Krøblingen** — Staged
-- [x] **BFN 1027: Tante Tandpine** — Staged
-- [x] **BFN 1028: Loppen og Professoren** — Staged
-- [x] **BFN 1257: Herrebladene** — Staged
-- [x] **BFN 1259: Qvæk** — Staged
-- [x] **BFN 1260: Skriveren** — Staged
+- [x] **SDU 001: Dykker-Klokken** — Staged
+- [x] **SDU 002: Dødningen** — Staged
+- [x] **SDU 003: Alferne paa Heden** — Staged
+- [x] **SDU 004: Et Børneeventyr** — Staged
+- [x] **SDU 005: Det sjunkne Kloster** — Staged
+- [x] **SDU 006: Fyrtøjet** — Staged
+- [x] **SDU 007: Lille Claus og store Claus** — Staged
+- [x] **SDU 008: Prinsessen paa Ærten** — Staged
+- [x] **SDU 009: Den lille Idas Blomster** — Staged
+- [x] **SDU 010: Tommelise** — Staged
+- [x] **SDU 011: Den uartige Dreng** — Staged
+- [x] **SDU 012: Rejsekammeraten** — Staged
+- [x] **SDU 013: Det er Dig, Fabelen sigter til!** — Staged
+- [x] **SDU 014: Talismanen** — Staged
+- [x] **SDU 015: Den gamle Gud lever endnu** — Staged
+- [x] **SDU 016: Den lille Havfrue** — Staged
+- [x] **SDU 017: Kejserens nye Klæder** — Staged
+- [x] **SDU 018: Lykkens Galoscher** — Staged
+- [x] **SDU 019: Gåseurten** — Staged
+- [x] **SDU 020: Den standhaftige Tinsoldat** — Staged
+- [x] **SDU 021: De vilde Svaner** — Staged
+- [x] **SDU 022: Rosen-Alfen** — Staged
+- [x] **SDU 023: Paradisets Have** — Staged
+- [x] **SDU 024: Den flyvende Kuffert** — Staged
+- [x] **SDU 025: Storkene** — Staged
+- [x] **SDU 026: Første Aften** — Staged
+- [x] **SDU 027: Anden Aften** — Staged
+- [x] **SDU 028: Tredie Aften** — Staged
+- [x] **SDU 029: Fjerde Aften** — Staged
+- [x] **SDU 030: Femte Aften** — Staged
+- [x] **SDU 031: Sjette Aften** — Staged
+- [x] **SDU 032: Syvende Aften** — Staged
+- [x] **SDU 033: Ottende Aften** — Staged
+- [x] **SDU 034: Niende Aften** — Staged
+- [x] **SDU 035: Tiende Aften** — Staged
+- [x] **SDU 036: Ellevte Aften** — Staged
+- [x] **SDU 037: Tolvte Aften** — Staged
+- [x] **SDU 038: Trettende Aften** — Staged
+- [x] **SDU 039: Fjortende Aften** — Staged
+- [x] **SDU 040: Femtende Aften** — Staged
+- [x] **SDU 041: Sextende Aften** — Staged
+- [x] **SDU 042: Syttende Aften** — Staged
+- [x] **SDU 043: Attende Aften** — Staged
+- [x] **SDU 044: Nittende Aften** — Staged
+- [x] **SDU 045: Tyvende Aften** — Staged
+- [x] **SDU 046: Fire og tyvende Aften** — Staged
+- [x] **SDU 047: To og tyvende Aften** — Staged
+- [x] **SDU 048: Fem og tyvende Aften** — Staged
+- [x] **SDU 049: Syv og tyvende Aften** — Staged
+- [x] **SDU 050: Den onde Fyrste** — Staged
+- [x] **SDU 051: En og tyvende Aften** — Staged
+- [x] **SDU 052: Tre og tyvende Aften** — Staged
+- [x] **SDU 053: Sex og tyvende Aften** — Staged
+- [x] **SDU 054: Otte og tyvende Aften** — Staged
+- [x] **SDU 055: Ni og tyvende Aften** — Staged
+- [x] **SDU 056: Tredivte Aften** — Staged
+- [x] **SDU 057: Ole Lukøje** — Staged
+- [x] **SDU 058: Svinedrengen** — Staged
+- [x] **SDU 059: Boghveden** — Staged
+- [x] **SDU 060: Metalsvinet** — Staged
+- [x] **SDU 061: Venskabs-Pagten** — Staged
+- [x] **SDU 062: En Rose fra Homers Grav** — Staged
+- [x] **SDU 063: Engelen** — Staged
+- [x] **SDU 064: Nattergalen** — Staged
+- [x] **SDU 065: Kjærestefolkene** — Staged
+- [x] **SDU 066: Den grimme Ælling** — Staged
+- [x] **SDU 067: Grantræet** — Staged
+- [x] **SDU 068: Snedronningen** — Staged
+- [x] **SDU 069: Een og tredivte Aften** — Staged
+- [x] **SDU 070: Hyldemoer** — Staged
+- [x] **SDU 071: Elverhøi** — Staged
+- [x] **SDU 072: De røde Skoe** — Staged
+- [x] **SDU 073: Springfyrene** — Staged
+- [x] **SDU 074: Hyrdinden og Skorstensfejeren** — Staged
+- [x] **SDU 075: Holger Danske** — Staged
+- [x] **SDU 076: Klokken** — Staged
+- [x] **SDU 077: Bedstemoder** — Staged
+- [x] **SDU 078: Stoppenaalen** — Staged
+- [x] **SDU 079: Den lille Pige med Svovlstikkerne** — Staged
+- [x] **SDU 080: Fra et Vindue i Vartou** — Staged
+- [x] **SDU 081: Et Billede fra Kastelsvolden** — Staged
+- [x] **SDU 082: Den gamle Gadeløgte** — Staged
+- [x] **SDU 083: Nabofamilierne** — Staged
+- [x] **SDU 084: Lille Tuk** — Staged
+- [x] **SDU 085: Skyggen** — Staged
+- [x] **SDU 086: To og tredivte Aften** — Staged
+- [x] **SDU 087: Tre og tredivte Aften** — Staged
+- [x] **SDU 088: Det gamle Hus** — Staged
+- [x] **SDU 089: Vanddraaben** — Staged
+- [x] **SDU 090: Den lykkelige familie** — Staged
+- [x] **SDU 091: Historien om en moder** — Staged
+- [x] **SDU 092: Flipperne** — Staged
+- [x] **SDU 093: Hørren** — Staged
+- [x] **SDU 094: Fugl Føniks** — Staged
+- [x] **SDU 095: Marionetspilleren** — Staged
+- [x] **SDU 096: En Historie** — Staged
+- [x] **SDU 097: Den stumme Bog** — Staged
+- [x] **SDU 098: Svinene** — Staged
+- [x] **SDU 099: Der er Forskjel** — Staged
+- [x] **SDU 100: Verdens dejligste Rose** — Staged
+- [x] **SDU 101: Om Aartusinder** — Staged
+- [x] **SDU 102: Svanereden** — Staged
+- [x] **SDU 103: Den gamle Gravsteen** — Staged
+- [x] **SDU 104: Årets Historie** — Staged
+- [x] **SDU 105: På den yderste Dag** — Staged
+- [x] **SDU 106: Det er ganske vist!** — Staged
+- [x] **SDU 107: Et godt Humør** — Staged
+- [x] **SDU 108: Hjertesorg** — Staged
+- [x] **SDU 109: Alt paa sin rette Plads!** — Staged
+- [x] **SDU 110: Nissen hos Spekhøkeren** — Staged
+- [x] **SDU 111: Under Piletræet** — Staged
+- [x] **SDU 112: Fem fra en Ærtebælg** — Staged
+- [x] **SDU 113: Hun duede ikke** — Staged
+- [x] **SDU 114: Den sidste Perle** — Staged
+- [x] **SDU 115: Et Blad fra Himlen** — Staged
+- [x] **SDU 116: To Jomfruer** — Staged
+- [x] **SDU 117: Ved det yderste Hav** — Staged
+- [x] **SDU 118: Pengegrisen** — Staged
+- [x] **SDU 119: Klods-Hans** — Staged
+- [x] **SDU 120: Ib og lille Christine** — Staged
+- [x] **SDU 121: Ærens Tornevei** — Staged
+- [x] **SDU 122: Jødepigen** — Staged
+- [x] **SDU 123: Et Stykke Perlesnor** — Staged
+- [x] **SDU 124: Klokkedybet** — Staged
+- [x] **SDU 125: Flaskehalsen** — Staged
+- [x] **SDU 126: Suppe paa en Pølsepind** — Staged
+- [x] **SDU 127: Pebersvendens Nathue** — Staged
+- [x] **SDU 128: Noget** — Staged
+- [x] **SDU 129: Det gamle Egetræes sidste Drøm** — Staged
+- [x] **SDU 130: ABC-Bogen** — Staged
+- [x] **SDU 131: Dynd-Kongens Datter** — Staged
+- [x] **SDU 132: Hurtigløberne** — Staged
+- [x] **SDU 133: De Vises Steen** — Staged
+- [x] **SDU 134: Vinden fortæller om Valdemar Daae og hans Døttre** — Staged
+- [x] **SDU 135: Pigen, som traadte paa Brødet** — Staged
+- [x] **SDU 136: Taarnvægteren Ole** — Staged
+- [x] **SDU 137: Anne Lisbeth** — Staged
+- [x] **SDU 138: Børnesnak** — Staged
+- [x] **SDU 139: Barnet i Graven** — Staged
+- [x] **SDU 140: Pen og Blækhuus** — Staged
+- [x] **SDU 141: Gaardhanen og Veirhanen** — Staged
+- [x] **SDU 142: Deilig!** — Staged
+- [x] **SDU 143: En Historie fra Klitterne** — Staged
+- [x] **SDU 144: To Brødre** — Staged
+- [x] **SDU 145: Flyttedagen** — Staged
+- [x] **SDU 146: Sommerfuglen** — Staged
+- [x] **SDU 147: Bispen paa Børglum og hans Frænde** — Staged
+- [x] **SDU 148: Tolv med Posten** — Staged
+- [x] **SDU 149: Skarnbassen** — Staged
+- [x] **SDU 150: Hvad Fatter gjør, det er altid det Rigtige** — Staged
+- [x] **SDU 151: Sneemanden** — Staged
+- [x] **SDU 152: I Andegaarden** — Staged
+- [x] **SDU 153: Det nye Aarhundredes Musa** — Staged
+- [x] **SDU 154: Iisjomfruen** — Staged
+- [x] **SDU 155: Psychen** — Staged
+- [x] **SDU 156: Sneglen og Rosenhækken** — Staged
+- [x] **SDU 157: Den gamle Kirkeklokke** — Staged
+- [x] **SDU 158: Sølvskillingen** — Staged
+- [x] **SDU 159: Sommergjækken** — Staged
+- [x] **SDU 160: Theepotten** — Staged
+- [x] **SDU 161: Folkesangens Fugl** — Staged
+- [x] **SDU 162: Lygtemændene ere i Byen, sagde Mosekonen** — Staged
+- [x] **SDU 163: Veirmøllen** — Staged
+- [x] **SDU 164: I Børnestuen** — Staged
+- [x] **SDU 165: Guldskat** — Staged
+- [x] **SDU 166: Stormen flytter Skilt** — Staged
+- [x] **SDU 167: Gjemt er ikke glemt** — Staged
+- [x] **SDU 168: Portnerens Søn** — Staged
+- [x] **SDU 169: Moster** — Staged
+- [x] **SDU 170: Skrubtudsen** — Staged
+- [x] **SDU 171: Vænø og Glænø** — Staged
+- [x] **SDU 172: De smaa Grønne** — Staged
+- [x] **SDU 173: Nissen og Madamen** — Staged
+- [x] **SDU 174: Peiter, Peter og Peer** — Staged
+- [x] **SDU 175: Gudfaders Billedbog** — Staged
+- [x] **SDU 176: Hvem var den Lykkeligste?** — Staged
+- [x] **SDU 177: Ugedagene** — Staged
+- [x] **SDU 178: Dryaden** — Staged
+- [x] **SDU 179: Laserne** — Staged
+- [x] **SDU 180: Herrebladene** — Staged
+- [x] **SDU 181: Lykken kan ligge i en Pind** — Staged
+- [x] **SDU 182: Solskins-Historier** — Staged
+- [x] **SDU 183: Kometen** — Staged
+- [x] **SDU 184: Hvad man kan hitte paa** — Staged
+- [x] **SDU 185: Hvad Tidselen oplevede** — Staged
+- [x] **SDU 186: Hønse-Grethes Familie** — Staged
+- [x] **SDU 187: Hvad hele Familien sagde** — Staged
+- [x] **SDU 188: Lysene** — Staged
+- [x] **SDU 189: Oldefa'er** — Staged
+- [x] **SDU 190: Det Utroligste** — Staged
 - [x] **SDU 191: Danske Folkesagn** — Staged
+- [x] **SDU 192: Spørg Amagermo'er!** — Staged
+- [x] **SDU 193: Dandse, dandse Dukke min!** — Staged
+- [x] **SDU 194: Den store Søslange** — Staged
+- [x] **SDU 195: Gartneren og Herskabet** — Staged
+- [x] **SDU 196: Hvad gamle Johanne fortalte** — Staged
+- [x] **SDU 197: Portner-nøglen** — Staged
+- [x] **SDU 198: Krøblingen** — Staged
+- [x] **SDU 199: Tante Tandpine** — Staged
+- [x] **SDU 200: Loppen og Professoren** — Staged
+- [x] **SDU 201: Qvæk** — Staged
+- [x] **SDU 202: Skriveren** — Staged
 - [x] **SDU 203: Den første Aften** — Staged
 - [x] **SDU 204: "Man siger -"!** — Staged
 - [x] **SDU 205: Den fattige Kone og den lille Canariefugl** — Staged
