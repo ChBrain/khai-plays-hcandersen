@@ -218,6 +218,12 @@ The current status of the H.C. Andersen productions within this house, cataloged
 - [x] **SDU 204: "Man siger -"!** — Staged
 - [x] **SDU 205: Den fattige Kone og den lille Canariefugl** — Staged
 - [x] **SDU 206: Urbanus** — Staged
+- [x] **SDU 207: Kartoflerne** — Staged
+- [x] **SDU 208: Æblet** — Staged
+- [x] **SDU 209: Temperamenterne** — Staged
+- [x] **SDU 210: Vor gamle Skolemester** — Staged
+- [x] **SDU 211: De blaae Bjerge** — Staged
+- [x] **SDU 212: Hans og Grethe** — Staged
 
 ## Origin
 
