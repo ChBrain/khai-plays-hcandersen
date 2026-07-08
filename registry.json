@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.213.0",
+  "version": "0.214.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1067,6 +1067,11 @@
       "id": "sdu401_improvisatoren",
       "title": "The Improvisatore",
       "description": "En ung romersk improvisators rejse mod kunstnerisk gennembrud og kærlighed."
+    },
+    {
+      "id": "sdu402_ot",
+      "title": "O.T.",
+      "description": "En ung mands kamp for at frigøre sig fra en traumatisk tugthusfortid og finde kærligheden."
     }
   ]
 }
