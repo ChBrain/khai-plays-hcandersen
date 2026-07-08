@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.214.0",
+  "version": "0.215.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1072,6 +1072,11 @@
       "id": "sdu402_ot",
       "title": "O.T.",
       "description": "En ung mands kamp for at frigøre sig fra en traumatisk tugthusfortid og finde kærligheden."
+    },
+    {
+      "id": "sdu403_spillemand",
+      "title": "Only a Fiddler",
+      "description": "Historien om det uforløste musikalske geni Christian og den vilde, adelige Naomis kontrasterende skæbner."
     }
   ]
 }
