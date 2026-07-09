@@ -226,6 +226,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 402: O.T.** — Staged
 - [x] **SDU 403: Kun en Spillemand** — Staged
 - [x] **SDU 404: De to Baronesser** — Staged
+- [x] **SDU 405: At være eller ikke være** — Staged
 
 ## Origin
 
