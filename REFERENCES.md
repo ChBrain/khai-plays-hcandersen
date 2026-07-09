@@ -242,6 +242,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 609: Agnete og Havmanden** — Staged
 - [x] **SDU 610: Festen paa Kenilworth** — Staged
 - [x] **SDU 611: Skilles og mødes** — Staged
+- [x] **SDU 612: En rigtig Soldat** — Staged
 
 ## Origin
 
