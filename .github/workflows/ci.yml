@@ -82,13 +82,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: changeset presence gate
-        # The bot's "Version Packages" PR (changeset-release/*) consumes
-        # changesets, so it carries none by design — don't red it. The job still
-        # runs (so the required check reports green), only this gate step is
-        # skipped. khai-guard also exempts the release branch from its own
-        # changeset-check; this covers the interim until the house bumps to the
-        # guard version that ships that fix.
-        if: ${{ !startsWith(github.head_ref, 'changeset-release/') }}
+        # Exempt the bot lanes that never author changesets: the changesets
+        # "Version Packages" PR (changeset-release/*) consumes them, and
+        # Dependabot (dependabot/*) ships only dep bumps. The job still runs (so
+        # the required check reports green); only this gate step is skipped.
+        # khai-guard also exempts the release branch internally.
+        if: ${{ !startsWith(github.head_ref, 'changeset-release/') && !startsWith(github.head_ref, 'dependabot/') }}
         env:
           HEAD_REF: ${{ github.head_ref }}
           BASE_SHA: ${{ github.event.pull_request.base.sha }}

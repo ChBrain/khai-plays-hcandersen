@@ -34,13 +34,13 @@
     "test": "vitest run",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && khai-tests registry build",
+    "version": "changeset version && npx khai-tests registry build",
     "release": "changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.8",
     "@chbrain/khai-arch": "^0.1.0",
-    "@chbrain/khai-guard": "^0.1.12",
+    "@chbrain/khai-guard": "^0.1.16",
     "@chbrain/khai-language": "^0.1.0",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.0",
