@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.222.0",
+  "version": "0.223.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1112,6 +1112,11 @@
       "id": "sdu601_alfsol",
       "title": "Alfsol",
       "description": "Hans Christian Andersens første nordiske tragedie i fem akter om den skønne Alfsol og hendes tragiske skæbne."
+    },
+    {
+      "id": "sdu602_vissenbjerg",
+      "title": "The Robbers of Vissenbjerg",
+      "description": "Et fynsk røverdrama om Knud Vissenberg, overtroen omkring alrunen og Henning Aasums bejleri."
     }
   ]
 }
