@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.226.0
+
+### Minor Changes
+
+- ec95147: Play: stage SDU 604 (Skibet).
+
 ## 0.225.0
 
 ### Minor Changes
