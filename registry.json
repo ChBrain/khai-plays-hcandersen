@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.216.0",
+  "version": "0.217.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1082,6 +1082,11 @@
       "id": "sdu404_baronesser",
       "title": "The Two Baronesses",
       "description": "Historien om den unge og gamle baronesse, der spejler overgangen fra enevælde til en ny humanistisk tid."
+    },
+    {
+      "id": "sdu405_tro",
+      "title": "To Be or Not to Be",
+      "description": "Historien om Niels Bryde, der splittes mellem kold naturvidenskab og håbet om menneskeåndens udødelighed."
     }
   ]
 }
