@@ -46,8 +46,8 @@
     "@chbrain/khai-review": "^0.1.0",
     "@chbrain/khai-tests": "^0.1.0",
     "husky": "^9.1.0",
-    "prettier": "^3.3.0",
-    "vitest": "^4.1.8"
+    "prettier": "^3.9.5",
+    "vitest": "^4.1.10"
   },
   "dependencies": {
     "@chbrain/khai-engine-spine": "^0.1.4"
