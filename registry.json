@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.218.0",
+  "version": "0.219.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1092,6 +1092,11 @@
       "id": "sdu406_lykke",
       "title": "Lucky Peer",
       "description": "Historien om den fattige, heldige kunstner Peer, der dør i sit største triumføjeblik på operascenen."
+    },
+    {
+      "id": "sdu501_gjenfaerdet",
+      "title": "The Ghost at Palnatoke's Grave",
+      "description": "En gotisk fortælling om overtro og uheld ved Palnatokes gravhøj, hvor Jochum møder sin tragiske skæbne."
     }
   ]
 }
