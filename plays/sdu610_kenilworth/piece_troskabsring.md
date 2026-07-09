@@ -23,7 +23,6 @@ Troskabsringen, som Emmy bærer som et hemmeligt symbol på sit ægteskab med Le
 
 [place_cumnor.md](place_cumnor.md) (held by Emmy at Cumnor Hall)
 
-
 ## Load Bearing
 
 Fungerer som det fysiske bevis på elskernes hemmelige vielse og Leicesters tabte løfter.
