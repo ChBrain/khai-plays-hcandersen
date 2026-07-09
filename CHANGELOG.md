@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.222.0
+
+### Minor Changes
+
+- 9be3495: Play: stage SDU 503 (Den skjønne Grammatica).
+
 ## 0.221.0
 
 ### Minor Changes
