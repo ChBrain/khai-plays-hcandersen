@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.227.0",
+  "version": "0.228.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1137,6 +1137,11 @@
       "id": "sdu606_lammermoor",
       "title": "Bruden fra Lammermoor",
       "description": "Et romantisk syngestykke i fire akter om slægten Ravenswoods undergang og den tragiske brud."
+    },
+    {
+      "id": "sdu607_ravnen",
+      "title": "Ravnen eller Broderprøven",
+      "description": "En eventyrlig og magisk trylleopera i tre akter om brodertroskab, forbandelser og frelse."
     }
   ]
 }
