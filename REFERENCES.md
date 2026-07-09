@@ -238,6 +238,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 605: Fornuftgiftermaalet Nr. 2. En Dramatisk Drøm paa Skagens Rev** — Staged
 - [x] **SDU 606: Bruden fra Lammermoor** — Staged
 - [x] **SDU 607: Ravnen eller Broderprøven** — Staged
+- [x] **SDU 608: Dronningen paa 16 Aar** — Staged
 
 ## Origin
 
