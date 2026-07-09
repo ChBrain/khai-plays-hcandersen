@@ -1,5 +1,12 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.230.0
+
+### Minor Changes
+
+- 6227199: Play: stage SDU 607 (Ravnen eller Broderprøven).
+- 3f83df6: Play: stage SDU 608 (Dronningen paa 16 Aar).
+
 ## 0.228.0
 
 ### Minor Changes
