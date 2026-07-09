@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.232.0",
+  "version": "0.233.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1162,6 +1162,11 @@
       "id": "sdu611_skilles",
       "title": "Skilles og mødes",
       "description": "En original vaudeville i to afdelinger om rejsende strandet på Sprogø i Storebælts drivis."
+    },
+    {
+      "id": "sdu612_soldat",
+      "title": "En rigtig Soldat",
+      "description": "En dramatisk situation i én akt på vers om en tante og hendes broderdatter i en forfalden fæstning."
     }
   ]
 }
