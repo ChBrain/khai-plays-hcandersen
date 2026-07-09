@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.234.0",
+  "version": "0.235.0",
   "plays": [
     {
       "kind": "play",
@@ -1406,6 +1406,12 @@
       "id": "sdu613_usynlige",
       "title": "Den Usynlige paa Sprogø",
       "description": "En original dramatisk spøg i én akt om en fader, der gøres usynlig på det isbelagte Sprogø."
+    },
+    {
+      "kind": "play",
+      "id": "sdu614_mulatten",
+      "title": "Mulatten",
+      "description": "Et romantisk drama i fem akter om den dannede mulat Horatio og grevinde Cecilies kamp mod uretfærdighed."
     }
   ]
 }
