@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.228.0",
+  "version": "0.229.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1142,6 +1142,11 @@
       "id": "sdu607_ravnen",
       "title": "Ravnen eller Broderprøven",
       "description": "En eventyrlig og magisk trylleopera i tre akter om brodertroskab, forbandelser og frelse."
+    },
+    {
+      "id": "sdu608_dronningen",
+      "title": "Dronningen paa 16 Aar",
+      "description": "Et historisk lystspil og drama i to akter om den unge dronning Christinas pligt og afkald."
     }
   ]
 }
