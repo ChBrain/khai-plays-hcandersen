@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.223.0",
+  "version": "0.224.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1117,6 +1117,11 @@
       "id": "sdu602_vissenbjerg",
       "title": "The Robbers of Vissenbjerg",
       "description": "Et fynsk røverdrama om Knud Vissenberg, overtroen omkring alrunen og Henning Aasums bejleri."
+    },
+    {
+      "id": "sdu603_nicolaitaarn",
+      "title": "Kjærlighed paa Nicolai Taarn",
+      "description": "En heroisk vaudeville i én akt på Nikolaj Tårn hvor publikum stemmer om Alisons og Ellens skæbne."
     }
   ]
 }
