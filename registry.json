@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.230.0",
+  "version": "0.231.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1152,6 +1152,11 @@
       "id": "sdu609_agnete",
       "title": "Agnete og Havmanden",
       "description": "Et dramatisk digt og læsedrama i to akter efter den gamle, tragiske folkevise om havet."
+    },
+    {
+      "id": "sdu610_kenilworth",
+      "title": "Festen paa Kenilworth",
+      "description": "Et romantisk syngespil i tre akter om den hemmelige kærlighed mellem Leicester og Emmy."
     }
   ]
 }
