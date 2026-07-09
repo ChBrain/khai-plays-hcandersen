@@ -232,6 +232,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 502: Fodreise fra Holmens Canal til Østpynten af Amager i Aarene 1828 og 1829** — Staged
 - [x] **SDU 503: Den skjønne Grammatica, eller Badens latinske Grammatik** — Staged
 - [x] **SDU 601: Alfsol** — Staged
+- [x] **SDU 602: Røverne i Vissenbjerg i Fyen** — Staged
 
 ## Origin
 
