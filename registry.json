@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.225.0",
+  "version": "0.226.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1127,6 +1127,11 @@
       "id": "sdu604_skibet",
       "title": "Skibet",
       "description": "En underholdende vaudeville i én akt om et skib i karantæne, forvekslinger og kærlighedsbreve."
+    },
+    {
+      "id": "sdu605_fornuftgiftermaalet",
+      "title": "Fornuftgiftermaalet Nr. 2",
+      "description": "En satirisk, dramatisk drøm på Skagens Rev, hvor personificerede komedier undervises af en streng skolemester."
     }
   ]
 }
