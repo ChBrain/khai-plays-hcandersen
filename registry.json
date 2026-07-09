@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.224.0",
+  "version": "0.225.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1122,6 +1122,11 @@
       "id": "sdu603_nicolaitaarn",
       "title": "Kjærlighed paa Nicolai Taarn",
       "description": "En heroisk vaudeville i én akt på Nikolaj Tårn hvor publikum stemmer om Alisons og Ellens skæbne."
+    },
+    {
+      "id": "sdu604_skibet",
+      "title": "Skibet",
+      "description": "En underholdende vaudeville i én akt om et skib i karantæne, forvekslinger og kærlighedsbreve."
     }
   ]
 }
