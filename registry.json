@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.219.0",
+  "version": "0.220.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1097,6 +1097,11 @@
       "id": "sdu501_gjenfaerdet",
       "title": "The Ghost at Palnatoke's Grave",
       "description": "En gotisk fortælling om overtro og uheld ved Palnatokes gravhøj, hvor Jochum møder sin tragiske skæbne."
+    },
+    {
+      "id": "sdu502_fodreise",
+      "title": "A Journey on Foot",
+      "description": "En fantastisk og satirisk rejse nytårsnat, hvor den unge digter fristes af Satan og vandrer mod Amager."
     }
   ]
 }
