@@ -234,6 +234,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 601: Alfsol** — Staged
 - [x] **SDU 602: Røverne i Vissenbjerg i Fyen** — Staged
 - [x] **SDU 603: Kjærlighed paa Nicolai Taarn eller Hvad siger Parterret** — Staged
+- [x] **SDU 604: Skibet** — Staged
 
 ## Origin
 
