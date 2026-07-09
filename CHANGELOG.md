@@ -1,5 +1,12 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.225.0
+
+### Minor Changes
+
+- 93e9989: Play: stage SDU 602 (Røverne i Vissenbjerg i Fyen).
+- a94d68c: Play: stage SDU 603 (Kjærlighed paa Nicolai Taarn eller Hvad siger Parterret).
+
 ## 0.223.0
 
 ### Minor Changes
