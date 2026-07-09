@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.219.0
+
+### Minor Changes
+
+- d0026e5: Play: stage SDU 406 (Lykke-Peer).
+
 ## 0.45.1
 
 ### Patch Changes
