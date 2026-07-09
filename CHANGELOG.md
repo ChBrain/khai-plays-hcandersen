@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.227.0
+
+### Minor Changes
+
+- c6a0d58: Play: stage SDU 605 (Fornuftgiftermaalet Nr. 2).
+
 ## 0.226.0
 
 ### Minor Changes
