@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.220.0
+
+### Minor Changes
+
+- 51d9acf: Play: stage SDU 501 (Gjenfærdet ved Palnatokes Grav).
+
 ## 0.219.0
 
 ### Minor Changes
