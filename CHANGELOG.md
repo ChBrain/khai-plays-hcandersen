@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.221.0
+
+### Minor Changes
+
+- 3cbc984: Play: stage SDU 502 (Fodreise fra Holmens Canal).
+
 ## 0.220.0
 
 ### Minor Changes
