@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.228.0
+
+### Minor Changes
+
+- 609b861: Play: stage SDU 606 (Bruden fra Lammermoor).
+
 ## 0.227.0
 
 ### Minor Changes
