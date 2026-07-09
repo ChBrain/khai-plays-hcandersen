@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.223.0
+
+### Minor Changes
+
+- 33ea2dc: Play: stage SDU 601 (Alfsol).
+
 ## 0.222.0
 
 ### Minor Changes
