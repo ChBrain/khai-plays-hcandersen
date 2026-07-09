@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.220.0",
+  "version": "0.221.0",
   "plays": [
     {
       "id": "sdu001_dykker_klokken",
@@ -1102,6 +1102,11 @@
       "id": "sdu502_fodreise",
       "title": "A Journey on Foot",
       "description": "En fantastisk og satirisk rejse nytårsnat, hvor den unge digter fristes af Satan og vandrer mod Amager."
+    },
+    {
+      "id": "sdu503_grammatica",
+      "title": "The Beautiful Grammatica",
+      "description": "En satirisk kærlighedshistorie personificeret af latinske grammatikord under Mama Nominativs styre."
     }
   ]
 }
