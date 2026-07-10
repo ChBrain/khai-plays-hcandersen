@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.240.0",
+  "version": "0.241.0",
   "plays": [
     {
       "kind": "play",
@@ -1442,6 +1442,12 @@
       "id": "sdu619_kongen_droemmer",
       "title": "Kongen drømmer",
       "description": "Et originalt romantisk drama om Christian 2.s drømme og indre forsoning i Sønderborg Slots fængsel."
+    },
+    {
+      "kind": "play",
+      "id": "sdu620_ahasverus_fragmenter",
+      "title": "Fragmenter af Ahasverus",
+      "description": "En filosofisk og allegorisk billedrække om Ahasverus' tvivl og Columbus' opdagelsesrejse."
     }
   ]
 }
