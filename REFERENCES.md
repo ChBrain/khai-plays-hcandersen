@@ -247,6 +247,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 614: Mulatten** — Staged
 - [x] **SDU 615: Mikkels Kjærlighedshistorier i Paris** — Staged
 - [x] **SDU 616: En Comedie i det Grønne** — Staged
+- [x] **SDU 617: Maurerpigen** — Staged
 
 ## Origin
 
