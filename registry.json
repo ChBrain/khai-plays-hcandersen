@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.242.0",
+  "version": "0.243.0",
   "plays": [
     {
       "kind": "play",
@@ -1454,6 +1454,12 @@
       "id": "sdu621_lykkens_blomst",
       "title": "Lykkens Blomst",
       "description": "En eventyr-komedie i to akter om en magisk blomst, der tester et ungt pars kærlighed og lykke."
+    },
+    {
+      "kind": "play",
+      "id": "sdu622_liden_kirsten",
+      "title": "Liden Kirsten",
+      "description": "En romantisk opera i to akter bygget på gamle danske folkeviser om kærlighed og slægtsgåder."
     }
   ]
 }
