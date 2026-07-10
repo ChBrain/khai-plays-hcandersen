@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.236.0",
+  "version": "0.237.0",
   "plays": [
     {
       "kind": "play",
@@ -1418,6 +1418,12 @@
       "id": "sdu615_mikkels_historier",
       "title": "Mikkels Kjærlighedshistorier i Paris",
       "description": "En humoristisk vaudeville-monolog om en simpel dansk soldat og hans rejsefortællinger i Paris."
+    },
+    {
+      "kind": "play",
+      "id": "sdu616_comedie_groenne",
+      "title": "En Comedie i det Grønne",
+      "description": "En vaudeville i én akt, der undervejs parodierer tidens hegelianske filosofi og Søren Kierkegaard."
     }
   ]
 }
