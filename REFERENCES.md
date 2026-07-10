@@ -251,6 +251,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 618: Vandring gjennem Opera-Galleriet** — Staged
 - [x] **SDU 619: Kongen drømmer** — Staged
 - [x] **SDU 620: Fragmenter af Ahasverus** — Staged
+- [x] **SDU 621: Lykkens Blomst** — Staged
 
 ## Origin
 
