@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.237.0",
+  "version": "0.238.0",
   "plays": [
     {
       "kind": "play",
@@ -1424,6 +1424,12 @@
       "id": "sdu616_comedie_groenne",
       "title": "En Comedie i det Grønne",
       "description": "En vaudeville i én akt, der undervejs parodierer tidens hegelianske filosofi og Søren Kierkegaard."
+    },
+    {
+      "kind": "play",
+      "id": "sdu617_maurerpigen",
+      "title": "Maurerpigen",
+      "description": "En tragedie i fem akter om den spanske heltinde Raphaella og hendes skæbnesvangre sande ophav."
     }
   ]
 }
