@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.241.0",
+  "version": "0.242.0",
   "plays": [
     {
       "kind": "play",
@@ -1448,6 +1448,12 @@
       "id": "sdu620_ahasverus_fragmenter",
       "title": "Fragmenter af Ahasverus",
       "description": "En filosofisk og allegorisk billedrække om Ahasverus' tvivl og Columbus' opdagelsesrejse."
+    },
+    {
+      "kind": "play",
+      "id": "sdu621_lykkens_blomst",
+      "title": "Lykkens Blomst",
+      "description": "En eventyr-komedie i to akter om en magisk blomst, der tester et ungt pars kærlighed og lykke."
     }
   ]
 }
