@@ -4,1171 +4,1405 @@
   "version": "0.234.0",
   "plays": [
     {
+      "kind": "play",
       "id": "sdu001_dykker_klokken",
       "title": "The Diving Bell",
       "description": "En dykker stiger ned på havbunden i sin klokke og møder en havfrue i det hemmelighedsfulde dyb."
     },
     {
+      "kind": "play",
       "id": "sdu002_doedningen",
       "title": "The Dead Man",
       "description": "Johannes betaler en død mands gæld og får følgeskab af en mystisk hjælper, der beskytter ham på rejsen."
     },
     {
+      "kind": "play",
       "id": "sdu003_alferne_paa_heden",
       "title": "The Elves on the Heath",
       "description": "Alferne danser på heden under måneskinnet, mens en fattig hyrde iagttager deres mystiske værn om den vilde natur."
     },
     {
+      "kind": "play",
       "id": "sdu004_et_boerneeventyr",
       "title": "A Child's Tale",
       "description": "To børn leger i haven og huset, mens kærlighed og tro spirer gennem deres uskyldige leg."
     },
     {
+      "kind": "play",
       "id": "sdu005_det_sjunkne_kloster",
       "title": "The Sunken Monastery",
       "description": "Et kloster synker i søen, mens munken beder og åmanden ser til fra dybet."
     },
     {
+      "kind": "play",
       "id": "sdu006_fyrtoejet",
       "title": "The Tinderbox",
       "description": "En soldat stiger til tops og bliver konge ved hjælp af et magisk fyrtøj og tre store hunde."
     },
     {
+      "kind": "play",
       "id": "sdu007_lille_claus_og_store_claus",
       "title": "Little Claus and Big Claus",
       "description": "Lille Claus snyder den rige Store Claus gentagne gange, indtil Store Claus frivilligt lader sig drukne i en sæk."
     },
     {
+      "kind": "play",
       "id": "sdu008_prinsessen_paa_aerten",
       "title": "The Princess and the Pea",
       "description": "En prins søger en ægte prinsesse, som til sidst findes ved hjælp af en enkelt ært under tyve madrasser."
     },
     {
+      "kind": "play",
       "id": "sdu009_den_lille_idas_blomster",
       "title": "Little Ida's Flowers",
       "description": "Ida oplever sine visne blomster danse til et midnatsbal og begraver dem derefter i haven, så de kan gro igen."
     },
     {
+      "kind": "play",
       "id": "sdu010_tommelise",
       "title": "Thumbelina",
       "description": "Den lille pige Tommelise overvinder tvungne ægteskaber med tudser og muldvarpe og flyver mod friheden med en svale."
     },
     {
+      "kind": "play",
       "id": "sdu011_den_uartige_dreng",
       "title": "The Naughty Boy",
       "description": "Amor søger ly hos en gammel digter i stormen, men skyder ham i hjertet med sin pil efter at være blevet varmet op."
     },
     {
+      "kind": "play",
       "id": "sdu012_rejsekammeraten",
       "title": "The Traveling Companion",
       "description": "Johannes betaler en død mands gæld og får hjælp af en mystisk ledsager til at bryde en prinsesses forbandelse."
     },
     {
+      "kind": "play",
       "id": "sdu013_det_er_dig_fabelen_sigter_til",
       "title": "It is You, the Fable refers to!",
       "description": "Fabelen søger mennesket for at spejle dets forfængelighed og afsløre den skjulte sandhed."
     },
     {
+      "kind": "play",
       "id": "sdu014_talismanen",
       "title": "The Talisman",
       "description": "Et ungt par søger lykkens talisman og finder den i hyttens simple nøjsomhed."
     },
     {
+      "kind": "play",
       "id": "sdu015_den_gamle_gud_lever_endnu",
       "title": "The Old God Still Lives",
       "description": "En troende fader og hans håbende barn finder uventet hjælp i nød, da en fugl bringer dem brød."
     },
     {
+      "kind": "play",
       "id": "sdu016_den_lille_havfrue",
       "title": "The Little Mermaid",
       "description": "Den lille havfrue ofrer sin stemme og sit liv i havet for at få menneskeben og søge en udødelig sjæl som menneske."
     },
     {
+      "kind": "play",
       "id": "sdu017_kejserens_nye_klaeder",
       "title": "The Emperor's New Clothes",
       "description": "Kejseren bedrages til at bære usynlige klæder i en procession, indtil et lille barn råber, at han ikke har noget på."
     },
     {
+      "kind": "play",
       "id": "sdu018_lykkens_galoscher",
       "title": "The Galoshes of Fortune",
       "description": "Et par magiske galoscher opfylder bærerens ønsker, hvilket fører til absurde og ubehagelige situationer."
     },
     {
+      "kind": "play",
       "id": "sdu019_gaaseurten",
       "title": "The Daisy",
       "description": "En lille gåseurt oplever lærkens sang og kærlighed, men må dele dens tragiske skæbne i et trangt fuglebur."
     },
     {
+      "kind": "play",
       "id": "sdu020_tinsoldaten",
       "title": "The Steadfast Tin Soldier",
       "description": "En tinsoldat forbliver standhaftig i sin kærlighed til en papirdanserinde gennem svære prøvelser og flammer."
     },
     {
+      "kind": "play",
       "id": "sdu021_svanerne",
       "title": "The Wild Swans",
       "description": "Elisa må udstå stumhed og strikke brændenældeskjorter for at befri sine elleve brødre fra heksens forbandelse."
     },
     {
+      "kind": "play",
       "id": "sdu022_rosen_alfen",
       "title": "The Rose Elf",
       "description": "En lille rosenalf afslører et hemmeligt mord for en ung pige, hvis sorg fører til en tragisk og blomstrende hævn."
     },
     {
+      "kind": "play",
       "id": "sdu023_paradisets_have",
       "title": "The Garden of Paradise",
       "description": "En kongeprins flyver med østenvinden til Paradisets Have, men bukker under for fristelsen og kysser den smukke fe."
     },
     {
+      "kind": "play",
       "id": "sdu024_den_flyvende_kuffert",
       "title": "The Flying Trunk",
       "description": "En købmandssøn flyver i en magisk kuffert til Tyrkiet, vinder en prinsesse, men mister alt da kufferten brænder."
     },
     {
+      "kind": "play",
       "id": "sdu025_storkene",
       "title": "The Storks",
       "description": "En storkefamilie på et tag plages af drengenes onde sang, men lærer at flyve og tager en retfærdig hævn over dem."
     },
     {
+      "kind": "play",
       "id": "sdu026_foerste_aften",
       "title": "First Evening",
       "description": "Månen fortæller om en lille pige i den snævre gade, som drømmer i månelysets skær."
     },
     {
+      "kind": "play",
       "id": "sdu027_anden_aften",
       "title": "Second Evening",
       "description": "Månen ser ned i haven, hvor en lille dreng leger, og fortæller ham om natten og legetøjets hemmelige liv."
     },
     {
+      "kind": "play",
       "id": "sdu028_tredie_aften",
       "title": "Third Evening",
       "description": "Månen ser ned i en snæver stue, hvor en moder synger vuggesang for sit barn ved sengen."
     },
     {
+      "kind": "play",
       "id": "sdu029_fjerde_aften",
       "title": "Fourth Evening",
       "description": "Månen ser en fattig kunstner male i sit atelier, hvor pensel og lærred fanger nattens skønhed."
     },
     {
+      "kind": "play",
       "id": "sdu030_femte_aften",
       "title": "Fifth Evening",
       "description": "Månen fortæller om en ung pige, der tårevædet tager afsked med sit hjertes udkårne ved skibets afsejling."
     },
     {
+      "kind": "play",
       "id": "sdu031_sjette_aften",
       "title": "Sixth Evening",
       "description": "Månen kigger ind ad et lille kvistvindue og fortæller om den fattige students søgen efter sandhed."
     },
     {
+      "kind": "play",
       "id": "sdu032_syvende_aften",
       "title": "Seventh Evening",
       "description": "Månen fortæller om en ensom svanes flyvning mod en skovsø under den dybe nattehimmel."
     },
     {
+      "kind": "play",
       "id": "sdu033_ottende_aften",
       "title": "The Eighth Evening",
       "description": "Månen fortæller om en fange i et tårn, der længes efter frihed bag cellens gitter."
     },
     {
+      "kind": "play",
       "id": "sdu034_niende_aften",
       "title": "The Ninth Evening",
       "description": "Månen fortæller om en gøgler på torvet, der underholder med sin tromme og maske under nattens stjerner."
     },
     {
+      "kind": "play",
       "id": "sdu035_tiende_aften",
       "title": "Tenth Evening",
       "description": "Månen og digteren søger poesi og ro ved skoven og grøften i nattens stille stund."
     },
     {
+      "kind": "play",
       "id": "sdu036_ellevte_aften",
       "title": "Eleventh Evening",
       "description": "Månen ser en syg pige i sit kammer ved vinduet, hvor en spire i en urtepotte spirer."
     },
     {
+      "kind": "play",
       "id": "sdu037_tolvte_aften",
       "title": "Twelfth Evening",
       "description": "Månen ser en rig mand i hans store sal, der trods sin rigdom føler en dyb, indre ensomhed."
     },
     {
+      "kind": "play",
       "id": "sdu038_trettende_aften",
       "title": "Thirteenth Evening",
       "description": "Månen ser ind i en fattig hytte, hvor en flittig mand og hans kærlige kone deler brød."
     },
     {
+      "kind": "play",
       "id": "sdu039_fjortende_aften",
       "title": "Fourteenth Evening",
       "description": "Månen lyser på en gammel soldat, der sidder med sin medalje og sabel og mindes krigen."
     },
     {
+      "kind": "play",
       "id": "sdu040_femtende_aften",
       "title": "Fifteenth Evening",
       "description": "Månen ser en ung danserinde på scenen, der drømmer om sin første store optræden."
     },
     {
+      "kind": "play",
       "id": "sdu041_sextende_aften",
       "title": "Sixteenth Evening",
       "description": "Månen oplyser en rejsende i ørkenen, der søger ly i sit telt under stjernerne."
     },
     {
+      "kind": "play",
       "id": "sdu042_syttende_aften",
       "title": "Seventeenth Evening",
       "description": "Månen ser en gammel kone, der sidder på kirkegården og pynter sin mands grav med friske blomster."
     },
     {
+      "kind": "play",
       "id": "sdu043_attende_aften",
       "title": "Eighteenth Evening",
       "description": "Månen skinner over havet, hvor en fisker arbejder med sit net i sin lille båd."
     },
     {
+      "kind": "play",
       "id": "sdu044_nittende_aften",
       "title": "Nineteenth Evening",
       "description": "Månen finder en gøgler i skovbrynet, der hviler ved sin vogn og koger i sin gryde."
     },
     {
+      "kind": "play",
       "id": "sdu045_tyvende_aften",
       "title": "Twentieth Evening",
       "description": "Månen ser en dreng på stranden, der leger med en spand, mens bølgerne skyller ind."
     },
     {
+      "kind": "play",
       "id": "sdu046_fireogtyvende_aften",
       "title": "Twenty-Fourth Evening",
       "description": "Månen ser ind i et borgerhus i Frankfurt, hvor en pige sidder stille med en rose."
     },
     {
+      "kind": "play",
       "id": "sdu047_toogtyvende_aften",
       "title": "Twenty-Second Evening",
       "description": "Månen lyser ind i Tyrol, hvor en mand betragter de hellige billeder på husets mure under nattehimlen."
     },
     {
+      "kind": "play",
       "id": "sdu048_femogtyvende_aften",
       "title": "Twenty-Fifth Evening",
       "description": "Månen ser en lille skorstensfejer dreng dukke op på taget i morgengryet."
     },
     {
+      "kind": "play",
       "id": "sdu049_syvogtyvende_aften",
       "title": "Twenty-Seventh Evening",
       "description": "Månen skinner over havet og følger en flok vilde svaner, hvoraf en træt svane synker."
     },
     {
+      "kind": "play",
       "id": "sdu050_den_onde_fyrste",
       "title": "The Wicked Prince",
       "description": "En hovmodig fyrste erobrer verden og angriber Gud med et luftskib, men knuses af en engel og en enkelt myg."
     },
     {
+      "kind": "play",
       "id": "sdu051_enogtyvende_aften",
       "title": "Twenty-First Evening",
       "description": "Månen ser en pige trøste sin dukke efterladt i et træ i haven."
     },
     {
+      "kind": "play",
       "id": "sdu052_treogtyvende_aften",
       "title": "Twenty-Third Evening",
       "description": "Månen kigger ind i et kammer i København, hvor en lille dreng forundres over gøgen i et gøgur."
     },
     {
+      "kind": "play",
       "id": "sdu053_sexogtyvende_aften",
       "title": "Twenty-Sixth Evening",
       "description": "Månen lyser over smalle gader i Kina og kigger ind i et tempel, hvor en præst tænder lamperne."
     },
     {
+      "kind": "play",
       "id": "sdu054_otteogtyvende_aften",
       "title": "Twenty-Eighth Evening",
       "description": "Månen lyser over Vreta klosterkirke i Sverige og kigger ned i stenkisterne."
     },
     {
+      "kind": "play",
       "id": "sdu055_niogtyvende_aften",
       "title": "Twenty-Ninth Evening",
       "description": "Månen oplyser en rejsende karet foran en kro, hvor kusken venter."
     },
     {
+      "kind": "play",
       "id": "sdu056_tredivte_aften",
       "title": "Thirtieth Evening",
       "description": "Månen ser en bjørnetrækker og hans bjørn lege på torvet i en lille by."
     },
     {
+      "kind": "play",
       "id": "sdu057_ole_lukoeje",
       "title": "Ole Lukoie",
       "description": "Ole Lukøje besøger Hjalmar hver nat, sprøjter sød mælk i hans øjne og viser drømme, før Døden henter ham."
     },
     {
+      "kind": "play",
       "id": "sdu058_svinedrengen",
       "title": "The Swineherd",
       "description": "En prins forklæder sig som svinedreng for at teste en prinsesse, der foretrækker legetøj frem for ægte roser."
     },
     {
+      "kind": "play",
       "id": "sdu059_boghveden",
       "title": "The Buckwheat",
       "description": "En stolt boghvede nægter at bøje sig for stormen og bliver afsvedet, mens de ydmyge afgrøder overlever."
     },
     {
+      "kind": "play",
       "id": "sdu060_metalsvinet",
       "title": "The Metal Pig",
       "description": "En fattig dreng i Firenze oplever en magisk nat på ryggen af metalsvinet, der fører ham ind i kunstens verden."
     },
     {
+      "kind": "play",
       "id": "sdu061_venskabs_pagten",
       "title": "The Pact of Friendship",
       "description": "To venner indgår en hellig venskabspagt i Grækenland, men kærligheden til den samme pige sætter pagten på prøve."
     },
     {
+      "kind": "play",
       "id": "sdu062_en_rose_fra_homers_grav",
       "title": "A Rose from Homer's Grave",
       "description": "En rose ved Homers grav drømmer om udødelighed og flyver ud i verden som erindring i en sangers bog."
     },
     {
+      "kind": "play",
       "id": "sdu063_engelen",
       "title": "The Angel",
       "description": "En engel fører et afdødt barn til Himlen, mens de samler minder og en vissen markblomst fra barnets jordeliv."
     },
     {
+      "kind": "play",
       "id": "sdu064_nattergalen",
       "title": "The Nightingale",
       "description": "En sand nattergal bringes til kejserens hof, forvises til fordel for en kunstfugl, men redder senere kejseren fra Døden."
     },
     {
+      "kind": "play",
       "id": "sdu065_kjaerestefolkene",
       "title": "The Sweethearts",
       "description": "En snurretop frier til en læderbold, der afviser ham, forsvinder i en tagrende og genfindes år efter i skraldet."
     },
     {
+      "kind": "play",
       "id": "sdu066_grimme_aelling",
       "title": "The Ugly Duckling",
       "description": "En grim, grå svaneunge udstødes og mobbes af gårdspladsens fugle, indtil han genkender sig selv som en hvid svane."
     },
     {
+      "kind": "play",
       "id": "sdu067_grantraeet",
       "title": "The Fir Tree",
       "description": "Et ungt grantræ har så travlt med at længes efter fremtiden, at det glemmer at glæde sig over nuet."
     },
     {
+      "kind": "play",
       "id": "sdu068_snedronningen",
       "title": "The Snow Queen",
       "description": "Gerda søger efter Kay, som er bortført af Snedronningen, og redder ham med sine varme tårer i ispaladset."
     },
     {
+      "kind": "play",
       "id": "sdu069_een_og_tredivte_aften",
       "title": "Thirty-First Evening",
       "description": "Månen ser en fange i en celle, der ridser en melodi ind i fængselsvæggen som et sidste farvel."
     },
     {
+      "kind": "play",
       "id": "sdu070_hyldemoer",
       "title": "The Elder-Mother",
       "description": "En syg dreng hører eventyret om Hyldemor og mindes et langt og kærligt liv under hyldetræets grene."
     },
     {
+      "kind": "play",
       "id": "sdu071_elverhoei",
       "title": "The Elfin Hill",
       "description": "Elverkongen holder gilde i Elverhøi for troldgubben fra Dovre og sønnerne for at arrangere et strategisk giftermål."
     },
     {
+      "kind": "play",
       "id": "sdu072_roede_skoe",
       "title": "The Red Shoes",
       "description": "Karen besættes af sine røde sko og tvinges til at danse utrætteligt, indtil hun søger bod og tilgivelse."
     },
     {
+      "kind": "play",
       "id": "sdu073_springfyrene",
       "title": "The Jumpers",
       "description": "En loppe, en græshoppe og en springgås konkurrerer om prinsessen, og springgåsen vinder med sin forstand."
     },
     {
+      "kind": "play",
       "id": "sdu074_hyrdinden",
       "title": "The Shepherdess and the Chimney Sweep",
       "description": "To porcelænsfigurer flygter ud i den store verden, men hyrdindens angst tvinger dem til at vende om."
     },
     {
+      "kind": "play",
       "id": "sdu075_holger_danske",
       "title": "Ogier the Dane",
       "description": "Holger Danske sover under Kronborg og venter på at vågne, mens en billedskærer foreviger ham i en galionsfigur."
     },
     {
+      "kind": "play",
       "id": "sdu076_klokken",
       "title": "The Bell",
       "description": "En mystisk klokkes klang i skoven drager byens folk, men kun kongesønnen og fattigdrengen vandrer til dens ophav."
     },
     {
+      "kind": "play",
       "id": "sdu077_bedstemoder",
       "title": "Grandmother",
       "description": "Bedstemoder sidder i sin lænestol, fuld af kærlighed, men må sige farvel og efterlade minder hos sit barnebarn."
     },
     {
+      "kind": "play",
       "id": "sdu078_stoppenaalen",
       "title": "The Darning Needle",
       "description": "En stoppenål, der tror hun er en synål, knækker og ender i rendestenen, men bevarer sit hovmod til det sidste."
     },
     {
+      "kind": "play",
       "id": "sdu079_svovlstikkerne",
       "title": "The Little Match Girl",
       "description": "En frysende pige tænder svovlstikker nytårsaften, ser visioner og dør i kulden for at forenes med sin bedstemor."
     },
     {
+      "kind": "play",
       "id": "sdu080_fra_et_vindue_i_vartou",
       "title": "From a Window in Vartov",
       "description": "En gammel pige sidder ved Vartous vindue, mindes sin ungdoms kærlighed og skuer ud på voldens grønne liv."
     },
     {
+      "kind": "play",
       "id": "sdu081_et_billede_fra_kastelsvolden",
       "title": "A Picture from the Citadel Ramparts",
       "description": "En veteran og et legende barn mødes på volden i en bittersød kontrast mellem liv og fængsel."
     },
     {
+      "kind": "play",
       "id": "sdu082_gadeloegten",
       "title": "The Old Street Lamp",
       "description": "En gammel, trofast gadeløgte pensioneres og reddes af den gamle vægter til et nyt og roligt liv i hans kælder."
     },
     {
+      "kind": "play",
       "id": "sdu083_nabofamilierne",
       "title": "The Neighbouring Families",
       "description": "To nabofamilier - de stolte roser og de støjende gråspurve - lever side om side adskilt af et hegn."
     },
     {
+      "kind": "play",
       "id": "sdu084_lille_tuk",
       "title": "Little Tuk",
       "description": "En lille dreng passer sin søster frem for lektierne, men i en drøm besøger byerne ham og lærer ham geografien."
     },
     {
+      "kind": "play",
       "id": "sdu085_skyggen",
       "title": "The Shadow",
       "description": "En lærds mands skygge river sig løs, vinder magt og vender tilbage for at tilintetgøre sin tidligere herre."
     },
     {
+      "kind": "play",
       "id": "sdu086_to_og_tredivte_aften",
       "title": "Thirty-Second Evening",
       "description": "Månen forsøger at kigge frem bag de jagende skyer under en kold og blæsende nat."
     },
     {
+      "kind": "play",
       "id": "sdu087_tre_og_tredivte_aften",
       "title": "Thirty-Third Evening",
       "description": "Månen tager afsked med den fattige maler i tagkammeret og lover at huske deres aftener sammen."
     },
     {
+      "kind": "play",
       "id": "sdu088_det_gamle_hus",
       "title": "The Old House",
       "description": "Et forfaldent hus står i kontrast til moderne omgivelser, mens en tinsoldat bringer trøst til dets ensomme beboer."
     },
     {
+      "kind": "play",
       "id": "sdu089_vanddraaben",
       "title": "The Drop of Water",
       "description": "Krible-Krable ser i en vanddråbe en kaotisk mikroverden af kæmpende vanddyr."
     },
     {
+      "kind": "play",
       "id": "sdu090_lykkelige_familie",
       "title": "The Happy Family",
       "description": "Hvide snegle i en skræppeskov drømmer om herregården og sikrer slægtens overlevelse gennem en arving."
     },
     {
+      "kind": "play",
       "id": "sdu091_historien_om_en_moder",
       "title": "The Story of a Mother",
       "description": "En moders desperate kamp og opofrelse for at redde sit syge barn fra Døden."
     },
     {
+      "kind": "play",
       "id": "sdu092_flipperne",
       "title": "The Shirt Collar",
       "description": "En pralende flip frier til alle han møder, ender som klud og genanvendes til papir."
     },
     {
+      "kind": "play",
       "id": "sdu093_hoerren",
       "title": "The Flax",
       "description": "Hørrens rejse fra grøn plante på marken gennem forvandling til tråd, linned, papir og til sidst aske og ånd."
     },
     {
+      "kind": "play",
       "id": "sdu094_fugl_foeniks",
       "title": "The Phoenix Bird",
       "description": "Fugl Føniks genfødes af asken i Paradisets have og spreder poesiens og sangens evige lys til menneskeheden."
     },
     {
+      "kind": "play",
       "id": "sdu095_marionetspilleren",
       "title": "The Puppet-Player",
       "description": "En marionetspiller drømmer om levende skuespillere, men dukkerne gør oprør og kræver deres egen frihed."
     },
     {
+      "kind": "play",
       "id": "sdu096_en_historie",
       "title": "A Story",
       "description": "En digter søger sandheden i sit kammer, mens hans skrift dømmes af verden på markedet under lyset."
     },
     {
+      "kind": "play",
       "id": "sdu097_den_stumme_bog",
       "title": "The Mute Book",
       "description": "En studerende begraves med en bog fuld af tørrede blade, hvor hvert blad gemmer på et stumt minde."
     },
     {
+      "kind": "play",
       "id": "sdu098_svinene",
       "title": "The Pigs",
       "description": "En munter og bidende samtale mellem en ørn på en mødding og en gammel so i stalden om stolthed og rigtigt liv."
     },
     {
+      "kind": "play",
       "id": "sdu099_der_er_forskjel",
       "title": "There is a Difference",
       "description": "En stolt æblegren i en vase og en ydmyg mælkebøtte i grøften lærer om livets sande værdisættelse under solen."
     },
     {
+      "kind": "play",
       "id": "sdu100_verdens_dejligste_rose",
       "title": "The World's Fairest Rose",
       "description": "En døende dronning kan kun frelses ved at se verdens dejligste rose, som viser sig i den dybeste kærlighed i hjertet."
     },
     {
+      "kind": "play",
       "id": "sdu101_om_aartusinder",
       "title": "In a Thousand Years",
       "description": "Amerikas unge flyver i luftskib over verdenshavet for at se det gamle Europas historiske ruiner på en hastig rundrejse."
     },
     {
+      "kind": "play",
       "id": "sdu102_svanereden",
       "title": "The Swan's Nest",
       "description": "Mellem Østersøen og Vesterhavet ligger en gammel svanerede, hvorfra stolte svaner flyver ud over hele verden."
     },
     {
+      "kind": "play",
       "id": "sdu103_den_gamle_gravsteen",
       "title": "The Old Gravestone",
       "description": "Et gammelt ægtepar mindes i deres hyggelige gård, før graven og erindringen forvandler deres eftermæle."
     },
     {
+      "kind": "play",
       "id": "sdu104_aarets_historie",
       "title": "The Story of the Year",
       "description": "En fortælling om årstidernes skiften og spurvenes evige søgen efter forår midt i vinterens kulde."
     },
     {
+      "kind": "play",
       "id": "sdu105_paa_den_yderste_dag",
       "title": "On the Last Day",
       "description": "En afdød mands sjæl rejser mod Himlen med en engel og møder Guds uendelige nåde under dommen."
     },
     {
+      "kind": "play",
       "id": "sdu106_det_er_ganske_vist",
       "title": "It's Quite True!",
       "description": "En lille fjer spredes og vokser gennem sladder, indtil den bliver til en historie om fem døde høns."
     },
     {
+      "kind": "play",
       "id": "sdu107_et_godt_humoer",
       "title": "Good Humor",
       "description": "En humorist arver sin fars gode humør og bruger det til at spidde borgerskabets dysterhed."
     },
     {
+      "kind": "play",
       "id": "sdu108_hjertesorg",
       "title": "Grief of Heart",
       "description": "Børn betaler knapper for at se en hundegrav, mens en fattig dreng udelukkes og rammes af ægte hjertesorg."
     },
     {
+      "kind": "play",
       "id": "sdu109_alt_paa_sin_rette_plads",
       "title": "Everything in its Right Place",
       "description": "En stolt herremand og en gåsepige bytter roller, da en stormfuld blæst sætter alt på sin rette plads."
     },
     {
+      "kind": "play",
       "id": "sdu110_nissen_hos_spekhoekeren",
       "title": "The Goblin and the Grocer",
       "description": "En nisse trækkes mellem de materielle glæder hos spækhøkeren og de poetiske åbenbaringer på studentens loftskammer."
     },
     {
+      "kind": "play",
       "id": "sdu111_under_piletraeet",
       "title": "Under the Willow Tree",
       "description": "En melankolsk fortælling om barndomsvennerne Knud og Johanne, hvis kærlighed og drømme skilles under piletræets skygge."
     },
     {
+      "kind": "play",
       "id": "sdu112_fem_fra_en_aertebaelg",
       "title": "Five Peas from a Pod",
       "description": "Fem ærter spredes i verden; den mindste spirer i en tagrende og bringer håb til en syg pige."
     },
     {
+      "kind": "play",
       "id": "sdu113_hun_duede_ikke",
       "title": "She Was No Good",
       "description": "En fattig vaskekone slider sig ihjel for sin søn, mens borgmesteren dømmer hende hårdt."
     },
     {
+      "kind": "play",
       "id": "sdu114_den_sidste_perle",
       "title": "The Last Pearl",
       "description": "Engle bringer velsignelser til et nyfødt barn, men den sidste perle, sorgen, mangler for at fuldende livet."
     },
     {
+      "kind": "play",
       "id": "sdu115_et_blad_fra_himlen",
       "title": "A Leaf from Heaven",
       "description": "Et himmelsk blad daler ned og udfordrer menneskets lærdom, men forstås fuldt ud af et enfoldigt barn."
     },
     {
+      "kind": "play",
       "id": "sdu116_to_jomfruer",
       "title": "Two Maidens",
       "description": "To stolte brolæggerjomfruer kæmper mod et nyt, sjelløst navn og mister derved deres fremtidige lykke."
     },
     {
+      "kind": "play",
       "id": "sdu117_ved_det_yderste_hav",
       "title": "At the Utmost Sea",
       "description": "En døende sømand under polarnatten finder gennem drømme en forbindelse til sit hjem."
     },
     {
+      "kind": "play",
       "id": "sdu118_pengegrisen",
       "title": "The Money Pig",
       "description": "En lersparegris fyldt med mønter ser ned på legetøjet, indtil den falder og går i stykker."
     },
     {
+      "kind": "play",
       "id": "sdu119_klods_hans",
       "title": "Jack the Dullard",
       "description": "Klods-Hans vinder prinsessen og kongeriget med en død krage, en gammel træsko og pludder fra grøften."
     },
     {
+      "kind": "play",
       "id": "sdu120_ib_og_lille_christine",
       "title": "Ib and Little Christine",
       "description": "Ib og lille Christine vokser op sammen i skoven, men deres skæbner skilles før de finder forløsning."
     },
     {
+      "kind": "play",
       "id": "sdu121_aerens_tornevei",
       "title": "The Thorny Path of Honor",
       "description": "Geniet vandrer ad en tornet vej gennem modgang, men historien skænker ham anerkendelse og en gylden krone."
     },
     {
+      "kind": "play",
       "id": "sdu122_joedepigen",
       "title": "The Jewish Girl",
       "description": "Sarah holder sit løfte til sin afdøde moder, men længes i sit indre efter den kristne forløsning."
     },
     {
+      "kind": "play",
       "id": "sdu123_et_stykke_perlesnor",
       "title": "A Section of Pearl-String",
       "description": "Danmark bindes sammen af jernbanens skinner som en perlesnor, mens den rejsende samler sine erindringer."
     },
     {
+      "kind": "play",
       "id": "sdu124_klokkedybet",
       "title": "The Bell-Deep",
       "description": "En kirkeklokke falder i Odense Å, hvor Åmanden lytter til dens klang og minder fra dybet."
     },
     {
+      "kind": "play",
       "id": "sdu125_flaskehalsen",
       "title": "The Bottle Neck",
       "description": "En flaske gennemgår en lang livscyklus fra stolthed til brud, indtil kun halsen er tilbage som fuglekop."
     },
     {
+      "kind": "play",
       "id": "sdu126_suppe_paa_en_poelsepind",
       "title": "Soup on a Sausage Peg",
       "description": "Musekongen lover sin hånd til den, der kan koge suppe på en pølsepind, hvilket sender en mus ud på en lang rejse."
     },
     {
+      "kind": "play",
       "id": "sdu127_pebersvendens_nathue",
       "title": "The Pepperman's Nightcap",
       "description": "En ensom pebersvends stille liv og død i København, mens minderne om hans ungdom holdes i live af en gammel nathue."
     },
     {
+      "kind": "play",
       "id": "sdu128_noget",
       "title": "Something",
       "description": "Fem brødre søger at blive noget i verden, men ved Himmelporten vejer en simpel mursten tungere end de andres store ord."
     },
     {
+      "kind": "play",
       "id": "sdu129_det_gamle_egetraes_sidste_droem",
       "title": "The Old Oak Tree's Last Dream",
       "description": "Et egetræ drømmer julenat sin skønneste drøm om himlen, mens en vinterstorm knækker dets rødder."
     },
     {
+      "kind": "play",
       "id": "sdu130_abc_bogen",
       "title": "The ABC Book",
       "description": "Striden og samarbejdet mellem bogstaverne i ABC-bogen, fra A til Å."
     },
     {
+      "kind": "play",
       "id": "sdu131_dynd_kongens_datter",
       "title": "The Marsh King's Daughter",
       "description": "Helgas splittede sjæl kæmper mellem dyndets mørke og kristendommens frelsende lys."
     },
     {
+      "kind": "play",
       "id": "sdu132_hurtigloeberne",
       "title": "The Fast Runners",
       "description": "En munter historie om haren, sneglen og uglen, der kappes om en pris på skovens løbebane."
     },
     {
+      "kind": "play",
       "id": "sdu133_de_vises_steen",
       "title": "The Philosopher's Stone",
       "description": "En søgende rejser ud i verden for at finde de vises sten, men vildledes af skyggens bedrag."
     },
     {
+      "kind": "play",
       "id": "sdu134_vinden_fortaeller_om_valdemar_daae",
       "title": "The Wind Tells of Valdemar Daae and His Daughters",
       "description": "En beretning om herremanden Valdemar Daae, der forarmes af sin besættelse af alkymien, indtil vinden blæser alt bort."
     },
     {
+      "kind": "play",
       "id": "sdu135_pigen_som_traadte_paa_broedet",
       "title": "The Girl Who Trod on the Loaf",
       "description": "Den stolte pige Inger træder på et brød for at skåne sine sko og synker i dyndet, men forløses til sidst af en tåre."
     },
     {
+      "kind": "play",
       "id": "sdu136_taarnvaegteren_ole",
       "title": "Ole the Tower-Keeper",
       "description": "En gammel tårnvægter deler sine filosofiske og satiriske historier om byens dårskab med en trofast besøgende."
     },
     {
+      "kind": "play",
       "id": "sdu137_anne_lisbeth",
       "title": "Anne Lisbeth",
       "description": "En moder forlader sit eget barn for herskabets skyld, men hjemsøges af hans ånd og soner sin skyld på stranden."
     },
     {
+      "kind": "play",
       "id": "sdu138_boernesnak",
       "title": "Children's Talk",
       "description": "En rig pige hævder, at folk med '-sen'-navne intet er, men en fattig lerdreng vokser op og modbeviser hendes ord."
     },
     {
+      "kind": "play",
       "id": "sdu139_barnet_i_graven",
       "title": "The Child in the Grave",
       "description": "En moders dybe sorg over sit døde barn lindres af en himmelsk åbenbaring ved graven."
     },
     {
+      "kind": "play",
       "id": "sdu140_pen_og_blaekhuus",
       "title": "Pen and Inkstand",
       "description": "Pennen og blækhuset strides om, hvem der skaber digtningen, indtil digteren og den sande inspiration indfinder sig."
     },
     {
+      "kind": "play",
       "id": "sdu141_gaardhanen_og_veirhanen",
       "title": "The Yard Cock and the Weathercock",
       "description": "En stolt gårdhane og en stiv vejrhane strides om storhed, indtil stormen viser altings forfald."
     },
     {
+      "kind": "play",
       "id": "sdu142_deilig",
       "title": "Beautiful!",
       "description": "En kunstner forelsker sig i en smuk krop, men finder først den sande skønhed og sjælen i tabet."
     },
     {
+      "kind": "play",
       "id": "sdu143_en_historie_fra_klitterne",
       "title": "A Story from the Sand Dunes",
       "description": "Jørgen overlever et skibbrud, vokser op i klitterne og finder forløsning med Clara i den sanddækkede kirke."
     },
     {
+      "kind": "play",
       "id": "sdu144_to_broedre",
       "title": "Two Brothers",
       "description": "To brødre ærer deres fædreland: den ene med naturvidenskabens lys, den anden med lovens og retfærdighedens sværd."
     },
     {
+      "kind": "play",
       "id": "sdu145_flyttedagen",
       "title": "Moving Day",
       "description": "Ole Tårnvægter fortæller om flyttedagen, døden, kongerne og forgængelighedens store omnibus i København."
     },
     {
+      "kind": "play",
       "id": "sdu146_sommerfuglen",
       "title": "The Butterfly",
       "description": "En sommerfugl søger den rette brud blandt havens blomster, men ender fastnålet i stuen."
     },
     {
+      "kind": "play",
       "id": "sdu147_bispen_paa_boerglum",
       "title": "The Bishop of Boerglum and his Kinsman",
       "description": "En grådig bisp plyndrer sine frænder, indtil slægtens hævner Jens Glob fælder ham julenat under messen."
     },
     {
+      "kind": "play",
       "id": "sdu148_tolv_med_posten",
       "title": "Twelve by the Mail",
       "description": "Tolv rejsende ankommer med postvognen nytårsaften for at fordele årets måneder imellem sig."
     },
     {
+      "kind": "play",
       "id": "sdu149_skarnbassen",
       "title": "The Beetle",
       "description": "En hovmodig skarnbasse forlader kejserens stald i vrede, men må efter en svær rejse vende ydmyget hjem."
     },
     {
+      "kind": "play",
       "id": "sdu150_hvad_fatter_gjoer",
       "title": "What the Old Man Does is Always Right",
       "description": "En godtroende bonde gør kun dårlige byttehandler, men vinder alligevel guld pga. sin kones urokkelige kærlighed."
     },
     {
+      "kind": "play",
       "id": "sdu151_sneemanden",
       "title": "The Snowman",
       "description": "En sneemand forelsker sig i en kakkelovn og smelter væk, da foråret kommer."
     },
     {
+      "kind": "play",
       "id": "sdu152_i_andegaarden",
       "title": "In the Duck Yard",
       "description": "En fremmed sangfugl søger ly i en andegård, men knuses af den herskesyge portugisiske ands falske godhed."
     },
     {
+      "kind": "play",
       "id": "sdu153_det_nye_aarhundredes_musa",
       "title": "The Muse of the New Century",
       "description": "Musaen fra det nye århundrede bringer den sande digtergnist og oplysning til en ny tids modtagere."
     },
     {
+      "kind": "play",
       "id": "sdu154_iisjomfruen",
       "title": "The Ice-Maiden",
       "description": "Iisjomfruen kræver den unge jæger Rudy i bjergenes dybe kløfter og den kolde sø."
     },
     {
+      "kind": "play",
       "id": "sdu155_psychen",
       "title": "Psychen",
       "description": "En ung romersk kunstner søger sjælens evige skønhed i ler og marmor, før eftermælet gendøbes fra jordens dyb."
     },
     {
+      "kind": "play",
       "id": "sdu156_sneglen_og_rosenhaekken",
       "title": "The Snail and the Rosebush",
       "description": "En selvglad snegl trækker sig ind i sit hus, mens en rosenhæk trofast blomstrer for verden."
     },
     {
+      "kind": "play",
       "id": "sdu157_den_gamle_kirkeklokke",
       "title": "The Old Church Bell",
       "description": "En gammel kirkeklokkes klang overlever støberiet og tårnet for at inspirere et ungt digterbarn."
     },
     {
+      "kind": "play",
       "id": "sdu158_soelvskillingen",
       "title": "The Silver Shilling",
       "description": "En sølvskilling rejser ud i verden, udstødes som falsk med et hul, men genoprejses ved hjemkomsten til sit hjemland."
     },
     {
+      "kind": "play",
       "id": "sdu159_sommergjaekken",
       "title": "The Snowdrop",
       "description": "En lille sommergæk bryder gennem sneen, plukkes, lægges i et brev og presses i en bog som et minde om kærlighed."
     },
     {
+      "kind": "play",
       "id": "sdu160_theepotten",
       "title": "The Teapot",
       "description": "En stolt theepotte mister sin hank og tud, degraderes til urtepotte, men finder ny skønhed ved at huse en blomst."
     },
     {
+      "kind": "play",
       "id": "sdu161_folkesangens_fugl",
       "title": "The Bird of Popular Song",
       "description": "Folkesangens Fugl flyver over vand og skov for at bringe sang, erindring og poesi til folket."
     },
     {
+      "kind": "play",
       "id": "sdu162_lygtemaendene",
       "title": "Will-o'-the-Wisps Are in Town",
       "description": "Mosekonen brygger og lygtemændene drager i byen."
     },
     {
+      "kind": "play",
       "id": "sdu163_veirmoellen",
       "title": "The Windmill",
       "description": "En stolt vejrmølle brænder, men genopbygges af mølleren og finder derved sin dybere mening."
     },
     {
+      "kind": "play",
       "id": "sdu164_i_boernestuen",
       "title": "In the Children's Room",
       "description": "Gudfaderen omdanner en børnestue til et teater, hvor en handske vækkes til live."
     },
     {
+      "kind": "play",
       "id": "sdu165_guldskat",
       "title": "Golden Treasure",
       "description": "Peter vokser op med musikken, drager i krig med sin tromme og vender hjem som en hædret musiker til moders glæde."
     },
     {
+      "kind": "play",
       "id": "sdu166_stormen_flytter_skilt",
       "title": "The Storm Shifts the Signboards",
       "description": "En storm ombytter byens skilte i natten og afslører hykleri og skjulte sandheder gennem bidende satire."
     },
     {
+      "kind": "play",
       "id": "sdu167_gjemt_er_ikke_glemt",
       "title": "Kept Secret but not Forgotten",
       "description": "Tre fortællinger om barmhjertighed, solskin og kærlig sorg, som gemmes i erindringen og aldrig glemmes."
     },
     {
+      "kind": "play",
       "id": "sdu168_portnerens_soen",
       "title": "The Porter's Son",
       "description": "Georg, portnerens søn, overvinder klasseskel gennem sin kunst og vinder sin elskede Emilie trods alle hindringer."
     },
     {
+      "kind": "play",
       "id": "sdu169_moster",
       "title": "Auntie",
       "description": "Moster elsker teatret over alt og lever i en verden af skuespil og dramatiske visioner."
     },
     {
+      "kind": "play",
       "id": "sdu170_skrubtudsen",
       "title": "The Toad",
       "description": "En lille skrubtudse drømmer om det store lys og begynder en farefuld rejse mod himlen, drevet af sin indre længsel."
     },
     {
+      "kind": "play",
       "id": "sdu171_vaenoe_og_glaenoe",
       "title": "Vaenoe and Glaenoe",
       "description": "En ø opsluges af havet, mens en anden trues og beskyttes af menneskets dæmninger."
     },
     {
+      "kind": "play",
       "id": "sdu172_de_smaa_groenne",
       "title": "The Greenies",
       "description": "En rosenbusk hjemsøges af indbildske bladlus, der udsuges af mariehønen i havens lille og grusomme drama."
     },
     {
+      "kind": "play",
       "id": "sdu173_nissen_og_madamen",
       "title": "The Goblin and the Woman",
       "description": "Nissen må vælge mellem madammens grød og gartnerens vers i en strid om poesi og praktisk husholdning."
     },
     {
+      "kind": "play",
       "id": "sdu174_peiter_peter_og_peer",
       "title": "Peiter, Peter, and Peer",
       "description": "Storken bringer de tre brødre Peiter, Peter og Peer til verden, hvor de møder hver deres skæbne undervejs."
     },
     {
+      "kind": "play",
       "id": "sdu175_gudfaders_billedbog",
       "title": "Godfather's Picture Book",
       "description": "En smuk billedbog med klipninger og fortællinger om København, erindring og en gammel tranlygtes skæbne."
     },
     {
+      "kind": "play",
       "id": "sdu176_hvem_var_den_lykkeligste",
       "title": "Who Was the Happiest?",
       "description": "En strid om, hvem af havens skabninger der var den lykkeligste, mens vinden søger svaret over gravkammeret."
     },
     {
+      "kind": "play",
       "id": "sdu177_ugedagene",
       "title": "The Days of the Week",
       "description": "Ugedagene mødes til gilde for at finde ud af, hvem af dem der er den vigtigste dag i det evige kredsløb."
     },
     {
+      "kind": "play",
       "id": "sdu178_dryaden",
       "title": "The Dryad",
       "description": "En dryade forlader sit kastanjetræ for at opleve Paris, men hendes frihed koster hende livet."
     },
     {
+      "kind": "play",
       "id": "sdu179_laserne",
       "title": "The Rags",
       "description": "Dansk las og norsk las skændes i kludebunken, før de begge kværnes og genanvendes til fint hvidt papir."
     },
     {
+      "kind": "play",
       "id": "sdu180_herrebladene",
       "title": "The Court Cards",
       "description": "Kortene i papirslottet vågner til live og diskuterer renlighed, hovmod og livets sande værdier."
     },
     {
+      "kind": "play",
       "id": "sdu181_lykken_kan_ligge_i_en_pind",
       "title": "Luck can lie in a Pin",
       "description": "Drejeren og hans kone mister alt i en storm, men finder rigdom og lykke i pæregrenens små pinde."
     },
     {
+      "kind": "play",
       "id": "sdu182_solskins_historier",
       "title": "Sunshine Stories",
       "description": "Vinden afbryder Solskinnet, som fortæller historier om varmen og lysets velsignelser i stuen og verden."
     },
     {
+      "kind": "play",
       "id": "sdu183_kometen",
       "title": "The Comet",
       "description": "En dreng ser en komet, og hele hans liv trækkes op i lyset af dens evighed."
     },
     {
+      "kind": "play",
       "id": "sdu184_hvad_man_kan_hitte_paa",
       "title": "What One Can Invent",
       "description": "En ung digter søger inspiration hos en klog kone i skoven for at overvinde sin svære skriveblokering."
     },
     {
+      "kind": "play",
       "id": "sdu185_hvad_tidselen_oplevede",
       "title": "What the Thistle Experienced",
       "description": "En stolt tidsel på marken drømmer om roserne, spises af et æsel og plukkes til sidst som et minde om kærlighed."
     },
     {
+      "kind": "play",
       "id": "sdu186_hoense_grethes_familie",
       "title": "Chicken Grethe's Family",
       "description": "Hønse-Grethes simple liv og Marie Grubbes historiske minder flettes sammen i herregårdens skygge."
     },
     {
+      "kind": "play",
       "id": "sdu187_hvad_hele_familien_sagde",
       "title": "What the Whole Family Said",
       "description": "Lille Maries fødselsdag og Gudfaders fortælling minder os om, at livet selv er det smukkeste eventyr."
     },
     {
+      "kind": "play",
       "id": "sdu188_lysene",
       "title": "The Candles",
       "description": "To lys har forskellige skæbner: det ene stolt i stuen, det andet ydmygt og glædesbringende i hytten."
     },
     {
+      "kind": "play",
       "id": "sdu189_oldefaer",
       "title": "Great-grandfather",
       "description": "Oldefar mindes fortiden i den lune stue, mens barnebarnet drømmer om fremskridt og dampmaskiner."
     },
     {
+      "kind": "play",
       "id": "sdu190_det_utroligste",
       "title": "The Most Incredible Thing",
       "description": "En kunstners vidunderlige ur knuses af en voldsmand, men kunstens ånd genopstår og sejrer til sidst."
     },
     {
+      "kind": "play",
       "id": "sdu191_danske_folkesagn",
       "title": "Danish Popular Legends",
       "description": "En historisk fortælling om de gamle danske folkesagn, der overleveres langs åer og skove."
     },
     {
+      "kind": "play",
       "id": "sdu192_spoerg_amagermoer",
       "title": "Ask the Amager Wife",
       "description": "En surrealistisk fortælling om den gamle gulerods bejlen til gulerodsbruden, før de begge ender i suppen."
     },
     {
+      "kind": "play",
       "id": "sdu193_dandse_dandse_dukke_min",
       "title": "Dance, Dance, Doll of Mine!",
       "description": "Den lille Amalie leger og synger med sin dukke, mens Tante prøver at opdrage hende til fornuft."
     },
     {
+      "kind": "play",
       "id": "sdu194_den_store_soeslange",
       "title": "The Great Sea Serpent",
       "description": "Havets dyr undrer sig over det nye telegrafkabel, som de forveksler med en stor, levende søslange."
     },
     {
+      "kind": "play",
       "id": "sdu195_gartneren_og_herskabet",
       "title": "The Gardener and the Noble Family",
       "description": "En stolt gartner og hans herskab strides om havens sande frugter og herligheder."
     },
     {
+      "kind": "play",
       "id": "sdu196_hvad_gamle_johanne_fortalte",
       "title": "What Old Johanne Told",
       "description": "Gamle Johanne beretter om sølle Rasmus, der modløs visner bort, mens trofast omhu og erindring lever videre."
     },
     {
+      "kind": "play",
       "id": "sdu197_portner_noeglen",
       "title": "The Gate Key",
       "description": "En kammerråd søger vejledning hos en gammel portnøgle, men finder sin skæbne i et praktisk ægteskab med Lene."
     },
     {
+      "kind": "play",
       "id": "sdu198_kroeblingen",
       "title": "The Cripple",
       "description": "En lam dreng finder trøst i en eventyrbog og redder en sangfugl, hvilket fører til hans helbredelse."
     },
     {
+      "kind": "play",
       "id": "sdu199_tante_tandpine",
       "title": "Auntie Toothache",
       "description": "Rasmussen plages af Madam Tandpines pinefulde besøg, mens tantens søde sager nærer den groteske smerte."
     },
     {
+      "kind": "play",
       "id": "sdu200_loppen_og_professoren",
       "title": "The Flea and the Professor",
       "description": "En luftslipper og hans dresserede loppe fanges af vilde, men undslipper ved list og en stor ballon."
     },
     {
+      "kind": "play",
       "id": "sdu201_qvaek",
       "title": "Croak",
       "description": "En lille tudse i en grøft kvækker om sit simple liv, mens en dreng kaster sten i vandet."
     },
     {
+      "kind": "play",
       "id": "sdu202_skriveren",
       "title": "The Penman",
       "description": "En flittig skriver arbejder med sin fjerpen ved det mørke skrivebord og nedskriver livets begivenheder."
     },
     {
+      "kind": "play",
       "id": "sdu203_den_foerste_aften",
       "title": "The First Evening",
       "description": "Månens allerførste aften, hvor den ser ind til den unge digter og inspirerer hans første fortælling."
     },
     {
+      "kind": "play",
       "id": "sdu204_man_siger",
       "title": "Folks Say",
       "description": "Byens borgere hvisker og spreder rygter om hinanden, baseret på hvad \"man siger\"."
     },
     {
+      "kind": "play",
       "id": "sdu205_den_fattige_kone_og_den_lille_canariefugl",
       "title": "The Poor Woman and the Canary",
       "description": "En fattig, ensom kone deler sit sidste brød med sin lille kanariefugl, som synger en trøstende sang."
     },
     {
+      "kind": "play",
       "id": "sdu206_urbanus",
       "title": "Urbanus",
       "description": "Munken Urbanus lytter til en skovfugls sang og opdager, at der er gået hundrede år under hans lytning."
     },
     {
+      "kind": "play",
       "id": "sdu207_kartoflerne",
       "title": "Potatoes",
       "description": "En humoristisk og lærerik fortælling om kartoflernes rejse og betydning som føde for folket."
     },
     {
+      "kind": "play",
       "id": "sdu208_aeblet",
       "title": "The Apple",
       "description": "Et æble hænger på grenen og drømmer om at blive plukket, mens efterårsvinden rusker i træet."
     },
     {
+      "kind": "play",
       "id": "sdu209_temperamenterne",
       "title": "The Temperaments",
       "description": "En allegorisk skildring af de fire menneskelige temperamenter og deres indbyrdes stridigheder."
     },
     {
+      "kind": "play",
       "id": "sdu210_vor_gamle_skolemester",
       "title": "Our Old Schoolmaster",
       "description": "En kærlig og nostalgisk erindring om en gammel skolemester, der har lært generationer af børn at læse."
     },
     {
+      "kind": "play",
       "id": "sdu211_de_blaae_bjerge",
       "title": "The Blue Mountains",
       "description": "En eventyrlig fortælling om længslen efter de fjerne blå bjerge og rejsen mod det ukendte."
     },
     {
+      "kind": "play",
       "id": "sdu212_hans_og_grethe",
       "title": "Hans and Grethe",
       "description": "To søskende forvilder sig ind i en mystisk skov og må stole på hinandens snilde for at finde vej hjem."
     },
     {
+      "kind": "play",
       "id": "sdu401_improvisatoren",
       "title": "The Improvisatore",
       "description": "En ung romersk improvisators rejse mod kunstnerisk gennembrud og kærlighed."
     },
     {
+      "kind": "play",
       "id": "sdu402_ot",
       "title": "O.T.",
       "description": "En ung mands kamp for at frigøre sig fra en traumatisk tugthusfortid og finde kærligheden."
     },
     {
+      "kind": "play",
       "id": "sdu403_spillemand",
       "title": "Only a Fiddler",
       "description": "Historien om det uforløste musikalske geni Christian og den vilde, adelige Naomis kontrasterende skæbner."
     },
     {
+      "kind": "play",
       "id": "sdu404_baronesser",
       "title": "The Two Baronesses",
       "description": "Historien om den unge og gamle baronesse, der spejler overgangen fra enevælde til en ny humanistisk tid."
     },
     {
+      "kind": "play",
       "id": "sdu405_tro",
       "title": "To Be or Not to Be",
       "description": "Historien om Niels Bryde, der splittes mellem kold naturvidenskab og håbet om menneskeåndens udødelighed."
     },
     {
+      "kind": "play",
       "id": "sdu406_lykke",
       "title": "Lucky Peer",
       "description": "Historien om den fattige, heldige kunstner Peer, der dør i sit største triumføjeblik på operascenen."
     },
     {
+      "kind": "play",
       "id": "sdu501_gjenfaerdet",
       "title": "The Ghost at Palnatoke's Grave",
       "description": "En gotisk fortælling om overtro og uheld ved Palnatokes gravhøj, hvor Jochum møder sin tragiske skæbne."
     },
     {
+      "kind": "play",
       "id": "sdu502_fodreise",
       "title": "A Journey on Foot",
       "description": "En fantastisk og satirisk rejse nytårsnat, hvor den unge digter fristes af Satan og vandrer mod Amager."
     },
     {
+      "kind": "play",
       "id": "sdu503_grammatica",
       "title": "The Beautiful Grammatica",
       "description": "En satirisk kærlighedshistorie personificeret af latinske grammatikord under Mama Nominativs styre."
     },
     {
+      "kind": "play",
       "id": "sdu601_alfsol",
       "title": "Alfsol",
       "description": "Hans Christian Andersens første nordiske tragedie i fem akter om den skønne Alfsol og hendes tragiske skæbne."
     },
     {
+      "kind": "play",
       "id": "sdu602_vissenbjerg",
       "title": "The Robbers of Vissenbjerg",
       "description": "Et fynsk røverdrama om Knud Vissenberg, overtroen omkring alrunen og Henning Aasums bejleri."
     },
     {
+      "kind": "play",
       "id": "sdu603_nicolaitaarn",
       "title": "Kjærlighed paa Nicolai Taarn",
       "description": "En heroisk vaudeville i én akt på Nikolaj Tårn hvor publikum stemmer om Alisons og Ellens skæbne."
     },
     {
+      "kind": "play",
       "id": "sdu604_skibet",
       "title": "Skibet",
       "description": "En underholdende vaudeville i én akt om et skib i karantæne, forvekslinger og kærlighedsbreve."
     },
     {
+      "kind": "play",
       "id": "sdu605_fornuftgiftermaalet",
       "title": "Fornuftgiftermaalet Nr. 2",
       "description": "En satirisk, dramatisk drøm på Skagens Rev, hvor personificerede komedier undervises af en streng skolemester."
     },
     {
+      "kind": "play",
       "id": "sdu606_lammermoor",
       "title": "Bruden fra Lammermoor",
       "description": "Et romantisk syngestykke i fire akter om slægten Ravenswoods undergang og den tragiske brud."
     },
     {
+      "kind": "play",
       "id": "sdu607_ravnen",
       "title": "Ravnen eller Broderprøven",
       "description": "En eventyrlig og magisk trylleopera i tre akter om brodertroskab, forbandelser og frelse."
     },
     {
+      "kind": "play",
       "id": "sdu608_dronningen",
       "title": "Dronningen paa 16 Aar",
       "description": "Et historisk lystspil og drama i to akter om den unge dronning Christinas pligt og afkald."
     },
     {
+      "kind": "play",
       "id": "sdu609_agnete",
       "title": "Agnete og Havmanden",
       "description": "Et dramatisk digt og læsedrama i to akter efter den gamle, tragiske folkevise om havet."
     },
     {
+      "kind": "play",
       "id": "sdu610_kenilworth",
       "title": "Festen paa Kenilworth",
       "description": "Et romantisk syngespil i tre akter om den hemmelige kærlighed mellem Leicester og Emmy."
     },
     {
+      "kind": "play",
       "id": "sdu611_skilles",
       "title": "Skilles og mødes",
       "description": "En original vaudeville i to afdelinger om rejsende strandet på Sprogø i Storebælts drivis."
     },
     {
+      "kind": "play",
       "id": "sdu612_soldat",
       "title": "En rigtig Soldat",
       "description": "En dramatisk situation i én akt på vers om en tante og hendes broderdatter i en forfalden fæstning."
     },
     {
+      "kind": "play",
       "id": "sdu613_usynlige",
       "title": "Den Usynlige paa Sprogø",
       "description": "En original dramatisk spøg i én akt om en fader, der gøres usynlig på det isbelagte Sprogø."
