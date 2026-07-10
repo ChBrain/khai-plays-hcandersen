@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.238.0",
+  "version": "0.239.0",
   "plays": [
     {
       "kind": "play",
@@ -1430,6 +1430,12 @@
       "id": "sdu617_maurerpigen",
       "title": "Maurerpigen",
       "description": "En tragedie i fem akter om den spanske heltinde Raphaella og hendes skæbnesvangre sande ophav."
+    },
+    {
+      "kind": "play",
+      "id": "sdu618_opera_galleriet",
+      "title": "Vandring gjennem Opera-Galleriet",
+      "description": "En deklamatorisk ramme og satirisk vaudeville, der guider tilskuerne gennem berømte operabilleder."
     }
   ]
 }
