@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.235.0",
+  "version": "0.236.0",
   "plays": [
     {
       "kind": "play",
@@ -1412,6 +1412,12 @@
       "id": "sdu614_mulatten",
       "title": "Mulatten",
       "description": "Et romantisk drama i fem akter om den dannede mulat Horatio og grevinde Cecilies kamp mod uretfærdighed."
+    },
+    {
+      "kind": "play",
+      "id": "sdu615_mikkels_historier",
+      "title": "Mikkels Kjærlighedshistorier i Paris",
+      "description": "En humoristisk vaudeville-monolog om en simpel dansk soldat og hans rejsefortællinger i Paris."
     }
   ]
 }
