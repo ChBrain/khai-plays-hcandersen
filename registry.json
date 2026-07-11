@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.247.0",
+  "version": "0.248.0",
   "plays": [
     {
       "kind": "play",
@@ -1484,6 +1484,12 @@
       "id": "sdu626_perler_og_guld",
       "title": "Meer end Perler og Guld",
       "description": "En eventyrkomedie i fire akter om sandhed, kærlighed og en magisk ballonrejse."
+    },
+    {
+      "kind": "play",
+      "id": "sdu627_roeskilde",
+      "title": "En Nat i Roeskilde",
+      "description": "En vaudevillespøg i én akt om to mænd, der deler værelse og hustru."
     }
   ]
 }
