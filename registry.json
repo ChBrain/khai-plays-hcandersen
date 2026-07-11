@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.244.0",
+  "version": "0.245.0",
   "plays": [
     {
       "kind": "play",
@@ -1466,6 +1466,12 @@
       "id": "sdu623_ahasverus",
       "title": "Ahasverus",
       "description": "Et stort episk-dramatisk læsedrama om Ahasverus' evige vandring og søgen efter fred."
+    },
+    {
+      "kind": "play",
+      "id": "sdu624_kunstens_dannevirke",
+      "title": "Kunstens Dannevirke",
+      "description": "Et patriotisk forspil om kunstens og sprogets åndelige forsvar under treårskrigen."
     }
   ]
 }
