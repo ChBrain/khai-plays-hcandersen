@@ -257,6 +257,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 624: Kunstens Dannevirke** — Staged
 - [x] **SDU 625: Brylluppet ved Como-Søen** — Staged
 - [x] **SDU 626: Meer end Perler og Guld** — Staged
+- [x] **SDU 627: En Nat i Roeskilde** — Staged
 
 ## Origin
 
