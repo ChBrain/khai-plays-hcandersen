@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.245.0",
+  "version": "0.246.0",
   "plays": [
     {
       "kind": "play",
@@ -1472,6 +1472,12 @@
       "id": "sdu624_kunstens_dannevirke",
       "title": "Kunstens Dannevirke",
       "description": "Et patriotisk forspil om kunstens og sprogets åndelige forsvar under treårskrigen."
+    },
+    {
+      "kind": "play",
+      "id": "sdu625_como_soeen",
+      "title": "Brylluppet ved Como-Søen",
+      "description": "En romantisk opera i tre akter om Renzos og Lucias trolovelse og adskillelse ved Como-Søen."
     }
   ]
 }
