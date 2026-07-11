@@ -255,6 +255,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 622: Liden Kirsten** — Staged
 - [x] **SDU 623: Ahasverus** — Staged
 - [x] **SDU 624: Kunstens Dannevirke** — Staged
+- [x] **SDU 625: Brylluppet ved Como-Søen** — Staged
 
 ## Origin
 
