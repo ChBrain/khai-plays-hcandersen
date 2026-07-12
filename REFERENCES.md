@@ -259,6 +259,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 626: Meer end Perler og Guld** — Staged
 - [x] **SDU 627: En Nat i Roeskilde** — Staged
 - [x] **SDU 628: Ole Lukøie** — Staged
+- [x] **SDU 629: Den nye Barselstue** — Staged
 
 ## Origin
 
