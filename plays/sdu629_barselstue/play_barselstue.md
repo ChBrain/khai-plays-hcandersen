@@ -38,6 +38,7 @@ I en elegant stue i København fejrer den pretentiøse og forfængelige digter J
 - [PlagiatAfsloering](process_afsloering.md)
 - [LitterærHæderPlan](plan_haeder.md)
 - [HolbergLystspil](pitch_holberg.md)
+
 ## Triggers
 
 - [plot_barselsvisit.md](plot_barselsvisit.md) udløses, når dørene til salonen åbnes på vid gab, og de første lykønskende gæster strømmer ind med blomster.
