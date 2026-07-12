@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.248.0",
+  "version": "0.249.0",
   "plays": [
     {
       "kind": "play",
@@ -1490,6 +1490,12 @@
       "id": "sdu627_roeskilde",
       "title": "En Nat i Roeskilde",
       "description": "En vaudevillespøg i én akt om to mænd, der deler værelse og hustru."
+    },
+    {
+      "kind": "play",
+      "id": "sdu628_ole_lukoeie",
+      "title": "Ole Lukøie",
+      "description": "En eventyrkomedie i tre akter om Christians drømmerejser og hans søgen efter sjælefred."
     }
   ]
 }
