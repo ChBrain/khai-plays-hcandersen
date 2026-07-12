@@ -38,13 +38,11 @@ I en elegant stue i København fejrer den pretentiøse og forfængelige digter J
 - [PlagiatAfsloering](process_afsloering.md)
 - [LitterærHæderPlan](plan_haeder.md)
 - [HolbergLystspil](pitch_holberg.md)
-- [BarselsvisitPlot](plot_barselsvisit.md)
-- [HjemkomstPlot](plot_hjemkomst.md)
-- [ForsoningPlot](plot_forsoning.md)
-
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_barselsvisit.md](plot_barselsvisit.md) udløses, når dørene til salonen åbnes på vid gab, og de første lykønskende gæster strømmer ind med blomster.
+- [plot_hjemkomst.md](plot_hjemkomst.md) udløses, når den rejseklædte Dr. Wendel pludselig står i dobbeltdøren og afbryder de højtravende taler.
+- [plot_forsoning.md](plot_forsoning.md) udløses, når Jespersen med et dybt suk lægger sit manuskript på bordet og rækker hånden frem til forsoning.
 
 ## Stakes
 
