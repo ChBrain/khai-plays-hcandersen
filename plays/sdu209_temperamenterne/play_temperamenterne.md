@@ -2,12 +2,12 @@
 khai: play
 title: "The Temperaments"
 declared: "Temperamenterne"
-description: "En allegorisk skildring af de fire menneskelige temperamenter og deres indbyrdes stridigheder."
+description: "En allegorisk skildring af temperamenterne personificeret ved jordens og vandets skabninger i strid og harmoni."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Play: Temperamenterne
@@ -22,14 +22,14 @@ Temperamenterne
 
 ## Arc
 
-Kolerikeren raser i den fine sal, fyldt med indre ild og utålmodighed. Flegmatikeren sidder roligt i sin krog og søger at dæmme op for ilden med sit kølige vand. Flegmatikerens plan om harmoni søger at bilægge deres strid og genoprette balancen. Deres indbyrdes temperamenter kolliderer under den allegorisk stemning, indtil en stabil balance omsider falder over salen og verden.
+I den fine sal mødes Muldvarpen, der repræsenterer den melankolske jord, og Havmanden, der repræsenterer det flegmatiske vand. Muldvarpen graver sig dybt ned i sit mørke og beklager sig, mens Havmanden flyder dovent og uforstyrret i sin strøm. Deres uforenelige naturer fører dem ind i en uundgåelig strid, hvor den ene søger mørket og den anden søger fuldkommen passivitet. Gennem en langsom proces forsøger de at etablere en balance og realisere en plan om harmoni. Deres temperamenter kolliderer under den allegoriske klang, indtil en frugtbar balance omsider genopretter freden i salen og verden.
 
 ## Company
 
-- [Kolerikeren](persona_kolerikeren.md)
-- [Flegmatikeren](persona_flegmatikeren.md)
-- [Hidsig](position_hidsig.md)
-- [Rolig](position_rolig.md)
+- [Muldvarpen](persona_muldvarpen.md)
+- [Havmanden](persona_havmanden.md)
+- [Melankolsk](position_melankolsk.md)
+- [Flegmatisk](position_flegmatisk.md)
 - [Ild](piece_ild.md)
 - [Vand](piece_vand.md)
 - [Salen](place_salen.md)
@@ -38,13 +38,12 @@ Kolerikeren raser i den fine sal, fyldt med indre ild og utålmodighed. Flegmati
 - [Balance](process_balance.md)
 - [Harmoni](plan_harmoni.md)
 - [Allegorisk](pitch_allegorisk.md)
-- [Striden](plot_striden.md)
-- [Balancen](plot_balancen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_striden.md](plot_striden.md) udløses, når de allegoriske væsner mødes i den fine sal.
+- [plot_balancen.md](plot_balancen.md) udløses, når striden har udfoldet sig, og en fælles erkendelse opstår.
 
 ## Stakes
 
-Kampen står mellem den ødelæggende vrede og den totale ligegyldighed, og temperamenternes evne til at finde en frugtbar balance.
+Kampen står mellem Muldvarpens tunge, mørke melankoli og Havmandens ubevægelige ligegyldighed, og deres evne til at sameksistere i en harmonisk helhed.

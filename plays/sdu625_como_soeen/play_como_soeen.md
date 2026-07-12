@@ -38,13 +38,12 @@ Ved den smukke bred af Como-Søen forbereder den unge silkevæver Renzo og hans 
 - [GuddommeligRedning](process_redning.md)
 - [TrolovelsePlan](plan_trolovelse.md)
 - [Syngespil](pitch_syngespil.md)
-- [BryllupsafbrydelsenPlot](plot_afbrydelsen.md)
-- [BønnenTilMadonnaPlot](plot_boennen.md)
-- [GenforeningenPlot](plot_genforeningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_afbrydelsen.md](plot_afbrydelsen.md) udløses, når parret træder frem foran kapellet ved Como-Søen, og Don Rodrigos mænd omringer scenen.
+- [plot_boennen.md](plot_boennen.md) udløses, når fængselscenens mørke rammer scenen, og en enkelt lyskegle rammer Lucias knælende skikkelse.
+- [plot_genforeningen.md](plot_genforeningen.md) udløses, når pestens skygger viger, og sollyset vender tilbage til Como-Søens bred.
 
 ## Stakes
 

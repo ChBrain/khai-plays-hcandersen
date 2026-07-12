@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Broder](position_broder.md): Den snilde broder, der markerer stien med hvide sten.
+[Nabobroder](position_nabobroder.md): Den ældre bror, der ejer en landejendom og praler af sin stolte hingst.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-En lille dreng med lommerne fulde af sten.
+En stædig bonde i arbejdstøj, der ejer den stolte hingst.
 
 ## Action
 
-Smidder små sten på jorden under gangen.
+Praler højlydt af sin hests styrke og formue over for sin bror ved skellet.
 
 ## Shadow
 
-Frygter at fuglene vil spise hans brødkrummer.
+Frygter at broderens hoppe reelt er mere værdifuld eller hurtigere.
 
 ## Tell
 
-Taler roligt og opmuntrende til sin søster.
+Taler med en dyb, selvsikker stemme og gestikulerer stolt mod sin stald.

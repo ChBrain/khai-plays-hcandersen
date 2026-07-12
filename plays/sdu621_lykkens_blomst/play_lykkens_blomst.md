@@ -38,13 +38,12 @@ I den frodige Jægersborg skov mødes det unge skovfogedpar Henrik og Johanne un
 - [Lykkestest](process_lykkestest.md)
 - [KaerlighedsvalgPlan](plan_kaerlighedsvalg.md)
 - [EventyrKomedie](pitch_eventyr_komedie.md)
-- [SkovlykkenPlot](plot_skovlykken.md)
-- [TidenSkifterPlot](plot_tidenskifter.md)
-- [SnoeboldenPlot](plot_snoebolden.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_skovlykken.md](plot_skovlykken.md) udløses, når tæppet går op, og den muntre skovmusik lyder under Jægersborgs store ege.
+- [plot_tidenskifter.md](plot_tidenskifter.md) udløses, når parret lægger sig til at sove under egetræet, og skovens lys skifter til mystisk violet.
+- [plot_snoebolden.md](plot_snoebolden.md) udløses, når nissen træder frem på scenen med en stor sæk guld og tilbyder at købe deres blomst.
 
 ## Stakes
 

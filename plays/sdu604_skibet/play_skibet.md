@@ -39,13 +39,12 @@ Et skib ankommer fra Smyrna til en dansk havn og tvinges øjeblikkeligt i karant
 - [Misforstaaelse](process_misforstaaelse.md)
 - [SmuglingPlan](plan_smugling.md)
 - [Vaudeville](pitch_vaudeville.md)
-- [Karantaenen](plot_karantaenen.md)
-- [Brevvekslingen](plot_brevvekslingen.md)
-- [Frigoerelsen](plot_frigoerelsen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_karantaenen.md](plot_karantaenen.md) udløses, når skibet smider anker i havnebassinet, og havnevagten råber holdt.
+- [plot_brevvekslingen.md](plot_brevvekslingen.md) udløses, når karantæneofficeren vender ryggen til for at skrive i sin protokol.
+- [plot_frigoerelsen.md](plot_frigoerelsen.md) udløses, når havnens signalmast hejser det hvide flag, og et bud bringer frigørelsesbrevet.
 
 ## Stakes
 

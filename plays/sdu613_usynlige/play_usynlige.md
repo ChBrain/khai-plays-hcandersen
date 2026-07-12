@@ -38,13 +38,12 @@ Under en streng isvinter strander en række rejsende på den isolerede ø Sprog�
 - [Trylleri](process_trylleri.md)
 - [KomediePlan](plan_komedie.md)
 - [Spoeg](pitch_spoeg.md)
-- [StrandingenPlot](plot_strandingen.md)
-- [TrylledrikkenPlot](plot_trylledrikken.md)
-- [GenforeningenPlot](plot_genforeningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_strandingen.md](plot_strandingen.md) udløses, når Storebælt fryser helt til, og isen tvinger postbåden til at søge havn på Sprogø.
+- [plot_trylledrikken.md](plot_trylledrikken.md) udløses, når Theodor trækker den grønne eliksirflaske frem og hvisker trylleordene til købmanden.
+- [plot_genforeningen.md](plot_genforeningen.md) udløses, når Theodor og Ingeborg knæler midt i krostuen og beder faderens usynlige ånd om hans velsignelse.
 
 ## Stakes
 

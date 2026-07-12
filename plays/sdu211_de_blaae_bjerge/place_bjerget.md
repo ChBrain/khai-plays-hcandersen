@@ -6,31 +6,31 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Place: Bjerget
 
 ## Taxonomy
 
-De fjerne, stejle blå bjerge under nattehimlen.
+De fjerne, stejle blå bjerge, der danner grænsen for dalen og menighedens horisont.
 
 ## Owner
 
-[De blaae Bjerge](play_de_blaae_bjerge.md)
+- Project: khai-plays-hcandersen
 
 ## Shown
 
-Et stejlt klippebjerg med en smal sti og en klar stjerne over toppen.
+En række af høje, stejle klipper, der fra afstand ser smukke og dybblå ud under himlen.
 
 ## Holds
 
-Det ledende [maaneskinnet](persona_maaneskinnet.md) og den lysende [stjerne](piece_stjerne.md).
+De ufrugtbare og kolde [Sten](piece_sten.md), klipper og den ufremkommelige natur.
 
 ## Offers
 
-En stor udfordring og en storslået udsigt over dalen.
+En stejl og udfordrende sti, som [Undersoegeren](persona_undersoegeren.md) må bestige for at finde sandheden.
 
 ## Withheld
 
-Dalen beskyttende varme og bløde græs.
+Dalen og menighedens trygge, menigheds-bårne varme og tro.

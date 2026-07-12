@@ -38,13 +38,12 @@ I det historiske Spanien under de blodige kampe mod maurerne hyldes den unge spa
 - [Identitetskrise](process_identitetskrise.md)
 - [AfsloeringPlan](plan_afsloering.md)
 - [Tragedie](pitch_tragedie.md)
-- [HeltindenPlot](plot_heltinden.md)
-- [SandhedenPlot](plot_sandheden.md)
-- [FaldetPlot](plot_faldet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_heltinden.md](plot_heltinden.md) udløses, når den spanske hær vender sejrrig tilbage, og tronsalen fyldes med sejrssange for Raphaella.
+- [plot_sandheden.md](plot_sandheden.md) udløses, når Alhakein trækkes ind foran tronen og kaster medaljonen for Raphaellas fødder.
+- [plot_faldet.md](plot_faldet.md) udløses, når Raphaella stammende løber væk fra tronsalen mod klippeskrænten under det mørke uvejr.
 
 ## Stakes
 

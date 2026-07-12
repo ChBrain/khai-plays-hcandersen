@@ -6,31 +6,31 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Place: Dalen
 
 ## Taxonomy
 
-Den dybe, skyggefulde dal ved bjergets fod.
+Den dybe, frugtbare dal, hvor menigheden bor i fredelige omgivelser.
 
 ## Owner
 
-[De blaae Bjerge](play_de_blaae_bjerge.md)
+- Project: khai-plays-hcandersen
 
 ## Shown
 
-En grøn dal med lave buske og en rolig bæk under stjernerne.
+En frodig og tryg dal med grønne marker, omgivet af de majestætiske blå bjerge.
 
 ## Holds
 
-Den søgende [laengsleren](persona_laengsleren.md) og hans [vandrestav](piece_vandrestav.md).
+[Menigheden](persona_menigheden.md) og det fælles, centrale [Alter](piece_alter.md).
 
 ## Offers
 
-Tryghed, hvile og en rolig start på vandringen.
+Tryghed, fællesskab, arbejdsglæde og et beskyttet liv i tro.
 
 ## Withheld
 
-De høje bjerges brede udsigt og stjernernes nærhed.
+Den barske og golde sandhed om bjergenes ufrugtbare klipper.

@@ -25,7 +25,7 @@ En varm aften i de sydlige lande. Den lærde mand sidder på sin altan, mens lys
 
 ## Action
 
-[Den lærde mand](persona_laerde_mand.md) undres over den smukke musik og det magiske lys hos genboen. Halv i spøg opfordrer han sin [skygge](persona_skyggen.md) til at smutte derover for at undersøge sagen. Skyggen adlyder, løsriver sig i nattens mørke, og vender ikke tilbage. Næste morgen må den lærde mand konstatere, at han er skyggeløs, og må lade en ny vokse ud.
+[Den lærde mand](persona_laerde_mand.md) i sin position som [Filosof](position_filosof.md) sidder på sin [Altanen](place_altanen.md) og undres over den smukke musik hos genboen, hvor [Poesien](piece_poesien.md) bor. Halv i spøg opfordrer han sin [skygge](persona_skyggen.md) til at smutte derover. Skyggen adlyder, løsriver sig i en [Frigoerelse](process_frigoerelse.md), og vender ikke tilbage. Næste morgen må den lærde mand konstatere, at han er skyggeløs, og må lade en ny vokse ud.
 
 ## Stage
 

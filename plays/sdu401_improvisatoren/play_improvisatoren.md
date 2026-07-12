@@ -42,13 +42,12 @@ Den forældreløse Antonio vokser op i Roms gader og på den øde Campagna, hvor
 - [Rejse](process_rejse.md)
 - [Selvrealisering](plan_selvrealisering.md)
 - [Romantisk](pitch_romantisk.md)
-- [Barndommen](plot_barndommen.md)
-- [Gennembruddet](plot_gennembruddet.md)
-- [Grotten](plot_grotten.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_barndommen.md](plot_barndommen.md) udløses, når Antonio mister sin mor og må søge ly hos Domenica.
+- [plot_gennembruddet.md](plot_gennembruddet.md) udløses, når Antonio træder op på scenen foran det romerske publikum med sin guitar.
+- [plot_grotten.md](plot_grotten.md) udløses, når Antonio stiger ned i Den Blå Grottes magiske lys.
 
 ## Stakes
 

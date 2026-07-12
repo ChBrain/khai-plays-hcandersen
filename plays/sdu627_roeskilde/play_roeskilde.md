@@ -38,13 +38,12 @@ På en støjende og simpel krostue i Roskilde indkvarteres to trætte rejsende i
 - [ForvekslingProcess](process_forveksling.md)
 - [KoneFrigoerelsePlan](plan_kone.md)
 - [VaudevilleSpoeg](pitch_vaudeville.md)
-- [DeltVaerelsePlot](plot_delt_vaerelse.md)
-- [TerningekastPlot](plot_terningekast.md)
-- [PostbudskabPlot](plot_postbudskab.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_delt_vaerelse.md](plot_delt_vaerelse.md) udløses, når krostuepigen åbner døren til det trange værelse, og de to vrisne mænd slæber deres bagage ind.
+- [plot_terningekast.md](plot_terningekast.md) udløses, når mændene sætter sig ved bordet i midten, og bægeret med terninger rystes voldsomt.
+- [plot_postbudskab.md](plot_postbudskab.md) udløses, når pigen træder ind med et stort forseglet brev, og afbryder mændenes vilde raflespil.
 
 ## Stakes
 

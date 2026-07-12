@@ -6,31 +6,31 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Piece: Skolebog
 
 ## Taxonomy
 
-Den slidte lærebog med ABC-fortællinger.
+Den gamle, slidte lærebog med ABC-fortællinger og kort.
 
 ## Owner
 
-[Vor gamle Skolemester](play_vor_gamle_skolemester.md)
+- Project: khai-plays-hcandersen
 
 ## Place
 
-[Skolestuen](place_skolestuen.md)
+[Danmarkshave](place_danmarkshave.md) på havebordet.
 
 ## Load Bearing
 
-Bærer bogstavernes viden og dannelsens grundlag.
+Bærer bogstavernes viden, geografi og dannelsens grundlag.
 
 ## Apparent
 
-En gammel bog with læderryg og nussede sider.
+En gammel bog med læderryg og nussede sider, fyldt med kort over Danmark.
 
 ## Yearbook
 
-Bliver åbnet af nye hænder hvert efterårssemester.
+Åbnet af mange hænder og båret ud i haven for at sammenligne bogen med havesengene.

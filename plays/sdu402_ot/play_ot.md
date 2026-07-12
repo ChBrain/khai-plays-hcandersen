@@ -42,13 +42,12 @@ Den melankolske studerende Otto Thostrup bærer på en mørk hemmelighed: brandm
 - [Rejse](process_rejse.md)
 - [Integration](plan_integration.md)
 - [Melankolsk](pitch_melankolsk.md)
-- [Barndomsskyggen](plot_barndomsskyggen.md)
-- [Studietiden](plot_studietiden.md)
-- [Forloesningen](plot_forloesningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_barndomsskyggen.md](plot_barndomsskyggen.md) udløses, når Heinrich viser sig og minder Otto om tugthusets mørke.
+- [plot_studietiden.md](plot_studietiden.md) udløses, når Otto og Vilhelm forlader studierne i København for at rejse til Fyn.
+- [plot_forloesningen.md](plot_forloesningen.md) udløses, når Otto Thostrup endelig taler ud om sit brændemærke og finder Eva.
 
 ## Stakes
 

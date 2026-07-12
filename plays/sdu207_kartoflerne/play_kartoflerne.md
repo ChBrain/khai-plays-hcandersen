@@ -2,12 +2,12 @@
 khai: play
 title: "Potatoes"
 declared: "Kartoflerne"
-description: "En humoristisk og lærerik fortælling om kartoflernes rejse og betydning som føde for folket."
+description: "En historie om den ydmyge kartoffels kamp mod befolkningens mistro og dens endelige sejr som livgivende føde."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Play: Kartoflerne
@@ -22,7 +22,7 @@ Kartoflerne
 
 ## Arc
 
-Kartoflen spirer dybt i den mørke jord på marken, hvor den drømmer om at tjene folket. Kokken henter den ind i sit varme køkken og lægger den i gryden til kogning. Kokkens plan om næring virker under den folkelig klang, hvor kartoflernes forvandling fejres. Den simple vækst fuldendes i kogningens proces, og den ydmyge kartoffel mætter de mange sultne munde.
+Kartoflen spirer stille i den mørke jord på marken. Da den trækkes op af jorden, mødes den med dyb mistro og modstand fra befolkningen, som anser den for en uren og giftig plante. Under hungersnøden må kokken dog kæmpe mod denne folkelige modstand og bringe kartoflen ind i sit køkken til tilberedning. Kokkens plan om næring realiseres, da han koger kartoflen i sin store gryde. Efterhånden som de sultne munde mættes, viger befolkningens mistro for en dyb taknemmelighed, og kartoflens sande værdi som en livgivende velsignelse anerkendes under den folkelige klang.
 
 ## Company
 
@@ -38,13 +38,12 @@ Kartoflen spirer dybt i den mørke jord på marken, hvor den drømmer om at tjen
 - [Kogning](process_kogning.md)
 - [Naering](plan_naering.md)
 - [Folkelig](pitch_folkelig.md)
-- [Dyrkningen](plot_dyrkningen.md)
-- [Koekkenet](plot_koekkenet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_dyrkningen.md](plot_dyrkningen.md) udløses, når sommersolen varmer den nysåede mark.
+- [plot_koekkenet.md](plot_koekkenet.md) udløses, når kokken henter kartoflerne ind i køkkenet på en kold vinterdag for at afhjælpe sulten.
 
 ## Stakes
 
-Kampen står mellem jordens goldhed og frost, og kartoflernes kraft, der mætter menneskene og holder sulten borte.
+Kampen står mellem befolkningens stædige mistro over for det fremmede og den ydmyge kartoffels sande kraft, der kan redde dem fra hungersnød.

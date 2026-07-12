@@ -40,13 +40,12 @@ I Åndernes Konges storslåede tempel residerer den mægtige hersker over den ov
 - [SøgningEfterSandhed](process_gaade.md)
 - [StatuePlan](plan_statue.md)
 - [EventyrKomedie](pitch_komedie.md)
-- [KongensOpgavePlot](plot_opgave.md)
-- [BallonrejsenPlot](plot_ballonrejse.md)
-- [KærlighedensTriumfPlot](plot_triumf.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_opgave.md](plot_opgave.md) udløses, når tæppet går op for første akt, og Elimar står foran Åndekongens trone i templet.
+- [plot_ballonrejse.md](plot_ballonrejse.md) udløses, når ballonen letter fra jorden under en fanfare, og nissen overtager styringen.
+- [plot_triumf.md](plot_triumf.md) udløses, når den sidste diamantstatue lyser op på sin sokkel, og Åndekongen løfter sine arme i velsignelse.
 
 ## Stakes
 

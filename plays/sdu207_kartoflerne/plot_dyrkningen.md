@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Plot: Dyrkningen
@@ -25,12 +25,12 @@ Når sommersolen varmer den nysåede mark.
 
 ## Action
 
-På den åbne [marken](place_marken.md) spirer [Kartoflen](persona_kartoflen.md) i sin position som [Vaekst](position_vaekst.md) i den rige [jord](piece_jord.md). Den indleder en [Folkelig](pitch_folkelig.md) [Dyrkning](process_dyrkning.md) for at vokse sig stor.
+På den åbne [Marken](place_marken.md) spirer [Kartoflen](persona_kartoflen.md) i sin position som [Vaekst](position_vaekst.md) dybt nede i den rige [Jord](piece_jord.md). Den indleder sin [Dyrkning](process_dyrkning.md) for at vokse sig stor, uvidende om den mistro, der venter den over overfladen under den [Folkelig](pitch_folkelig.md) klang.
 
 ## Stage
 
-Marken er præget af grønne toppe, der svajer let i den milde vind.
+Marken er dækket af grønne toppe, der svajer i vinden. Men bønderne, der går forbi, ser med skeptiske blikke på planten og ryster på hovedet.
 
 ## Tension
 
-Spændingen mellem tørke og det livgivende regnvejr.
+Spændingen mellem plantens stille, livskraftige vækst i jorden og de fordomme, der venter den hos befolkningen.

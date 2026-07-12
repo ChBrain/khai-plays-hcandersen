@@ -38,13 +38,12 @@ I den mørke skovkro i Vissenbjerg sidder røverne Knud og Ulrik og lægger plan
 - [Overtro](process_overtro.md)
 - [BortfoerelsePlan](plan_bortfoerelse.md)
 - [Folkesagn](pitch_folkesagn.md)
-- [Krostuen](plot_krostuen.md)
-- [Bejleriet](plot_bejleriet.md)
-- [Overfaldet](plot_overfaldet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_krostuen.md](plot_krostuen.md) udløses, når uvejret raser uden for skovkroen, og tællelyset tændes på træbordet.
+- [plot_bejleriet.md](plot_bejleriet.md) udløses, når lysekronerne tændes i herregårdens sal, og Henning Aasum træder ind.
+- [plot_overfaldet.md](plot_overfaldet.md) udløses, når signalfløjtet lyder fra skovbrynet, og vognen standser på vejen.
 
 ## Stakes
 

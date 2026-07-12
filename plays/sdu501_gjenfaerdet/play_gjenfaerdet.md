@@ -38,13 +38,12 @@ Ved gravhøjen Palleshøj i Odenses omegn hersker der dyb overtro blandt bønder
 - [Hjaemsoegning](process_hjaemsoegning.md)
 - [Opklaring](plan_opklaring.md)
 - [Gotisk](pitch_gotisk.md)
-- [Sagnfortaellingen](plot_sagnfortaellingen.md)
-- [Gravfaerden](plot_gravfaerden.md)
-- [Stenfaldet](plot_stenfaldet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_sagnfortaellingen.md](plot_sagnfortaellingen.md) udløses, når Stine advarer bønderne i Odenses omegn om genfærdets natlige jagt.
+- [plot_gravfaerden.md](plot_gravfaerden.md) udløses, når Jochum trodser mørket og begiver sig op på gravhøjen Palleshøj.
+- [plot_stenfaldet.md](plot_stenfaldet.md) udløses, når Jochum undersøger de øverste sten på Palleshøj, og stenen skrider.
 
 ## Stakes
 

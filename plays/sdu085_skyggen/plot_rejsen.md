@@ -25,7 +25,7 @@ Filosoffens helbred svigter, og skyggen tilbyder ham en rejse til en sundhedsbr�
 
 ## Action
 
-[Den lærde mand](persona_laerde_mand.md) og [skyggen](persona_skyggen.md) rejser sammen, men rollerne forskydes fatalistisk. Skyggen optræder som den rige herre, mens filosoffen presses ind i rollen som hans ledsager og reelle skygge. Ved badestedet møder de en kongedatter, og skyggen indleder sin [magtovertagelse](plan_magtovertagelse.md) ved at præsentere filosoffen som sin egen avancerede skygge, der har fået sit eget liv.
+[Den lærde mand](persona_laerde_mand.md) og [skyggen](persona_skyggen.md) rejser ud i [Verden](place_verden.md), men rollerne forskydes fatalistisk. Skyggen optræder som den rige [Opportunist](position_opportunist.md), mens filosoffen presses ind i rollen som hans ledsager i en fuldstændig [Inversion](process_inversion.md). Ved badestedet møder de en kongedatter, og skyggen indleder sin [magtovertagelse](plan_magtovertagelse.md) ved at præsentere filosoffen som sin egen avancerede skygge, der har fået sit eget liv.
 
 ## Stage
 

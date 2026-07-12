@@ -39,13 +39,12 @@ Niels Bryde vokser op i Rundetårn i København, omgivet af stjerner og videnska
 - [Aabenbaring](process_aabenbaring.md)
 - [Videnskab](plan_videnskab.md)
 - [Eksistentiel](pitch_eksistentiel.md)
-- [Taarnbarndommen](plot_taarnbarndommen.md)
-- [EsthersDoed](plot_esthers_doed.md)
-- [Slagmarksundret](plot_slagmarksundret.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_taarnbarndommen.md](plot_taarnbarndommen.md) udløses, når Niels Bryde vokser op hos sin far portneren i Rundetårn.
+- [plot_esthers_doed.md](plot_esthers_doed.md) udløses, når Esther bliver alvorligt syg og Niels forgæves forsøger at redde hende.
+- [plot_slagmarksundret.md](plot_slagmarksundret.md) udløses, når Niels tjener som læge på slagmarken under Treårskrigens rædsler.
 
 ## Stakes
 

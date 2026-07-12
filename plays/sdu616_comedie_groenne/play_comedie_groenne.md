@@ -36,13 +36,12 @@ I den fornemme herregårdshave under åben himmel opsøger den excentriske og om
 - [Parodi](process_parodi.md)
 - [ForevisningPlan](plan_forevisning.md)
 - [Metateater](pitch_metateater.md)
-- [KonfrontationenPlot](plot_konfrontationen.md)
-- [FrisoerscenenPlot](plot_frisoerscenen.md)
-- [TilladelsenPlot](plot_tilladelsen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_konfrontationen.md](plot_konfrontationen.md) udløses, når Dalby træder ind i herregårdshaven, åbner sin kuffert og præsenterer sit teaterforslag for den skeptiske inspektør.
+- [plot_frisoerscenen.md](plot_frisoerscenen.md) udløses, når Dalby genindtræder på scenen iført frisørkappe og paryk med en stor saks i hånden, klar til at frisere inspektøren.
+- [plot_tilladelsen.md](plot_tilladelsen.md) udløses, når Dalby i sin malerforklædning færdiggør sin demonstration og anmoder om den endelige underskrift på tilladelsen.
 
 ## Stakes
 

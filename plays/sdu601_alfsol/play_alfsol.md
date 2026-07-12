@@ -38,13 +38,12 @@ I templet modtager spåkonen Vala og den ondsindede Bolvise en dyster spådom om
 - [Ofring](process_ofring.md)
 - [ErobringPlan](plan_erobring.md)
 - [Tragisk](pitch_tragisk.md)
-- [Spaadommen](plot_spaadommen.md)
-- [Erobringen](plot_erobringen.md)
-- [Ofringen](plot_ofringen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_spaadommen.md](plot_spaadommen.md) udløses, når offerildens flammer stiger højt nytårsmorgen i templet.
+- [plot_erobringen.md](plot_erobringen.md) udløses, når den svenske hærs angrebssignaler lyder hen over slagmarken.
+- [plot_ofringen.md](plot_ofringen.md) udløses, når templet rystes af de svenske krigeres slag mod portene.
 
 ## Stakes
 

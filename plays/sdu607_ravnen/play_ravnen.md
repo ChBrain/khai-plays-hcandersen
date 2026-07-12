@@ -39,13 +39,12 @@ Prins Millo rammer en mystisk ravn med sin bue, hvilket udløser en frygtelig fo
 - [Forvandling](process_forvandling.md)
 - [RedningsaktionPlan](plan_redningsaktion.md)
 - [Eventyrlig](pitch_eventyrlig.md)
-- [Forbandelsen](plot_forbandelsen.md)
-- [Broderproeven](plot_broderproeven.md)
-- [Forloesningen](plot_forloesningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_forbandelsen.md](plot_forbandelsen.md) udløses, når prinsen spænder sin bue mod himlen, og den sorte fugl falder ned på sneen.
+- [plot_broderproeven.md](plot_broderproeven.md) udløses, når Jennaro trænger ind i grotten, og de magiske væsner advarer ham mod at tale.
+- [plot_forloesningen.md](plot_forloesningen.md) udløses, når Jennaro forvandles til en marmorstøtte, og Armilla træder frem med opofrelse.
 
 ## Stakes
 

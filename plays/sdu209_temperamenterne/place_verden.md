@@ -6,31 +6,31 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Place: Verden
 
 ## Taxonomy
 
-Den brede menneskelige virkelighed uden for salens mure.
+Den omgivende verden, som påvirkes af temperamenternes ligevægt.
 
 ## Owner
 
-[Temperamenterne](play_temperamenterne.md)
+- Project: khai-plays-hcandersen
 
 ## Shown
 
-Et åbent landskab under en neutral, grå himmel.
+Et stort, grønt landskab med strømmende vandløb under en skyet himmel.
 
 ## Holds
 
-Den sindige [flegmatikeren](persona_flegmatikeren.md) og det klare [vand](piece_vand.md).
+[Havmanden](persona_havmanden.md), floden med det kølige [Vand](piece_vand.md) og naturens gang.
 
 ## Offers
 
-En bred ramme for sameksistens og balance.
+En større, neutral sfære, hvor temperamenterne kan finde deres rette balance.
 
 ## Withheld
 
-Salens tætte atmosfære og lidenskabens varme.
+Salens fornemme marmorgulve og paneler.

@@ -38,13 +38,12 @@ Foran Jerusalems mægtige byport nægter skomageren Ahasverus at lade Jesus hvil
 - [Verdensdom](process_verdensdom.md)
 - [SjælefredPlan](plan_sjaelefred.md)
 - [EpiskDigt](pitch_episk_digt.md)
-- [JerusalemsFaldPlot](plot_jerusalems_fald.md)
-- [TidernesStroemPlot](plot_tidernes_stroem.md)
-- [NytHaabPlot](plot_nyt_haab.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_jerusalems_fald.md](plot_jerusalems_fald.md) udløses, når Jesus føres mod Golgatha under soldaternes råb, og Ahasverus nægter ham hvile ved sin port.
+- [plot_tidernes_stroem.md](plot_tidernes_stroem.md) udløses, når den romerske krigslarm forstummer, og klosterklokker samt middelalderlige korviser fylder scenen.
+- [plot_nyt_haab.md](plot_nyt_haab.md) udløses, når middelalderens tåge letter, og lyden af det store åbne verdenshav samt daggryets lys breder sig.
 
 ## Stakes
 

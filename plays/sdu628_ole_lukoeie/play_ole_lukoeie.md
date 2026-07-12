@@ -38,13 +38,12 @@ I et beskedent og fattigt tagkammer lever den unge skorstensfejer Christian et r
 - [SjæleligIndsigt](process_indsigt.md)
 - [SjælefredPlan](plan_sjaelefred.md)
 - [EventyrKomedie](pitch_komedie.md)
-- [SkorstensfejerensDroemPlot](plot_droem.md)
-- [RigdommensBlaendvaerkPlot](plot_rigdom.md)
-- [VaagnenOgSjaelefredPlot](plot_vaagnen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_droem.md](plot_droem.md) udløses, når måneskinnet lyser tagkammeret op, og Christian falder i dyb søvn efter en lang dags arbejde.
+- [plot_rigdom.md](plot_rigdom.md) udløses, når drømmescenen skifter til det overdådige palads, og guldet glimter på væggene.
+- [plot_vaagnen.md](plot_vaagnen.md) udløses, når morgenlyset bryder frem gennem tagvinduet, og de fantastiske drømmesyner forsvinder.
 
 ## Stakes
 

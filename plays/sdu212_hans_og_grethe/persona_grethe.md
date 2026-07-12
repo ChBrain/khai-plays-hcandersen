@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Soester](position_soester.md): Den omsorgsfulde søster, der holder sin bror i hånden og søger en vej ud.
+[Nabobroder](position_nabobroder.md): Den yngre bror, der ejer en landejendom og praler af sin hurtige hoppe.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-En lille pige, der kigger ængsteligt rundt i skoven.
+En stolt landmand, der vogter over sin landejendom og sin elskede hoppe.
 
 ## Action
 
-Holder sin brors hånd og kigger efter lys.
+Sammenligner og fremhæver sin hoppes smidighed og hurtighed frem for broderens hest.
 
 ## Shadow
 
-Frygter at de vil forvilde sig dybere ind i mørket.
+Plages af misundelse over broderens hingsts rå styrke.
 
 ## Tell
 
-Hvisker bekymret under de tætte træer.
+Taler med en skarp, ironisk tone og afviser broderens store ord med et smil.

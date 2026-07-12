@@ -37,13 +37,12 @@ Den unge, jordiske pige Agnete møder Havmanden på stranden og lader sig lokke 
 - [Hjemlaengsel](process_hjemlaengsel.md)
 - [AfsvaergelsePlan](plan_afsvaergelse.md)
 - [Tragisk](pitch_tragisk.md)
-- [DybetPlot](plot_dybet.md)
-- [KlokkernePlot](plot_klokkerne.md)
-- [BruddetPlot](plot_bruddet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_dybet.md](plot_dybet.md) udløses, når solen forsvinder bag klitterne, og Agnete rækker sin hånd til Havmanden.
+- [plot_klokkerne.md](plot_klokkerne.md) udløses, når kirkeklokkens første fjerne malmklang trænger ned gennem det grønne vand.
+- [plot_bruddet.md](plot_bruddet.md) udløses, når prædikenen slutter, og Havmanden træder frem ved kirkedøren for at hente Agnete.
 
 ## Stakes
 

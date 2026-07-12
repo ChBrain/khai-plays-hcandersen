@@ -38,13 +38,12 @@ I den sentimentale stue regerer den hårde og eneherskende Mama Nominativ over s
 - [Konjugering](process_konjugering.md)
 - [KaerlighedPlan](plan_kaerlighed.md)
 - [Sentimental](pitch_sentimental.md)
-- [Husspektaklet](plot_husspektaklet.md)
-- [Staevnemoedet](plot_staevnemoedet.md)
-- [Saetningsbygningen](plot_saetningsbygningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_husspektaklet.md](plot_husspektaklet.md) udløses, når Mama Nominativ slår sin lineal mod bordet for at begynde bøjningsøvelserne.
+- [plot_staevnemoedet.md](plot_staevnemoedet.md) udløses, når Dativ undslipper stuen og træder ind i ordbogens syntaktiske spalter.
+- [plot_saetningsbygningen.md](plot_saetningsbygningen.md) udløses, når Amo rækker sværdet frem for at styre Dativ og danne den endelige sætning.
 
 ## Stakes
 

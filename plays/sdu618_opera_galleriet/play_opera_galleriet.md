@@ -38,13 +38,12 @@ I Det Kongelige Teaters foyer og de tilstødende gange samler guiden en flok int
 - [MusikalskKollage](process_kollage.md)
 - [BeneficePlan](plan_benefice.md)
 - [Rammefortaelling](pitch_rammefortaelling.md)
-- [AabningenPlot](plot_aabningen.md)
-- [GallerietPlot](plot_galleriet.md)
-- [AfslutningenPlot](plot_afslutningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_aabningen.md](plot_aabningen.md) udløses, når guiden hæver sin stok i foyeren for at byde selskabet velkommen og udlevere koncertprogrammet.
+- [plot_galleriet.md](plot_galleriet.md) udløses, når guiden peger på Mozarts og Rossinis malerirammer, og divaen begynder at synge ariernes første strofer.
+- [plot_afslutningen.md](plot_afslutningen.md) udløses, når den sidste arie tones ud, og kritikeren klapper sin notesbog sammen med et smil.
 
 ## Stakes
 
