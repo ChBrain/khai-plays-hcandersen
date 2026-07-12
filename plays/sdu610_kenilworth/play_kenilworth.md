@@ -39,13 +39,12 @@ Emmy Robsart lever hemmeligt gift med den ambitiøse Grev Leicester og holdes sk
 - [Hofliv](process_hofliv.md)
 - [AfsloeringPlan](plan_afsloering.md)
 - [Romantisk](pitch_romantisk.md)
-- [HemmelighedenPlot](plot_hemmeligheden.md)
-- [FestenPlot](plot_festen.md)
-- [ForloesningenPlot](plot_forloesningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_hemmeligheden.md](plot_hemmeligheden.md) udløses, når gardinerne trækkes fra i det mørke kammer på Cumnor Hall.
+- [plot_festen.md](plot_festen.md) udløses, når de kongelige trompeter lyder ved slottets ydre port.
+- [plot_forloesningen.md](plot_forloesningen.md) udløses, når Emmy træder frem foran tronen og viser sin troskabsring.
 
 ## Stakes
 

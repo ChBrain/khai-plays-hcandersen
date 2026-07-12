@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 status: active
 ---
 
@@ -14,26 +14,26 @@ status: active
 
 ## Taxonomy
 
-[Flegmatikeren](persona_flegmatikeren.md): Flegmatikerens plan om at skabe balance og dæmpe kolerikerens ild.
+Havmandens plan om at dæmpe striden og skabe en fælles balance i salen.
 
 ## Owner
 
-[Flegmatikeren](persona_flegmatikeren.md)
+- Project: khai-plays-hcandersen
 
 ## Direction
 
-At bevare roen, anvende vandet mod ilden, og bilægge striden.
+At bevare det flegmatiske vand mod Muldvarpens melankolske jord for at finde en stabil sameksistens.
 
 ## Orders
 
-Bevar fatningen, hæld vand på ilden, og find en rolig fællesvej.
+Bevar fatningen, dæmp voldsomme udspil, og tillad Muldvarpen at have sit eget mørke rum.
 
 ## Implementation
 
-Gennemført ved at bringe [ild](piece_ild.md) og [vand](piece_vand.md) i [salen](place_salen.md).
+Gennemført ved at koble [Ild](piece_ild.md) og [Vand](piece_vand.md) i den fornemme [Salen](place_salen.md).
 
 ## Targets
 
-- [x] Dæmp den vrede [kolerikeren](persona_kolerikeren.md)
-- [x] Brug det kolde [vand](piece_vand.md) mod ilden
-- [x] Sikr stykkets endelige [balance](process_balance.md)
+- [ ] Dæmp den voldsomme strid i salen
+- [ ] Brug det kølige vand og den tålmodige jord til at balancere atmosfæren
+- [ ] Sikr stykkets endelige balance og genopret harmoni

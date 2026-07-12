@@ -38,13 +38,12 @@ Monologen tager sit udgangspunkt i, at den simple danske soldat Mikkel er rejst 
 - [Rejsefeber](process_rejsefeber.md)
 - [HjemrejsePlan](plan_hjemrejse.md)
 - [Vaudeville](pitch_vaudeville.md)
-- [DiligencenPlot](plot_diligencen.md)
-- [ByrundturenPlot](plot_byrundturen.md)
-- [HjemvejenPlot](plot_hjemvejen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_diligencen.md](plot_diligencen.md) udløses, når Mikkel viser sin diligencebillet og beskriver vognens bumpsende tur mod Paris.
+- [plot_byrundturen.md](plot_byrundturen.md) udløses, når Mikkel efterligner Majorens kommandoer og beretter om sine forvirrede ærinder i de franske gader.
+- [plot_hjemvejen.md](plot_hjemvejen.md) udløses, når Mikkel stopper sin klagesang over Paris, bryder ud i en munter fædrelandssang og pakker sin taske.
 
 ## Stakes
 

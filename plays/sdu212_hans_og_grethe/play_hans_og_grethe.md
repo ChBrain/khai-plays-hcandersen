@@ -2,12 +2,12 @@
 khai: play
 title: "Hans and Grethe"
 declared: "Hans og Grethe"
-description: "To søskende forvilder sig ind i en mystisk skov og må stole på hinandens snilde for at finde vej hjem."
+description: "To naboer og brødre praler og strides uophørligt om deres hestes fortræffeligheder."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Play: Hans og Grethe
@@ -22,29 +22,26 @@ Hans og Grethe
 
 ## Arc
 
-To søskende vandrer gennem den mørke skov, søgende efter en sti under stjernerne. Hans kaster krummer og hvide sten på jorden for at markere en vej tilbage til deres hjem. Grethes plan om redning leder dem gennem de tætte træer og forbi skovens farer. Deres fælles vandring og overlevelse forenes under den dramatiske klang, og de finder stien hjem under måneskinnet.
+To brødre, Hans og Grethe, ejer hver deres tilstødende landejendom. Deres daglige liv præges af en konstant indbyrdes rivalisering og stolthed. Hans ejer en stærk og stolt hingst, mens Grethe ejer en hurtig og smidig hoppe. Ved skellet mellem deres ejendomme indleder de en uendelig samtale præget af praleri og sammenligning af deres hestes styrker og svagheder. Deres plan om overbevisning af broderen om eget dyrs overlegenhed fastlåser dem i en cirkulær strid, der forenes under den dramatiske klang.
 
 ## Company
 
 - [Hans](persona_hans.md)
 - [Grethe](persona_grethe.md)
-- [Broder](position_broder.md)
-- [Soester](position_soester.md)
-- [Broedkrumme](piece_broedkrumme.md)
-- [Hvid_sten](piece_hvid_sten.md)
-- [Skoven](place_skoven.md)
-- [Stien](place_stien.md)
-- [Vandring](process_vandring.md)
-- [Overlevelse](process_overlevelse.md)
-- [Redning](plan_redning.md)
-- [Dramatisk](pitch_dramatisk.md)
-- [Skoven](plot_skoven.md)
-- [Vejen](plot_vejen.md)
+- [Nabobroder](position_nabobroder.md)
+- [Hingsten](piece_hingst.md)
+- [Hoppen](piece_hoppe.md)
+- [Landejendom](place_landejendom.md)
+- [Praleri](process_praleri.md)
+- [Sammenligning](process_sammenligning.md)
+- [Overbevisning](plan_overbevisning.md)
+- [det Dramatiske](pitch_dramatisk.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_naboskab.md](plot_naboskab.md) udløses, når morgenlyset rammer de to tilstødende landejendomme.
+- [plot_hestestriden.md](plot_hestestriden.md) udløses, når brødrene mødes ved hegnet for at sammenligne deres heste.
 
 ## Stakes
 
-Kampen står mellem skovens dybe mørke, der truer med at opsluge børnene, og deres snilde og sammenhold, der viser dem vejen hjem.
+Kampen står mellem brødrenes forfængelighed og stædige behov for at overgå hinanden, hvilket forhindrer dem i at se værdien af deres nabo-fællesskab.

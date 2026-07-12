@@ -39,13 +39,12 @@ Nytårsnat ved Holmens Kanal fristes den unge fortæller af Satan til at overgiv
 - [Fristelse](process_fristelse.md)
 - [FodrejsePlan](plan_fodrejse.md)
 - [Satirisk](pitch_satirisk.md)
-- [Nytaarsaften](plot_nytaarsaften.md)
-- [Stoevelrejsen](plot_stoevelrejsen.md)
-- [Helvedessynet](plot_helvedessynet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_nytaarsaften.md](plot_nytaarsaften.md) udløses, når fortælleren står ved Holmens Canal nytårsnat, og Satan træder frem.
+- [plot_stoevelrejsen.md](plot_stoevelrejsen.md) udløses, når Skomageren overrækker hundremilestøvlerne til fortælleren.
+- [plot_helvedessynet.md](plot_helvedessynet.md) udløses, når fortælleren tager brillerne på og kigger dybt ned under jordoverfladen.
 
 ## Stakes
 

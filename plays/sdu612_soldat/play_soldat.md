@@ -37,13 +37,12 @@ I en gammel og forfalden fæstning bor en streng og skeptisk tante sammen med si
 - [Versemageri](process_versemageri.md)
 - [ForsvarPlan](plan_forsvar.md)
 - [Bagatel](pitch_bagatel.md)
-- [VagtenPlot](plot_vagten.md)
-- [KonfrontationenPlot](plot_konfrontationen.md)
-- [ForloesningenPlot](plot_forloesningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_vagten.md](plot_vagten.md) udløses, når broderdatteren spænder trommen om livet og træder ud i slotsgården.
+- [plot_konfrontationen.md](plot_konfrontationen.md) udløses, når broderdatteren slår alarm på trommen og råber, at fjenden nærmer sig.
+- [plot_forloesningen.md](plot_forloesningen.md) udløses, når forsvarslegen slutter, og den glade, fælles finale-sang klinger ud.
 
 ## Stakes
 

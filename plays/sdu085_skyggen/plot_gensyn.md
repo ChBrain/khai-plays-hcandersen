@@ -25,7 +25,7 @@ Mange år efter i den lærde mands kolde stue i Norden. Der bankes stille på d�
 
 ## Action
 
-[Skyggen](persona_skyggen.md), der nu fremstår som en yderst fornem og rig mand, træder ind til sin gamle herre, [den lærde mand](persona_laerde_mand.md). Skyggen fortæller med overlegen stolthed om sin transformation og rigdom, mens filosoffen sidder fattig og ensom, optaget af skrifter om moral, som ingen gider læse.
+[Skyggen](persona_skyggen.md), der nu fremstår som en yderst fornem og rig mand, træder ind til sin gamle herre, [den lærde mand](persona_laerde_mand.md). Skyggen fortæller med overlegen stolthed om sin transformation og rigdom under en klang af [Kynisme](pitch_kynisme.md), mens filosoffen sidder fattig og ensom, optaget af sin [Sandhedsoegning](plan_sandhedsoegning.md) og skrifter om moral, som ingen gider læse.
 
 ## Stage
 

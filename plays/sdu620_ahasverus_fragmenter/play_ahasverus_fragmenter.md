@@ -38,13 +38,12 @@ Under den stjerneklare nattehimmel på det uendelige verdenshav står den evige 
 - [Opdagelse](process_opdagelse.md)
 - [NytLandPlan](plan_nyt_land.md)
 - [Laesedrama](pitch_laesedrama.md)
-- [EvighedenPlot](plot_evigheden.md)
-- [LysetPlot](plot_lyset.md)
-- [RejsenPlot](plot_rejsen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_evigheden.md](plot_evigheden.md) udløses, når havmørket sænker sig over dækket, og de første deklamatoriske vers af Ahasverus' klagesang høres.
+- [plot_lyset.md](plot_lyset.md) udløses, når Columbus tænder sin lygte på dækket og ruller sit store søkort ud over instrumentbordet.
+- [plot_rejsen.md](plot_rejsen.md) udløses, når Columbus hæver hånden mod vest og giver besked om at sætte alle sejl mod det flakkende lys.
 
 ## Stakes
 

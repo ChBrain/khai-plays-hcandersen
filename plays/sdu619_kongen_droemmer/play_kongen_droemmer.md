@@ -38,13 +38,12 @@ I det dystre fængselstårn på Sønderborg Slot sidder den afsatte danske konge
 - [Fængsling](process_faengsling.md)
 - [ForsoningPlan](plan_forsoning.md)
 - [RomantiskDrama](pitch_romantisk.md)
-- [CellelivetPlot](plot_cellelivet.md)
-- [BergenPlot](plot_bergen.md)
-- [EndePlot](plot_ende.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_cellelivet.md](plot_cellelivet.md) udløses, når tæppet går op, og Christian 2. sidder i den dæmpede belysning og ryster sine lænker.
+- [plot_bergen.md](plot_bergen.md) udløses, når cellens hårde lys dæmpes, og et varmt, lysende skær afslører Dyvekes indtræden fra havsiden.
+- [plot_ende.md](plot_ende.md) udløses, når Dyveke glider tilbage i skyggerne, og Madame Sigbriths mørke skikkelse træder frem i det røde skær.
 
 ## Stakes
 

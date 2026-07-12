@@ -38,13 +38,12 @@ I den adelige riddergård sidder den unge og milde Liden Kirsten en aften og pyn
 - [Hjemkomst](process_hjemkomst.md)
 - [BryllupsloftePlan](plan_bryllupslofte.md)
 - [RomantiskOpera](pitch_romantisk_opera.md)
-- [KlosterforberedelsePlot](plot_klosterforberedelse.md)
-- [HjemkomstPlot](plot_hjemkomst.md)
-- [SlaegtsgaadePlot](plot_slaegtsgaade.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_klosterforberedelse.md](plot_klosterforberedelse.md) udløses, når tæppet går op, og Liden Kirsten sidder foran spejlet omgivet af sine terner.
+- [plot_hjemkomst.md](plot_hjemkomst.md) udløses, når døren til salen slås op, og en støvet ridder i rustning træder ind på scenen.
+- [plot_slaegtsgaade.md](plot_slaegtsgaade.md) udløses, når Fru Malfred griber fat i Kirstens arm og anklager Sverkel for at være hendes biologiske søn.
 
 ## Stakes
 

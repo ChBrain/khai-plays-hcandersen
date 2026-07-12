@@ -38,13 +38,12 @@ Ved en dyster, men storslået militær vagtpost ved den danske kyst, står to fr
 - [PatriotiskFejring](process_fejring.md)
 - [DannevirkePlan](plan_forsvar.md)
 - [CentenaryLejlighed](pitch_lejlighed.md)
-- [VagtpostPlot](plot_vagtpost.md)
-- [ValkyriesynPlot](plot_valkyriesyn.md)
-- [AandeligVaernPlot](plot_aandelig_vaern.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_vagtpost.md](plot_vagtpost.md) udløses, når forspillet begynder, og de frivillige soldater står vagt under dannebrog ved kysten.
+- [plot_valkyriesyn.md](plot_valkyriesyn.md) udløses, når den mystiske harpeklang lyder, og en lysende sky åbner sig over kystskansen.
+- [plot_aandelig_vaern.md](plot_aandelig_vaern.md) udløses, når tableauerne forsvinder, og valkyrien hæver sit lysende sværd mod dannebrog.
 
 ## Stakes
 

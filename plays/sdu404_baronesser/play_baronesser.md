@@ -40,13 +40,12 @@ Elisabeth fødes i dyb fattigdom på en forladt gård ved det stormomsuste Vadeh
 - [Forfald](process_forfald.md)
 - [Integration](plan_integration.md)
 - [Tidsaand](pitch_tidsaand.md)
-- [Vadehavsbarnet](plot_vadehavsbarnet.md)
-- [Dannelsesaarene](plot_dannelsesaarene.md)
-- [Forsoningen](plot_forsoningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_vadehavsbarnet.md](plot_vadehavsbarnet.md) udløses, når den forældreløse Elisabeth findes på den forladte gård ved Vadehavet.
+- [plot_dannelsesaarene.md](plot_dannelsesaarene.md) udløses, når Elisabeth ankommer til København og begynder sine studier.
+- [plot_forsoningen.md](plot_forsoningen.md) udløses, når Dorothea overdrager slægtsringen til Elisabeth på herregården.
 
 ## Stakes
 

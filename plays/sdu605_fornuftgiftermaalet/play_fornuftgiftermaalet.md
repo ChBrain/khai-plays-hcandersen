@@ -39,13 +39,12 @@ En træt digter falder i dyb søvn og drømmer, at han befinder sig på det stor
 - [Allegori](process_allegori.md)
 - [EksaminationPlan](plan_eksamination.md)
 - [Satire](pitch_satire.md)
-- [Droemmen](plot_droemmen.md)
-- [Lektionen](plot_lektionen.md)
-- [Skibbruddet](plot_skibbruddet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_droemmen.md](plot_droemmen.md) udløses, når digteren lægger sig til at sove under sin uldne kappe, og tågen tænder scenen.
+- [plot_lektionen.md](plot_lektionen.md) udløses, når skolemesteren slår hårdt med sin pegepind mod sin pult.
+- [plot_skibbruddet.md](plot_skibbruddet.md) udløses, når en gigantisk bølge skyller ind over pulten, og uvejret når sit klimaks.
 
 ## Stakes
 

@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 status: active
 ---
 
@@ -14,26 +14,26 @@ status: active
 
 ## Taxonomy
 
-[Skolemesteren](persona_skolemesteren.md): Skolemesterens plan om at give eleverne bogstavernes og moralens gave.
+Skolemesterens plan om at give eleverne geografi, bogstaver og dannelse gennem leg.
 
 ## Owner
 
-[Skolemesteren](persona_skolemesteren.md)
+- Project: khai-plays-hcandersen
 
 ## Direction
 
-At undervise flittigt, lade eleven stave ordene, og sikre deres fremtid.
+At undervise flittigt, lade eleven vandre over landkortet og stave provinsnavnene, og sikre deres lærdom.
 
 ## Orders
 
-Peg på tavlen, lad eleven stave højt, og ret fejlene med mildhed.
+Peg på landkortet i havesengene, lad eleven stave navnene højt og rette dem med mildhed.
 
 ## Implementation
 
-Gennemført ved at koble [skolebog](piece_skolebog.md) og [tavle](piece_tavle.md) i [skolestuen](place_skolestuen.md).
+Gennemført ved at koble [Skolebog](piece_skolebog.md) og [Landkort](piece_landkort.md) i [Danmarkshave](place_danmarkshave.md).
 
 ## Targets
 
-- [x] Gennemfør en god [undervisning](process_undervisning.md)
-- [x] Sikr elevens forståelse af den gamle [skolebog](piece_skolebog.md)
-- [x] Væk en varig [erindring](process_erindring.md) om skoletiden
+- [ ] Gennemfør en god undervisning i geografi i haven
+- [ ] Sikr elevens forståelse af den gamle skolebogs ord
+- [ ] Væk en varig erindring om skoletiden og skolehaven

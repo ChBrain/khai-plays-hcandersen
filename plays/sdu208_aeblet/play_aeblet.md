@@ -2,12 +2,12 @@
 khai: play
 title: "The Apple"
 declared: "Æblet"
-description: "Et æble hænger på grenen og drømmer om at blive plukket, mens efterårsvinden rusker i træet."
+description: "To børn planter en æblekerne i en urtepotte, men tiden bringer glemsel og forgængelighed, mens træet vokser."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Play: Æblet
@@ -22,29 +22,27 @@ stamp:
 
 ## Arc
 
-Æblet hænger højt på grenen i det gamle træ, oplyst af efterårets sol. Vinden blæser stærkt gennem haven, og rusker i grene og blade. Æblet drømmer om sin forvandling til at glæde menneskene, og det slipper sit tag og falder ned i det bløde græs. Vinden bærer dets fald under den poetisk klang, og æblet lander trygt under træets skygge.
+Drengen og pigen leger sammen i den solrige stue og deler et æble. De planter en æblekerne i en lille urtepotte i vindueskarmen og lægger en plan om pleje for at få spiren til at gro. I stuen vokser planten frem under deres omsorg. Men som årene går, flyttes træet ud i haven og gennemgår en mægtig vækst. Drengen lader sig opsluge af dannelse og studier og falder i dyb glemsel om barndommen, mens pigen rammes af sygdom og dør ung. Kun det store æbletræ står tilbage i haven som vidnesbyrd om deres barndom under den poetiske klang.
 
 ## Company
 
-- [Aeblet](persona_aeblet.md)
-- [Vinden](persona_vinden.md)
-- [Frugt](position_frugt.md)
-- [Naturkraft](position_naturkraft.md)
-- [Gren](piece_gren.md)
-- [Have](piece_have.md)
-- [Traeet](place_traeet.md)
+- [Drengen](persona_drengen.md)
+- [Pigen](persona_pigen.md)
+- [Legekammerat](position_legekammerat.md)
+- [Aeblekerne](piece_aeblekerne.md)
+- [Urtepotte](piece_urtepotte.md)
+- [Stuen](place_stuen.md)
 - [Haven](place_haven.md)
-- [Modning](process_modning.md)
-- [Fald](process_fald.md)
-- [Forvandling](plan_forvandling.md)
+- [Vaekst](process_vaekst.md)
+- [Glemsel](process_glemsel.md)
+- [Pleje](plan_pleje.md)
 - [Poetisk](pitch_poetisk.md)
-- [Modningen](plot_modningen.md)
-- [Faldet](plot_faldet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_plantningen.md](plot_plantningen.md) udløses, når solen skinner ind i stuen på en lun forårsdag.
+- [plot_tidens_gang.md](plot_tidens_gang.md) udløses, når mange år er gået, og efterårets blade falder i haven.
 
 ## Stakes
 
-Kampen står mellem at hænge fast og visne på grenen, og vove faldet for at fuldføre sin forvandling på jorden.
+Kampen står mellem menneskelivets og mindernes forgængelighed over for naturens uundgåelige, vedvarende vækst, der overlever barndommens glemsel.

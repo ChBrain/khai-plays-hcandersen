@@ -39,13 +39,12 @@ En broget gruppe af rejsende, herunder den strenge agent Blomme, hans datter Ing
 - [Vaudeville](process_vaudeville.md)
 - [HjaelpPlan](plan_hjaelp.md)
 - [Svaermerisk](pitch_svaermerisk.md)
-- [StrandingenPlot](plot_strandingen.md)
-- [ForviklingenPlot](plot_forviklingen.md)
-- [ForeningenPlot](plot_foreningen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_strandingen.md](plot_strandingen.md) udløses, når skipperen melder Storebælt fuld af drivis, og vognen standser foran kroen.
+- [plot_forviklingen.md](plot_forviklingen.md) udløses, når Theodor sætter sig ved klaveret og slår tonerne an til murersangen.
+- [plot_foreningen.md](plot_foreningen.md) udløses, når tyve år er gået, og det gamle rejseselskab mødes igen under forårets sol.
 
 ## Stakes
 

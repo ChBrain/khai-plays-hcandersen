@@ -39,13 +39,12 @@ Den unge dronning Christina af Sverige er fyldt seksten år og skal overtage reg
 - [Pligt](process_pligt.md)
 - [StatsstyrePlan](plan_statsstyre.md)
 - [Historisk](pitch_historisk.md)
-- [Forelskelsen](plot_forelskelsen.md)
-- [Afkaldet](plot_afkaldet.md)
-- [Dekretet](plot_dekretet.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_forelskelsen.md](plot_forelskelsen.md) udløses, når dronningen sidder alene i sit kabinet og ser på Axels officerportræt.
+- [plot_afkaldet.md](plot_afkaldet.md) udløses, når Axel beder dronningen om at velsigne hans bryllup med en anden, og kansleren træder ind.
+- [plot_dekretet.md](plot_dekretet.md) udløses, når trompeterne lyder, og hoffet samles i audienssalen for at høre dronningens beslutning.
 
 ## Stakes
 

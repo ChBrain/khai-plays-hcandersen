@@ -38,13 +38,12 @@ På den franske koloniø Martinique søger den rige plantageejer La Rebellières
 - [Uvejr](process_uvejr.md)
 - [FrigoerelsePlan](plan_frigoerelse.md)
 - [Romantik](pitch_romantik.md)
-- [StormenPlot](plot_stormen.md)
-- [IntrigenPlot](plot_intrigen.md)
-- [BefrielsenPlot](plot_befrielsen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_stormen.md](plot_stormen.md) udløses, når himlen formørkes af en tropisk orkan, og Eleonore og Cecilie søger ly i den dannede mulats bolig.
+- [plot_intrigen.md](plot_intrigen.md) udløses, når La Rebellière fremviser den forfalskede slavekontrakt og beordrer vagterne til at gribe Horatio.
+- [plot_befrielsen.md](plot_befrielsen.md) udløses, når auktionarius hæver sin hammer for at modtage det sidste bud på Horatio, og Cecilie træder frem.
 
 ## Stakes
 

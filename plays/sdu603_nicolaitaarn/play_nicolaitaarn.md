@@ -38,13 +38,12 @@ Højt oppe på Nikolaj Tårn i København spejder den gamle tårnvægter Ole ud 
 - [Afstemning](process_afstemning.md)
 - [AfbrydelsePlan](plan_afbrydelse.md)
 - [Vaudeville](pitch_vaudeville.md)
-- [Vagten](plot_vagten.md)
-- [Afstemningen](plot_afstemningen.md)
-- [Parodien](plot_parodien.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_vagten.md](plot_vagten.md) udløses, når tårnuret slår sit slag, og aftenen falder over byen.
+- [plot_afstemningen.md](plot_afstemningen.md) udløses, når Ellen udtaler sit mest sentimentale ridder-suk, og parterret begynder at hysse.
+- [plot_parodien.md](plot_parodien.md) udløses, når uvejret over København deklameres af koret.
 
 ## Stakes
 

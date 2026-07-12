@@ -2,12 +2,12 @@
 khai: play
 title: "The Blue Mountains"
 declared: "De blaae Bjerge"
-description: "En eventyrlig fortælling om længslen efter de fjerne blå bjerge og rejsen mod det ukendte."
+description: "En parabel om en menighed, der mister sin tro, da en undersøger beviser, at de blå bjerge blot er ufrugtbare sten."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Play: De blaae Bjerge
@@ -22,29 +22,28 @@ De blaae Bjerge
 
 ## Arc
 
-Længsleren står i den dybe dal under måneskinnet, med sin vandrestav i hånden. Måneskinnet oplyser bjerget i det fjerne og viser ham den stenede sti. Længslerens plan om rejsen driver ham fremad mod de fjerne blå bjerge under den eventyrlig klang. Hans vandring og længsel forenes i rejsens proces, og han bestiger bjergtoppen for at finde sandheden over skyerne.
+I den fredelige dal lever menigheden lykkeligt og tilbeder solen, som de tror stiger op bag de smukke, hellige blå bjerge. Deres daglige liv og arbejdsglæde er tæt forbundet med denne tro. En undersøger fra menigheden beslutter at bestige bjergene for at finde sandheden. Han rejser op ad bjerget, indsamler kolde sten og beviser, at bjergene blot er ufrugtbare klipper uden guddommelighed, og at solopgangen er en rent naturlig proces. Ved hans tilbagekomst afsløres sandheden, og menighedens tro og sammenhold bryder uundgåeligt sammen under den eventyrlige og melankolske klang.
 
 ## Company
 
-- [Laengsleren](persona_laengsleren.md)
-- [Maaneskinnet](persona_maaneskinnet.md)
-- [Soegende](position_soegende.md)
-- [Vejviser](position_vejviser.md)
-- [Vandrestav](piece_vandrestav.md)
-- [Stjerne](piece_stjerne.md)
+- [Menigheden](persona_menigheden.md)
+- [Undersoegeren](persona_undersoegeren.md)
+- [Troende](position_troende.md)
+- [Skeptiker](position_skeptiker.md)
+- [Alter](piece_alter.md)
+- [Sten](piece_sten.md)
 - [Dalen](place_dalen.md)
 - [Bjerget](place_bjerget.md)
-- [Vandring](process_vandring.md)
-- [Laengsel](process_laengsel.md)
-- [Rejsen](plan_rejsen.md)
+- [Tilbedelse](process_tilbedelse.md)
+- [Afsloering](process_afsloering.md)
+- [Undersoegelse](plan_undersoegelse.md)
 - [Eventyrlig](pitch_eventyrlig.md)
-- [Laengslen](plot_laengslen.md)
-- [Rejsen](plot_rejsen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_tilbedelsen.md](plot_tilbedelsen.md) udløses, når solen står op og kaster sit første gyldne lys over dalen.
+- [plot_afsloeringen.md](plot_afsloeringen.md) udløses, når undersøgeren vender tilbage fra bjergene med sine sten.
 
 ## Stakes
 
-Kampen står mellem dalens trygge, men begrænsende rammer, og bjergenes farlige, men frie tinder, der lover sandhed.
+Kampen står mellem den trøstende, fællesskabsskabende tro og den kolde, rationelle sandhed, der fjerner illusionerne men efterlader menneskene uden mening.

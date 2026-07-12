@@ -6,31 +6,31 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Place: Haven
 
 ## Taxonomy
 
-En uforstyrret frugthave omgivet af et lavt stengærde.
+Haven udenfor, hvor æbletræet udplantes og vokser sig stort.
 
 ## Owner
 
-[Æblet](play_aeblet.md)
+- Project: khai-plays-hcandersen
 
 ## Shown
 
-En solbeskinnet have med vilde blomster og blødt græs.
+En frodig, let vildtvoksende have med grønne græsplæner, buske og stier under åben himmel.
 
 ## Holds
 
-Den susende [vinden](persona_vinden.md) og den grønne [have](piece_have.md).
+Det fuldvoksne æbletræ, de faldne æbler og efterårets visne blade.
 
 ## Offers
 
-En blød landingsplads og et fredeligt fristed.
+Et stort, frit rum med plads til at slå dybe rødder og modne frugter.
 
 ## Withheld
 
-Modertræets tætte beskyttelse og grenens højde.
+Stuens beskyttende varme og barndommens nære, trygge rammer.

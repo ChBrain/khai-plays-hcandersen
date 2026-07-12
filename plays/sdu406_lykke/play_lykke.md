@@ -39,13 +39,12 @@ Peer fødes i fattigdom på en lille kvist i en københavnsk ejendom, mens den r
 - [Doedstriumf](process_doedstriumf.md)
 - [Succes](plan_succes.md)
 - [Triumf](pitch_triumf.md)
-- [Kvistbarndommen](plot_kvistbarndommen.md)
-- [Landsbydannelsen](plot_landsbydannelsen.md)
-- [Scenedoeden](plot_scenedoeden.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_kvistbarndommen.md](plot_kvistbarndommen.md) udløses, når Peer og Felix fødes i den samme bygning, men i hver sin sociale ende.
+- [plot_landsbydannelsen.md](plot_landsbydannelsen.md) udløses, når Peer ankommer til landsbyen for at modtage undervisning hos Hr. Gabriel.
+- [plot_scenedoeden.md](plot_scenedoeden.md) udløses, når Peer synger sin største rolle på teatret og kransen kastes til ham.
 
 ## Stakes
 

@@ -39,13 +39,12 @@ Edgar, den sidste lord af Ravenswood, sværger hævn over familien Ashton, der h
 - [Forbandelse](process_forbandelse.md)
 - [AlliancePlan](plan_alliance.md)
 - [Romantisk](pitch_romantisk.md)
-- [Troskabsed](plot_troskabsed.md)
-- [Kontrakten](plot_kontrakten.md)
-- [Katastrofen](plot_katastrofen.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_troskabsed.md](plot_troskabsed.md) udløses, når solen går ned bag slotsruinen, og elskerne mødes ved havfruens kilde.
+- [plot_kontrakten.md](plot_kontrakten.md) udløses, når Sir William slår i bordet og fremlægger pergamentet foran Lucy.
+- [plot_katastrofen.md](plot_katastrofen.md) udløses, når uvejret raser udenfor, og alterets vokslys pludseligt slukkes af stormen.
 
 ## Stakes
 

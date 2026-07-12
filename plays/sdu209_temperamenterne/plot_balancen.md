@@ -1,12 +1,12 @@
 ---
 khai: plot
-title: "The Balance Restored"
+title: "The Balanced State"
 declared: "Balancen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Plot: Balancen
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Når flegmatikeren griber sin vandkande for at dæmme op.
+Når striden har udfoldet sig, og en fælles erkendelse opstår.
 
 ## Action
 
-Ude i den brede [verden](place_verden.md) sidder [Flegmatikeren](persona_flegmatikeren.md) i sin position som [Rolig](position_rolig.md) med det kølige [vand](piece_vand.md). His plan om [Harmoni](plan_harmoni.md) fremmer en varig [Balance](process_balance.md) under stykkets [Allegorisk](pitch_allegorisk.md) stemning.
+De stridende væsner, [Muldvarpen](persona_muldvarpen.md) og [Havmanden](persona_havmanden.md), forsøger at dæmpe uroen under indflydelse af en plan om [Harmoni](plan_harmoni.md). Gennem en langsom [Balance](process_balance.md) falder temperamenterne omsider til ro i [Salen](place_salen.md) og [Verden](place_verden.md), hvilket forløser den [Allegorisk](pitch_allegorisk.md) spænding.
 
 ## Stage
 
-Kolerikerens ild dæmpes langsomt, og en behagelig ro sænker sig over rummet.
+Lyset i salen dæmpes til et roligt, gyldent skær. Muldvarpen stikker forsigtigt hovedet op, mens Havmanden ser mildt over mod ham, og en stille harmoni lægger sig over rummet.
 
 ## Tension
 
-Kampen for at undgå at ilden breder sig til gardinerne.
+Sværhedsgraden ved at forene de vidt forskellige naturgivne væsner i en fælles, stabil balance uden at udslette deres individuelle særpræg.

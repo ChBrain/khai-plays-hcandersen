@@ -41,13 +41,12 @@ Den fattige Svendborg-dreng Christian besidder et stort musikalsk geni, symbolis
 - [Vildskab](process_vildskab.md)
 - [Overlevelse](plan_overlevelse.md)
 - [Tragisk](pitch_tragisk.md)
-- [Barndomsdroemme](plot_barndomsdroemme.md)
-- [Skyggeverdenen](plot_skyggeverdenen.md)
-- [Doedsakten](plot_doedsakten.md)
 
 ## Triggers
 
-The play begins when company elements take their positions.
+- [plot_barndomsdroemme.md](plot_barndomsdroemme.md) udløses, når den blinde Steffen rækker Christian violinen i Svendborg.
+- [plot_skyggeverdenen.md](plot_skyggeverdenen.md) udløses, når Christian lider nød i Københavns gader og møder Kareth.
+- [plot_doedsakten.md](plot_doedsakten.md) udløses, når Christians begravelsesfølge møder Naomis rige karet på Fyn.
 
 ## Stakes
 

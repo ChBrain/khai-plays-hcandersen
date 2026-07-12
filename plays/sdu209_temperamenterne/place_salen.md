@@ -6,31 +6,31 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-12"
 ---
 
 # Place: Salen
 
 ## Taxonomy
 
-En stor, fornem sal med marmorgulv og høje paneler.
+Den fine sal, der danner rammen om temperamenternes møde og strid.
 
 ## Owner
 
-[Temperamenterne](play_temperamenterne.md)
+- Project: khai-plays-hcandersen
 
 ## Shown
 
-En sal med tunge møbler og et stort ildbækken.
+En stor sal med fornemme paneler, et mørkt jordhul i krogen og et lavt vandbassin.
 
 ## Holds
 
-Den vrede [kolerikeren](persona_kolerikeren.md) og den flammende [ild](piece_ild.md).
+[Muldvarpen](persona_muldvarpen.md), kaminen med [Ild](piece_ild.md) og den stumme spænding.
 
 ## Offers
 
-Rum til diskussion og dramatiske sammenstød.
+Et rum for temperamenternes uundgåelige konfrontation og strid.
 
 ## Withheld
 
-Skovens uforstyrrede fred og landets ro.
+Det grænseløse dagslys og den ydre naturs åbne vidder.
