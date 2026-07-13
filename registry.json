@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.250.0",
+  "version": "0.251.0",
   "plays": [
     {
       "kind": "play",
@@ -1502,6 +1502,12 @@
       "id": "sdu629_barselstue",
       "title": "Den nye Barselstue",
       "description": "Et satirisk lystspil i én akt, der parodierer litterære kredse og plagiat."
+    },
+    {
+      "kind": "play",
+      "id": "sdu630_hyldemoer",
+      "title": "Hyldemoer",
+      "description": "Et phantasiespil i én akt, der skildrer mødet mellem virkelighedens kolde muld og fantasiens blomstrende hyldemor."
     }
   ]
 }
