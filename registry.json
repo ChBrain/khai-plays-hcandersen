@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.260.0",
+  "version": "0.261.0",
   "plays": [
     {
       "kind": "play",
@@ -1562,6 +1562,12 @@
       "id": "sdu639_vognen",
       "title": "I Vetturinens Vogn",
       "description": "Et muntert forspil i én akt om et frieri i en italiensk hestevogn på vej mod Rom, afbrudt af kuskens piskesmel."
+    },
+    {
+      "kind": "play",
+      "id": "sdu642_kilderejsen",
+      "title": "Intermediet til Holbergs: Kilderejsen",
+      "description": "Et musikalsk mellemspil om folkelivet, ofringer og stævnemøder ved en hellig kilde på Sankthansaften."
     }
   ]
 }
