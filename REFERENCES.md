@@ -281,12 +281,13 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 
 ### Roadmap
 
-SDU 801 is **one play**: H.C. Andersen telling his own life _as an eventyr_. The title — _Mit eget Eventyr uden Digtning_ ("my own fairy tale without fiction") — names the frame, and the narration itself is the play. Each episode he recounts inside it is a **plot** of that play, added over time. The 1844 Jacob Grimm encounter (Berlin cold → Weimar reconciled) is the first, already staged; this section is the backlog of further candidate plots.
+SDU 801 is **one play**: H.C. Andersen telling his own life _as an eventyr_. The title — _Mit eget Eventyr uden Digtning_ ("my own fairy tale without fiction") — names the frame, and the narration itself is the play. Each episode he recounts inside it is a **plot** of that play, added over time. The 1844 Jacob Grimm encounter (Berlin cold → Copenhagen reconciled, with the Christmas-1845 Berlin coda) is the first, already staged; this section is the backlog of further candidate plots.
 
 - **Source**: Mary Howitt (trans.), _The True Story of My Life_ (1847), the faithful contemporary translation of _Mit eget Eventyr uden Digtning_. Project Gutenberg ebook #7007 (<https://www.gutenberg.org/files/7007/7007-h/7007-h.htm>). Public domain; credited, never claimed. Not the expanded 1855 _Mit Livs Eventyr_.
 - **Anchor**: one play, many plots. Each episode below becomes a `plot_*.md` in `plays/sdu801_mit_eget_eventyr/`, anchored to `play_mit_eget_eventyr.md` — never a separate SDU play (one folder ⇄ one SDU number ⇄ one play). The 1844 Grimm plots are done; tales, novels, and plays already in the registry are not restaged here (Improvisatoren = 401, O.T. = 402, Spillemand = 403, Mulatten = 614, Maurerpigen = 617, Ahasverus = 620/623, Agnete = 609, Fodreise = 502).
 - **Status**: candidates only — nothing built. The five once-provisional entries have been verified against the primary text; where the memoir attaches no year, the entry says so ("_text gives none_").
-- **Folded**: after the text check, `weimar-carl-alexander` (later Weimar visits continue the 1844 patronage already carried by the frame plots) and `fredrika-bremer` (a stated recognition, not a narrated scene) are kept as system notes for SDU 801 rather than as plots.
+- **Folded**: after the text check, `fredrika-bremer` (a stated recognition, not a narrated scene) is kept as a system note for SDU 801 rather than a plot.
+- **Correction**: the Grimm reconciliation is Copenhagen (Aug 1844), not Weimar. Weimar / Grand Duke Carl Alexander is a real but **Grimm-free** thread and is now a candidate plot below in its own right.
 
 #### Candidate plots — fuller scenes
 
@@ -315,6 +316,7 @@ Markers of the arc — thinner scenes, better as lighter plots or interwoven thr
 - [ ] `prussian-red-eagle` — Receives the Prussian Order of the Red Eagle; the most visible sign of recognition outside Denmark. **1846** (Ch. VIII). Counterpart: Prussian court · Berlin. System: **honor / recognition**.
 - [ ] `danish-royal-favor` — Christian VIII and Caroline Amalie receive him with marked warmth — royal approval distinct from popular or critical fame. _Text gives none; 1840s context_ (Ch. VII). Counterpart: Christian VIII / Caroline Amalie · Copenhagen. System: **honor / patronage**.
 - [ ] `jenny-lind` — The memoir names Jenny Lind with love and honour but states a feeling rather than narrating a scene; best as a plot-thread within SDU 801, not a standalone. _Text gives none; 1840s context_ (Ch. VII). Counterpart: Jenny Lind · Copenhagen / touring. System: **love / honor**.
+- [ ] `weimar-carl-alexander` — Andersen received warmly at Weimar by the Hereditary Grand Duke Carl Alexander; a lasting ducal patronage and friendship. Grimm-free — no reconciliation here (that was Copenhagen). **1846** (Ch. VIII). Counterpart: Grand Duke Carl Alexander · Weimar. System: **patronage / honor**.
 
 #### Registry gap — works named in the memoir but not yet staged
 
