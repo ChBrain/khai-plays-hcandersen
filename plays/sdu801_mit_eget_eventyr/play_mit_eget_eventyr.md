@@ -27,20 +27,32 @@ I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen
 ## Company
 
 - [DigterPersona](persona_digteren.md)
+- [DrengPersona](persona_drengen.md)
 - [GrimmPersona](persona_grimm.md)
+- [ModerPersona](persona_moder.md)
+- [SpaakonePersona](persona_spaakone.md)
 - [FortaellerPosition](position_fortaeller.md)
 - [KollegaPosition](position_kollega.md)
+- [EmigrantPosition](position_emigrant.md)
+- [ModerPosition](position_moder.md)
+- [SpaakonePosition](position_spaakone.md)
 - [NatkappePiece](piece_natkappe.md)
 - [RejsekuffertPiece](piece_rejsekuffert.md)
+- [RigsdalerPiece](piece_pengepose.md)
 - [BerlinPlace](place_berlin.md)
 - [WeimarPlace](place_weimar.md)
+- [OdensePortPlace](place_odense_port.md)
+- [KoebenhavnPortPlace](place_koebenhavn_port.md)
 - [MoedeProcess](process_moede.md)
 - [ErkendelseProcess](process_erkendelse.md)
+- [AfskedProcess](process_afsked.md)
+- [AnkomstProcess](process_ankomst.md)
 - [SelvportraetPlan](plan_selvportraet.md)
 - [SelvbiografiskPitch](pitch_selvbiografisk.md)
 
 ## Triggers
 
+- [plot_leaves_odense.md](plot_leaves_odense.md) udløses af Andersens afrejse fra Odense mod København i 1819.
 - [plot_berlin.md](plot_berlin.md) udløses af Andersens besøg hos Jacob Grimm i Berlin, hvor han mødes af ligegyldighed.
 - [plot_weimar.md](plot_weimar.md) udløses af Grimms genmøde med Andersen i Weimar, som fører til forsoning.
 
