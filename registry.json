@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.267.0",
+  "version": "0.268.0",
   "plays": [
     {
       "kind": "play",
@@ -1604,6 +1604,12 @@
       "id": "sdu650_oedeland",
       "title": "En Ødeland",
       "description": "Tryllespil om Flottwells ødsle forfald, tjeneren Valentins trofasthed og feen Cheristanes magiske redning."
+    },
+    {
+      "kind": "play",
+      "id": "sdu651_sangerinden",
+      "title": "Sangerinden",
+      "description": "Italiensk skovdrama om røvernes overfald, operasangerinden Marias arie og høvdingen Pietros kunstneriske forsoning."
     }
   ]
 }
