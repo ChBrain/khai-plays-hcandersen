@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.261.0",
+  "version": "0.262.0",
   "plays": [
     {
       "kind": "play",
@@ -1568,6 +1568,12 @@
       "id": "sdu642_kilderejsen",
       "title": "Intermediet til Holbergs: Kilderejsen",
       "description": "Et musikalsk mellemspil om folkelivet, ofringer og stævnemøder ved en hellig kilde på Sankthansaften."
+    },
+    {
+      "kind": "play",
+      "id": "sdu643_rasmussen",
+      "title": "Hr. Rasmussen",
+      "description": "Et muntert lystspil i to akter om hr Rasmussens kejtede frieri og selskabets rygter."
     }
   ]
 }
