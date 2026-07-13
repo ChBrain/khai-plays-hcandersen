@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.256.0",
+  "version": "0.257.0",
   "plays": [
     {
       "kind": "play",
@@ -1538,6 +1538,12 @@
       "id": "sdu635_langebro",
       "title": "Paa Langebro",
       "description": "En folkekomedie i fire akter om den fattige Frands, en tigger på Langebro og en drøm om en skjult skat."
+    },
+    {
+      "kind": "play",
+      "id": "sdu636_foedt",
+      "title": "Han er ikke født",
+      "description": "Et lystspil i to akter på jyske herregårde, hvor en huslærers kærlighed overvinder standsbarrierer."
     }
   ]
 }
