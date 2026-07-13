@@ -26,7 +26,7 @@ En udmattet kvinde med vilde, sorgfulde øjne og blegt ansigt, klædt i simple, 
 
 ## Action
 
-Hun kaster sig på knæ foran tjørnebusken for at varme den, græder sine øjne ud i søen og forhandler med Døden for at redde sit barn.
+Hun giver uden at tælle og holder ud uden at spørge om prisen.
 
 ## Shadow
 
