@@ -281,16 +281,16 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 
 ### Roadmap
 
-Progressive staging of the memoir SDU 801 (_Mit eget Eventyr uden Digtning_). The autobiography is a quarry of biographical **episodes** — the "stories between the stories" — each a candidate play in its own right, in the mould of the 1844 Jacob Grimm encounter already staged as SDU 801.
+SDU 801 is **one play**: H.C. Andersen telling his own life _as an eventyr_. The title — _Mit eget Eventyr uden Digtning_ ("my own fairy tale without fiction") — names the frame, and the narration itself is the play. Each episode he recounts inside it is a **plot** of that play, added over time. The 1844 Jacob Grimm encounter (Berlin cold → Weimar reconciled) is the first, already staged; this section is the backlog of further candidate plots.
 
 - **Source**: Mary Howitt (trans.), _The True Story of My Life_ (1847), the faithful contemporary translation of _Mit eget Eventyr uden Digtning_. Project Gutenberg ebook #7007 (<https://www.gutenberg.org/files/7007/7007-h/7007-h.htm>). Public domain; credited, never claimed. Not the expanded 1855 _Mit Livs Eventyr_.
-- **Excluded**: the 1844 Grimm episode (Berlin cold → Weimar reconciled) is the memoir-frame of SDU 801 — done. Tales, novels, and plays already in the registry are not restaged (Improvisatoren = 401, O.T. = 402, Spillemand = 403, Mulatten = 614, Maurerpigen = 617, Ahasverus = 620/623, Agnete = 609, Fodreise = 502).
+- **Anchor**: one play, many plots. Each episode below becomes a `plot_*.md` in `plays/sdu801_mit_eget_eventyr/`, anchored to `play_mit_eget_eventyr.md` — never a separate SDU play (one folder ⇄ one SDU number ⇄ one play). The 1844 Grimm plots are done; tales, novels, and plays already in the registry are not restaged here (Improvisatoren = 401, O.T. = 402, Spillemand = 403, Mulatten = 614, Maurerpigen = 617, Ahasverus = 620/623, Agnete = 609, Fodreise = 502).
 - **Status**: candidates only — nothing built. The five once-provisional entries have been verified against the primary text; where the memoir attaches no year, the entry says so ("_text gives none_").
-- **Verified & folded**: after the text check, `weimar-carl-alexander` (later Weimar visits are a continuation of the 1844 patronage, no separate crisis) and `fredrika-bremer` (a stated recognition, not a narrated scene) are dropped as standalone candidates and kept only as system notes for SDU 801.
+- **Folded**: after the text check, `weimar-carl-alexander` (later Weimar visits continue the 1844 patronage already carried by the frame plots) and `fredrika-bremer` (a stated recognition, not a narrated scene) are kept as system notes for SDU 801 rather than as plots.
 
-#### Candidate episodes — own-play caliber (SDU 802+)
+#### Candidate plots — fuller scenes
 
-Each is a self-contained scene with a counterpart and a system, of the Grimm calibre.
+Self-contained scenes with a counterpart and a system, of the Grimm calibre — the strongest plots to stage next within SDU 801.
 
 - [ ] `leaves-odense` — Boy of ~14 departs Odense alone with 13 rix-dollars and a fortune-teller's prophecy; arrives friendless in Copenhagen. **1819** (Ch. I). Counterpart: mother / fortune-teller · Odense → Copenhagen. System: **exile / becoming**.
 - [ ] `siboni-first-patron` — Singing-school director Siboni hears him sing and offers free vocal training — the first institutional patron, before the voice breaks. **1819** (Ch. II). Counterpart: Siboni · Copenhagen. System: **patronage**.
@@ -302,9 +302,9 @@ Each is a self-contained scene with a counterpart and a system, of the Grimm cal
 - [ ] `orsted-prophecy` — Ørsted foretells that the novel will make him famous but the tales will make him immortal — his vocation named by another. _Text gives none; mid-1830s by external chronology_ (Ch. V). Counterpart: H.C. Ørsted · Copenhagen. System: **recognition / honor**.
 - [ ] `england-dickens` — London society receives him; he and Dickens meet — recognition at the peak of his European fame. **1847** (Ch. VIII). Counterpart: Charles Dickens · London. System: **recognition / fame**.
 
-#### Milestone tier — plot-within-801 or thin standalone
+#### Candidate plots — lighter threads
 
-Markers of the arc, thinner as standalone scenes.
+Markers of the arc — thinner scenes, better as lighter plots or interwoven threads within the frame.
 
 - [ ] `madame-schall-door` — Seeks an introduction to prima ballerina Schall as a gateway to the Royal Theatre; briefly received and dismissed. **1819** (Ch. I/II). Counterpart: Madame Schall · Copenhagen. System: **class / patronage**.
 - [ ] `university-exam` — Passes the _examen artium_; closes the wound of the Meisling years. **1828** (Ch. IV). Counterpart: examiners / Collin household · Copenhagen. System: **class / recognition**.
