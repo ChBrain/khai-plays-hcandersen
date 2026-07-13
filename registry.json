@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.254.0",
+  "version": "0.255.0",
   "plays": [
     {
       "kind": "play",
@@ -1526,6 +1526,12 @@
       "id": "sdu633_fuglen",
       "title": "Fuglen i Pæretræet",
       "description": "En lystig vaudeville i én akt på Nørrebro, hvor de elskende vinder faderens samtykke trods nabostrid."
+    },
+    {
+      "kind": "play",
+      "id": "sdu634_landsbyhistorie",
+      "title": "En Landsbyhistorie",
+      "description": "Et folkeskuespil i fem akter på Solhvervsgaarden, hvor kærlighed, pligt og forsoning overvinder fordomme."
     }
   ]
 }
