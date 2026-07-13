@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.265.0",
+  "version": "0.266.0",
   "plays": [
     {
       "kind": "play",
@@ -1592,6 +1592,12 @@
       "id": "sdu646_maaneskin",
       "title": "I Maaneskin",
       "description": "Alpescener fra de tyrolske Bjærge om Rosels trofasthed og Mathies' hjemkomst fra krigen under måneskinnet."
+    },
+    {
+      "kind": "play",
+      "id": "sdu647_benefice",
+      "title": "Souffleurens Benefice",
+      "description": "Vaudeville i én akt om souffleurens desperate forberedelser og det kaotiske retsopgør før hans beneficeforestilling."
     }
   ]
 }
