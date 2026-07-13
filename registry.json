@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.263.0",
+  "version": "0.264.0",
   "plays": [
     {
       "kind": "play",
@@ -1580,6 +1580,12 @@
       "id": "sdu644_danmark",
       "title": "Danmark",
       "description": "En allegorisk og patriotisk guldalderprolog om Danmarks genfundne fortid og folkets hyldest til landet."
+    },
+    {
+      "kind": "play",
+      "id": "sdu645_truth",
+      "title": "Truth",
+      "description": "Et allegorisk og filosofisk drama om Sandhedens og Løgnens strid i det illusionerede kejsersnit."
     }
   ]
 }
