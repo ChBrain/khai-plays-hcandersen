@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.257.0",
+  "version": "0.258.0",
   "plays": [
     {
       "kind": "play",
@@ -1544,6 +1544,12 @@
       "id": "sdu636_foedt",
       "title": "Han er ikke født",
       "description": "Et lystspil i to akter på jyske herregårde, hvor en huslærers kærlighed overvinder standsbarrierer."
+    },
+    {
+      "kind": "play",
+      "id": "sdu637_spanierne",
+      "title": "Da Spanierne var her",
+      "description": "Et romantisk lystspil i tre akter om de spanske troppers indkvartering og en tabt sølvmedaljon i Middelfart."
     }
   ]
 }
