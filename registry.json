@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.253.0",
+  "version": "0.254.0",
   "plays": [
     {
       "kind": "play",
@@ -1520,6 +1520,12 @@
       "id": "sdu632_carnevalet",
       "title": "Indledning til Carnevalet",
       "description": "En festlig prolog skrevet til kunstnerkarnevallerne på Casino, hvor nissen og marschallen indleder maskespillet."
+    },
+    {
+      "kind": "play",
+      "id": "sdu633_fuglen",
+      "title": "Fuglen i Pæretræet",
+      "description": "En lystig vaudeville i én akt på Nørrebro, hvor de elskende vinder faderens samtykke trods nabostrid."
     }
   ]
 }
