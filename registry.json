@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.264.0",
+  "version": "0.265.0",
   "plays": [
     {
       "kind": "play",
@@ -1586,6 +1586,12 @@
       "id": "sdu645_truth",
       "title": "Truth",
       "description": "Et allegorisk og filosofisk drama om Sandhedens og Løgnens strid i det illusionerede kejsersnit."
+    },
+    {
+      "kind": "play",
+      "id": "sdu646_maaneskin",
+      "title": "I Maaneskin",
+      "description": "Alpescener fra de tyrolske Bjærge om Rosels trofasthed og Mathies' hjemkomst fra krigen under måneskinnet."
     }
   ]
 }
