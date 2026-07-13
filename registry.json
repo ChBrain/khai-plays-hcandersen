@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.268.0",
+  "version": "0.269.0",
   "plays": [
     {
       "kind": "play",
@@ -1610,6 +1610,12 @@
       "id": "sdu651_sangerinden",
       "title": "Sangerinden",
       "description": "Italiensk skovdrama om røvernes overfald, operasangerinden Marias arie og høvdingen Pietros kunstneriske forsoning."
+    },
+    {
+      "kind": "play",
+      "id": "sdu801_mit_eget_eventyr",
+      "title": "Mit eget Eventyr uden Digtning",
+      "description": "Selvbiografisk erindringsspil om det kolde møde med Jacob Grimm i Berlin og den varme forsoning i Weimar."
     }
   ]
 }
