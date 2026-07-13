@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.262.0",
+  "version": "0.263.0",
   "plays": [
     {
       "kind": "play",
@@ -1574,6 +1574,12 @@
       "id": "sdu643_rasmussen",
       "title": "Hr. Rasmussen",
       "description": "Et muntert lystspil i to akter om hr Rasmussens kejtede frieri og selskabets rygter."
+    },
+    {
+      "kind": "play",
+      "id": "sdu644_danmark",
+      "title": "Danmark",
+      "description": "En allegorisk og patriotisk guldalderprolog om Danmarks genfundne fortid og folkets hyldest til landet."
     }
   ]
 }
