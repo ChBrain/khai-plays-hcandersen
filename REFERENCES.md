@@ -285,7 +285,8 @@ Progressive staging of the memoir SDU 801 (_Mit eget Eventyr uden Digtning_). Th
 
 - **Source**: Mary Howitt (trans.), _The True Story of My Life_ (1847), the faithful contemporary translation of _Mit eget Eventyr uden Digtning_. Project Gutenberg ebook #7007 (<https://www.gutenberg.org/files/7007/7007-h/7007-h.htm>). Public domain; credited, never claimed. Not the expanded 1855 _Mit Livs Eventyr_.
 - **Excluded**: the 1844 Grimm episode (Berlin cold → Weimar reconciled) is the memoir-frame of SDU 801 — done. Tales, novels, and plays already in the registry are not restaged (Improvisatoren = 401, O.T. = 402, Spillemand = 403, Mulatten = 614, Maurerpigen = 617, Ahasverus = 620/623, Agnete = 609, Fodreise = 502).
-- **Status**: candidates only — nothing built. Years marked _provisional_ await confirmation against the text on staging.
+- **Status**: candidates only — nothing built. The five once-provisional entries have been verified against the primary text; where the memoir attaches no year, the entry says so ("_text gives none_").
+- **Verified & folded**: after the text check, `weimar-carl-alexander` (later Weimar visits are a continuation of the 1844 patronage, no separate crisis) and `fredrika-bremer` (a stated recognition, not a narrated scene) are dropped as standalone candidates and kept only as system notes for SDU 801.
 
 #### Candidate episodes — own-play caliber (SDU 802+)
 
@@ -298,8 +299,7 @@ Each is a self-contained scene with a counterpart and a system, of the Grimm cal
 - [ ] `meisling-schooldays` — Rector Meisling's sustained humiliation across five years; the gift felt under threat. **1822–27** (Ch. III). Counterpart: Simon Meisling · Slagelse / Helsingør. System: **class / humiliation**.
 - [ ] `paris-heine` — In Paris he meets Heine; entry into European literary society. **1833** (Ch. V). Counterpart: Heine · Paris. System: **recognition / reputation**.
 - [ ] `thorvaldsen-rome` — In Rome he frequents Thorvaldsen's studio; the master models what an artist from nowhere can become. **1833–34** (Ch. V). Counterpart: Bertel Thorvaldsen · Rome. System: **master / pupil / reputation**.
-- [ ] `orsted-prophecy` — Ørsted foretells that the novel will make him famous but the tales will make him immortal — his vocation named by another. _Provisional c. 1835_ (Ch. V). Counterpart: H.C. Ørsted · Copenhagen. System: **recognition / honor**.
-- [ ] `jenny-lind` — Unrequited love for the "Swedish Nightingale," recorded with unusual candour; she becomes his declared muse. _Provisional c. 1843_ (Ch. VII). Counterpart: Jenny Lind · Copenhagen / touring. System: **love / honor**.
+- [ ] `orsted-prophecy` — Ørsted foretells that the novel will make him famous but the tales will make him immortal — his vocation named by another. _Text gives none; mid-1830s by external chronology_ (Ch. V). Counterpart: H.C. Ørsted · Copenhagen. System: **recognition / honor**.
 - [ ] `england-dickens` — London society receives him; he and Dickens meet — recognition at the peak of his European fame. **1847** (Ch. VIII). Counterpart: Charles Dickens · London. System: **recognition / fame**.
 
 #### Milestone tier — plot-within-801 or thin standalone
@@ -312,10 +312,9 @@ Markers of the arc, thinner as standalone scenes.
 - [ ] `eastern-journey` — Journey to Constantinople, Greece, and the Danube; source of _En Digters Bazar_. **1840–41** (Ch. VI). Counterpart: the Ottoman world · Eastern Mediterranean. System: **exile / discovery**.
 - [ ] `mulatto-premiere` — The biographical triumph of _Mulatten_'s premiere, distinct from the play's own system (SDU 614). **1840** (Ch. VI). Counterpart: audience / Collin household · Copenhagen. System: **recognition / reputation**.
 - [ ] `moorish-maiden-fall` — _Maurerpigen_ fails; the reversal of the _Mulatten_ triumph, read as class hostility. **1840** (Ch. VI). Counterpart: critics / audience · Copenhagen. System: **humiliation / exile**.
-- [ ] `weimar-carl-alexander` — Grand Duke Carl Alexander adopts him into his circle; a foreign prince as the most reliable patron. _Provisional 1844–46_ (Ch. VII/VIII). Counterpart: Carl Alexander · Weimar. System: **patronage / honor**.
 - [ ] `prussian-red-eagle` — Receives the Prussian Order of the Red Eagle; the most visible sign of recognition outside Denmark. **1846** (Ch. VIII). Counterpart: Prussian court · Berlin. System: **honor / recognition**.
-- [ ] `fredrika-bremer-meeting` — The Swedish novelist appears as a significant peer encounter; weight to assess on close re-read. _Provisional — verify_. Counterpart: Fredrika Bremer · location TBC. System: **recognition**.
-- [ ] `danish-royal-favor` — Christian VIII and Caroline Amalie receive him with marked warmth — royal approval distinct from popular or critical fame. _Provisional c. 1844–46_ (Ch. VII/VIII). Counterpart: Christian VIII / Caroline Amalie · Copenhagen. System: **honor / patronage**.
+- [ ] `danish-royal-favor` — Christian VIII and Caroline Amalie receive him with marked warmth — royal approval distinct from popular or critical fame. _Text gives none; 1840s context_ (Ch. VII). Counterpart: Christian VIII / Caroline Amalie · Copenhagen. System: **honor / patronage**.
+- [ ] `jenny-lind` — The memoir names Jenny Lind with love and honour but states a feeling rather than narrating a scene; best as a plot-thread within SDU 801, not a standalone. _Text gives none; 1840s context_ (Ch. VII). Counterpart: Jenny Lind · Copenhagen / touring. System: **love / honor**.
 
 #### Registry gap — works named in the memoir but not yet staged
 
