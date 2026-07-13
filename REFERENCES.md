@@ -279,6 +279,55 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 650: En Ødeland** — Staged
 - [x] **SDU 651: Sangerinden** — Staged
 
+### Roadmap
+
+SDU 801 is **one play**: H.C. Andersen telling his own life _as an eventyr_. The title — _Mit eget Eventyr uden Digtning_ ("my own fairy tale without fiction") — names the frame, and the narration itself is the play. Each episode he recounts inside it is a **plot** of that play, added over time. The 1844 Jacob Grimm encounter (Berlin cold → Weimar reconciled) is the first, already staged; this section is the backlog of further candidate plots.
+
+- **Source**: Mary Howitt (trans.), _The True Story of My Life_ (1847), the faithful contemporary translation of _Mit eget Eventyr uden Digtning_. Project Gutenberg ebook #7007 (<https://www.gutenberg.org/files/7007/7007-h/7007-h.htm>). Public domain; credited, never claimed. Not the expanded 1855 _Mit Livs Eventyr_.
+- **Anchor**: one play, many plots. Each episode below becomes a `plot_*.md` in `plays/sdu801_mit_eget_eventyr/`, anchored to `play_mit_eget_eventyr.md` — never a separate SDU play (one folder ⇄ one SDU number ⇄ one play). The 1844 Grimm plots are done; tales, novels, and plays already in the registry are not restaged here (Improvisatoren = 401, O.T. = 402, Spillemand = 403, Mulatten = 614, Maurerpigen = 617, Ahasverus = 620/623, Agnete = 609, Fodreise = 502).
+- **Status**: candidates only — nothing built. The five once-provisional entries have been verified against the primary text; where the memoir attaches no year, the entry says so ("_text gives none_").
+- **Folded**: after the text check, `weimar-carl-alexander` (later Weimar visits continue the 1844 patronage already carried by the frame plots) and `fredrika-bremer` (a stated recognition, not a narrated scene) are kept as system notes for SDU 801 rather than as plots.
+
+#### Candidate plots — fuller scenes
+
+Self-contained scenes with a counterpart and a system, of the Grimm calibre — the strongest plots to stage next within SDU 801.
+
+- [ ] `leaves-odense` — Boy of ~14 departs Odense alone with 13 rix-dollars and a fortune-teller's prophecy; arrives friendless in Copenhagen. **1819** (Ch. I). Counterpart: mother / fortune-teller · Odense → Copenhagen. System: **exile / becoming**.
+- [ ] `siboni-first-patron` — Singing-school director Siboni hears him sing and offers free vocal training — the first institutional patron, before the voice breaks. **1819** (Ch. II). Counterpart: Siboni · Copenhagen. System: **patronage**.
+- [ ] `weyse-collection` — Composer C.E.F. Weyse raises a money collection to carry him through the winter. **1819** (Ch. II). Counterpart: Weyse · Copenhagen. System: **patronage / class**.
+- [ ] `collin-stipend` — Jonas Collin secures a royal rescript from Frederik VI placing him in Slagelse grammar school at the crown's expense; Collin becomes "a second father." **1822** (Ch. II/III). Counterpart: Jonas Collin / Frederik VI · Copenhagen. System: **patronage / class**.
+- [ ] `meisling-schooldays` — Rector Meisling's sustained humiliation across five years; the gift felt under threat. **1822–27** (Ch. III). Counterpart: Simon Meisling · Slagelse / Helsingør. System: **class / humiliation**.
+- [ ] `paris-heine` — In Paris he meets Heine; entry into European literary society. **1833** (Ch. V). Counterpart: Heine · Paris. System: **recognition / reputation**.
+- [ ] `thorvaldsen-rome` — In Rome he frequents Thorvaldsen's studio; the master models what an artist from nowhere can become. **1833–34** (Ch. V). Counterpart: Bertel Thorvaldsen · Rome. System: **master / pupil / reputation**.
+- [ ] `orsted-prophecy` — Ørsted foretells that the novel will make him famous but the tales will make him immortal — his vocation named by another. _Text gives none; mid-1830s by external chronology_ (Ch. V). Counterpart: H.C. Ørsted · Copenhagen. System: **recognition / honor**.
+- [ ] `england-dickens` — London society receives him; he and Dickens meet — recognition at the peak of his European fame. **1847** (Ch. VIII). Counterpart: Charles Dickens · London. System: **recognition / fame**.
+
+#### Candidate plots — lighter threads
+
+Markers of the arc — thinner scenes, better as lighter plots or interwoven threads within the frame.
+
+- [ ] `madame-schall-door` — Seeks an introduction to prima ballerina Schall as a gateway to the Royal Theatre; briefly received and dismissed. **1819** (Ch. I/II). Counterpart: Madame Schall · Copenhagen. System: **class / patronage**.
+- [ ] `university-exam` — Passes the _examen artium_; closes the wound of the Meisling years. **1828** (Ch. IV). Counterpart: examiners / Collin household · Copenhagen. System: **class / recognition**.
+- [ ] `tieck-chamisso-germany` — First Germany trip; meets Tieck in Dresden and Chamisso in Berlin — a foreign readership before Denmark's full acceptance. **1831** (Ch. IV). Counterpart: Tieck / Chamisso · Dresden / Berlin. System: **recognition / reputation**.
+- [ ] `eastern-journey` — Journey to Constantinople, Greece, and the Danube; source of _En Digters Bazar_. **1840–41** (Ch. VI). Counterpart: the Ottoman world · Eastern Mediterranean. System: **exile / discovery**.
+- [ ] `mulatto-premiere` — The biographical triumph of _Mulatten_'s premiere, distinct from the play's own system (SDU 614). **1840** (Ch. VI). Counterpart: audience / Collin household · Copenhagen. System: **recognition / reputation**.
+- [ ] `moorish-maiden-fall` — _Maurerpigen_ fails; the reversal of the _Mulatten_ triumph, read as class hostility. **1840** (Ch. VI). Counterpart: critics / audience · Copenhagen. System: **humiliation / exile**.
+- [ ] `prussian-red-eagle` — Receives the Prussian Order of the Red Eagle; the most visible sign of recognition outside Denmark. **1846** (Ch. VIII). Counterpart: Prussian court · Berlin. System: **honor / recognition**.
+- [ ] `danish-royal-favor` — Christian VIII and Caroline Amalie receive him with marked warmth — royal approval distinct from popular or critical fame. _Text gives none; 1840s context_ (Ch. VII). Counterpart: Christian VIII / Caroline Amalie · Copenhagen. System: **honor / patronage**.
+- [ ] `jenny-lind` — The memoir names Jenny Lind with love and honour but states a feeling rather than narrating a scene; best as a plot-thread within SDU 801, not a standalone. _Text gives none; 1840s context_ (Ch. VII). Counterpart: Jenny Lind · Copenhagen / touring. System: **love / honor**.
+
+#### Registry gap — works named in the memoir but not yet staged
+
+Named by Andersen in the memoir and absent from the registry (checked against SDU 001–651). Recorded as a coverage note, not part of the SDU 801 roadmap.
+
+| Work                      | Danish title              | Named in memoir | Status        |
+| ------------------------- | ------------------------- | --------------- | ------------- |
+| _Poems_ (1829)            | _Digte_                   | Ch. IV          | ⚠️ not staged |
+| _The Dying Child_ (~1827) | _Det døende Barn_         | Ch. III         | ⚠️ not staged |
+| _Shadow Pictures_ (1831)  | _Skyggebilleder_          | Ch. IV          | ⚠️ not staged |
+| _A Poet's Bazaar_ (1842)  | _En Digters Bazar_        | Ch. VI          | ⚠️ not staged |
+| _Picture Book_ (1840)     | _Billedbog uden Billeder_ | Ch. VI          | ⚠️ not staged |
+
 ## Origin
 
 The authoritative source of truth for the authentic Danish texts, titles, and publication history is the official register of the H.C. Andersen Centret at Syddansk Universitet:
