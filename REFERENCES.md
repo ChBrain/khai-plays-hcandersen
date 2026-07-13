@@ -262,6 +262,22 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 629: Den nye Barselstue** — Staged
 - [x] **SDU 630: Hyldemoer** — Staged
 - [x] **SDU 631: Nøkken** — Staged
+- [x] **SDU 632: Indledning til Carnevalet** — Staged
+- [x] **SDU 633: Fuglen i Pæretræet** — Staged
+- [x] **SDU 634: En Landsbyhistorie** — Staged
+- [x] **SDU 635: Paa Langebro** — Staged
+- [x] **SDU 636: Han er ikke født** — Staged
+- [x] **SDU 637: Da Spanierne var her** — Staged
+- [x] **SDU 638: Kong Saul** — Staged
+- [x] **SDU 639: I Vetturinens Vogn** — Staged
+- [x] **SDU 642: Intermediet til Holbergs: Kilderejsen** — Staged
+- [x] **SDU 643: Hr. Rasmussen** — Staged
+- [x] **SDU 644: Danmark** — Staged
+- [x] **SDU 645: Truth** — Staged
+- [x] **SDU 646: I Maaneskin** — Staged
+- [x] **SDU 647: Souffleurens Benefice** — Staged
+- [x] **SDU 650: En Ødeland** — Staged
+- [x] **SDU 651: Sangerinden** — Staged
 
 ## Origin
 
