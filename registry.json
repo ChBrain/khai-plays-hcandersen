@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-hcandersen",
-  "version": "0.259.0",
+  "version": "0.260.0",
   "plays": [
     {
       "kind": "play",
@@ -1556,6 +1556,12 @@
       "id": "sdu638_saul",
       "title": "Kong Saul",
       "description": "En operatekst i fem akter om kong Sauls jalousi mod David, et heksebesøg og Samuels åbne profeti."
+    },
+    {
+      "kind": "play",
+      "id": "sdu639_vognen",
+      "title": "I Vetturinens Vogn",
+      "description": "Et muntert forspil i én akt om et frieri i en italiensk hestevogn på vej mod Rom, afbrudt af kuskens piskesmel."
     }
   ]
 }
