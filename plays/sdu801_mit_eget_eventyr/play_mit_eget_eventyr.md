@@ -2,7 +2,7 @@
 khai: play
 title: "Mit eget Eventyr uden Digtning"
 declared: "Mit eget Eventyr uden Digtning"
-description: "Hans Christian Andersens selvbiografiske erindringer, fokuseret på møderne med brødrene Grimm."
+description: "Selvbiografisk erindringsspil om det kolde møde med Jacob Grimm i Berlin og den varme forsoning i Weimar."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,7 +22,7 @@ Mit eget Eventyr uden Digtning
 
 ## Arc
 
-I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen tilbage på sit eget liv som et sandt eventyr. Gennem sine restless rejser i udlandet søger han uophørligt anerkendelse fra sine europæiske kolleger. Under sit besøg i Berlin opsøger han den lærde Jacob Grimm i hans private studieværelse for at præsentere sit værk, men mødes af en dyb og sårende ligegyldighed, da Grimm i sin natkappe ikke kender hans eventyr. Men den ubehagelige stemning forvandles til uventet genkendelse og oprigtig respekt, da Grimm senere møder Andersen i Weimar ved Storhertug Carl Alexanders hof. Gennem denne forsoning anerkendes digterens folkelige og kunstneriske værd under en dyb selvbiografisk tone, og de to store eventyrforfattere trykker hinandens hænder som ligemænd under kunstens universelle broderskab.
+I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen tilbage på sit eget liv som et sandt eventyr. Gennem sine rastløse rejser i udlandet søger han uophørligt anerkendelse fra sine europæiske kolleger. Under sit besøg i Berlin opsøger han den lærde Jacob Grimm i hans private studieværelse for at præsentere sit værk, men mødes af en dyb og sårende ligegyldighed, da Grimm i sin natkappe ikke kender hans eventyr. Men den ubehagelige stemning forvandles til uventet genkendelse og oprigtig respekt, da Grimm senere møder Andersen i Weimar ved Storhertug Carl Alexanders hof. Gennem denne forsoning anerkendes digterens folkelige og kunstneriske værd under en dyb selvbiografisk tone, og de to store eventyrforfattere trykker hinandens hænder som ligemænd under kunstens universelle broderskab.
 
 ## Company
 

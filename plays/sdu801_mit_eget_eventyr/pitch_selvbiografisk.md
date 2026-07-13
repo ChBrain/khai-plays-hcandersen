@@ -1,6 +1,6 @@
 ---
 khai: pitch
-title: "Autobiographical Tone"
+title: "The Autobiographical Tone"
 declared: "SelvbiografiskPitch"
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Den intime, enkle og mundtlige erindringstone, der beretter sandheden om et levet liv som et sandt eventyr.
+Den intime, tilbageskuende og bekendende tone, hvori digteren fortæller sit eget liv som et eventyr uden digtning.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den intime, enkle og mundtlige erindringstone, der beretter sandheden om et leve
 
 ## Tenor
 
-En personlig, hjertevarm, følsom og til tider barnligt stolt tone præget af mundtlig fortælletradition.
+En varm, fortrolig og oprigtig tone, båret af taknemmelighed og en stille stolthed over den lange vej fra fattigdom til berømmelse.
 
 ## Undertow
 
-Den nagende frygt for ikke at blive anerkendt, og mindet om barndommens fattige og hårde kår.
+Den vedvarende frygt for at blive overset af de lærde, og såret fra det kolde møde i Berlin.
 
 ## Nerve
 
-Spændingen mellem den digteriske følsomhed og den akademiske traditions kolde forventning om videnskabelig præcision.
+Spændingen mellem digterens ydmyge oprindelse og hans krav på en plads blandt Europas anerkendte forfattere.
 
 ## Echo
 
-Tyst penneknirk, rejsekuffertens tunge læderlyde, Jacob Grimms milde og oprigtige stemme, og det fælles varme håndtryk.
+Erindringens stille stemme, vognhjul mod brosten, bladenes vending, og det hjertelige ord under håndtrykket.

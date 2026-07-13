@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Processen hvorved den akademiske og etablerede verden anerkender digterens folkelige eventyrgeni.
+Processen hvorved den lærde kollega går fra uvidenhed til oprigtig anerkendelse af digterens folkelige geni.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Processen hvorved den akademiske og etablerede verden anerkender digterens folke
 
 ## Initiated by
 
-Læsningen af de oversatte eventyr, f.eks. _Tommelise_, og den efterfølgende eftertanke.
+Grimms læsning af eventyrene efter det mislykkede møde i Berlin.
 
 ## Direction
 
-En bevægelse fra ligegyldighed og uvidenhed til dyb respekt og kollegialt broderskab.
+En bevægelse fra kølig ligegyldighed til varm, uforbeholden respekt, der forløses i det udrakte håndtryk i Weimar.
 
 ## Lever
 
-Eventyrenes poetiske kraft, den voksende berømmelse i udlandet, og den personlige erkendelse af fejl.
+De læste eventyr, mindet om det akavede første møde, og viljen til at rette sin fejl over for en ligemand.
 
 ## Echo
 
-Anerkendende nik, Jacob Grimms oprigtige undskyldning, og den gensidige ordveksel om eventyrets magt.
+Bladenes vending, et anerkendende ord ved hoffet, og den hjertelige tavshed, når to hænder mødes.

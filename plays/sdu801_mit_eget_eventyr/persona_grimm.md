@@ -14,7 +14,7 @@ type: real
 
 ## Taxonomy
 
-[KollegaPosition](position_kollega.md): Den berømte tyske sprogforsker og eventyrsamler, der repræsenterer den videnskabelige tilgang til folkedigtningen.
+[KollegaPosition](position_kollega.md): Den lærde tyske sprogforsker og eventyrsamler, hvis anerkendelse vejer tungt i den europæiske litterære verden.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: real
 
 ## Projection
 
-En ældre, værdig og alvorlig herre med et skarpt, men venligt blik. Han bærer en tysk lærd natkappe og briller under sit studium.
+En værdig, boglig mand, der i Berlin står i sin natkappe uden at kende gæsten, men i Weimar træder frem varm og oprigtig med udrakt hånd.
 
 ## Action
 
-Modtager Andersen i sin stue i Berlin uden at ane, hvem han er. Rejser senere til København, læser Andersens eventyr, opsøger ham i hans stue og rækker ham hånden i forsoning.
+Møder i Berlin Andersen med kølig uvidenhed om hans eventyr, læser dem siden, og opsøger i Weimar digteren for at rette sin fejl og hilse ham som ligemand.
 
 ## Shadow
 
-Er så opslugt af sin videnskabelige sprogforskning, at han overser den levende digtning og dens skabere omkring sig.
+Bærer på flovheden over ikke at have kendt en kollega, hvis navn allerede var kendt ude i Europa.
 
 ## Tell
 
-Taler med en rolig, præcis og akademisk tysk accent. Han udtrykker sig formelt, men ærligt og varmt, når han først indser sin fejl.
+Taler først med lærd, distanceret høflighed, siden med hjertelig, uforbeholden respekt for det folkelige geni.

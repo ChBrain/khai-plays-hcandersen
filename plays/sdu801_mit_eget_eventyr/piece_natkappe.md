@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Jacob Grimms natkappe, der symboliserer hans videnskabelige fordybelse og det akademiske studieværelses isolation.
+Jacob Grimms natkappe, som han bærer, da Andersen uanmeldt opsøger ham i Berlin. Den symboliserer den lærdes uforberedte, private uvidenhed om gæstens værk.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Jacob Grimms natkappe, der symboliserer hans videnskabelige fordybelse og det ak
 
 ## Place
 
-[BerlinPlace](place_berlin.md) båret af Jacob Grimm under sit uforberedte studium nytårsdag.
+[BerlinPlace](place_berlin.md) båret i det private studieværelse under det uventede besøg.
 
 ## Load Bearing
 
-Natkappen understreger den manglende forberedelse og den akavede, private ramme om det første mislykkede møde i Berlin.
+Natkappen understreger det akavede i mødet: Grimm tager imod i sin huslige uformelighed uden at kende den berømte gæst, og distancen bliver håndgribelig.
 
 ## Apparent
 
-En enkel, strikket tysk uldnatkappe i mørk farve, trukket godt ned over ørerne.
+En blød, hjemlig natkappe af uld, trukket ned over ørerne, båret over morgentøjet i det bogfyldte værelse.
 
 ## Yearbook
 
-Anvendt som det visuelle og stemningssættende objekt for det kolde akademiske møde i Berlin i 1844.
+Anvendt som det sceniske tegn på den kølige, uforberedte modtagelse i Berlin i vinteren 1844.

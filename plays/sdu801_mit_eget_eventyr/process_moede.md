@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Processen hvorved to eventyrdigtere træder ansigt til ansigt og forsøger at etablere personlig og kunstnerisk kontakt.
+Processen hvorved de to eventyrforfattere mødes ansigt til ansigt, først i kølig distance og siden i varm forsoning.
 
 ## Owner
 
@@ -21,7 +21,7 @@ Processen hvorved to eventyrdigtere træder ansigt til ansigt og forsøger at et
 
 ## Initiated by
 
-Besøgerens ankomst, en banken på døren, og den efterfølgende introduktion.
+Andersens uanmeldte besøg hos Grimm og det senere genmøde ved hoffet i Weimar.
 
 ## Direction
 

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Jacob Grimms private studieværelse i Berlin, præget af videnskabelig orden, bøger og akademisk ro.
+Jacob Grimms private studieværelse i Berlin, den kølige akademiske by, hvor Andersen opsøger den lærde uden introduktionsbrev.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Jacob Grimms private studieværelse i Berlin, præget af videnskabelig orden, b�
 
 ## Shown
 
-Et mørkt studieværelse med reoler fyldt med folianter, et skrivebord dækket med sprogvidenskabelige papirer, en blød lænestol og et vindue mod Berlins gader.
+Et boghøjt studieværelse med tunge reoler, papirbunker og et arbejdsbord, dæmpet lys og en huslig, uformel morgenstemning.
 
 ## Holds
 
-[GrimmPersona](persona_grimm.md), [DigterPersona](persona_digteren.md) og [NatkappePiece](piece_natkappe.md).
+[DigterPersona](persona_digteren.md), [GrimmPersona](persona_grimm.md) og [NatkappePiece](piece_natkappe.md).
 
 ## Offers
 
-Et koldt, formelt og tørt akademisk rum, der virker utilgængeligt for den uforberedte digters følelser.
+Et lærd, indelukket og distanceret rum, hvor den akademiske målestok hersker, og hvor en ukendt gæst let overses.
 
 ## Withheld
 
-Københavns kære gader, den folkelige teatersal, og den umiddelbare anerkendelse.
+Weimars varme gæstfrihed, hofmændenes anerkendelse, og den fortrolighed, som først læsningen af eventyrene kan skabe.

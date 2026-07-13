@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "H.C. Andersen"
+title: "Hans Christian Andersen"
 declared: "DigterPersona"
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -14,7 +14,7 @@ type: real
 
 ## Taxonomy
 
-[FortaellerPosition](position_fortaeller.md): Den verdensberømte digter, der nedskriver sine egne erindringer og søger international anerkendelse for sin kunst.
+[FortaellerPosition](position_fortaeller.md): Den fattigfødte, verdensberømte eventyrdigter, der fortæller sit eget liv som et eventyr og rejser Europa rundt på jagt efter kollegernes anerkendelse.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: real
 
 ## Projection
 
-En høj, ranglet og følsom mand i pænt, men rejsebrugt tøj. Hans ansigt bærer præg af dyb følsomhed og en rastløs søgen efter at blive forstået.
+En høj, kejtet mand i rejseklæder med et følsomt, årvågent ansigt, hvis stolthed over værket kæmper med en dyb frygt for at blive overset.
 
 ## Action
 
-Besøger Jacob Grimm i Berlin, oplever den kolde afvisning, vender tilbage til København, pakker sin rejsekuffert, og modtager overraskende Grimms genbesøg og forsoning.
+Opsøger Grimm i Berlin uden introduktionsbrev, tåler den kolde ligegyldighed, fortsætter sine rejser og modtager til sidst forsoningen i Weimar med åbent hjerte.
 
 ## Shadow
 
-Er ekstremt sårbar over for afvisning og frygter konstant, at hans værker vil blive glemt, eller at han ikke er værdsat af sine jævnaldrende.
+Frygter, at hans folkelige eventyr aldrig vil regnes for kunst blandt de lærde, og at det første akavede møde skal blive dommen over hans værd.
 
 ## Tell
 
-Taler med en følsom, hurtig og intim stemme. Han åbner ofte sit hjerte direkte og udtrykker barnlig glæde eller dyb skuffelse uden filter.
+Fortæller altid i første person og vender enhver ydmygelse til et eventyr, hvor lykken venter i sidste kapitel.

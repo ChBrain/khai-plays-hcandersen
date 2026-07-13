@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Planen om at etablere digterens værd og opnå anerkendelse fra de europæiske kolleger ved at præsentere sit eget liv som et sandt eventyr.
+Planen om at tegne sit eget liv som et eventyr og vinde de lærde kollegers anerkendelse gennem rejse og udholdenhed.
 
 ## Owner
 
@@ -26,7 +26,7 @@ At rejse til Berlin, opsøge Jacob Grimm, overvinde den kolde ligegyldighed, og 
 
 ## Orders
 
-Præsenter dine eventyr for de lærde kolleger, hold ud trods afvisningen, fortsæt dine rejser, og modtag den uventede anerkendelse med åbent hjerte.
+Præsentér dine eventyr for de lærde kolleger, hold ud trods afvisningen, fortsæt dine rejser, og modtag den uventede anerkendelse med åbent hjerte.
 
 ## Implementation
 

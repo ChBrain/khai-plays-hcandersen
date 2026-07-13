@@ -25,7 +25,7 @@ H.C. Andersens rejsekuffert, som symboliserer hans rastløse rejseaktivitet og d
 
 ## Load Bearing
 
-Kufferten understreger den pludselige og uventede natur af Grimms besøg, da Andersen bogstaveligt talt er på vej ud af døren.
+Kufferten bærer vidnesbyrd om den rastløse rejse, der først førte Andersen til det kolde Berlin og siden til forsoningen i Weimar; den gør vejen fra ydmygelse til anerkendelse håndgribelig.
 
 ## Apparent
 

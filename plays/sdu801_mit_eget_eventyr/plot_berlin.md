@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "The Meeting in Berlin"
+title: "The Cold Reception in Berlin"
 declared: "plot_berlin"
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Når H.C. Andersen banker på døren til Jacob Grimms studieværelse i Berlin den 26. juli 1844.
+Når H.C. Andersen i vinteren 1844 uanmeldt opsøger Jacob Grimm i hans studieværelse i Berlin uden et introduktionsbrev.
 
 ## Action
 
-I [BerlinPlace](place_berlin.md) søger [DigterPersona](persona_digteren.md) i sin position som [FortaellerPosition](position_fortaeller.md) at igangsætte [MoedeProcess](process_moede.md) med [GrimmPersona](persona_grimm.md) i hans position som [KollegaPosition](position_kollega.md) under den akavede [SelvbiografiskPitch](pitch_selvbiografisk.md) for at fremme sin [SelvportraetPlan](plan_selvportraet.md). Grimm modtager ham iført sin [NatkappePiece](piece_natkappe.md), men den forventede [ErkendelseProcess](process_erkendelse.md) udebliver helt, da Grimm ikke kender hans værker.
+I [BerlinPlace](place_berlin.md) møder [DigterPersona](persona_digteren.md) i sin position som [FortaellerPosition](position_fortaeller.md) den lærde [GrimmPersona](persona_grimm.md) i sin position som [KollegaPosition](position_kollega.md), idet de indleder den anspændte [MoedeProcess](process_moede.md) under den sårbare [SelvbiografiskPitch](pitch_selvbiografisk.md). Grimm står i sin [NatkappePiece](piece_natkappe.md) og kender ikke gæstens eventyr, så den udeblevne [ErkendelseProcess](process_erkendelse.md) efterlader målene for [SelvportraetPlan](plan_selvportraet.md) uindfriede.
 
 ## Stage
 
-Jacob Grimms mørke studieværelse i Berlin. Jacob Grimm sidder ved sit skrivebord, dybt optaget af en stor bog, iført sin uldnatkappe. H.C. Andersen træder spændt og håbefuld ind ad døren, bøjer sig høfligt og præsenterer sit navn. Grimm tager sine briller af, ser uforstående på ham og ryster beklagende på hovedet. Andersen står akavet og dybt skuffet midt på gulvet.
+Grimms bogfyldte studieværelse i Berlin. Grimm åbner selv døren i sin natkappe. Andersen præsenterer sig som digter af eventyr, men Grimm kender ikke navnet og spørger høfligt, om noget af hans er oversat til tysk. Andersen står forlegen og forlader værelset med brændende kinder, mens kufferten venter til videre rejse.
 
 ## Tension
 
-Spændingen mellem digterens følsomme forventning om kollegial anerkendelse og den etablerede videnskabsmands fuldstændige uvidenhed.
+Den sårende ligegyldighed fra den akademiske jævnaldrende, der ikke kender digterens værk og lader ham gå uanerkendt.

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "The Colleague"
+title: "The Peer"
 declared: "KollegaPosition"
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Stillingen som den etablerede og lærde kollega, der repræsenterer den akademiske tradition og anerkendelsens gatekeeper.
+Stillingen som den anerkendte lærde kollega, hvis dom over værket afgør, om digteren optages i den europæiske litteraturs kreds.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Stillingen som den etablerede og lærde kollega, der repræsenterer den akademis
 
 ## Has
 
-En natkappe, en privat studiestue fuld af bøger, og en dyb sprogvidenskabelig autoritet.
+Lærdom, europæisk anseelse og magten til at anerkende eller overse en kollegas værk.
 
 ## Orders
 
-Modtag den fremmede digter, erkend din uvidenhed uden stolthed, undersøg hans værker efterfølgende, opsøg ham i hans eget land, og tilbyd ham din oprigtige anerkendelse.
+Vurdér den fremmede digters værk, erkend din fejl, når du har læst det, og ræk hånden frem til ligemanden.
 
 ## Loses
 
-Sin akademiske distance og uvidenhed, da han indser Andersens eventyrlige genialitet.
+Sin kølige distance og uvidenhed fra Berlin, da læsningen af eventyrene vender ligegyldigheden til oprigtig respekt.
 
 ## Drives
 
-At beskytte den videnskabelige sandhed, men også at bøje sig for den levende digtnings kraft, når han erkender den.
+At holde den lærde målestok ren og alligevel give det ægte folkelige geni sin retfærdige anerkendelse.

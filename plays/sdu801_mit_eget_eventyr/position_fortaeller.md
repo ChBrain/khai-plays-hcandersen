@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Stillingen som den rejsende forfatter, der nedskriver sine erindringer og søger international anerkendelse fra sine ligesindede.
+Stillingen som den selvbiograferende digter, der fortæller sit eget liv som et eventyr og bærer værket frem for de lærde kolleger.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Stillingen som den rejsende forfatter, der nedskriver sine erindringer og søger
 
 ## Has
 
-Erindringen om sit livs eventyrlige rejse, en rejsekuffert under pakning, og et brændende ønske om kunstnerisk accept.
+Sit eget levede liv som stof, en rejsekuffert, sine udgivne eventyr og et navn, der allerede rejser forud for ham i Europa.
 
 ## Orders
 
-Rejs ud i Europa, opsøg dine berømte kolleger, præsenter dit værk, bevar dit mod trods kolde afvisninger, og tag imod forsoningen med værdighed.
+Præsentér dine eventyr for de lærde, hold ud trods afvisningen, fortsæt dine rejser, og modtag den uventede anerkendelse med åbent hjerte.
 
 ## Loses
 
-Sin dybe mindreværdsfølelse og frygten for ikke at blive anerkendt, når hans jævnaldrende rækker ham hånden.
+Den ydmygende tvivl fra det kolde Berlin, da forsoningen i Weimar fastslår hans plads blandt kollegerne.
 
 ## Drives
 
-At retfærdiggøre sit livsrejse-eventyr og bevise sit folkelige talents sande værd over for den lærde verden.
+At se sit eget liv anerkendt som et sandt eventyr og sit folkelige værk optaget i kunstens broderskab.
