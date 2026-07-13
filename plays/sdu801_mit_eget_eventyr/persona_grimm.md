@@ -22,11 +22,11 @@ type: real
 
 ## Projection
 
-En værdig, boglig mand, der i Berlin står i sin natkappe uden at kende gæsten, men i Weimar træder frem varm og oprigtig med udrakt hånd.
+En værdig, boglig mand, der i Berlin ikke kender gæsten, men i København - endnu i rejseklæder, lige fra skibet - træder frem varm og oprigtig med udrakt hånd.
 
 ## Action
 
-Møder i Berlin Andersen med kølig uvidenhed om hans eventyr, læser dem siden, og opsøger i Weimar digteren for at rette sin fejl og hilse ham som ligemand.
+Møder i Berlin Andersen med kølig uvidenhed om hans eventyr, læser dem siden, og opsøger i København selv digteren - "nu kendte han mig" - for at rette sin fejl og hilse ham som ligemand.
 
 ## Shadow
 

@@ -25,7 +25,7 @@ Et boghøjt studieværelse med tunge reoler, papirbunker og et arbejdsbord, dæm
 
 ## Holds
 
-[DigterPersona](persona_digteren.md), [GrimmPersona](persona_grimm.md) og [NatkappePiece](piece_natkappe.md).
+[DigterPersona](persona_digteren.md), [GrimmPersona](persona_grimm.md) og [EventyrbindPiece](piece_eventyrbind.md).
 
 ## Offers
 
@@ -33,4 +33,4 @@ Et lærd, indelukket og distanceret rum, hvor den akademiske målestok hersker, 
 
 ## Withheld
 
-Weimars varme gæstfrihed, hofmændenes anerkendelse, og den fortrolighed, som først læsningen af eventyrene kan skabe.
+Københavns hjertelige gensyn, det senere venskab ved julelyset, og den fortrolighed, som først læsningen af eventyrene kan skabe.

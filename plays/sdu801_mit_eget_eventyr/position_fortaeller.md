@@ -29,7 +29,7 @@ Præsentér dine eventyr for de lærde, hold ud trods afvisningen, fortsæt dine
 
 ## Loses
 
-Den ydmygende tvivl fra det kolde Berlin, da forsoningen i Weimar fastslår hans plads blandt kollegerne.
+Den ydmygende tvivl fra det kolde Berlin, da forsoningen i København fastslår hans plads blandt kollegerne.
 
 ## Drives
 
