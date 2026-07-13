@@ -262,6 +262,7 @@ Staging the works of H.C. Andersen as **systemic systems**: modeling the mechani
 - [x] **SDU 629: Den nye Barselstue** — Staged
 - [x] **SDU 630: Hyldemoer** — Staged
 - [x] **SDU 631: Nøkken** — Staged
+- [x] **SDU 632: Indledning til Carnevalet** — Staged
 
 ## Origin
 
