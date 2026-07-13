@@ -26,7 +26,7 @@ En gammel mand med et alvorligt, men roligt ansigt, klædt i en mørk kappe, hvi
 
 ## Action
 
-Han tager barnet fra vuggen, vogter over drivhusets sjæle, og viser moderen de skæbner, der venter hendes barn.
+Han optræder med en ro der ikke kan rokkes, hverken af bøn, trusler eller tårer. Han udfører sin gerning uden had og uden glæde.
 
 ## Shadow
 

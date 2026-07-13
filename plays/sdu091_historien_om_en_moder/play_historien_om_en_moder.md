@@ -22,7 +22,7 @@ Historien om en moder
 
 ## Arc
 
-En moder sidder og våger over sit syge, svage barn. Da hun lukker øjnene af træthed et kort øjeblik, trænger Døden ind i stuen og tager barnet med sig. Moderen styrter ud i den iskolde vinternat for at indhente Døden. På sin desperate rejse må hun ofre alt, hvad hun ejer og er: hun giver sine tårer til en sø, sit blod til en tjørnebusk for at holde den varm, og sit smukke sorte hår til en gammel kone, der vogter over Dødens drivhus. Da hun endelig når frem til Dødens drivhus, finder hun sit barns sjæl som en svag lille blomst. Døden ankommer, og moderen truer med at rive andre blomster op i sin desperation. Men da Døden forklarer hende, at hun derved vil bringe ulykke over andre mødre og børn, og viser hende de mulige skæbner for sit eget barn, kapitulerer hun i dyb sorg. Hun lader Døden tage barnet med ind i det ukendte land, bøjende sig for Guds vilje.
+En moder sidder og våger over sit syge, svage barn. En fremmed gammel mand banker på og beder om husly i frosten; hun lukker ham ind, varmer ham og sætter sig igen ved vuggen. Det er Døden. Mens hun blunder af udmattelse, tager han barnet stille med sig. Moderen styrter ud i den iskolde vinternat for at indhente Døden. På sin desperate rejse må hun ofre alt, hvad hun ejer og er: hun synger for natten for at få retning, hun trykker en tjørnebusk mod sit bryst til blodet flyder for at holde den varm, hun græder sine øjne ud i en sø for at blive færget over, og hun bytter sit smukke sorte hår til en gammel kone mod dennes hvide hår for at få adgang til Dødens drivhus. Da hun endelig når frem, finder hun sit barns sjæl som en svag lille blomst. Døden ankommer. I sin desperation truer moderen med at rive andre blomster op. Men Døden giver hende sine øjne tilbage og viser hende i en brønd to mulige skæbner: én fuld af lykke og velsignelse, én fuld af nød og elendighed. En af dem ville være barnets. Moderen ved ikke hvilken. I den indsigt bryder hendes vilje, og hun lader Døden tage barnet med ind i det ukendte land, bøjende sig for Guds vilje.
 
 ## Company
 
@@ -41,7 +41,8 @@ En moder sidder og våger over sit syge, svage barn. Da hun lukker øjnene af tr
 
 ## Triggers
 
-- [plot_barnets_doed.md](plot_barnets_doed.md) igangsættes af Dødens lydløse indtrængen i den kolde stue, mens moderen blunder.
+- [plot_gaesten.md](plot_gaesten.md) igangsættes af den fremmede gamles banken på døren i frosten.
+- [plot_barnets_doed.md](plot_barnets_doed.md) igangsættes af moderens blund og Dødens lydløse afgang med barnet.
 - [plot_rejsen.md](plot_rejsen.md) igangsættes af moderens desperate flugt ud i vinternatten efter Døden.
 - [plot_drivhuset.md](plot_drivhuset.md) igangsættes af moderens ankomst til Dødens store drivhus i den fremmede verden.
 - [plot_overgivelsen.md](plot_overgivelsen.md) igangsættes af moderens endelige indsigt og kapitulation foran Dødens uundgåelige valg.
