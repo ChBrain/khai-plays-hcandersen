@@ -21,11 +21,11 @@ H.C. Andersens rejsekuffert, som symboliserer hans rastløse rejseaktivitet og d
 
 ## Place
 
-[WeimarPlace](place_weimar.md) medbragt som vidne om den lange rejse fra Danmark.
+[KoebenhavnPlace](place_koebenhavn.md) stillet åben midt på gulvet, halvt pakket, da Grimm træder ind.
 
 ## Load Bearing
 
-Kufferten bærer vidnesbyrd om den rastløse rejse, der først førte Andersen til det kolde Berlin og siden til forsoningen i Weimar; den gør vejen fra ydmygelse til anerkendelse håndgribelig.
+Kufferten gør forsoningen håndgribelig: Grimm opsøger Andersen netop som han pakker til afrejse, så mødet må ske i hast over det åbne låg - den rastløse rejse og den uventede anerkendelse i ét billede.
 
 ## Apparent
 
@@ -33,4 +33,4 @@ En stor, slidt læderkuffert med messingbeslag, foret med papir, halvt fyldt med
 
 ## Yearbook
 
-Anvendt som det centrale sceniske objekt for den uventede forsoning i Weimar i efteråret 1844.
+Anvendt som det centrale sceniske objekt for den uventede forsoning i København i august 1844.

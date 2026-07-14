@@ -25,7 +25,7 @@ Grimms læsning af eventyrene efter det mislykkede møde i Berlin.
 
 ## Direction
 
-En bevægelse fra kølig ligegyldighed til varm, uforbeholden respekt, der forløses i det udrakte håndtryk i Weimar.
+En bevægelse fra kølig ligegyldighed til varm, uforbeholden respekt, der forløses i det udrakte håndtryk i København og modnes til venskab i Berlin.
 
 ## Lever
 
@@ -33,4 +33,4 @@ De læste eventyr, mindet om det akavede første møde, og viljen til at rette s
 
 ## Echo
 
-Bladenes vending, et anerkendende ord ved hoffet, og den hjertelige tavshed, når to hænder mødes.
+Bladenes vending, ordene "nu kendte han mig", og den hjertelige tavshed, når to hænder mødes.

@@ -21,11 +21,11 @@ Processen hvorved de to eventyrforfattere mødes ansigt til ansigt, først i kø
 
 ## Initiated by
 
-Andersens uanmeldte besøg hos Grimm og det senere genmøde ved hoffet i Weimar.
+Andersens uanmeldte besøg hos Grimm i Berlin og Grimms uventede genbesøg hos Andersen i København.
 
 ## Direction
 
-En bevægelse fra den akavede, spændte distance (i Berlin) til en uventet, varm forsoning (i Weimar).
+En bevægelse fra den akavede, spændte distance (i Berlin) til en uventet, varm forsoning (i København).
 
 ## Lever
 
@@ -33,4 +33,4 @@ Introduktionsbrevets fravær eller tilstedeværelse, den gensidige litterære vi
 
 ## Echo
 
-Tyske høflighedsfraser, en natkappes raslen, kuffertens låg der smækkes i, og det varme ordveksel under håndtrykket.
+Tjenestepigens spørgsmål i Berlin, kuffertlåget der står åbent i København, postbuddets trin på trappen, og det varme ordveksel under håndtrykket.

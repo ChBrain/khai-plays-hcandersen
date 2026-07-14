@@ -26,7 +26,7 @@ En høj, kejtet mand i rejseklæder med et følsomt, årvågent ansigt, hvis sto
 
 ## Action
 
-Opsøger Grimm i Berlin uden introduktionsbrev, tåler den kolde ligegyldighed, fortsætter sine rejser og modtager til sidst forsoningen i Weimar med åbent hjerte.
+Opsøger Grimm i Berlin uden introduktionsbrev, tåler den kolde ligegyldighed, modtager forsoningen i København over den halvt pakkede kuffert og læser siden sine eventyr for brødrene Grimm juleaften i Berlin.
 
 ## Shadow
 

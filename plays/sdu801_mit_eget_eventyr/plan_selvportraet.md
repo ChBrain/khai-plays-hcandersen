@@ -22,7 +22,7 @@ Planen om at tegne sit eget liv som et eventyr og vinde de lærde kollegers aner
 
 ## Direction
 
-At rejse til Berlin, opsøge Jacob Grimm, overvinde den kolde ligegyldighed, og senere modtage forsoningen i Weimar.
+At rejse til Berlin, opsøge Jacob Grimm, overvinde den kolde ligegyldighed, modtage forsoningen i København og fuldbyrde venskabet i Berlin.
 
 ## Orders
 
@@ -30,10 +30,11 @@ Præsentér dine eventyr for de lærde kolleger, hold ud trods afvisningen, fort
 
 ## Implementation
 
-Gennemført ved at koble [DigterPersona](persona_digteren.md) med [BerlinPlace](place_berlin.md) og [WeimarPlace](place_weimar.md) under den intime [SelvbiografiskPitch](pitch_selvbiografisk.md).
+Gennemført ved at koble [DigterPersona](persona_digteren.md) med [BerlinPlace](place_berlin.md), [KoebenhavnPlace](place_koebenhavn.md) og [GrimmHjemPlace](place_grimmhjem.md) under den intime [SelvbiografiskPitch](pitch_selvbiografisk.md).
 
 ## Targets
 
 - [ ] Opsøg Jacob Grimm i Berlin og oplev den kolde modtagelse
 - [ ] Fortsæt rejsen og lad eventyrene vinde indpas i Tyskland
-- [ ] Modtag Grimms uventede genmøde i Weimar og fuldfør forsoningen
+- [ ] Modtag Grimms uventede besøg i København og fuldfør forsoningen
+- [ ] Vend tilbage til Berlin og fuldbyrd venskabet ved juleoplæsningen 1845
