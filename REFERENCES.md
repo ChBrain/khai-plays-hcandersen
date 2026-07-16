@@ -293,9 +293,9 @@ SDU 801 is **one play**: H.C. Andersen telling his own life _as an eventyr_. The
 
 Self-contained scenes with a counterpart and a system, of the Grimm calibre — the strongest plots to stage next within SDU 801.
 
-- [ ] `leaves-odense` — Boy of ~14 departs Odense alone with 13 rix-dollars and a fortune-teller's prophecy; arrives friendless in Copenhagen. **1819** (Ch. I). Counterpart: mother / fortune-teller · Odense → Copenhagen. System: **exile / becoming**.
-- [ ] `siboni-first-patron` — Singing-school director Siboni hears him sing and offers free vocal training — the first institutional patron, before the voice breaks. **1819** (Ch. II). Counterpart: Siboni · Copenhagen. System: **patronage**.
-- [ ] `weyse-collection` — Composer C.E.F. Weyse raises a money collection to carry him through the winter. **1819** (Ch. II). Counterpart: Weyse · Copenhagen. System: **patronage / class**.
+- [x] `leaves-odense` — Boy of ~14 departs Odense alone with 13 rix-dollars and a fortune-teller's prophecy; arrives friendless in Copenhagen. **1819** (Ch. I). Counterpart: mother / fortune-teller · Odense → Copenhagen. System: **exile / becoming**.
+- [x] `siboni-first-patron` — Singing-school director Siboni hears him sing and offers free vocal training — the first institutional patron, before the voice breaks. **1819** (Ch. II). Counterpart: Siboni · Copenhagen. System: **patronage**.
+- [x] `weyse-collection` — Composer C.E.F. Weyse raises a money collection to carry him through the winter. **1819** (Ch. II). Counterpart: Weyse · Copenhagen. System: **patronage / class**.
 - [ ] `collin-stipend` — Jonas Collin secures a royal rescript from Frederik VI placing him in Slagelse grammar school at the crown's expense; Collin becomes "a second father." **1822** (Ch. II/III). Counterpart: Jonas Collin / Frederik VI · Copenhagen. System: **patronage / class**.
 - [ ] `meisling-schooldays` — Rector Meisling's sustained humiliation across five years; the gift felt under threat. **1822–27** (Ch. III). Counterpart: Simon Meisling · Slagelse / Helsingør. System: **class / humiliation**.
 - [ ] `paris-heine` — In Paris he meets Heine; entry into European literary society. **1833** (Ch. V). Counterpart: Heine · Paris. System: **recognition / reputation**.
