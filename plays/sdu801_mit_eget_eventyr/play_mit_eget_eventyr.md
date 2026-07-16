@@ -22,7 +22,7 @@ Mit eget Eventyr uden Digtning
 
 ## Arc
 
-I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen tilbage på sit eget liv som et sandt eventyr. Hans rejse begynder som en fattig emigrantdreng, der forlader Odense og ankommer alene til København, hvor han modigt deklamerer og synger foran sangmesteren Giuseppe Siboni, digteren Jens Baggesen og komponisten C.E.F. Weyse. Gennem dette første mæcenat og Weyses pengeindsamling sikres hans overlevelse. I 1822 træder Jonas Collin ind i hans liv som en "anden fader" og sikrer et kongeligt bevilgningsreskript fra Frederik VI til hans latinskoleuddannelse. Denne skolegang i Slagelse og Helsingør under rektor Simon Meisling bliver dog en femårig traumatisk og ydmygende prøvelse, hvor hans digtning forbydes, men hvor han i hemmelighed forløser sit geni i digtet "Det døende barn". Siden søger han uophørligt anerkendelse fra sine europæiske kolleger. Under sit besøg i Berlin opsøger han uden introduktionsbrev den lærde Jacob Grimm i hans studieværelse for at præsentere sit værk, men mødes af en dyb og sårende ligegyldighed: Grimm kender ikke hans navn og har ikke læst det bind eventyr, der endog er tilegnet ham. Men den ubehagelige stemning forvandles to uventet genkendelse, da Grimm få uger senere, nylandet i København og endnu i rejseklæder, går lige op til Andersen - netop som han pakker sin kuffert - for at trykke hans hånd: "nu kendte han mig!" Forsoningen modnes to varigt venskab, da Andersen juleaften 1845 vender tilbage til Berlin og læser sine eventyr højt for begge brødrene Grimm. Gennem denne bue fra snub til broderskab anerkendes digterens folkelige og kunstneriske værd under en dyb selvbiografisk tone.
+I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen tilbage på sit eget liv som et sandt eventyr. Hans rejse begynder som en fattig emigrantdreng, der forlader Odense og ankommer alene til København, hvor han modigt deklamerer og synger foran sangmesteren Giuseppe Siboni, digteren Jens Baggesen og komponisten C.E.F. Weyse. Gennem dette første mæcenat og Weyses pengeindsamling sikres hans overlevelse. I 1822 træder Jonas Collin ind i hans liv som en "anden fader" og sikrer et kongeligt bevilgningsreskript fra Frederik VI til hans latinskoleuddannelse. Denne skolegang i Slagelse og Helsingør under rektor Simon Meisling bliver dog en femårig traumatisk og ydmygende prøvelse, hvor hans digtning forbydes, men hvor han i hemmelighed forløser sit geni i digtet "Det døende barn". I 1833 rejser han til Paris på sin første store dannelsesrejse, hvor mødet med den spottende Heinrich Heine i et beskedent hotelværelse udfordrer hans higen efter anerkendelse, men også cementerer hans europæiske kollegiale omdømme. Siden søger han uophørligt anerkendelse fra sine europæiske kolleger. Under sit besøg i Berlin opsøger han uden introduktionsbrev den lærde Jacob Grimm i hans studieværelse for at præsentere sit værk, men mødes af en dyb og sårende ligegyldighed: Grimm kender ikke hans navn og har ikke læst det bind eventyr, der endog er tilegnet ham. Men den ubehagelige stemning forvandles to uventet genkendelse, da Grimm få uger senere, nylandet i København og endnu i rejseklæder, går lige op til Andersen - netop som han pakker sin kuffert - for at trykke hans hånd: "nu kendte han mij!" Forsoningen modnes to varigt venskab, da Andersen juleaften 1845 vender tilbage til Berlin og læser sine eventyr højt for begge brødrene Grimm. Gennem denne bue fra snub til broderskab anerkendes digterens folkelige og kunstneriske værd under en dyb selvbiografisk tone.
 
 ## Company
 
@@ -38,6 +38,7 @@ I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen
 - [CollinPersona](persona_collin.md)
 - [FrederikPersona](persona_frederik.md)
 - [MeislingPersona](persona_meisling.md)
+- [HeinePersona](persona_heine.md)
 - [FortaellerPosition](position_fortaeller.md)
 - [KollegaPosition](position_kollega.md)
 - [EmigrantPosition](position_emigrant.md)
@@ -49,12 +50,14 @@ I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen
 - [FormynderPosition](position_formynder.md)
 - [MonarkPosition](position_monark.md)
 - [RektorPosition](position_rektor.md)
+- [IronikerPosition](position_ironiker.md)
 - [EventyrbindPiece](piece_eventyrbind.md)
 - [RejsekuffertPiece](piece_rejsekuffert.md)
 - [RigsdalerPiece](piece_pengepose.md)
 - [IndsamlingPiece](piece_indsamling.md)
 - [ReskriptPiece](piece_reskript.md)
 - [DoeendeBarnPiece](piece_det_doeende_barn.md)
+- [HeinebrevPiece](piece_heinebrev.md)
 - [BerlinPlace](place_berlin.md)
 - [KoebenhavnPlace](place_koebenhavn.md)
 - [GrimmHjemPlace](place_grimmhjem.md)
@@ -63,6 +66,7 @@ I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen
 - [SiboniSalonPlace](place_sibonisalon.md)
 - [CollinStudiePlace](place_collinstudie.md)
 - [LatinskolePlace](place_latinskole.md)
+- [ParisHotelPlace](place_parishotel.md)
 - [MoedeProcess](process_moede.md)
 - [ErkendelseProcess](process_erkendelse.md)
 - [AfskedProcess](process_afsked.md)
@@ -71,6 +75,7 @@ I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen
 - [PatronageProcess](process_indsamling.md)
 - [BevillingProcess](process_bevilling.md)
 - [HumiliationProcess](process_humiliation.md)
+- [SarkasmeProcess](process_sarkasme.md)
 - [SelvportraetPlan](plan_selvportraet.md)
 - [SelvbiografiskPitch](pitch_selvbiografisk.md)
 
@@ -80,6 +85,7 @@ I det intime og enkle erindringsrum ser den verdensberømte digter H.C. Andersen
 - [plot_siboni_patron.md](plot_siboni_patron.md) udløses af Andersens uventede audition ved Sibonis middagsselskab, som sikrer ham hans første mæcenat.
 - [plot_collin_stipend.md](plot_collin_stipend.md) udløses af Collins forelæggelse af det kongelige reskript i 1822, der sender Andersen i latinskole.
 - [plot_meisling_school.md](plot_meisling_school.md) udløses af rektor Simon Meislings hån og forbud mod Andersens poesi i latinskolen.
+- [plot_paris_heine.md](plot_paris_heine.md) udløses af Heinrich Heines ironiske besøg hos Andersen i Paris i 1833.
 - [plot_berlin.md](plot_berlin.md) udløses af Andersens uanmeldte besøg hos Jacob Grimm i Berlin, hvor han mødes af ligegyldighed.
 - [plot_koebenhavn.md](plot_koebenhavn.md) udløses af Grimms uventede besøg hos Andersen i København, som fører til forsoning.
 - [plot_julaften.md](plot_julaften.md) udløses af Andersens oplæsning for brødrene Grimm juleaften 1845, som fuldbyrder venskabet.
