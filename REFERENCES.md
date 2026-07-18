@@ -301,7 +301,7 @@ Self-contained scenes with a counterpart and a system, of the Grimm calibre — 
 - [x] `paris-heine` — In Paris he meets Heine; entry into European literary society. **1833** (Ch. V). Counterpart: Heine · Paris. System: **recognition / reputation**.
 - [x] `thorvaldsen-rome` — In Rome he frequents Thorvaldsen's studio; the master models what an artist from nowhere can become. **1833–34** (Ch. V). Counterpart: Bertel Thorvaldsen · Rome. System: **master / pupil / reputation**.
 - [x] `orsted-prophecy` — Ørsted foretells that the novel will make him famous but the tales will make him immortal — his vocation named by another. _Text gives none; mid-1830s by external chronology_ (Ch. V). Counterpart: H.C. Ørsted · Copenhagen. System: **recognition / honor**.
-- [ ] `england-dickens` — London society receives him; he and Dickens meet — recognition at the peak of his European fame. **1847** (Ch. VIII). Counterpart: Charles Dickens · London. System: **recognition / fame**.
+- [x] `england-dickens` — London society receives him; he and Dickens meet — recognition at the peak of his European fame. **1847** (Ch. VIII). Counterpart: Charles Dickens · London. System: **recognition / fame**.
 
 #### Candidate plots — lighter threads
 
