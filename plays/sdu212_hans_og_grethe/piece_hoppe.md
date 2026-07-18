@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Det hurtige og smidige hundyr, der repræsenterer Grethes stolthed og modstykke til broderens hest.
+Det hurtige og smidige hundyr, der repræsenterer Grethes stolthed og modstykke til naboens hest.
 
 ## Owner
 

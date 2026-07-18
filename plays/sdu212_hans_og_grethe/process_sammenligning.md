@@ -29,7 +29,7 @@ En systematisk vurdering af hingstens rå kraft mod hoppens adræthed og hurtigh
 
 ## Lever
 
-Rivaliseringen og ønsket om at devaluere broderens besiddelser.
+Rivaliseringen og ønsket om at devaluere naboens besiddelser.
 
 ## Echo
 

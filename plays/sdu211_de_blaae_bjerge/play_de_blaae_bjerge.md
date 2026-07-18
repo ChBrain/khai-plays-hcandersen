@@ -1,8 +1,8 @@
 ---
 khai: play
 title: "The Blue Mountains"
-declared: "De blaae Bjerge"
-description: "En parabel om en menighed, der mister sin tro, da en undersøger beviser, at de blå bjerge blot er ufrugtbare sten."
+declared: "De blaae Bjerge. Smaastykker efter det Tydske"
+description: "Frit efter det tyske forlæg: menigheden mister troen, da de blå bjerge afsløres som ufrugtbare sten."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-12"
 ---
 
-# Play: De blaae Bjerge
+# Play: De blaae Bjerge. Smaastykker efter det Tydske
 
 ## Estate
 
@@ -18,7 +18,7 @@ stamp:
 
 ## Name
 
-De blaae Bjerge
+De blaae Bjerge. Smaastykker efter det Tydske
 
 ## Arc
 

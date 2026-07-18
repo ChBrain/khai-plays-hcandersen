@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-De rivaliserende brødre, der bor dør om dør og måler deres succes i dyrenes værdi.
+De rivaliserende naboer, der bor dør om dør og måler deres succes i dyrenes værdi.
 
 ## Owner
 
@@ -33,4 +33,4 @@ Muligheden for at opnå et roligt, støttende nabo-fællesskab uden misundelse.
 
 ## Drives
 
-At få broderen til at indrømme underlegenhed og derved styrke sin egen forfængelige stolthed.
+At få naboen til at indrømme underlegenhed og derved styrke sin egen forfængelige stolthed.

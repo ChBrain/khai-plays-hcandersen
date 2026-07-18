@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Vandring gjennem Opera-Galleriet"
-declared: "OperaGalleri"
+declared: "Vandring gjennem Opera-Galleriet"
 description: "En deklamatorisk ramme og satirisk vaudeville, der guider tilskuerne gennem berømte operabilleder."
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Play: OperaGalleri
+# Play: Vandring gjennem Opera-Galleriet
 
 ## Estate
 

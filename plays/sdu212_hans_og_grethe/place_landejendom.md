@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-De tilstødende gårde og jorde, der danner rammen om brødrenes liv og strid.
+De tilstødende gårde og jorde, der danner rammen om naboernes liv og strid.
 
 ## Owner
 
@@ -29,8 +29,8 @@ Brødrene Hans og Grethe samt deres elskede heste, hingsten og hoppen.
 
 ## Offers
 
-Et fælles hegns-skel, der fungerer som mødested for brødrenes samtaler og praleri.
+Et fælles hegns-skel, der fungerer som mødested for naboernes samtaler og praleri.
 
 ## Withheld
 
-Den indbyrdes fred og forståelse, som skygges af brødrenes evige forfængelighed og jalousi.
+Den indbyrdes fred og forståelse, som skygges af naboernes evige forfængelighed og jalousi.

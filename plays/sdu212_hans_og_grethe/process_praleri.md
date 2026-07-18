@@ -21,7 +21,7 @@ Den konstante verbaliserede selvforherligelse og praleri over for naboen.
 
 ## Initiated by
 
-Udsigten til broderens hest ved hegnet eller en tilfældig bemærkning om dyrenes værdi.
+Udsigten til naboens hest ved hegnet eller en tilfældig bemærkning om dyrenes værdi.
 
 ## Direction
 

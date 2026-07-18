@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-En stædig plan om at demonstrere og hævde sin egen hests overlegenhed over for broderen.
+En stædig plan om at demonstrere og hævde sin egen hests overlegenhed over for naboen.
 
 ## Owner
 
