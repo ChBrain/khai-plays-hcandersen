@@ -2,7 +2,7 @@
 khai: play
 title: "I Vetturinens Vogn"
 declared: "I Vetturinens Vogn"
-description: "Et muntert forspil i én akt om et frieri i en italiensk hestevogn på vej mod Rom, afbrudt af kuskens piskesmel."
+description: "Frit efter Andersens forspil: et frieri i en italiensk hestevogn mod Rom, afbrudt af kuskens piskesmæld."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

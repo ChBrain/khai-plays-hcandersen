@@ -30,7 +30,7 @@ Praler højlydt af sin hests styrke og formue over for sin bror ved skellet.
 
 ## Shadow
 
-Frygter at broderens hoppe reelt er mere værdifuld eller hurtigere.
+Frygter at naboens hoppe reelt er mere værdifuld eller hurtigere.
 
 ## Tell
 

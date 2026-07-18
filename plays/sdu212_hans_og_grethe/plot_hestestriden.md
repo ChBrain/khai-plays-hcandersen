@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Når brødrene mødes ved hegnet for at sammenligne deres heste.
+Når naboerne mødes ved hegnet for at sammenligne deres heste.
 
 ## Action
 
@@ -33,4 +33,4 @@ Begge heste er trukket hen til hegnet. Hingsten stamper rastløst i jorden, mens
 
 ## Tension
 
-Ingen af brødrene vil give efter eller anerkende den andens hest, hvilket låser dem fast i en cirkulær og uendelig diskussion, der afslører deres egen forfængelighed.
+Ingen af naboerne vil give efter eller anerkende den andens hest, hvilket låser dem fast i en cirkulær og uendelig diskussion, der afslører deres egen forfængelighed.
