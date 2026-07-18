@@ -7,7 +7,7 @@ Advisory review, audit-lane style (no `audit.json`: this directory is a one-shot
 A budget-shaped funnel over all 269 plays (~4,700 files, ~634k words):
 
 1. **Scripted integrity pass** (no model): links, frontmatter, khai types, stubs, orphans.
-2. **Hub triage** (model): every `play_*.md` scored 1-5 on four rubrics — fidelity to the declared H.C. Andersen source, internal coherence, Danish prose quality, playability.
+2. **Hub triage** (model): every `play_*.md` scored 1-5 on four rubrics - fidelity to the declared H.C. Andersen source, internal coherence, Danish prose quality, playability.
 3. **Targeted deep-dive** (model): all files of the 13 severest non-serial plays plus 2 representative *Billedbog uden Billeder* evenings, verifying the triage verdicts.
 4. **Scripted enumeration** (no model): the machine-translation calques surfaced by triage, swept exhaustively by pattern.
 

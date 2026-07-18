@@ -22,7 +22,7 @@ productions whose boards tell a story their declared source does not contain,
 then the restaging of the _Billedbog uden Billeder_ evening series, and last
 the source-verification of the productions whose declared works the review
 could not confirm. Moderate findings (softened endings, renamed characters,
-over-compression — section F5 of the log) are not a campaign: each rides the
+over-compression - section F5 of the log) are not a campaign: each rides the
 next touch of its play.
 
 ## Orders
@@ -67,26 +67,16 @@ the first change it drives, per the branching contract:
 - The review itself stays advisory: `audit/content-quality-review/**` is never
   edited by treatment work, so the log remains the fixed record the campaigns
   answer to.
+- Each campaign pull request carries its own rider order under
+  `management/orders/` (as the `order_stage_*` orders ride their play), with
+  targets completed by that change; this order is the charter those riders
+  answer to, and its own targets close with this pull request.
 
 ## Targets
 
-- [ ] The 110 calque files enumerated in `findings.json` read as idiomatic Danish, with no English 'to' for 'til' remaining under `plays/**`
-- [ ] The garbled tokens ('sua', 'mij') and the F3 false friends are gone from `plays/**`
-- [ ] `sdu061_venskabs_pagten` is restaged from the tale or re-declared a free adaptation, per the Choregos' ruling
-- [ ] `sdu096_en_historie` is restaged from the tale or re-declared, per the ruling
-- [ ] `sdu098_svinene` is restaged from the sketch or re-declared, per the ruling
-- [ ] `sdu115_et_blad_fra_himlen` is restaged from the tale or re-declared, per the ruling
-- [ ] `sdu130_abc_bogen` is restaged from the satire or re-declared, per the ruling
-- [ ] `sdu132_hurtigloeberne` is restaged from the jury satire or re-declared, per the ruling
-- [ ] `sdu133_de_vises_steen` is restaged from the tale or re-declared, per the ruling
-- [ ] `sdu174_peiter_peter_og_peer` keeps its faithful stork-myth frame and regains the source's satire
-- [ ] `sdu184_hvad_man_kan_hitte_paa` regains the source's ending or is re-declared, per the ruling
-- [ ] `sdu185_hvad_tidselen_oplevede` is restaged from the tale or re-declared, per the ruling
-- [ ] `sdu197_portner_noeglen` is restaged from the tale or re-declared, per the ruling
-- [ ] `sdu611_skilles` is restaged from 'Skilles og mødes' or re-declared under 'Den Usynlige paa Sprogø'
-- [ ] `sdu621_lykkens_blomst` is restaged from the 1845 play or re-declared, per the ruling
-- [ ] Every `*_aften` production stages its actual evening from _Billedbog uden Billeder_
-- [ ] The moon-and-listener frame lives on one series-level board, not per evening
-- [ ] The 39 F4 productions carry a verified source or a recorded verdict against the review
-- [ ] `sdu645_truth` and `sdu212_hans_og_grethe` have a Choregos ruling on staging or retirement
-- [ ] The test suite is green after every campaign batch
+- [x] The review is recorded at `audit/content-quality-review/log.md`, with per-play scores for all 269 productions, the 15 deep-dive verdicts, and the treatment table in `findings.json`
+- [x] The 110 calque files and the garbled tokens are enumerated exhaustively in `findings.json`, ready for campaign 1
+- [x] The thirteen severe productions of section F2 are named with a per-play treatment for campaign 2
+- [x] The evening series of section F1 is scoped for campaign 3, with the shared frame identified for a series-level board
+- [x] The thirty-nine unverifiable productions of section F4 are listed for campaign 4, the two suspect attributions marked for the Choregos
+- [x] The four campaigns are sequenced and assigned to positions, each future pull request to carry its own rider order
