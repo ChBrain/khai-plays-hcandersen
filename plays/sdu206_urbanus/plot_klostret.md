@@ -25,7 +25,7 @@ Når munken lukker klosterporten bag sig og går ud i skoven.
 
 ## Action
 
-Ude fra det trygge [klostret](place_klostret.md) vandrer [Munk](persona_munk.md) i sin position som [Tilbedoer](position_tilbedoer) med sin [Klosterbog](piece_klosterbog.md) i hånden. Han går ind under skovens skygge for at søge [Tilbedelse](process_tilbedelse.md) under en [Religioes](pitch_religioes.md) stemning.
+Ude fra det trygge [klostret](place_klostret.md) vandrer [Munk](persona_munk.md) i sin position som [Tilbedoer](position_tilbedoer.md) med sin [Klosterbog](piece_klosterbog.md) i hånden. Han går ind under skovens skygge for at søge [Tilbedelse](process_tilbedelse.md) under en [Religioes](pitch_religioes.md) stemning.
 
 ## Stage
 

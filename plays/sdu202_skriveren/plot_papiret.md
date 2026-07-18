@@ -25,7 +25,7 @@ Når fjerpennen rører det hvide papir.
 
 ## Action
 
-På det hvide [papiret](place_papiret.md) flyder [Blaekket](persona_blaekket.md) i sin position som [Vaerktoej](position_vaerktoej) fra spidsen af [Fjerpen](piece_fjerpen.md) foran skriveren. Skriverens plan om [Bevaring](plan_bevaring.md) udfordrer den evige [Forgaengelighed](process_forgaengelighed.md) under en [Realistisk](pitch_realistisk.md) stemning.
+På det hvide [papiret](place_papiret.md) flyder [Blaekket](persona_blaekket.md) i sin position som [Vaerktoej](position_vaerktoej.md) fra spidsen af [Fjerpen](piece_fjerpen.md) foran skriveren. Skriverens plan om [Bevaring](plan_bevaring.md) udfordrer den evige [Forgaengelighed](process_forgaengelighed.md) under en [Realistisk](pitch_realistisk.md) stemning.
 
 ## Stage
 

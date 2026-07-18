@@ -25,7 +25,7 @@ Når aftenmørket falder på, og sladderen begynder på torvet.
 
 ## Action
 
-På det centrale [torvet](place_torvet.md) hvisker [Rygtet](persona_rygtet.md) i sin position som [Spreder](position_spreder) til folkene. Han starter en blid [Hvisken](piece_hvisken.md), der lynhurtigt sætter gang i [Rygtedannelse](process_rygtedannelse.md) under en [Satirisk](pitch_satirisk.md) tone.
+På det centrale [torvet](place_torvet.md) hvisker [Rygtet](persona_rygtet.md) i sin position som [Spreder](position_spreder.md) til folkene. Han starter en blid [Hvisken](piece_hvisken.md), der lynhurtigt sætter gang i [Rygtedannelse](process_rygtedannelse.md) under en [Satirisk](pitch_satirisk.md) tone.
 
 ## Stage
 

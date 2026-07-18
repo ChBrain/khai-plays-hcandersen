@@ -25,7 +25,7 @@ Når fortælleren vandrer ud i det danske landskab om aftenen.
 
 ## Action
 
-Gennem [danmark](place_danmark.md) vandrer [Fortaelleren](persona_fortaelleren.md) som [Samler](position_samler) og søger efter de gamle [sagn](piece_sagn.md). Han indleder en [Historisk](pitch_historisk.md) [Fortaelling](process_fortaelling.md) for at redde folkeminderne.
+Gennem [danmark](place_danmark.md) vandrer [Fortaelleren](persona_fortaelleren.md) som [Samler](position_samler.md) og søger efter de gamle [sagn](piece_sagn.md). Han indleder en [Historisk](pitch_historisk.md) [Fortaelling](process_fortaelling.md) for at redde folkeminderne.
 
 ## Stage
 
