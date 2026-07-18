@@ -25,7 +25,7 @@ Det satiriske, tørt og skarpt. Tonen er den spidse, H.C. Andersenske ironi, der
 
 ## Undertow
 
-Under de muntre grynt og de fine ord ligger en bidende hån mod menneskelig forfængelighed. Historien viser, at hovmodet trives lige så godt i mudderet som i skyerne, og at vi ofte ophøjer vores egne små staldforhold to universelle sandheder. Den dybe understrøm minder os om, at stolthed uden gerning blot er tomme ord på en møddinghob.
+Under de muntre grynt og de fine ord ligger en bidende hån mod menneskelig forfængelighed. Historien viser, at hovmodet trives lige så godt i mudderet som i skyerne, og at vi ofte ophøjer vores egne små staldforhold til universelle sandheder. Den dybe understrøm minder os om, at stolthed uden gerning blot er tomme ord på en møddinghob.
 
 ## Nerve
 

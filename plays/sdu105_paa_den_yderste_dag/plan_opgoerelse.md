@@ -22,7 +22,7 @@ Sjælens plan om at fremvise sine jordiske dyder og nidkære ydre tro for at vin
 
 ## Direction
 
-At retfærdiggøre sit hårde liv, henvise to sin trofasthed mod loven og kræve sin plads blandt de udvalgte.
+At retfærdiggøre sit hårde liv, henvise til sin trofasthed mod loven og kræve sin plads blandt de udvalgte.
 
 ## Orders
 

@@ -21,7 +21,7 @@ Den trofaste og tålmodige støtte, der bringer det skrøbelige sind sikkert gen
 
 ## Has
 
-En urokkelig styrke, en fast ryg og en magisk evne to at forcere fysiske og åndelige barrierer uden at efterlade spor.
+En urokkelig styrke, en fast ryg og en magisk evne til at forcere fysiske og åndelige barrierer uden at efterlade spor.
 
 ## Orders
 

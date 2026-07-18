@@ -47,4 +47,4 @@ Historien om Hønse-Grethe, der lever sit stille liv på herregården med at pas
 
 ## Stakes
 
-Kampen står mellem hverdagens stille overlevelse gennem omsorgsfuldt arbejde og historiens ubarmhjertige gang, der opsluger adelens hovmod og lader fortidens glans forfalde to aske.
+Kampen står mellem hverdagens stille overlevelse gennem omsorgsfuldt arbejde og historiens ubarmhjertige gang, der opsluger adelens hovmod og lader fortidens glans forfalde til aske.

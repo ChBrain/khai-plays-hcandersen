@@ -33,4 +33,4 @@ En strålende og støjende dag i [Paris](place_paris.md), hvor [udstillingen](pi
 
 ## Tension
 
-Selvom [dryaden](persona_dryade.md) is bjergtaget af den [skabende](position_skabende.md) kraft, mærker her storbyens tørre luft og jernets kolde greb, som langsomt kvæler hende midt i pragten.
+Selvom [dryaden](persona_dryade.md) er bjergtaget af den [skabende](position_skabende.md) kraft, mærker her storbyens tørre luft og jernets kolde greb, som langsomt kvæler hende midt i pragten.

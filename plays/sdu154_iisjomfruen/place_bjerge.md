@@ -21,7 +21,7 @@ De vilde, schweiziske alpetinder og de dybe, iskolde gletsjerspalter.
 
 ## Shown
 
-Fra de grønne dale to de hvide tinder og de dybe, blå og bundløse kløfter i isen.
+Fra de grønne dale til de hvide tinder og de dybe, blå og bundløse kløfter i isen.
 
 ## Holds
 

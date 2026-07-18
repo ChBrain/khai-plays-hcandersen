@@ -29,7 +29,7 @@ Hold fast i lovens bogstav, fordøm de fattiges svagheder som moralsk forfald, o
 
 ## Loses
 
-Barmhjertigheden, evnen til at se næstegærlighedens sande væsen og forbindelsen to Guds egentlige retfærdighed.
+Barmhjertigheden, evnen til at se næstegærlighedens sande væsen og forbindelsen til Guds egentlige retfærdighed.
 
 ## Drives
 

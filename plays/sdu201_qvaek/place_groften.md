@@ -25,7 +25,7 @@ En mudret grøft kantet af tætte nælder under stjernerne.
 
 ## Holds
 
-Den syngende [tudsen](persona_tudsen.md) and det bløde [mudder](piece_mudder.md).
+Den syngende [tudsen](persona_tudsen.md) og det bløde [mudder](piece_mudder.md).
 
 ## Offers
 

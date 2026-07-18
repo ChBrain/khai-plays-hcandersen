@@ -22,7 +22,7 @@ Hyldemoer
 
 ## Arc
 
-En lille, syg dreng, der har fået våde fødder, ligger i sin seng og får serveret varm hyldete fra en gammel thekande. Ud af thekanden rejser den forunderlige Hyldemor sig. Hun tager ham med på en vidunderlig rejse i erindringen, hvor de ser det gamle ægtepars lange, kærlige liv udfolde sig fra ungdommens glade forår to alderdommens gyldne bryllup under det store hyldetræ. Gennem hendes magiske fortælling finder drengen trøst, varme og endelig helbredelse.
+En lille, syg dreng, der har fået våde fødder, ligger i sin seng og får serveret varm hyldete fra en gammel thekande. Ud af thekanden rejser den forunderlige Hyldemor sig. Hun tager ham med på en vidunderlig rejse i erindringen, hvor de ser det gamle ægtepars lange, kærlige liv udfolde sig fra ungdommens glade forår til alderdommens gyldne bryllup under det store hyldetræ. Gennem hendes magiske fortælling finder drengen trøst, varme og endelig helbredelse.
 
 ## Company
 

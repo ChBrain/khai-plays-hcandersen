@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Verden, den kolde og regnfulde menneskelige virkelighed, som prinsen forvises to efter sit syndefald.
+Verden, den kolde og regnfulde menneskelige virkelighed, som prinsen forvises til efter sit syndefald.
 
 ## Owner
 

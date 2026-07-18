@@ -25,7 +25,7 @@ En fast, men kærlig røst, der minder om en gammel skolelærers pegepind, som s
 
 ## Undertow
 
-Under den muntre stavning ligger en alvorlig sandhed om, at hovmod fører to splittelse, og at menneskets sprog kun har kraft, når vi lytter til hinanden.
+Under den muntre stavning ligger en alvorlig sandhed om, at hovmod fører til splittelse, og at menneskets sprog kun har kraft, når vi lytter til hinanden.
 
 ## Nerve
 

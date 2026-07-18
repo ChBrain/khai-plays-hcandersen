@@ -33,4 +33,4 @@ Sikkerheden i det kendte og hverdagens trygge banaliteter, når den nye sandhed 
 
 ## Drives
 
-Søgen efter sand mening og trangen to at udtrykke det, der endnu ikke er formuleret af andre.
+Søgen efter sand mening og trangen til at udtrykke det, der endnu ikke er formuleret af andre.

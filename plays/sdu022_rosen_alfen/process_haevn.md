@@ -29,7 +29,7 @@ Hævnen bevæger sig mod broderens værelse om natten og kulminerer med hans dø
 
 ## Lever
 
-Blomsternes sjæle og de vrede bier, der trænger ind gennem vinduet to den sovende morder.
+Blomsternes sjæle og de vrede bier, der trænger ind gennem vinduet til den sovende morder.
 
 ## Echo
 

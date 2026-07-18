@@ -25,7 +25,7 @@ En munter, afmålt og let spydig tone, som en fortæller, der trækker på skuld
 
 ## Undertow
 
-Under de overtroiske sysler lurer en sandhed om, at mennesket ofte søer dybe, mystiske svar på steder, hvor der blot er koldt jern og tomme bevægelser, fordi det frygter at træffe sine egne valg.
+Under de overtroiske sysler lurer en sandhed om, at mennesket ofte søger dybe, mystiske svar på steder, hvor der blot er koldt jern og tomme bevægelser, fordi det frygter at træffe sine egne valg.
 
 ## Nerve
 

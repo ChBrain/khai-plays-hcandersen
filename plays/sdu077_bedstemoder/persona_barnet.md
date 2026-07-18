@@ -26,7 +26,7 @@ Et lille barn med store, undrende øjne og lyst, krøllet hår, der falder ned o
 
 ## Action
 
-Barnet sidder på skamlen og ser op på bedstemoderen, mens det lytter to hendes fortællinger og sange.
+Barnet sidder på skamlen og ser op på bedstemoderen, mens det lytter til hendes fortællinger og sange.
 
 ## Shadow
 

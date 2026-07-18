@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Rollen som den sandfærdige iagttager, der formidler nattens stille billeder og menneskers sorger to verden.
+Rollen som den sandfærdige iagttager, der formidler nattens stille billeder og menneskers sorger til verden.
 
 ## Owner
 

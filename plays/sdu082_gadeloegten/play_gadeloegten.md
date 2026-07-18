@@ -48,4 +48,4 @@ En gammel gadeløgte står foran sin pensionering og frygter at blive smeltet om
 
 ## Stakes
 
-Det handler om værdien af trofast tjeneste, frygten for at blive glemt og overflødig, samt hvordan kærlighed og erindringer kan give nyt liv to det, der ellers var dømt til undergang.
+Det handler om værdien af trofast tjeneste, frygten for at blive glemt og overflødig, samt hvordan kærlighed og erindringer kan give nyt liv til det, der ellers var dømt til undergang.

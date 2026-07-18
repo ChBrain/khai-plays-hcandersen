@@ -48,4 +48,4 @@ Der var en stolt theepotte, stolt af sit fine porcelæn, sin lange tud og sin br
 
 ## Stakes
 
-Det handler om stolthedens skrøbelighed og den sande værdi af at tjene andre. Den, der engang tronede højt og kun pralede af sit ydre, kan miste alt på et øjeblik, men i sin dybeste fornedring finde en ny og smukkere bestemmelse ved at give liv to noget andet, selvom takken til sidst udebliver.
+Det handler om stolthedens skrøbelighed og den sande værdi af at tjene andre. Den, der engang tronede højt og kun pralede af sit ydre, kan miste alt på et øjeblik, men i sin dybeste fornedring finde en ny og smukkere bestemmelse ved at give liv til noget andet, selvom takken til sidst udebliver.

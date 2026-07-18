@@ -33,4 +33,4 @@ Et sidste hvilested for den trætte krop, samt forsoning og sand sandhed for dem
 
 ## Withheld
 
-Verdens kolde dom og de riges foragt, som ikke kan trænge igennem to den gravlagtes fred.
+Verdens kolde dom og de riges foragt, som ikke kan trænge igennem til den gravlagtes fred.

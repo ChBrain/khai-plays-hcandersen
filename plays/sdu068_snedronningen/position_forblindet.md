@@ -33,4 +33,4 @@ Evnen til at føle glæde, empati, kærlighed og huske de vigtigste ting i livet
 
 ## Drives
 
-At finde den absolutte logiske orden og perfektion uden hensyn to følelsesmæssige bånd.
+At finde den absolutte logiske orden og perfektion uden hensyn til følelsesmæssige bånd.

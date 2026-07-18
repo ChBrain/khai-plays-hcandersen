@@ -29,7 +29,7 @@ Månens blege lys, der trænger gennem trækronerne, og den dybe stilhed, som om
 
 ## Offers
 
-En ramme of evighed, hvor tidens travlhed forsvinder, og kun nattens ro hersker.
+En ramme af evighed, hvor tidens travlhed forsvinder, og kun nattens ro hersker.
 
 ## Withheld
 

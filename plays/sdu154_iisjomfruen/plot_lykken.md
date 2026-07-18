@@ -33,4 +33,4 @@ Den smukke festlanterne [Iffel](piece_iffel.md) står på stengærdet ved søens
 
 ## Tension
 
-Kærlighedens og bryllupsglædens varme står i skarp kontrast to den snigende nattekulde, der stiger op fra det dybe vand.
+Kærlighedens og bryllupsglædens varme står i skarp kontrast til den snigende nattekulde, der stiger op fra det dybe vand.

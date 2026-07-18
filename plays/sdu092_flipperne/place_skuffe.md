@@ -33,4 +33,4 @@ Et midlertidigt hvilested og en scene for sladder, statuskampe og indbyrdes fnis
 
 ## Withheld
 
-Friheden to at bevæge sig frit uden for husets vægge og den friske luft fra det åbne vindue.
+Friheden til at bevæge sig frit uden for husets vægge og den friske luft fra det åbne vindue.

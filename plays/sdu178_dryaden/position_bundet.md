@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-En tilstand af at være rodfæstet og uløseligt knyttet to et sted eller et naturvæsen.
+En tilstand af at være rodfæstet og uløseligt knyttet til et sted eller et naturvæsen.
 
 ## Owner
 

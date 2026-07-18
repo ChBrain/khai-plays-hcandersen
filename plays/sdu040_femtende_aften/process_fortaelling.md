@@ -25,7 +25,7 @@ Månens blik gennem teatrets tagvindue.
 
 ## Direction
 
-Fra den lydløse dans to historiens evige erindring.
+Fra den lydløse dans til historiens evige erindring.
 
 ## Lever
 

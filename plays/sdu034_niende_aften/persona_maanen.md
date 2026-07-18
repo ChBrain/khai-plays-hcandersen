@@ -34,4 +34,4 @@ Den frygter de tunge, sorte skyer, der kan lukke dens øjne og efterlade de enso
 
 ## Tell
 
-Den blegner mod morgenrøden og hvisker sine hemmeligheder to kunstneren, når natten er omme.
+Den blegner mod morgenrøden og hvisker sine hemmeligheder til kunstneren, når natten er omme.

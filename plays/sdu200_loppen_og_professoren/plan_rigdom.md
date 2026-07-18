@@ -22,7 +22,7 @@ Professorens plan om at rejse verden rundt med loppen for at vinde guld og genop
 
 ## Direction
 
-At udstille loppens kunster, modtage rige gaver fra hofferne og spare op to en ny, pragtfuld ballon.
+At udstille loppens kunster, modtage rige gaver fra hofferne og spare op til en ny, pragtfuld ballon.
 
 ## Orders
 

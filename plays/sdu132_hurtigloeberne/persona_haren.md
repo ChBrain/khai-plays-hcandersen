@@ -34,4 +34,4 @@ Hans store hovmod og dovenskab gør, at han let lader sig aflede og glemmer mål
 
 ## Tell
 
-Han vipper med ørerne, hopper rastløst fra side to side og griner hånligt af de langsomme.
+Han vipper med ørerne, hopper rastløst fra side til side og griner hånligt af de langsomme.

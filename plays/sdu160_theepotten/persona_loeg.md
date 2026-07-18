@@ -26,7 +26,7 @@ Det ligger skjult og mørkt under jorden, tørt og brunt i sit ydre, men fuld af
 
 ## Action
 
-Det trækker næring to sig fra den fugtige jord i theepottens indre og strækker sine rødder ud efter tryghed.
+Det trækker næring til sig fra den fugtige jord i theepottens indre og strækker sine rødder ud efter tryghed.
 
 ## Shadow
 

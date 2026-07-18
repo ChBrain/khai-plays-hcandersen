@@ -25,7 +25,7 @@ Et åbent hjerte, et skarpt øre for naturens og historiens hvisken samt en urol
 
 ## Orders
 
-Lyt opmærksomt to tidens strøm, glem dig selv, og giv klokkens gamle sjæl en ny og udødelig stemme.
+Lyt opmærksomt til tidens strøm, glem dig selv, og giv klokkens gamle sjæl en ny og udødelig stemme.
 
 ## Loses
 

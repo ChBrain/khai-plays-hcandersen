@@ -25,7 +25,7 @@ Iværksat af [Engel](persona_engel.md) på [Dødsleje](place_doedsleje.md) ved l
 
 ## Direction
 
-En bevægelse fra den fysiske bundethed to den frie, svævende åndelige eksistens i natten.
+En bevægelse fra den fysiske bundethed til den frie, svævende åndelige eksistens i natten.
 
 ## Lever
 

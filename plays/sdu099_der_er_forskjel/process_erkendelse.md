@@ -29,7 +29,7 @@ Fra forblindet stolthed og adskillelse til en ydmyg indsigt i det fælles værd.
 
 ## Lever
 
-Børnenes hænder, der plukker dandelions og puster til fjerboldene med glæde.
+Børnenes hænder, der plukker mælkebøtter og puster til fjerboldene med glæde.
 
 ## Echo
 

@@ -22,7 +22,7 @@ Rosen-Alfen
 
 ## Arc
 
-En lille rosenalf bliver vidne til, at en ond bror myrder sin søsters elskede med en kniv under et lindebræd. Alfen rejser på et lindeblad to den sovende pige og hvisker sandheden om mordet i hendes øre. Pigen finder sin elskedes grav i skoven, tager hans afhuggede hoved og gemmer det i en urtepotte med en rosenblomst. Hendes dybe sorg nærer planten, men broderen stjæler potten. Alfen søger hævn og vækker havens blomster og bier, som stikker den onde bror til døde i hans seng.
+En lille rosenalf bliver vidne til, at en ond bror myrder sin søsters elskede med en kniv under et lindebræd. Alfen rejser på et lindeblad til den sovende pige og hvisker sandheden om mordet i hendes øre. Pigen finder sin elskedes grav i skoven, tager hans afhuggede hoved og gemmer det i en urtepotte med en rosenblomst. Hendes dybe sorg nærer planten, men broderen stjæler potten. Alfen søger hævn og vækker havens blomster og bier, som stikker den onde bror til døde i hans seng.
 
 ## Company
 

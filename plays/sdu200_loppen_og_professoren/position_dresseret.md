@@ -33,4 +33,4 @@ Den vilde frihed til at springe hvorhen man vil, og retten til at bide uden at v
 
 ## Drives
 
-Ønsket om at behage sua herre, modtage det fine sukker og skinne i rampelyset som en sand stjerne.
+Ønsket om at behage sin herre, modtage det fine sukker og skinne i rampelyset som en sand stjerne.

@@ -29,7 +29,7 @@ Hold fast i fortidens minder, plej de gamle genstande, og modtag den trøst, der
 
 ## Loses
 
-Forbindelsen to det moderne liv udenfor og evnen til selvstændigt at ændre sine omgivelser.
+Forbindelsen til det moderne liv udenfor og evnen til selvstændigt at ændre sine omgivelser.
 
 ## Drives
 

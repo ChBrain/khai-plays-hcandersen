@@ -29,7 +29,7 @@ Springgåsen kaldes frem til sidst for at afslutte springkonkurrencen.
 
 ## Stage
 
-Springgåsen står ubevægelig på gulvet. Efter en lang pause laver den et lille spjæt med [Brystbenet](piece_brystbenet.md) og lander blødt i skødet på [Prinsessen](piece_prinsessen.md), der sidder på sua taburet. Kongen smiler og rejser sig begejstret under [Satire](pitch_satire.md).
+Springgåsen står ubevægelig på gulvet. Efter en lang pause laver den et lille spjæt med [Brystbenet](piece_brystbenet.md) og lander blødt i skødet på [Prinsessen](piece_prinsessen.md), der sidder på sin taburet. Kongen smiler og rejser sig begejstret under [Satire](pitch_satire.md).
 
 ## Tension
 

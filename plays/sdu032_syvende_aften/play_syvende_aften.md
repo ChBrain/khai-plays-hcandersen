@@ -22,7 +22,7 @@ Syvende Aften
 
 ## Arc
 
-Månen stiger op over den mørke skov og kaster sit klare lys over en stille skovsø. Han betragter en flok hvide svaner, der ankommer efter en lang og udmattende flugt gennem det natlige himmelrum. Under ledelse af den stærke svaneleder finder de trætte svaner endelig et roligt hvilested på søens blanke vand. Månen gemmer dette smukke, mystiske syn i sin erindring og fortæller det videre to den unge kunstner, så billedet kan blive bevaret for eftertiden.
+Månen stiger op over den mørke skov og kaster sit klare lys over en stille skovsø. Han betragter en flok hvide svaner, der ankommer efter en lang og udmattende flugt gennem det natlige himmelrum. Under ledelse af den stærke svaneleder finder de trætte svaner endelig et roligt hvilested på søens blanke vand. Månen gemmer dette smukke, mystiske syn i sin erindring og fortæller det videre til den unge kunstner, så billedet kan blive bevaret for eftertiden.
 
 ## Company
 

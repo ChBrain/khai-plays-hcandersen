@@ -21,7 +21,7 @@ Den voldsomme luftstrøm, der flår skiltene af deres kroge og fører dem gennem
 
 ## Initiated by
 
-Stormens vilde lyst to at lave uvejr og ruske op i den stille [gade](place_gade.md).
+Stormens vilde lyst til at lave uvejr og ruske op i den stille [gade](place_gade.md).
 
 ## Direction
 

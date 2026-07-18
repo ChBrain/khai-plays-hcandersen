@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Efterårets første kolde blæst fejer gennem [haven](place_haven.md), og bladene begynder to at falde fra træerne.
+Efterårets første kolde blæst fejer gennem [haven](place_haven.md), og bladene begynder til at falde fra træerne.
 
 ## Action
 
-[Roserne](persona_roserne.md) mærker kulden og begynder to at tabe deres kronblade, hvilket bremser deres [snoes](process_snoes.md) proces. Samtidig må [gråspurvene](persona_graaspurvene.md) intensivere deres [overlevelse](plan_overlevelse.md) plan for to at sikre, at [reden](place_reden.md) er klar to vinteren, mens deres [kvidren](process_kvidren.md) bliver mere dæmpet.
+[Roserne](persona_roserne.md) mærker kulden og begynder til at tabe deres kronblade, hvilket bremser deres [snoes](process_snoes.md) proces. Samtidig må [gråspurvene](persona_graaspurvene.md) intensivere deres [overlevelse](plan_overlevelse.md) plan for til at sikre, at [reden](place_reden.md) er klar til vinteren, mens deres [kvidren](process_kvidren.md) bliver mere dæmpet.
 
 ## Stage
 
@@ -33,4 +33,4 @@ Efterårets første kolde blæst fejer gennem [haven](place_haven.md), og bladen
 
 ## Tension
 
-Naturens ubarmhjertige gang tvinger begge familier to at indstille sig på den kommende vinter, hvilket skaber en spænding mellem rosernes stille accept af forfaldet og spurvenes desperate kamp for overlevelse.
+Naturens ubarmhjertige gang tvinger begge familier til at indstille sig på den kommende vinter, hvilket skaber en spænding mellem rosernes stille accept af forfaldet og spurvenes desperate kamp for overlevelse.

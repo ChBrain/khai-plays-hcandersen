@@ -25,7 +25,7 @@ Vinteren har lagt sig over [haven](place_haven.md) med frost og sne, og alt ånd
 
 ## Action
 
-[Roserne](persona_roserne.md) er nu visnet helt hen og står som tørre grene på [hegnet](piece_hegnet.md). Hos [gråspurvene](persona_graaspurvene.md) kæmper den nye generation for to at holde varmen i [reden](place_reden.md), da kulden sætter deres [støjende](position_stoejende.md) position på en hård prøve.
+[Roserne](persona_roserne.md) er nu visnet helt hen og står som tørre grene på [hegnet](piece_hegnet.md). Hos [gråspurvene](persona_graaspurvene.md) kæmper den nye generation for til at holde varmen i [reden](place_reden.md), da kulden sætter deres [støjende](position_stoejende.md) position på en hård prøve.
 
 ## Stage
 
@@ -33,4 +33,4 @@ En kold vintersol kaster lange skygger over den snedækkede [have](place_haven.m
 
 ## Tension
 
-Kampen mod den ekstreme kulde og tabet af sommerens pragt bringer dramaet to sit højdepunkt, hvor kun håbet og spurvenes stædige livsvilje holder mørket stangen.
+Kampen mod den ekstreme kulde og tabet af sommerens pragt bringer dramaet til sit højdepunkt, hvor kun håbet og spurvenes stædige livsvilje holder mørket stangen.

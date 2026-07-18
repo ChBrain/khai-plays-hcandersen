@@ -33,4 +33,4 @@ Skæbnens uafvendelighed, lovens håndhævere og Vorherres altseende øje.
 
 ## Echo
 
-Røvernes galger på bakken og det guddommelige solskin, der strømmer ind to den værkbrudne pige.
+Røvernes galger på bakken og det guddommelige solskin, der strømmer ind til den værkbrudne pige.

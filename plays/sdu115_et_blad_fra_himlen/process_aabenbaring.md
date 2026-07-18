@@ -25,7 +25,7 @@ Det faldende himmelblad og det enfoldige barns modtagelige sind i haven.
 
 ## Direction
 
-Fra de himmelske højder ned to jorden, direkte ind i hjertet på den, der ikke tvivler.
+Fra de himmelske højder ned til jorden, direkte ind i hjertet på den, der ikke tvivler.
 
 ## Lever
 

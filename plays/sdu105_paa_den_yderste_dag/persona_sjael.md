@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Angstfuld](position_angstfuld.md) og søgende ånd efter den afdøde mand, der konfronteres med sit livs regnskab og sit eget hovmod på tærsklen to evigheden.
+[Angstfuld](position_angstfuld.md) og søgende ånd efter den afdøde mand, der konfronteres med sit livs regnskab og sit eget hovmod på tærsklen til evigheden.
 
 ## Owner
 

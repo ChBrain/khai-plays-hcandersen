@@ -22,7 +22,7 @@ En ydre plan om at udbrede skønhed, frø og duft ud over havens grænser.
 
 ## Direction
 
-At vokse over hegnet og lade kronbladene og duften spredes med vinden to nye steder.
+At vokse over hegnet og lade kronbladene og duften spredes med vinden til nye steder.
 
 ## Orders
 

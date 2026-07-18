@@ -29,7 +29,7 @@ I det mørke og indelukkede [studerekammer](place_studerekammeret.md), hvor kun 
 
 ## Stage
 
-[Den lærde](persona_den_laerde.md) sidder bøjet over sit skrivebord i [studerekammeret](place_studerekammeret.md) with [forstørrelsesglasset](piece_forstoerrelsesglas.md) i hånden, mens det støvede [himmelblad](piece_himmelblad.md) svinder ind til ingenting under lampens skær.
+[Den lærde](persona_den_laerde.md) sidder bøjet over sit skrivebord i [studerekammeret](place_studerekammeret.md) med [forstørrelsesglasset](piece_forstoerrelsesglas.md) i hånden, mens det støvede [himmelblad](piece_himmelblad.md) svinder ind til ingenting under lampens skær.
 
 ## Tension
 

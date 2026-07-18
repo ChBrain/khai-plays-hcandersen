@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Tidens uafvendelige gang, der sletter alle uregistrerde ting.
+Tidens uafvendelige gang, der sletter alle uregistrerede ting.
 
 ## Owner
 

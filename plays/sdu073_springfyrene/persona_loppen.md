@@ -34,4 +34,4 @@ Frygten for ikke at blive set eller anerkendt, hvilket driver ham til at prale a
 
 ## Tell
 
-Taler med fornemme vendinger og henviser altid to sine fine opdragelse og omgang med menneskebørn.
+Taler med fornemme vendinger og henviser altid til sine fine opdragelse og omgang med menneskebørn.

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Børnene løber ud på marken og plukker dandelions, mens æblegrenen betragter dem fra sit vindue.
+Børnene løber ud på marken og plukker mælkebøtter, mens æblegrenen betragter dem fra sit vindue.
 
 ## Action
 

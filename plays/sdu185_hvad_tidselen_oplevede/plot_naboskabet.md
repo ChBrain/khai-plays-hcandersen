@@ -29,7 +29,7 @@ På den åbne [Marken](place_marken.md) stræber den unge [Tidsel](persona_tidse
 
 ## Stage
 
-Tidselen stands rank og trodsig i det høje ukrudt lige uden for det hvide stakit. Dens store, grønne blade strutter af saft og kraft, og dens rødviolette blomst lyser som en lille krone. Roserne på den anden side af hegdet dufter sødt og bøjer sig fornemt væk, som om de ikke vil kendes ved deres stikkende nabo.
+Tidselen står rank og trodsig i det høje ukrudt lige uden for det hvide stakit. Dens store, grønne blade strutter af saft og kraft, og dens rødviolette blomst lyser som en lille krone. Roserne på den anden side af hegnet dufter sødt og bøjer sig fornemt væk, som om de ikke vil kendes ved deres stikkende nabo.
 
 ## Tension
 

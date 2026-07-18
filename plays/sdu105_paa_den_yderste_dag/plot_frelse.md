@@ -33,4 +33,4 @@ Himlens port åbner sig langsomt under en strøm af varmt, gyldent lys. De grimm
 
 ## Tension
 
-Overgangen fra den dybeste fortvivlelse to den ultimative glæde og forløsning ved Guds nåde.
+Overgangen fra den dybeste fortvivlelse til den ultimative glæde og forløsning ved Guds nåde.

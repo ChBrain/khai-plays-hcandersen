@@ -25,7 +25,7 @@ En tung byrde af ensomhed, en uopfyldt længsel efter menneskelig varme, og den 
 
 ## Orders
 
-Vandr videre ad den stenede sti, modtag slagene uden at slå igen, og lad din smerte modnes to kunst.
+Vandr videre ad den stenede sti, modtag slagene uden at slå igen, og lad din smerte modnes til kunst.
 
 ## Loses
 

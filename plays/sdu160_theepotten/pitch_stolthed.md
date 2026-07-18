@@ -21,15 +21,15 @@ Tonarten, som produktionen [Theepotten](play_theepotten.md) spilles i. Den ændr
 
 ## Tenor
 
-Stoltheden udfolder sig i en ophøjet og fast tone, der understreger theepottens stærke selvfølelse. Selv da hun ligger brudt på gulvet, og da hun senere fyldes med jord, bevarer hun en form for værdighed. Hun klager ikke over sin skæbne, men finder en ny, omend anderledes, stolthed i at bære det levende løg. Historien fortælles med en følelse af, at stolthed ikke blot er hovmod, men også evnen to at holde sig oprejst, når alt andet er tabt.
+Stoltheden udfolder sig i en ophøjet og fast tone, der understreger theepottens stærke selvfølelse. Selv da hun ligger brudt på gulvet, og da hun senere fyldes med jord, bevarer hun en form for værdighed. Hun klager ikke over sin skæbne, men finder en ny, omend anderledes, stolthed i at bære det levende løg. Historien fortælles med en følelse af, at stolthed ikke blot er hovmod, men også evnen til at holde sig oprejst, når alt andet er tabt.
 
 ## Undertow
 
-Under den stolte overflade løber en strøm af dyb sårbarhed og erkendelse af livets forgængelighed. Theepotten må indse, at hendes ydre skønhed var midlertidig, og at hendes sande værd først kom to syne, da hun blev brudt og fyldt med jord. Det er en bittersød sandhed: man må ofte gå i stykker for at kunne rumme noget virkeligt levende, og når dette levende endelig blomstrer, bliver man selv glemt og kasseret.
+Under den stolte overflade løber en strøm af dyb sårbarhed og erkendelse af livets forgængelighed. Theepotten må indse, at hendes ydre skønhed var midlertidig, og at hendes sande værd først kom til syne, da hun blev brudt og fyldt med jord. Det er en bittersød sandhed: man må ofte gå i stykker for at kunne rumme noget virkeligt levende, og når dette levende endelig blomstrer, bliver man selv glemt og kasseret.
 
 ## Nerve
 
-Det, der rammes, er den menneskelige tilbøjelighed to at bygge sit værd på ydre status og glans. Det spiller på frygten for at miste sin plads i samfundet, blive degraderet og glemt, men også på det spinkle håb om, at der findes en dybere mening med vores lidelser.
+Det, der rammes, er den menneskelige tilbøjelighed til at bygge sit værd på ydre status og glans. Det spiller på frygten for at miste sin plads i samfundet, blive degraderet og glemt, men også på det spinkle håb om, at der findes en dybere mening med vores lidelser.
 
 ## Echo
 

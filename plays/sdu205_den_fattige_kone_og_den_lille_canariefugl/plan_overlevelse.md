@@ -36,4 +36,4 @@ Gennemført ved at pleje [fuglen](persona_fuglen.md) i [bur](piece_bur.md) på [
 
 - [x] Fodr fuglen med de sidste [hampfroe](piece_hampfroe.md)
 - [x] Vis kærlig [pleje](process_pleje.md) under måneskinnet
-- [x] Lyt to fuglens trøstende [sang](process_sang.md)
+- [x] Lyt til fuglens trøstende [sang](process_sang.md)

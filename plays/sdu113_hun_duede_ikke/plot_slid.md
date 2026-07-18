@@ -33,4 +33,4 @@ Scenen viser åbredden dækket af rimfrost. Vaskekonen står bøjet over vandet,
 
 ## Tension
 
-Kontrasten mellem det frosne, fjendtlige vand og hendes urokkelige vilje to at fortsætte arbejdet for at holde døden fra døren.
+Kontrasten mellem det frosne, fjendtlige vand og hendes urokkelige vilje til at fortsætte arbejdet for at holde døden fra døren.

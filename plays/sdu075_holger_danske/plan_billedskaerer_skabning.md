@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Billedskærerens plan for at forevige mindet om Holger Danske in træ og lade det rejse over havene som et symbol på landets stolthed.
+Billedskærerens plan for at forevige mindet om Holger Danske i træ og lade det rejse over havene som et symbol på landets stolthed.
 
 ## Owner
 

@@ -50,7 +50,7 @@ En fattig prins ønsker at bejle til kejserens datter. Han sender hende to uvurd
 - [plot_gaverne.md](plot_gaverne.md) igangsættes af afsendelsen af rosen og nattergalen og prinsessens afvisning.
 - [plot_svinestien.md](plot_svinestien.md) udløses af prinsens forklædning, grydens færdiggørelse og byttehandlen for ti kys.
 - [plot_skralden.md](plot_skralden.md) udløses af skraldens fremstilling, de hundrede kys og kejserens dom.
-- [plot_afvisningen.md](plot_afvisningen.md) udløses af forvisningen to grænsen og prinsens endelige afsløring og afvisning.
+- [plot_afvisningen.md](plot_afvisningen.md) udløses af forvisningen til grænsen og prinsens endelige afsløring og afvisning.
 
 ## Stakes
 

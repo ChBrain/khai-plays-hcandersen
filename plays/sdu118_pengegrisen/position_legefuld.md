@@ -21,7 +21,7 @@ En åben og dynamisk position på gulvet, der søger underholdning, socialt samv
 
 ## Has
 
-Lysten til leg, evnen to at organisere komedier og en uforpligtende glæde ved øjeblikkets fornøjelser.
+Lysten til leg, evnen til at organisere komedier og en uforpligtende glæde ved øjeblikkets fornøjelser.
 
 ## Orders
 

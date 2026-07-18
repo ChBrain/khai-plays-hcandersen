@@ -25,7 +25,7 @@ En fredfyldt eftermiddag på [kirkegaard](place_kirkegaard.md), hvor solstråler
 
 ## Action
 
-[Humoristen](persona_humorist.md) fortsætter sin [observation](process_observation.md) of menneskelivet ved at læse de pompøse gravskrifter. Han ser, hvordan [borgerskabet](persona_borgerskab.md), der indtager positionen [dyster](position_dyster.md), selv i døden forsøger at opretholde en facade af vigtighed og moral.
+[Humoristen](persona_humorist.md) fortsætter sin [observation](process_observation.md) af menneskelivet ved at læse de pompøse gravskrifter. Han ser, hvordan [borgerskabet](persona_borgerskab.md), der indtager positionen [dyster](position_dyster.md), selv i døden forsøger at opretholde en facade af vigtighed og moral.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Den fysiske styrke, naturens vildskab og magten over troldegutterne fra Dovrefje
 
 ## Orders
 
-Rejs to det danske gilde, vurder elverdøtrenes værd og find en passende alliance til slægten.
+Rejs til det danske gilde, vurder elverdøtrenes værd og find en passende alliance til slægten.
 
 ## Loses
 

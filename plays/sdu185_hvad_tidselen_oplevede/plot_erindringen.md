@@ -33,4 +33,4 @@ Pigen bøjer sig over det hvide hegn og ser den afpillede tidsel, der stadig bæ
 
 ## Tension
 
-Forløsningen ved, at tidselens blomst reddes fra efterårets visnen og ophøjes to et symbol på evig troskab og erindring.
+Forløsningen ved, at tidselens blomst reddes fra efterårets visnen og ophøjes til et symbol på evig troskab og erindring.

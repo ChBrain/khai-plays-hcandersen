@@ -33,4 +33,4 @@ Kærlighedens sande og skjulte ofre over for den ydre, magtfulde facades fordøm
 
 ## Echo
 
-Borgmesterens kolde ord "hun duede ikke", der forvandles to sandhedens "hun duede i sandhed" i eftermælet.
+Borgmesterens kolde ord "hun duede ikke", der forvandles til sandhedens "hun duede i sandhed" i eftermælet.

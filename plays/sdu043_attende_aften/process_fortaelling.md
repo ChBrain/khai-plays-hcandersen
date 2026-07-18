@@ -25,7 +25,7 @@ Månens spejling i det uendelige hav.
 
 ## Direction
 
-Fra det vuggende hav to historiens evige erindring.
+Fra det vuggende hav til historiens evige erindring.
 
 ## Lever
 

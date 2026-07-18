@@ -29,7 +29,7 @@ Processen bevæger sig fra den tomme gryde til en duftende, fantasifuld suppe sk
 
 ## Lever
 
-Den rejsendes talegaver og evne to at besnære tilskuernes fantasi, så de tror på miraklet.
+Den rejsendes talegaver og evne til at besnære tilskuernes fantasi, så de tror på miraklet.
 
 ## Echo
 

@@ -25,7 +25,7 @@ Det lille, hjerteformede blad fra lindetræet, som fungerer som alfens transport
 
 ## Load Bearing
 
-Bærer alfen og sandheden fra gerningsstedet i skoven og direkte ind to pigens kammer.
+Bærer alfen og sandheden fra gerningsstedet i skoven og direkte ind til pigens kammer.
 
 ## Apparent
 

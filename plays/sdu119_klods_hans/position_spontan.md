@@ -21,7 +21,7 @@ En åben og uforberedt indstilling, der reagerer på øjeblikkets indskydelser o
 
 ## Has
 
-En sorgløs tilgang to tilværelsen, modet til at fremstå tåbelig og evnen til at improvisere under pres.
+En sorgløs tilgang til tilværelsen, modet til at fremstå tåbelig og evnen til at improvisere under pres.
 
 ## Orders
 

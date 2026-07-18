@@ -33,4 +33,4 @@ Sin oprindelige form som plante, sit linnedvæsende og til sidst sit papirlegeme
 
 ## Drives
 
-At blive to noget gavnligt og smukt, og at bevare glæden uanset hvor hårdt skæbnen rammer.
+At blive til noget gavnligt og smukt, og at bevare glæden uanset hvor hårdt skæbnen rammer.

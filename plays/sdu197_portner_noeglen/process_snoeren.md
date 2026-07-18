@@ -29,7 +29,7 @@ Fra stilhed og ubeslutsomhed til en langsom, dinglende svingning, der skal tyde 
 
 ## Lever
 
-Snoren, som nøglen hænger i, og som overfører kammerrådens mindste rystelser to genstanden.
+Snoren, som nøglen hænger i, og som overfører kammerrådens mindste rystelser til genstanden.
 
 ## Echo
 

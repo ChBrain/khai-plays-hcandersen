@@ -29,7 +29,7 @@ Det bærer byens ydre orden og er det redskab, hvormed stormen udfører sin sati
 
 ## Apparent
 
-Et malet træskilt, der i stormens greb forvandles fra en fast sandhed to et redskab for kaos og afsløring.
+Et malet træskilt, der i stormens greb forvandles fra en fast sandhed til et redskab for kaos og afsløring.
 
 ## Yearbook
 

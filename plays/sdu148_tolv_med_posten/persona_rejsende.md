@@ -30,7 +30,7 @@ De træder langsomt ud af den mørke vogn, viser deres rejsepas og tager ophold 
 
 ## Shadow
 
-Deres skæbne is bundet til et enkelt årstidsforløb, og de må svinde bort og glemmes, så snart deres tid er omme.
+Deres skæbne er bundet til et enkelt årstidsforløb, og de må svinde bort og glemmes, så snart deres tid er omme.
 
 ## Tell
 

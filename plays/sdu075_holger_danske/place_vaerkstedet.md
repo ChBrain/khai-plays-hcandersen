@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Det hyggelige og kreative rum, hvor billedskæreren arbejder med sit træ og overfører sagnene to fysisk form.
+Det hyggelige og kreative rum, hvor billedskæreren arbejder med sit træ og overfører sagnene til fysisk form.
 
 ## Owner
 

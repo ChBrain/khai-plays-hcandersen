@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Den åndelige og følelsesmæssige rejse tilbage i tiden, where fortidens kærlige øjeblikke genoplives og deles.
+Den åndelige og følelsesmæssige rejse tilbage i tiden, hvor fortidens kærlige øjeblikke genoplives og deles.
 
 ## Owner
 

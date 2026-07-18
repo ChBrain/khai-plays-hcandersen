@@ -21,7 +21,7 @@ Den flittige indstilling, der nægter at give op og i stedet finder virkelyst i 
 
 ## Has
 
-Et fast greb om værktøjet, urokkelig tålmodighed og viljen to omdanne råt træ til nyttige genstande.
+Et fast greb om værktøjet, urokkelig tålmodighed og viljen til at omdanne råt træ til nyttige genstande.
 
 ## Orders
 

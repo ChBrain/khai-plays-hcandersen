@@ -47,4 +47,4 @@ En lille, fattig dreng falder i søvn på det berømte bronzesvin i Firenze. Om 
 
 ## Stakes
 
-Kampen står mellem den kolde og fattige virkeligheds begrnsning og sjælens flugt mod det skønne. Drengen risikerer at bukke under for sult og kulde, men indsatsen er intet mindre end hans evighed som kunstner.
+Kampen står mellem den kolde og fattige virkeligheds begrænsning og sjælens flugt mod det skønne. Drengen risikerer at bukke under for sult og kulde, men indsatsen er intet mindre end hans evighed som kunstner.

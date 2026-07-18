@@ -30,7 +30,7 @@ Hun holder sin datters hånd fast og lader hende sværge ved fædrenes Gud.
 
 ## Shadow
 
-Hendes kærlighed to datteren er blandet med frygten for, at datterens sjæl skal fortabes i de kristnes tro.
+Hendes kærlighed til datteren er blandet med frygten for, at datterens sjæl skal fortabes i de kristnes tro.
 
 ## Tell
 

@@ -46,4 +46,4 @@ I et stille, mørkt kontor arbejder en flittig skriver ved sit skrivebord. Med s
 
 ## Stakes
 
-Kampen står mellem tidens forgængelighed, der sletter alle uregistrerde øjeblikke, og skriverens flittige arbejde, der redder dem til eftertiden.
+Kampen står mellem tidens forgængelighed, der sletter alle uregistrerede øjeblikke, og skriverens flittige arbejde, der redder dem til eftertiden.

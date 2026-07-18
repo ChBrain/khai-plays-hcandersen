@@ -29,7 +29,7 @@ En brolagt gade flankeret af gamle huse, badet i regn, blæst og nattens dybe sk
 
 ## Offers
 
-Udsyn to byens borgere, forbipasserende og naturens elementer som vinden og stjernerne.
+Udsyn til byens borgere, forbipasserende og naturens elementer som vinden og stjernerne.
 
 ## Withheld
 

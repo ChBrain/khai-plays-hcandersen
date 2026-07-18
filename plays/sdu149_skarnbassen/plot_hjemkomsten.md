@@ -25,7 +25,7 @@ Efter lang tids flugt og fangenskab i en træsko lykkes det at slippe fri. Stald
 
 ## Action
 
-[Skarnbassen](persona_skarnbasse.md) kryber træt og mørbanket tilbage ind i [stalden](place_stald.md). Hans [ydmygelse](process_ydmygelse.md) is komplet, og da han ser den [indsigtsfulde](position_indsigtsfuld.md) [Kejserhest](persona_kejserhest.md) med de skinnende [guldsko](piece_guldsko.md), må han indse, at hesten bærer skoene for kejserens skyld, og at hans egen plads er i skarnet.
+[Skarnbassen](persona_skarnbasse.md) kryber træt og mørbanket tilbage ind i [stalden](place_stald.md). Hans [ydmygelse](process_ydmygelse.md) er komplet, og da han ser den [indsigtsfulde](position_indsigtsfuld.md) [Kejserhest](persona_kejserhest.md) med de skinnende [guldsko](piece_guldsko.md), må han indse, at hesten bærer skoene for kejserens skyld, og at hans egen plads er i skarnet.
 
 ## Stage
 

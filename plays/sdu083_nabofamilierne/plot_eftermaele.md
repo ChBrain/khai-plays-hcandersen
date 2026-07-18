@@ -29,7 +29,7 @@ Selvom de oprindelige [roser](persona_roserne.md) er borte, har deres [spredning
 
 ## Stage
 
-Det spirende grønne løv snor sig atter op ad [hegnet](piece_hegnet.md), og en ung spurv sidder på en gren og synger mod himlen, mens de nye rosenknopper gør klar to at springe ud.
+Det spirende grønne løv snor sig atter op ad [hegnet](piece_hegnet.md), og en ung spurv sidder på en gren og synger mod himlen, mens de nye rosenknopper gør klar til at springe ud.
 
 ## Tension
 

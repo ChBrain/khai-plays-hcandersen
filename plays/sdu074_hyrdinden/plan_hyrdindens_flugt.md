@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-De elskendes plan om at undslippe tvangsægteskabet by at forlade konsolbordet og søge tilflugt på det åbne tag.
+De elskendes plan om at undslippe tvangsægteskabet ved at forlade konsolbordet og søge tilflugt på det åbne tag.
 
 ## Owner
 

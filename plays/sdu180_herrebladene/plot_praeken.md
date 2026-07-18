@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-William nikker to kortene, og en af dem træder helt frem.
+William nikker til kortene, og en af dem træder helt frem.
 
 ## Action
 

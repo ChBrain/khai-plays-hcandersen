@@ -26,7 +26,7 @@ En beslutsom, ung mand i en mørk lægekappe, med en rejsetaske under armen og e
 
 ## Action
 
-Troser vintervejret for at følge efter Ingeborg, opsøger hende hemmeligt på kroen på Sprogø, og bevarer sin kærlighed gennem tyve års adskillelse.
+Trodser vintervejret for at følge efter Ingeborg, opsøger hende hemmeligt på kroen på Sprogø, og bevarer sin kærlighed gennem tyve års adskillelse.
 
 ## Shadow
 

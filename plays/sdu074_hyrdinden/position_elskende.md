@@ -21,7 +21,7 @@ En sårbar og hengiven position på konsolbordet, der søger at beskytte sin gen
 
 ## Has
 
-En dyb, inderlig kærlighed to hinanden, en skrøbelig porcelænskrop, og et ønske om at forblive sammen uanset modgang.
+En dyb, inderlig kærlighed til hinanden, en skrøbelig porcelænskrop, og et ønske om at forblive sammen uanset modgang.
 
 ## Orders
 

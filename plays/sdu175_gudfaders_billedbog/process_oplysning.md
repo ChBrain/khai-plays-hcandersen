@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Forvandlingen af Københavns gadebelysning fra det svage tranlys to det stærke, moderne gaslys, der oplyser mørket.
+Forvandlingen af Københavns gadebelysning fra det svage tranlys til det stærke, moderne gaslys, der oplyser mørket.
 
 ## Owner
 

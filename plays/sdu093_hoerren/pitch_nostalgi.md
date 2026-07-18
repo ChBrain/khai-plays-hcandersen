@@ -33,4 +33,4 @@ Det sårbare punkt er erkendelsen af forgængelighed. Den rammer den dybe mennes
 
 ## Echo
 
-En opløftende og varm fornemmelse af, at døden ikke er afslutningen, men en port to noget smukkere. Sangen om, at intet forsvinder helt, men blot skifter form, klinger efter i sindet.
+En opløftende og varm fornemmelse af, at døden ikke er afslutningen, men en port til noget smukkere. Sangen om, at intet forsvinder helt, men blot skifter form, klinger efter i sindet.

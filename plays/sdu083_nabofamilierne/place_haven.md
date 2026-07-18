@@ -29,7 +29,7 @@ En frodig have med grønne plæner, blomstrende rosenbuske og et gammelt træheg
 
 ## Offers
 
-Ro, skønhed, næring to sjælen og et beskyttet sted, hvor blomster kan folde sig ud.
+Ro, skønhed, næring til sjælen og et beskyttet sted, hvor blomster kan folde sig ud.
 
 ## Withheld
 

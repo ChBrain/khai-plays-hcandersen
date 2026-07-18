@@ -21,7 +21,7 @@ En position præget af overdreven selvfølelse og foragt for andre, der ikke ane
 
 ## Has
 
-En urokkelig tro på sit eget værd og en indbildt ret to guldsko ligesom kejserens yndlingshest.
+En urokkelig tro på sit eget værd og en indbildt ret til guldsko ligesom kejserens yndlingshest.
 
 ## Orders
 

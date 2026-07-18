@@ -21,15 +21,15 @@ Den uskyldige part, der udsættes for morderens had, og hvis fravær udløser de
 
 ## Has
 
-Den dybe gensidige kærlighed to pigen, som overlever selv døden gennem hendes sorg og tårer.
+Den dybe gensidige kærlighed til pigen, som overlever selv døden gennem hendes sorg og tårer.
 
 ## Orders
 
-Hold fast i det hemmelige løfte, mød din skæbne i skoven og tal to din elskede gennem drømme og blomster.
+Hold fast i det hemmelige løfte, mød din skæbne i skoven og tal til din elskede gennem drømme og blomster.
 
 ## Loses
 
-Sit jordiske liv og sit hoved to morderens skarpe kniv under linden.
+Sit jordiske liv og sit hoved til morderens skarpe kniv under linden.
 
 ## Drives
 

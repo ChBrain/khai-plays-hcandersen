@@ -34,7 +34,7 @@ Planen udføres først i pigens sovekammer gennem hviskende drømme og siden i h
 
 ## Targets
 
-- [x] Rejse på lindebladet ind to den sovende pige
+- [x] Rejse på lindebladet ind til den sovende pige
 - [x] Hviske sandheden om mordet i hendes øre som en drøm
-- [x] Ledsage hende to graven i den mørke skov
+- [x] Ledsage hende til graven i den mørke skov
 - [x] Våge over hende, mens hun planter jasminen over hovedet

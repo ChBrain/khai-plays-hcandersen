@@ -33,4 +33,4 @@ Et trygt otium fyldt med nærvær, venskab og beskyttelse mod omsmeltning.
 
 ## Withheld
 
-Udsigten to den store verden og nattehimlen, som løgten plejede at spejle sig i.
+Udsigten til den store verden og nattehimlen, som løgten plejede at spejle sig i.

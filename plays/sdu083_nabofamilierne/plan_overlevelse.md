@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-En praktisk plan for at sikre føde og varme to spurvefamilien gennem alle sæsoner.
+En praktisk plan for at sikre føde og varme til spurvefamilien gennem alle sæsoner.
 
 ## Owner
 
@@ -35,5 +35,5 @@ Planen udføres dagligt af spurveforældrene, der utrætteligt flyver frem og ti
 ## Targets
 
 - [ ] Bygge en solid og vindtæt rede under tagskægget
-- [ ] Skaffe nok føde to at mætte hele kuldet
+- [ ] Skaffe nok føde til at mætte hele kuldet
 - [ ] Overleve vinterens frost og sne uden tab

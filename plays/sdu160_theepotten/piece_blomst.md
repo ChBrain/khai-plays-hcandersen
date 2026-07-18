@@ -33,4 +33,4 @@ En lysende og duftende blomst, der folder sig ud i al sin pragt som et levende h
 
 ## Yearbook
 
-Frembragt af forårets varme stråler for at lyse op i vindueskarmen og bringe glæde to den fattige stue.
+Frembragt af forårets varme stråler for at lyse op i vindueskarmen og bringe glæde til den fattige stue.

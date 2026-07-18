@@ -21,7 +21,7 @@ En position præget af magtbegær, dominans og kravet om, at alle andre skal und
 
 ## Has
 
-Den ubestridte magt over andegården og retten to at dømme, hvem der hører til, og hvem der skal udstødes.
+Den ubestridte magt over andegården og retten til at dømme, hvem der hører til, og hvem der skal udstødes.
 
 ## Orders
 

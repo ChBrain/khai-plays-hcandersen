@@ -29,7 +29,7 @@ Nede i det mørke flodleje møder vi [Åmanden](persona_aamanden.md) i sin posit
 
 ## Stage
 
-Åmanden svæver lydløst over bunden og holder sig tæt to det grønne malm. Klokkens toner stiger op som små, glitrende luftbobler, der bærer billeder af svundne slægter, børns leg og de rige højtider oppe i byen. Vandet fører historierne videre, men Åmanden gemmer dem alle i sit tavse hjerte og lader intet slippe op til menneskene på bredden.
+Åmanden svæver lydløst over bunden og holder sig tæt til det grønne malm. Klokkens toner stiger op som små, glitrende luftbobler, der bærer billeder af svundne slægter, børns leg og de rige højtider oppe i byen. Vandet fører historierne videre, men Åmanden gemmer dem alle i sit tavse hjerte og lader intet slippe op til menneskene på bredden.
 
 ## Tension
 

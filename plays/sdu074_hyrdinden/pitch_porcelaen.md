@@ -25,7 +25,7 @@ En delikat, sart og vemodig tone, der fremhæver figurernes blanke overflade og 
 
 ## Undertow
 
-Under den romantiske fortælling ligger en eksistentiel afmagt. Figurerne is fanget i deres eget materiale og sociale roller, hvor selv flugten til friheden må ende i en resignation, fordi verden er for kold for porcelæn.
+Under den romantiske fortælling ligger en eksistentiel afmagt. Figurerne er fanget i deres eget materiale og sociale roller, hvor selv flugten til friheden må ende i en resignation, fordi verden er for kold for porcelæn.
 
 ## Nerve
 

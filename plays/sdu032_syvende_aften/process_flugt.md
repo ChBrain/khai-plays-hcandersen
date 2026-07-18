@@ -25,7 +25,7 @@ Svanernes natlige og anstrengende rejse gennem luften for at undslippe farer og 
 
 ## Direction
 
-Fra den åbne, kolde nattehimmel to den trygge, lune skovsø.
+Fra den åbne, kolde nattehimmel til den trygge, lune skovsø.
 
 ## Lever
 

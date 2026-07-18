@@ -46,4 +46,4 @@ Munken Urbanus vandrer ud i klosterskoven med sin klosterbog for at grunde over 
 
 ## Stakes
 
-Kampen står mellem klostrets begrænsede tid, der måler menneskelivet i år, og den himmelske sang, der åbner porten to evigheden.
+Kampen står mellem klostrets begrænsede tid, der måler menneskelivet i år, og den himmelske sang, der åbner porten til evigheden.

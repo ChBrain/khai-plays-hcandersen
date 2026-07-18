@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-En position præget af hovmod, stolthed og en blind tiltro to eget værd og ydre skønhed.
+En position præget af hovmod, stolthed og en blind tiltro til eget værd og ydre skønhed.
 
 ## Owner
 
