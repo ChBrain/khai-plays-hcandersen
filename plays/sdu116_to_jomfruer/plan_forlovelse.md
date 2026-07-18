@@ -26,7 +26,7 @@ Dampramleren ønsker at sikre sin sociale status ved kun at gifte sig med et red
 
 ## Orders
 
-Oprethold forlovelsen så længe hun kaldes jomfru, men afbryd forbindelsen øjeblikkeligt, hvis hun ombødes til et simpelt stempel.
+Oprethold forlovelsen så længe hun kaldes jomfru, men afbryd forbindelsen øjeblikkeligt, hvis hun omdøbes til et simpelt stempel.
 
 ## Implementation
 

@@ -33,4 +33,4 @@ De små [spurve](persona_spurve.md) sidder rystende på en gren i den frosne [sk
 
 ## Tension
 
-Hele scenen is sat i en stemning af [melankoli](pitch_melankoli.md), da spurvenes spinkle håb om liv og varme støder frontalt mod den urokkelige og iskolde virkelighed, som den tavse [realist](position_realist.md) repræsenterer.
+Hele scenen er sat i en stemning af [melankoli](pitch_melankoli.md), da spurvenes spinkle håb om liv og varme støder frontalt mod den urokkelige og iskolde virkelighed, som den tavse [realist](position_realist.md) repræsenterer.

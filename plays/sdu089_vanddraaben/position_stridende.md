@@ -29,7 +29,7 @@ Angrib enhver, der kommer nær dig, forsvar dit territorium til sidste blodsdrå
 
 ## Loses
 
-Muligheden for fred, samarbejde og harmonisk sameksistens, hvilket fører to evigt kaos og gensidig udslettelse.
+Muligheden for fred, samarbejde og harmonisk sameksistens, hvilket fører til evigt kaos og gensidig udslettelse.
 
 ## Drives
 

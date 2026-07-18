@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Det land, hvor skillingen is præget og født, og hvor dens værdi er almindeligt kendt og respekteret.
+Det land, hvor skillingen er præget og født, og hvor dens værdi er almindeligt kendt og respekteret.
 
 ## Owner
 

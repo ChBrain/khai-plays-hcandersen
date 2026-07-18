@@ -22,7 +22,7 @@ Ottende Aften
 
 ## Arc
 
-Månen kigger gennem det smalle gitter ind i fængselscellen, hvor en ensom fange sidder tynget af sine tunge jernlænker. Fangen rækker hænderne ud efter det milde sølvlys, og en dyb længsel efter frihed fylder det kolde rum. Månen kan kun lyse og fortælle, men den bringer en stille trøst to den lidendes mørke skæbne, alt imens natten skrider frem over det tavse tårn.
+Månen kigger gennem det smalle gitter ind i fængselscellen, hvor en ensom fange sidder tynget af sine tunge jernlænker. Fangen rækker hænderne ud efter det milde sølvlys, og en dyb længsel efter frihed fylder det kolde rum. Månen kan kun lyse og fortælle, men den bringer en stille trøst til den lidendes mørke skæbne, alt imens natten skrider frem over det tavse tårn.
 
 ## Company
 

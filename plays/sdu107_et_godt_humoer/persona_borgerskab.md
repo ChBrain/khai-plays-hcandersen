@@ -34,4 +34,4 @@ Deres stive moralitet og alvor dækker over en dyb frygt for at blive gennemskue
 
 ## Tell
 
-De rømmer sig stramt, retter på kraven og skuler to enhver, der vover at le på gaden.
+De rømmer sig stramt, retter på kraven og skuler til enhver, der vover at le på gaden.

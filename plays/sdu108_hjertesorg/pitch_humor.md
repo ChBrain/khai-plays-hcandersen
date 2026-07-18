@@ -25,7 +25,7 @@ Det er en mild, ironisk og dog dybt medfølende tone. Fortællingen slås an med
 
 ## Undertow
 
-Under den muntre overflade og børnenes leg med knapper løber en strøm af social virkelighed og dyb melankoli. Det er følelsen af at stå udenfor, af at være udelukket fra fællesskabet, blot fordi man mangler en enkelt knap. Denne undertone of ulighed og eksistentiel ensomhed giver humoren dens dybde; uden den ville spillet blot være en munter anekdote, men nu bliver det et billede på menneskelivets store hjertesorg.
+Under den muntre overflade og børnenes leg med knapper løber en strøm af social virkelighed og dyb melankoli. Det er følelsen af at stå udenfor, af at være udelukket fra fællesskabet, blot fordi man mangler en enkelt knap. Denne undertone af ulighed og eksistentiel ensomhed giver humoren dens dybde; uden den ville spillet blot være en munter anekdote, men nu bliver det et billede på menneskelivets store hjertesorg.
 
 ## Nerve
 

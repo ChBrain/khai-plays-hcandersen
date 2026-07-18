@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Den åndelige proces, hvor skønheden i naturen og hverdagen forvandles to poesi.
+Den åndelige proces, hvor skønheden i naturen og hverdagen forvandles til poesi.
 
 ## Owner
 

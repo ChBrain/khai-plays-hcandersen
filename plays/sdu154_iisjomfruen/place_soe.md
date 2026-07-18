@@ -29,7 +29,7 @@ En spejlblank, blå vandflade under den lune sommersol, omgivet af frodige vinst
 
 ## Offers
 
-En rolig overfart to bryllupsøen og kølig ro efter en lang dags varme.
+En rolig overfart til bryllupsøen og kølig ro efter en lang dags varme.
 
 ## Withheld
 

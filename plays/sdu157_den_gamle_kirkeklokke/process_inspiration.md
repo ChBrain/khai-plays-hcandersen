@@ -21,7 +21,7 @@ Den åndelige proces, hvor den tabte klokkes klang og historie trænger ind i di
 
 ## Initiated by
 
-Den pludselige klang of den genfundne klokke eller mindet om dens sang, der runger i digterens indre.
+Den pludselige klang af den genfundne klokke eller mindet om dens sang, der runger i digterens indre.
 
 ## Direction
 

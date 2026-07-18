@@ -33,4 +33,4 @@ En slidt gåsefjer med en spids af stål.
 
 ## Yearbook
 
-Bliver lagt to hvile ved bogens side, når den sidste aften er omme.
+Bliver lagt til hvile ved bogens side, når den sidste aften er omme.

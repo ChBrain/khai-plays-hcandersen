@@ -26,7 +26,7 @@ En nysgerrig mand på torvet med en avis i hånden.
 
 ## Action
 
-Lytter to hvisken og forsøger at undersøge sagen.
+Lytter til hvisken og forsøger at undersøge sagen.
 
 ## Shadow
 

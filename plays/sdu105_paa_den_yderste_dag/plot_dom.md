@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-De rejsende når frem to Himlens lukkede port.
+De rejsende når frem til Himlens lukkede port.
 
 ## Action
 
-Da de ankommer to [Himlen](place_himlen.md), forsøger [Sjæl](persona_sjael.md), der stadig er [Angstfuld](position_angstfuld.md), at gennemføre sin [Opgørelse](plan_opgoerelse.md) ved at henvise to sin hårde [Tro](piece_tro.md). [Engel](persona_engel.md) i sin rolle som [Mild](position_mild.md) iværksætter [Dom](process_dom.md), og sandhedens skarpe lys afslører sjælens hovmod og mangel på kærlighed, symboliseret ved påfuglefødderne ved dens hjerte.
+Da de ankommer to [Himlen](place_himlen.md), forsøger [Sjæl](persona_sjael.md), der stadig er [Angstfuld](position_angstfuld.md), at gennemføre sin [Opgørelse](plan_opgoerelse.md) ved at henvise til sin hårde [Tro](piece_tro.md). [Engel](persona_engel.md) i sin rolle som [Mild](position_mild.md) iværksætter [Dom](process_dom.md), og sandhedens skarpe lys afslører sjælens hovmod og mangel på kærlighed, symboliseret ved påfuglefødderne ved dens hjerte.
 
 ## Stage
 

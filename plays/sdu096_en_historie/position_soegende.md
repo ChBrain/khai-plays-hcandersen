@@ -29,7 +29,7 @@ Skriv det sande, vogt dig mod markedets støj og søg kun det, som lyser indefra
 
 ## Loses
 
-Nærheden to livets lette glæder og muligheden for at leve uden den evige uro i hjertet.
+Nærheden til livets lette glæder og muligheden for at leve uden den evige uro i hjertet.
 
 ## Drives
 

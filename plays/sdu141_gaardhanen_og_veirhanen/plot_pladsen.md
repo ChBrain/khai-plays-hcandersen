@@ -33,4 +33,4 @@ En tidlig, dugfrisk morgen på den mudrede [gaard](place_gaard.md). Solen er end
 
 ## Tension
 
-Selvom [gaardhanen](persona_gaardhane.md) tror, at solen adlyder hans røst, og at hans position som [privilegeret](position_privilegeret.md) is urokkelig, viser hans overdrevne [selvforherligelse](plan_selvforherligelse.md) blot hans dybe naivitet og afhængighed af hønsegårdens smiger.
+Selvom [gaardhanen](persona_gaardhane.md) tror, at solen adlyder hans røst, og at hans position som [privilegeret](position_privilegeret.md) er urokkelig, viser hans overdrevne [selvforherligelse](plan_selvforherligelse.md) blot hans dybe naivitet og afhængighed af hønsegårdens smiger.

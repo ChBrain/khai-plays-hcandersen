@@ -43,7 +43,7 @@ Gartneren Larsen arbejder trofast i herregårdshaven og frembringer de mest vidu
 ## Triggers
 
 - [plot_haven.md](plot_haven.md) udløses af Larsens utrættelige arbejde og pleje af de sjældne planter i herregårdshaven.
-- [plot_anerkendelsen.md](plot_anerkendelsen.md) udløses af gæsternes ros to de frembragte frugter og herskabets stædige forsøg på at benægte Larsens evner.
+- [plot_anerkendelsen.md](plot_anerkendelsen.md) udløses af gæsternes ros til de frembragte frugter og herskabets stædige forsøg på at benægte Larsens evner.
 - [plot_stormen.md](plot_stormen.md) udløses af den voldsomme storm, der vælter de gamle rågetræer og rydder plads til nye kulturer.
 
 ## Stakes

@@ -33,4 +33,4 @@ Muligheden for at tale direkte til menneskene på jorden, da månen kun kan lyse
 
 ## Drives
 
-At bringe lys to de mørke steder og bevare mindet om menneskelig godhed og kærlighed.
+At bringe lys til de mørke steder og bevare mindet om menneskelig godhed og kærlighed.

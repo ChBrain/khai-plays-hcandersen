@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Inspireret](position_inspireret.md) og følsom sjæl, der lytter to historiens tavse stemmer og forvandler klokkens klang til levende ord.
+[Inspireret](position_inspireret.md) og følsom sjæl, der lytter til historiens tavse stemmer og forvandler klokkens klang til levende ord.
 
 ## Owner
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Uden for den lukkede [port](place_port.md), hvor vejen is støvet og kold.
+Uden for den lukkede [port](place_port.md), hvor vejen er støvet og kold.
 
 ## Action
 

@@ -29,7 +29,7 @@ Fra rolig orden på siderne til en vild og støjende kamp om pladsen i sproget.
 
 ## Lever
 
-Hovmodet, der hvisker to bogstaverne, at de kan klare sig alene uden fællesskab.
+Hovmodet, der hvisker til bogstaverne, at de kan klare sig alene uden fællesskab.
 
 ## Echo
 

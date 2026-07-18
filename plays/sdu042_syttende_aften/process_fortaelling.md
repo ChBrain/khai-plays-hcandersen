@@ -25,7 +25,7 @@ Månens blik over kirkegårdens grav.
 
 ## Direction
 
-Fra den tavse sorg to historiens evige erindring.
+Fra den tavse sorg til historiens evige erindring.
 
 ## Lever
 

@@ -25,7 +25,7 @@ Månens lys, der rammer drengen på den øde strand.
 
 ## Direction
 
-Fra barnets enkle leg to historiens evige sandhed.
+Fra barnets enkle leg til historiens evige sandhed.
 
 ## Lever
 

@@ -22,7 +22,7 @@ Fremtidens ånd, der nedstiger fra tinderne for at agere som [bebuder](position_
 
 ## Projection
 
-En lysende skikkelse med stjerneklare øjne og vinger af ren tanke, svøbt i fremtidens skinnende slør, der gliding lydløst gennem luften.
+En lysende skikkelse med stjerneklare øjne og vinger af ren tanke, svøbt i fremtidens skinnende slør, der glider lydløst gennem luften.
 
 ## Action
 

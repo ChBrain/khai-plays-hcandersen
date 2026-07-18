@@ -29,8 +29,8 @@ Den afdøde krop, den tøvende [Sjæl](persona_sjael.md) og den ventende [Engel]
 
 ## Offers
 
-Overgangen fra den timelige verden to evigheden, samt det sidste jordiske suk.
+Overgangen fra den timelige verden til evigheden, samt det sidste jordiske suk.
 
 ## Withheld
 
-Enhver mulighed for at vende tilbage to jordelivet eller rette op på fortidens uretfærdigheder med menneskelige hænder.
+Enhver mulighed for at vende tilbage til jordelivet eller rette op på fortidens uretfærdigheder med menneskelige hænder.

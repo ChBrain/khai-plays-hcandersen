@@ -29,7 +29,7 @@ Hold dig hævet over mængden, rangl med dine rigdomme, afvis enhver deltagelse 
 
 ## Loses
 
-Al værdi og anseelse, hvis den falder ned på gulvet, knuses to skår og mister sine mønter til omverdenen.
+Al værdi og anseelse, hvis den falder ned på gulvet, knuses til skår og mister sine mønter til omverdenen.
 
 ## Drives
 

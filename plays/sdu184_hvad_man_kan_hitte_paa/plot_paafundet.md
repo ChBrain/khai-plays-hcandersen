@@ -25,7 +25,7 @@ Den kloge kone tager sine store briller af og rækker dem til digteren, mens hun
 
 ## Action
 
-For at vække digterens skaberevne rækker den kloge [Kone](persona_kone.md) sine magiske [Briller](piece_briller.md) to den unge [Digter](persona_digter.md). Gennem glassene oplever han en pludselig [Inspiration](process_inspiration.md), da selv den mest simple genstand vågner til live med historier. Dette bryder hans blokering og sætter gang i en frugtbar [Digtning](process_digtning.md), hvor han genoptager sit arbejde under den kloge kones [Undervisning](plan_undervisning.md) og den glade, [Satirisk](pitch_satirisk.md) tone.
+For at vække digterens skaberevne rækker den kloge [Kone](persona_kone.md) sine magiske [Briller](piece_briller.md) til den unge [Digter](persona_digter.md). Gennem glassene oplever han en pludselig [Inspiration](process_inspiration.md), da selv den mest simple genstand vågner til live med historier. Dette bryder hans blokering og sætter gang i en frugtbar [Digtning](process_digtning.md), hvor han genoptager sit arbejde under den kloge kones [Undervisning](plan_undervisning.md) og den glade, [Satirisk](pitch_satirisk.md) tone.
 
 ## Stage
 

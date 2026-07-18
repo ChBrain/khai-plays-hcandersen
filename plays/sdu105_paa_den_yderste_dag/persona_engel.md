@@ -26,11 +26,11 @@ En mægtig, lysende skikkelse med store, hvide vinger, der udstråler både den 
 
 ## Action
 
-Han bærer den urolige sjæl over skyerne, viser den sandheden om dens jordiske liv uden vrede, og åbner vejen to barmhjertighed.
+Han bærer den urolige sjæl over skyerne, viser den sandheden om dens jordiske liv uden vrede, og åbner vejen til barmhjertighed.
 
 ## Shadow
 
-Hans alvor skyldes kendskabet to menneskets svagheder og den smertefulde erkendelse, som enhver sjæl må igennem før forvandlingen.
+Hans alvor skyldes kendskabet til menneskets svagheder og den smertefulde erkendelse, som enhver sjæl må igennem før forvandlingen.
 
 ## Tell
 

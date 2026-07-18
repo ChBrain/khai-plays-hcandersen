@@ -29,7 +29,7 @@ Sjælen har forladt legemet og skal bringes bort fra jorden.
 
 ## Stage
 
-Scenen viser det uendelige verdensrum under stjernerne. Jorden svinder bort dybt nede som et lille lys, mens engelen svæver roligt fremad med sjælen tæt ind to sit bryst, under nattens storhed.
+Scenen viser det uendelige verdensrum under stjernerne. Jorden svinder bort dybt nede som et lille lys, mens engelen svæver roligt fremad med sjælen tæt ind til sit bryst, under nattens storhed.
 
 ## Tension
 

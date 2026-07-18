@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Den indre og åndelige proces, hvor theepotten accepterer sin skæbne og finder ny skønhed ved at give liv to en anden.
+Den indre og åndelige proces, hvor theepotten accepterer sin skæbne og finder ny skønhed ved at give liv til en anden.
 
 ## Owner
 
@@ -25,11 +25,11 @@ Forårets varme solstråler i den beskidte [vindueskarm](place_vindueskarm.md) o
 
 ## Direction
 
-Processen løfter theepotten fra en tilstand af dyb fornedring to en ny stolthed, hvor hun glædes over blomstens skønhed.
+Processen løfter theepotten fra en tilstand af dyb fornedring til en ny stolthed, hvor hun glædes over blomstens skønhed.
 
 ## Lever
 
-Kærligheden to det spirende [loeg](persona_loeg.md) og viljen to at lade sig fylde af jord i stedet for te.
+Kærligheden til det spirende [loeg](persona_loeg.md) og viljen til at lade sig fylde af jord i stedet for te.
 
 ## Echo
 

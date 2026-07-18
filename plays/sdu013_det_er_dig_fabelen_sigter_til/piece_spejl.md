@@ -33,4 +33,4 @@ En smukt udskåret guldramme med et blankt glas, der oprindeligt kun viser det y
 
 ## Yearbook
 
-Gennem generationer brugt til at bekræfte menneskets forfængelige tro, indtil fabelens magi tvinger det to at vise virkeligheden.
+Gennem generationer brugt til at bekræfte menneskets forfængelige tro, indtil fabelens magi tvinger det til at vise virkeligheden.

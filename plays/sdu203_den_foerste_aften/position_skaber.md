@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Stillingen hos den, der omdanner månens ydre lys to indre poesi.
+Stillingen hos den, der omdanner månens ydre lys til indre poesi.
 
 ## Owner
 

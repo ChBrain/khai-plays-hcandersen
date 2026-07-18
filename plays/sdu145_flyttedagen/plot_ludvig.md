@@ -33,4 +33,4 @@ I tårnværelsets stearinlys skinner skyggerne mod væggen som spøgelser af for
 
 ## Tension
 
-Kong Ludvigs desperation efter at bevare magten og holde døden stangen står i skærende kontrast to den ro og værdighed, den jævne tårnvægter besidder over for livets naturlige afslutning.
+Kong Ludvigs desperation efter at bevare magten og holde døden stangen står i skærende kontrast til den ro og værdighed, den jævne tårnvægter besidder over for livets naturlige afslutning.

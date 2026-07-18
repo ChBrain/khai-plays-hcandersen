@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Mandens tro, der i livet var hård, regelret og dømmende, men som må renses og forvandles to en ydmyg tillid to Guds kærlighed.
+Mandens tro, der i livet var hård, regelret og dømmende, men som må renses og forvandles til en ydmyg tillid til Guds kærlighed.
 
 ## Owner
 

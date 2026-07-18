@@ -26,7 +26,7 @@ Løget vil suge fugt og næring fra jorden i theepottens indre, strække sine r�
 
 ## Orders
 
-Træk vand to dig gennem rødderne, bryd igennem den tørre jordskorpe, og voks støt mod lyset i vindueskarmen.
+Træk vand til dig gennem rødderne, bryd igennem den tørre jordskorpe, og voks støt mod lyset i vindueskarmen.
 
 ## Implementation
 

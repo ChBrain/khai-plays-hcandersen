@@ -46,4 +46,4 @@ Johannes står alene i verden efter sin faders bortgang. Han drager ud i verden 
 
 ## Stakes
 
-Valget står mellem den jordiske tryghed og den uegennyttige barmhjertighed. Johannes giver alt sit guld to en fremmed død mand, men vinder en ledsager, hvis magiske evner og sværd redder ham på rejsen.
+Valget står mellem den jordiske tryghed og den uegennyttige barmhjertighed. Johannes giver alt sit guld til en fremmed død mand, men vinder en ledsager, hvis magiske evner og sværd redder ham på rejsen.

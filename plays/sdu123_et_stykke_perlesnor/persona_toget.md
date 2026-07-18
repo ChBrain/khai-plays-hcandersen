@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Den mægtige og dampende maskine, en sand [Forbinder](position_forbinder.md) of landets egne, der bringer mennesker og nyheder hurtigt over broer og gennem skove.
+Den mægtige og dampende maskine, en sand [Forbinder](position_forbinder.md) af landets egne, der bringer mennesker og nyheder hurtigt over broer og gennem skove.
 
 ## Owner
 

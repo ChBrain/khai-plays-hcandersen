@@ -21,7 +21,7 @@ Den gradvise og kolde fastlåsning af Ingers krop i mosen, hvor hun forvandles t
 
 ## Initiated by
 
-[Inger](persona_inger.md), da hun træder på [brødet](piece_broed.md) and synker ned under mosebundens tørvelag.
+[Inger](persona_inger.md), da hun træder på [brødet](piece_broed.md) og synker ned under mosebundens tørvelag.
 
 ## Direction
 

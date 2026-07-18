@@ -29,7 +29,7 @@ Vandring over himmelen, iagttagelse af skovens og søens hemmeligheder, og delin
 
 ## Loses
 
-Sin forbindelse to jorden, da han kun kan betragte begivenhederne uden at røre dem.
+Sin forbindelse til jorden, da han kun kan betragte begivenhederne uden at røre dem.
 
 ## Drives
 

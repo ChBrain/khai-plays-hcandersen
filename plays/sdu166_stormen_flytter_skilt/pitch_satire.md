@@ -25,7 +25,7 @@ Satiren udfolder sig med en skarp og munter tone, der udstiller borgerskabets hy
 
 ## Undertow
 
-Under den muntre overflade løber en dybere og mere alvorlig erkendelse af menneskets villighed to at leve på en løgn. Det pæne ydre dækker over en rådden moral, og det kræver en naturkraft som stormen for at rive masken af det velansete samfund.
+Under den muntre overflade løber en dybere og mere alvorlig erkendelse af menneskets villighed til at leve på en løgn. Det pæne ydre dækker over en rådden moral, og det kræver en naturkraft som stormen for at rive masken af det velansete samfund.
 
 ## Nerve
 

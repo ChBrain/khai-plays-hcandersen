@@ -29,7 +29,7 @@ Da den genfundne [Klokken](persona_klokken.md) atter slås an, vækkes dens slum
 
 ## Stage
 
-Digterbarnet sidder under et gammelt træ, da lyden of den genfundne klokkes klang vibrerer gennem luften. Barnet stopper op, lægger hånden mod sit hjerte og lytter andagtsfuldt. Det er, som om århundreders sang, bønner og menneskeskæbner strømmer ind i dets sjæl. Med rystende hånd griber barnet sin fjerpen og begynder at skrive versene på papiret, mens klokkens klang svinder hen i det fjerne, men genopstår som udødelige ord.
+Digterbarnet sidder under et gammelt træ, da lyden af den genfundne klokkes klang vibrerer gennem luften. Barnet stopper op, lægger hånden mod sit hjerte og lytter andagtsfuldt. Det er, som om århundreders sang, bønner og menneskeskæbner strømmer ind i dets sjæl. Med rystende hånd griber barnet sin fjerpen og begynder at skrive versene på papiret, mens klokkens klang svinder hen i det fjerne, men genopstår som udødelige ord.
 
 ## Tension
 

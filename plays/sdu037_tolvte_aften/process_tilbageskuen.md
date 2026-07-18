@@ -25,7 +25,7 @@ Stilheden i salen og månens kolde lys.
 
 ## Direction
 
-Fra nutidens tomhed to fortidens glemte minder.
+Fra nutidens tomhed til fortidens glemte minder.
 
 ## Lever
 

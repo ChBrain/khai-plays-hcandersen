@@ -22,7 +22,7 @@ Hurtigløberne
 
 ## Arc
 
-I den tætte skov udfordrer den stolte og lynhurtige hare den lille, langsomme snegl til et væddeløb ad skovstien hen mod den hvide mållinje, hvor uglen sidder klar som dommer med den gyldne pris. Haren, der er fuld af hovmod og slet ikke tvivler på sin sejr, lægger sig to at sove undervejs for at håne sin modstander. Sneglen derimod kryber ufortrødent og tålmodigt fremad uden ophold. Da haren vågner, er det for sent; sneglen har krydset linjen, og uglen afsiger en klog dom, der hylder fliden og spidder overmodet.
+I den tætte skov udfordrer den stolte og lynhurtige hare den lille, langsomme snegl til et væddeløb ad skovstien hen mod den hvide mållinje, hvor uglen sidder klar som dommer med den gyldne pris. Haren, der er fuld af hovmod og slet ikke tvivler på sin sejr, lægger sig til at sove undervejs for at håne sin modstander. Sneglen derimod kryber ufortrødent og tålmodigt fremad uden ophold. Da haren vågner, er det for sent; sneglen har krydset linjen, og uglen afsiger en klog dom, der hylder fliden og spidder overmodet.
 
 ## Company
 

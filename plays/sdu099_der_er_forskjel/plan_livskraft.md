@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Mælkebøttens enkle plan om at vokse flittigt, spredes med vinden og bringe lys to enhver, der ser den.
+Mælkebøttens enkle plan om at vokse flittigt, spredes med vinden og bringe lys til enhver, der ser den.
 
 ## Owner
 

@@ -26,7 +26,7 @@ At beskytte de mest sårbare minder mod andres nysgerrighed ved at tage dem med 
 
 ## Orders
 
-Hold hemmelighederne skjult, lad ikke et eneste ord slippe ud to de levende, og lad bogen forblive stum.
+Hold hemmelighederne skjult, lad ikke et eneste ord slippe ud til de levende, og lad bogen forblive stum.
 
 ## Implementation
 

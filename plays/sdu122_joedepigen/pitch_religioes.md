@@ -33,4 +33,4 @@ Smerten ved at skulle vælge mellem de to største pligter: æren af sine foræl
 
 ## Echo
 
-Kirkens klokkeklang, der bærer velsignelsen over muren to den udstødte grav. Duften af vilde blomster i solskinnet og en følelse af, at kærligheden altid sejrer over loven.
+Kirkens klokkeklang, der bærer velsignelsen over muren til den udstødte grav. Duften af vilde blomster i solskinnet og en følelse af, at kærligheden altid sejrer over loven.

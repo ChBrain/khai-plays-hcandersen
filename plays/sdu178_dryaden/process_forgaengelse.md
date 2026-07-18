@@ -25,7 +25,7 @@ Nattens frembrud og storbyens tørre, støvede luft, som udtørrer dryadens sart
 
 ## Direction
 
-Fra den berusende glæde ved at se udstillingen to det totale fysiske forfald og hendes endelige svinden ind til ingenting.
+Fra den berusende glæde ved at se udstillingen til det totale fysiske forfald og hendes endelige svinden ind til ingenting.
 
 ## Lever
 

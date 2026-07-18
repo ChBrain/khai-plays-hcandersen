@@ -22,7 +22,7 @@ Ved det yderste Hav
 
 ## Arc
 
-Midt i den lange, mørke polarnat ligger en ekspedition spærret inde af isen ved verdens yderste grænser. I en lille snehytte ligger en ung sømand for døden. Hans kammerat våger trofast over ham, mens den bidende arktiske kulde og mørket omslutter dem. Sømandens eneste trøst er en bibel, som han har båret med sig hjemmefra. Gennem dens ord om, at Guds højre hånd vil holde ham fast selv ved det yderste hav, finder han en overjordisk fred. Da feberen stiger, føres hans ånd på en indre rejse i en drøm tilbage to barndommens varme stue, til duftende æbletræer og bedstemoderens blide stemme. En overgang sker i hans sind, og mens kroppen langsomt giver op i hytten, dør han med et smil på læben, forvisset om, at rejsen fører ham hjem til Gud, og efterlader kammeraten med en dyb fred midt i det øde hav af is.
+Midt i den lange, mørke polarnat ligger en ekspedition spærret inde af isen ved verdens yderste grænser. I en lille snehytte ligger en ung sømand for døden. Hans kammerat våger trofast over ham, mens den bidende arktiske kulde og mørket omslutter dem. Sømandens eneste trøst er en bibel, som han har båret med sig hjemmefra. Gennem dens ord om, at Guds højre hånd vil holde ham fast selv ved det yderste hav, finder han en overjordisk fred. Da feberen stiger, føres hans ånd på en indre rejse i en drøm tilbage til barndommens varme stue, til duftende æbletræer og bedstemoderens blide stemme. En overgang sker i hans sind, og mens kroppen langsomt giver op i hytten, dør han med et smil på læben, forvisset om, at rejsen fører ham hjem til Gud, og efterlader kammeraten med en dyb fred midt i det øde hav af is.
 
 ## Company
 

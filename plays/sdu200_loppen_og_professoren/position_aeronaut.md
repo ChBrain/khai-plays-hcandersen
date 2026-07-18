@@ -25,7 +25,7 @@ En ukuelig tro på vindene, kendskab til varme og gas, samt en urokkelig optimis
 
 ## Orders
 
-Stig højt to vejrs, lad de jordiske bekymringer ligge bag dig og find altid en vej ud af kniben ved at stige opad.
+Stig højt til vejrs, lad de jordiske bekymringer ligge bag dig og find altid en vej ud af kniben ved at stige opad.
 
 ## Loses
 

@@ -21,15 +21,15 @@ En kærlig, tålmodig og vejledende position, der møder den angste sjæl med sa
 
 ## Has
 
-Store, beskyttende vinger, en blid favn to den skælvende ånd, samt en dyb indsigt i Guds uendelige barmhjertighed.
+Store, beskyttende vinger, en blid favn til den skælvende ånd, samt en dyb indsigt i Guds uendelige barmhjertighed.
 
 ## Orders
 
-Bær sjælen trygt gennem nattens mørke, hjælp den med at se sine egne fejl uden fortvivlelse, og overdrag den to Faderens kærlighed.
+Bær sjælen trygt gennem nattens mørke, hjælp den med at se sine egne fejl uden fortvivlelse, og overdrag den til Faderens kærlighed.
 
 ## Loses
 
-Al strenghed og fordømmelse, idet dens eneste opgave er at bringe forsoning og lys to den søgende ånd.
+Al strenghed og fordømmelse, idet dens eneste opgave er at bringe forsoning og lys til den søgende ånd.
 
 ## Drives
 

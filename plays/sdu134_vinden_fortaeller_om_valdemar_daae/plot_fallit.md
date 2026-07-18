@@ -33,4 +33,4 @@ Kreditorerne omringer [herregaard](place_herregaard.md)en, og herregårdens skov
 
 ## Tension
 
-Scenen is spændt til det yderste i en tone af [melankoli](pitch_melankoli.md), da altings undergang står klar for den ruinerede adelsmand, der må indse, at hans grådighed har ført til fuldstændig fallit.
+Scenen er spændt til det yderste i en tone af [melankoli](pitch_melankoli.md), da altings undergang står klar for den ruinerede adelsmand, der må indse, at hans grådighed har ført til fuldstændig fallit.

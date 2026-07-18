@@ -33,4 +33,4 @@ Et trygt og skjult hvilested for svanerne under deres rejse mod sikkerhed.
 
 ## Withheld
 
-Udsyn to den åbne horisont, da de tætte grene lukker af for nattehimlens lys.
+Udsyn til den åbne horisont, da de tætte grene lukker af for nattehimlens lys.

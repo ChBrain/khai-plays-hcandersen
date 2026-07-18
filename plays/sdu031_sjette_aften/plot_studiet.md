@@ -29,7 +29,7 @@ Indenfor i det kolde [Kvistkammeret](place_kvistkammeret.md) sidder [Studenten](
 
 ## Stage
 
-Stearinlyset flakker svagt og kaster et gulligt, uroligt skær over de tætskrevne sider i den store bog. Studenten sidder ubevægelig, med panden støttet i hånden, mens kulden bider i hans fingre. Hvert åndedræt danner a lille tåge i den kolde luft, men hans blik viger ikke fra teksten, mens lyset langsomt brænder ned til sin stage.
+Stearinlyset flakker svagt og kaster et gulligt, uroligt skær over de tætskrevne sider i den store bog. Studenten sidder ubevægelig, med panden støttet i hånden, mens kulden bider i hans fingre. Hvert åndedræt danner en lille tåge i den kolde luft, men hans blik viger ikke fra teksten, mens lyset langsomt brænder ned til sin stage.
 
 ## Tension
 

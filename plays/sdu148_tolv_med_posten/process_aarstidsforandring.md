@@ -25,7 +25,7 @@ Hver ny passagers ankomst og overtagelse af herredømmet på postgården.
 
 ## Direction
 
-Den cykliske strøm fra vinternattens frost, gennem forårets grønne spire, to sommerens varme og efterårets løvfald.
+Den cykliske strøm fra vinternattens frost, gennem forårets grønne spire, til sommerens varme og efterårets løvfald.
 
 ## Lever
 

@@ -48,4 +48,4 @@ Dronningen ligger syg af en svær helsot, og kun den dejligste rose i verden kan
 
 ## Stakes
 
-Kampen mod døden handler ikke om den ydre verdens rigdomme eller den jordiske skønhed, men om at genkende den reneste, mest uselviske kærlighed, som alene har magt to at hele sjælen og skænke livet på ny.
+Kampen mod døden handler ikke om den ydre verdens rigdomme eller den jordiske skønhed, men om at genkende den reneste, mest uselviske kærlighed, som alene har magt til at hele sjælen og skænke livet på ny.

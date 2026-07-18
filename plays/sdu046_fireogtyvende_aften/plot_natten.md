@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Når månen lyser over de gamle bindingsværkshuse in Frankfurt.
+Når månen lyser over de gamle bindingsværkshuse i Frankfurt.
 
 ## Action
 

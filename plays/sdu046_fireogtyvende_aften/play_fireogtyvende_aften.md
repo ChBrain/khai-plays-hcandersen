@@ -41,7 +41,7 @@ Månen oplyser et borgerhus i Frankfurt. I en stille stue sidder en pige alene m
 
 ## Triggers
 
-- [plot_natten.md](plot_natten.md) når månen lyser over de gamle bindingsværkshuse in frankfurt.
+- [plot_natten.md](plot_natten.md) når månen lyser over de gamle bindingsværkshuse i Frankfurt.
 - [plot_huset.md](plot_huset.md) når månelyset trænger gennem vinduet i det grønne borgerhus.
 
 ## Stakes

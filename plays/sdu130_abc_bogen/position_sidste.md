@@ -21,7 +21,7 @@ Pladsen ved enden af rækken eller bogen, der afslutter meningen og sætter punk
 
 ## Has
 
-En stille værdighed, den afgørende slutning på ordet og tålmodighed til at vente på sua tur.
+En stille værdighed, den afgørende slutning på ordet og tålmodighed til at vente på sin tur.
 
 ## Orders
 

@@ -30,7 +30,7 @@ Træd ud af billedrammen, røm dig skarpt, og mind William om vigtigheden af ren
 
 ## Implementation
 
-Gennemført ved at levere en moraliserende prædiken direkte to barnet midt under hans leg.
+Gennemført ved at levere en moraliserende prædiken direkte til barnet midt under hans leg.
 
 ## Targets
 

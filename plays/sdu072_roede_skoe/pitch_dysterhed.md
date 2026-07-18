@@ -21,7 +21,7 @@ Tonarten, som produktionen [De røde Skoe](play_roede_skoe.md) spilles i. Den be
 
 ## Tenor
 
-Den tunge, alvorlige og let uhyggelige tone, der præger fortællingen. Hver scene, fra den tavse og døende frue til den vilde dans i den mørke skov, is indhyllet i en atmosfære af uundgåelig undergang og alvor. Der gives ingen lette løsninger; selv boden kræver den ultimative ofring af kropsdele og en total underkastelse under en streng moralsk orden.
+Den tunge, alvorlige og let uhyggelige tone, der præger fortællingen. Hver scene, fra den tavse og døende frue til den vilde dans i den mørke skov, er indhyllet i en atmosfære af uundgåelig undergang og alvor. Der gives ingen lette løsninger; selv boden kræver den ultimative ofring af kropsdele og en total underkastelse under en streng moralsk orden.
 
 ## Undertow
 

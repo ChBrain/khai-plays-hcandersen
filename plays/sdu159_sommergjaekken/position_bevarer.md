@@ -25,7 +25,7 @@ En blækpen, tørre bogsider og viljen til at gemme minder for eftertiden.
 
 ## Orders
 
-Vælg det smukkeste tegn, gem det tørt og mørkt, og bring dets fortælling videre to kommende slægter.
+Vælg det smukkeste tegn, gem det tørt og mørkt, og bring dets fortælling videre til kommende slægter.
 
 ## Loses
 

@@ -48,4 +48,4 @@ En nyslået sølvskilling drager fuld af stolthed og rejselyst ud i den vide ver
 
 ## Stakes
 
-Det handler om at bevare sit sande værd under ydre modgang og misforståelser. Selvom verden devaluerer en og stempler en som falsk, vil sandheden og den indre ægthed altid komme for lyset, når man vender hjem to dem, der kender ens sande ophav.
+Det handler om at bevare sit sande værd under ydre modgang og misforståelser. Selvom verden devaluerer en og stempler en som falsk, vil sandheden og den indre ægthed altid komme for lyset, når man vender hjem til dem, der kender ens sande ophav.

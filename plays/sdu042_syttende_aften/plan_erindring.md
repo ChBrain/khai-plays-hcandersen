@@ -22,7 +22,7 @@ Konens plan om at pynte mandens grav.
 
 ## Direction
 
-At holde mandens minde i live by at pynte hans grav.
+At holde mandens minde i live ved at pynte hans grav.
 
 ## Orders
 

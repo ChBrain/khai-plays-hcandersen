@@ -25,7 +25,7 @@ Månens frembrud på nattehimlen, som kaster lys over de glemte kroge af verden.
 
 ## Direction
 
-Fra et stumt, mørkt landskab to en levende og lysende beretning fuld af poesi.
+Fra et stumt, mørkt landskab til en levende og lysende beretning fuld af poesi.
 
 ## Lever
 

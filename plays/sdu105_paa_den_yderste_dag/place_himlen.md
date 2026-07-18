@@ -29,7 +29,7 @@ Guddommelig kærlighed, [Engel](persona_engel.md) og den frelste [Sjæl](persona
 
 ## Offers
 
-Evig fred, fuldkommen erkendelse, forløsning fra skyld og adgang to faderhuset.
+Evig fred, fuldkommen erkendelse, forløsning fra skyld og adgang til faderhuset.
 
 ## Withheld
 

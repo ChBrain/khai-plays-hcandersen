@@ -22,7 +22,7 @@ Kejserens nye Klæder
 
 ## Arc
 
-Kejseren lever kun for nye, smukke klæder. En dag ankommer to bedragere til byen og foregiver at være vævere. De påstår, at they kan væve et stof, som har den særlige egenskab at være usynligt for enhver, der er dum eller uegnet til sit embede. Kejseren bestiller klæderne og udbetaler store summer samt guld og silke, som bedragerne stikker i egen lomme. Kejseren sender sine mest betroede embedsmænd til vævestuen; ingen kan se stoffet, men alle lyver af frygt for at fremstå dumme. Til sidst besøger kejseren selv vævestuen og lader sig iklæde de usynlige klæder. Han marcherer i en pragtfuld procession gennem gaderne, hvor alle borgere bekræfter løgnen. Først da et lille barn udbryder, at han ikke har noget på, kollapser illusionen, og hele byen indser bedraget.
+Kejseren lever kun for nye, smukke klæder. En dag ankommer to bedragere til byen og foregiver at være vævere. De påstår, at de kan væve et stof, som har den særlige egenskab at være usynligt for enhver, der er dum eller uegnet til sit embede. Kejseren bestiller klæderne og udbetaler store summer samt guld og silke, som bedragerne stikker i egen lomme. Kejseren sender sine mest betroede embedsmænd til vævestuen; ingen kan se stoffet, men alle lyver af frygt for at fremstå dumme. Til sidst besøger kejseren selv vævestuen og lader sig iklæde de usynlige klæder. Han marcherer i en pragtfuld procession gennem gaderne, hvor alle borgere bekræfter løgnen. Først da et lille barn udbryder, at han ikke har noget på, kollapser illusionen, og hele byen indser bedraget.
 
 ## Company
 

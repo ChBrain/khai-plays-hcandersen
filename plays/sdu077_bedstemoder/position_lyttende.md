@@ -25,7 +25,7 @@ Et åbent sind, store, spørgende øjne og en grænseløs tillid til bedstemoder
 
 ## Orders
 
-Lyt to de gamle historier, husk de kloge ord, og gem minderne dybt i dit hjerte.
+Lyt til de gamle historier, husk de kloge ord, og gem minderne dybt i dit hjerte.
 
 ## Loses
 

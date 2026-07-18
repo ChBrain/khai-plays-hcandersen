@@ -44,7 +44,7 @@ En fin herreflip, der ejer intet andet end en støvleknægt og en redskam, fors�
 - [plot_skuffeliv.md](plot_skuffeliv.md) igangsættes af flippens tidlige pralerier i skuffen og hans store drømme om rigdom og status.
 - [plot_bejlerrejse.md](plot_bejlerrejse.md) igangsættes af flippens møde med de andre genstande i vasken og hans desperate og ublu frierier.
 - [plot_afvisning.md](plot_afvisning.md) igangsættes af genstandenes kolde afvisninger, da de gennemskuer hans overmod og tomme løfter.
-- [plot_papirforvandling.md](plot_papirforvandling.md) igangsættes af flippens ankomst to papirmøllen som en slidt klud og hans efterfølgende genanvendelse til papir.
+- [plot_papirforvandling.md](plot_papirforvandling.md) igangsættes af flippens ankomst til papirmøllen som en slidt klud og hans efterfølgende genanvendelse til papir.
 
 ## Stakes
 

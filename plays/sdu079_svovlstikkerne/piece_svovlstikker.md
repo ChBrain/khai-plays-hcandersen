@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Et bundt billige svovlstikker, som er pigens handelsvare og hendes eneste kilde to varme og visioner.
+Et bundt billige svovlstikker, som er pigens handelsvare og hendes eneste kilde til varme og visioner.
 
 ## Owner
 

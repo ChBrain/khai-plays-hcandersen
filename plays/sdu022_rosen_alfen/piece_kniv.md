@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Det kolde og skarpe stålredskab, der anvendes to at fuldbyrde ugerningen.
+Det kolde og skarpe stålredskab, der anvendes til at fuldbyrde ugerningen.
 
 ## Owner
 

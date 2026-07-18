@@ -26,7 +26,7 @@ Karen vil underkaste sig et liv i ydmyghed og hårdt arbejde, bede om Guds nåde
 
 ## Orders
 
-Karen påtager sig at tjene præstegården, lytte to Guds ord og søge mod kirken i dyb ærbødighed.
+Karen påtager sig at tjene præstegården, lytte til Guds ord og søge mod kirken i dyb ærbødighed.
 
 ## Implementation
 

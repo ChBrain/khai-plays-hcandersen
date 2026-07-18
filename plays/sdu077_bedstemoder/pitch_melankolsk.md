@@ -33,4 +33,4 @@ Det, der rammes, er den dybe smerte ved at miste den, der elskede en mest, og st
 
 ## Echo
 
-En stille trøst, der breder sig i hjertet, når man indser, at kærligheden is stærkere end døden, og at de døde lever videre i vores erindring.
+En stille trøst, der breder sig i hjertet, når man indser, at kærligheden er stærkere end døden, og at de døde lever videre i vores erindring.

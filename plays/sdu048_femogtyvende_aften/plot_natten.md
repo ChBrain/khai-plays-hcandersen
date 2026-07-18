@@ -29,7 +29,7 @@ Højt over hustagene hænger [Maanen](persona_maanen.md) som [Fortaeller](positi
 
 ## Stage
 
-Tågen hænger lavt over gaderne, og de første solstråler kæmper mod månelyset in horisonten.
+Tågen hænger lavt over gaderne, og de første solstråler kæmper mod månelyset i horisonten.
 
 ## Tension
 

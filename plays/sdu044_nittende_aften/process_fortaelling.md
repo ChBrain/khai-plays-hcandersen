@@ -25,7 +25,7 @@ Månens blik ned i gøglerens lejr.
 
 ## Direction
 
-Fra den simple lejr to historiens evige erindring.
+Fra den simple lejr til historiens evige erindring.
 
 ## Lever
 

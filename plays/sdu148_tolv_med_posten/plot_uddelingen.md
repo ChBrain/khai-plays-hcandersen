@@ -29,7 +29,7 @@ Som den [udfoerende](position_udfoerende.md) leder tager [postillon](persona_pos
 
 ## Stage
 
-[Postillon](persona_postillon.md) står ved vognens bagagerum og rækker pakkerne ned to vagten, mens sneen fortsat falder tæt omkring dem.
+[Postillon](persona_postillon.md) står ved vognens bagagerum og rækker pakkerne ned til vagten, mens sneen fortsat falder tæt omkring dem.
 
 ## Tension
 

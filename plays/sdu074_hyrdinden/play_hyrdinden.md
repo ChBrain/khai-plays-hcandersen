@@ -22,7 +22,7 @@ Hyrdinden
 
 ## Arc
 
-En hyrdinde og en skorstensfejer af porcelæn står ved siden af hinanden på et konsolbord og er inderligt forelskede. Deres kærlighed trues af den gamle Kineser, en nikkende porcelænsfigur, der hævder at være hyrdindens bedstefar og vil gifte hende væk til "Gedebukkebeens-Overkrigsgeneralskrigsseveren", en udskåret tyrand af mahogni på et skab. For at undgå dette arrangerede ægteskab flygter de to elskende gennem skorstenen og ud på taget, hvor de skuer ud over den uendelige verden. Hyrdinden bliver dog overvældet af den kolde og grænseløse verden og bønfalder skorstensfejeren om at vende tilbage til stuen. Da de kommer tilbage, opdager de, at den gamle Kineser is faldet ned og knust, hvilket forhindrer brylluppet. Kineseren bliver lappet sammen, men kan ikke længere nikke, og de to elskende forbliver uforstyrrede sammen.
+En hyrdinde og en skorstensfejer af porcelæn står ved siden af hinanden på et konsolbord og er inderligt forelskede. Deres kærlighed trues af den gamle Kineser, en nikkende porcelænsfigur, der hævder at være hyrdindens bedstefar og vil gifte hende væk til "Gedebukkebeens-Overkrigsgeneralskrigsseveren", en udskåret tyrand af mahogni på et skab. For at undgå dette arrangerede ægteskab flygter de to elskende gennem skorstenen og ud på taget, hvor de skuer ud over den uendelige verden. Hyrdinden bliver dog overvældet af den kolde og grænseløse verden og bønfalder skorstensfejeren om at vende tilbage til stuen. Da de kommer tilbage, opdager de, at den gamle Kineser er faldet ned og knust, hvilket forhindrer brylluppet. Kineseren bliver lappet sammen, men kan ikke længere nikke, og de to elskende forbliver uforstyrrede sammen.
 
 ## Company
 

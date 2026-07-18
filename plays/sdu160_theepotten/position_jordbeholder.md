@@ -21,7 +21,7 @@ En position kendetegnet ved fornedring, glemsel og det at være fyldt med mørk,
 
 ## Has
 
-En dyb tålmodighed, en kold krop af brudt porcelæn og en evne to at give alt sit tomrum væk to muld og rødder.
+En dyb tålmodighed, en kold krop af brudt porcelæn og en evne til at give alt sit tomrum væk til muld og rødder.
 
 ## Orders
 

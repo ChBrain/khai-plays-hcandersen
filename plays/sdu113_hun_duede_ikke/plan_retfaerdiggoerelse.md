@@ -30,7 +30,7 @@ Døm vaskekonens drikkeri hårdt, belær hendes søn om moral, og hold fast i, a
 
 ## Implementation
 
-Gennemført ved offentlige udtalelser og formaninger to naboerne og vaskekonens søn om hendes uduelighed.
+Gennemført ved offentlige udtalelser og formaninger til naboerne og vaskekonens søn om hendes uduelighed.
 
 ## Targets
 

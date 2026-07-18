@@ -44,7 +44,7 @@ Inger er en fattig pige, stolt og hovmodig. Da hun skal besøge sine forældre, 
 - [plot_overmod.md](plot_overmod.md) igangsættes af Ingers modstand mod snavset på stien til forældrenes hus.
 - [plot_mosen.md](plot_mosen.md) igangsættes af brødets synken i dyndet og Ingers fald til Mosekonens bryggeri.
 - [plot_straf.md](plot_straf.md) igangsættes af Ingers fastlåsning i mudderet, hvor hun bliver til en kold statue.
-- [plot_angst_og_haab.md](plot_angst_og_haab.md) igangsættes af barnets tåre fra jorden og Ingers forvandling to en lille fugl, der stiger mod skyerne.
+- [plot_angst_og_haab.md](plot_angst_og_haab.md) igangsættes af barnets tåre fra jorden og Ingers forvandling til en lille fugl, der stiger mod skyerne.
 
 ## Stakes
 

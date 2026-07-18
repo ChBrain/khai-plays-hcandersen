@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Tonarten, som produktionen [Nabofamilierne](play_nabofamilierne.md) spilles i. Den farver scenerne med en eftertænksom og filosofisk stemning, der inviterer os to at betragte livets store cyklus.
+Tonarten, som produktionen [Nabofamilierne](play_nabofamilierne.md) spilles i. Den farver scenerne med en eftertænksom og filosofisk stemning, der inviterer os til at betragte livets store cyklus.
 
 ## Owner
 
@@ -29,7 +29,7 @@ Under den fredelige overflade ligger bevidstheden om forgængeligheden. Hverken 
 
 ## Nerve
 
-Det, der berøres, er vores egen søgen efter betydning og eftermæle. Hvad efterlader vi os, når vores tid er forbi? Er det den stumme skønhed fra en fuldendt blomstring, eller er det den støjende sang, der gives videre to næste generation?
+Det, der berøres, er vores egen søgen efter betydning og eftermæle. Hvad efterlader vi os, når vores tid er forbi? Er det den stumme skønhed fra en fuldendt blomstring, eller er det den støjende sang, der gives videre til næste generation?
 
 ## Echo
 

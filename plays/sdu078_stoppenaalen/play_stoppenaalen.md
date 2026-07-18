@@ -47,4 +47,4 @@ En stoppenål, der anser sig selv for at være så fin, at hun bilder sig ind at
 
 ## Stakes
 
-Kontrasten mellem den dybeste sociale fornedrelse og det uforanderlige hovmod. Historien spidder det menneskelige mindreværdskompleks, der forsøger at ophøje enhver ulykke to et tegn på adelig særstatus, og minder os om, at hovmodet sjældent kureres af modgang.
+Kontrasten mellem den dybeste sociale fornedrelse og det uforanderlige hovmod. Historien spidder det menneskelige mindreværdskompleks, der forsøger at ophøje enhver ulykke til et tegn på adelig særstatus, og minder os om, at hovmodet sjældent kureres af modgang.

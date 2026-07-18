@@ -22,7 +22,7 @@ Det [vildledende](position_vildledende.md) modbillede til sandheden, der fordrej
 
 ## Projection
 
-En mørk, flygtig skikkelse uden fast form, som gliding lydløst langs murene og efterligner menneskets bevægelser.
+En mørk, flygtig skikkelse uden fast form, som glider lydløst langs murene og efterligner menneskets bevægelser.
 
 ## Action
 

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-De ældgamle, halvdøde rågetræer in haven, som herskabet insisterer på at bevare for deres historiske udseende.
+De ældgamle, halvdøde rågetræer i haven, som herskabet insisterer på at bevare for deres historiske udseende.
 
 ## Owner
 

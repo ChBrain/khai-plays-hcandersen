@@ -25,7 +25,7 @@ Flegmatikerens tålmodige indgriben med vandet.
 
 ## Direction
 
-Fra det stormfulde kaos to en rolig sameksistens.
+Fra det stormfulde kaos til en rolig sameksistens.
 
 ## Lever
 

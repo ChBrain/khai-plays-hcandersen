@@ -29,7 +29,7 @@ Søgningen bevæger sig fra den rå tanke i mørket mod en færdig [skrift](piec
 
 ## Lever
 
-Fjerpennen og den ensomme nat, der tvinger [Digteren](persona_digteren.md) to at mærke sin egen svaghed.
+Fjerpennen og den ensomme nat, der tvinger [Digteren](persona_digteren.md) til at mærke sin egen svaghed.
 
 ## Echo
 

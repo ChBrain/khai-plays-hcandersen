@@ -25,11 +25,11 @@ Drabet på pigens elskede og alfens hvisken af sandheden i hendes drøm.
 
 ## Direction
 
-Sorgen driver hende to at hente det afhuggede hoved og pleje det i potten med sine uendelige tårer.
+Sorgen driver hende til at hente det afhuggede hoved og pleje det i potten med sine uendelige tårer.
 
 ## Lever
 
-Pigens konstante gråd og hendes fuldstændige isolation fra omverdenen i kærlighed to den døde.
+Pigens konstante gråd og hendes fuldstændige isolation fra omverdenen i kærlighed til den døde.
 
 ## Echo
 

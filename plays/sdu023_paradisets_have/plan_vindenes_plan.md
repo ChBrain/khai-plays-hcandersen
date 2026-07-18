@@ -26,7 +26,7 @@ At blæse over jorden, samle nyheder og historier, og transportere den værdige 
 
 ## Orders
 
-Rapporter jævnligt til moderen in vindgrotten, hjælp rejsende i nød, og bær prinsen over havene til Paradis.
+Rapporter jævnligt til moderen i vindgrotten, hjælp rejsende i nød, og bær prinsen over havene til Paradis.
 
 ## Implementation
 

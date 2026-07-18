@@ -25,7 +25,7 @@ Spurvenes vågnen ved daggry og deres konstante behov for at dele nyheder og adv
 
 ## Direction
 
-Fra reden under tagskægget, gennem luften og hen over hegnet to havens fjerneste hjørner.
+Fra reden under tagskægget, gennem luften og hen over hegnet til havens fjerneste hjørner.
 
 ## Lever
 

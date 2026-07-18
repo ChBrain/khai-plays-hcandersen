@@ -21,7 +21,7 @@ En frygtsom og forsvarende position, der opstår, når sjælen indser afstanden 
 
 ## Has
 
-Et tøvende blik, et hjerte tynget af uindrømmet stolthed, og en dyb frygt for ikke at være værdig to Himlens lys.
+Et tøvende blik, et hjerte tynget af uindrømmet stolthed, og en dyb frygt for ikke at være værdig til Himlens lys.
 
 ## Orders
 

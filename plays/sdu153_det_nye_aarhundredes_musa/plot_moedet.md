@@ -33,4 +33,4 @@ Her sidder [Digteren](persona_digter.md), der indtager sin tålmodige stilling s
 
 ## Tension
 
-Stilheden i kammeret is så intens, at et enkelt forkert ord eller en tøven fra digterens side kan bryde forbindelsen og få musen til at forsvinde for altid.
+Stilheden i kammeret er så intens, at et enkelt forkert ord eller en tøven fra digterens side kan bryde forbindelsen og få musen til at forsvinde for altid.

@@ -29,7 +29,7 @@ Hold dig til det trygge, pas på dine små, og advar dem mod verdens tørre og u
 
 ## Loses
 
-Forbindelsen to de børn, der vælger at lytte til deres egen indre længsel frem for hendes råd.
+Forbindelsen til de børn, der vælger at lytte til deres egen indre længsel frem for hendes råd.
 
 ## Drives
 

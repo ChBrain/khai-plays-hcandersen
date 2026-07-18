@@ -29,7 +29,7 @@ I den fine [Stuen](place_stuen.md) placeres [Æblegrenen](persona_aeblegrenen.md
 
 ## Stage
 
-Æblegrenen står rank og stolt i sit fine porcelænshjem, mens selskabets gæster beundrer dens lyserøde knopper og fine duft. Grenen soler sig i opmærksomheden og kigger ud af vinduet mod vejen. Derude i det høje græs ser den de gule dandelions, som den anser for simple og mindreværdige, uden at ænse, at de deler den samme luft og det samme jordeliv under den fælles solstråle.
+Æblegrenen står rank og stolt i sit fine porcelænshjem, mens selskabets gæster beundrer dens lyserøde knopper og fine duft. Grenen soler sig i opmærksomheden og kigger ud af vinduet mod vejen. Derude i det høje græs ser den de gule mælkebøtter, som den anser for simple og mindreværdige, uden at ænse, at de deler den samme luft og det samme jordeliv under den fælles solstråle.
 
 ## Tension
 

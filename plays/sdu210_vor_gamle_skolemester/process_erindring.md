@@ -25,7 +25,7 @@ Minderne om de svundne skoledage hos den voksne elev.
 
 ## Direction
 
-Fra nutidens travlhed to barndommens læreår.
+Fra nutidens travlhed til barndommens læreår.
 
 ## Lever
 
