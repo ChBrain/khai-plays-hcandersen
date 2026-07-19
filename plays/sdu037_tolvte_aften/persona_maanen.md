@@ -3,11 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -15,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md) over Pompeji, der denne aften følger en sangerinde og en flok fremmede ind i den døde by.
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg og lysende skive over skyerne.
+En rund, blank skive, der hænger lavt over Vesuvs sorte kegle og Pompejis tavse tage.
 
 ## Action
 
-Lyser koldt ind gennem de høje vinduer.
+Lyser sit klare skær ned over Gravgaden og amfiteatrets stentrin, mens selskabet vandrer gennem ruinerne.
 
 ## Shadow
 
-Frygter at dens lys blot viser menneskers tomhed.
+Frygter at selv dette øjeblik med sang og jubel snart kun bliver et flygtigt minde for den selv.
 
 ## Tell
 
-Fortæller stumt om livets forsvindende glans.
+Gemmer synet af den tomme scene, før den fortæller det videre til nattens øvrige vandrere.
