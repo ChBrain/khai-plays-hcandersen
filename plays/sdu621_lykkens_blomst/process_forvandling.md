@@ -1,36 +1,36 @@
 ---
 khai: process
-title: "The Fairy-Tale Transformation"
+title: "The Transformation"
 declared: "Forvandling"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-10"
+  date: "2026-07-19"
 ---
 
 # Process: Forvandling
 
 ## Taxonomy
 
-Den eventyrlige trolddomsproces, hvor nissen ændrer parrets ydre omstændigheder fra det glade skovfogedpar til fangevogterparret.
+Den fortryllede overgang, hvor en perle bærer skovfogeden ud af sit eget liv og ind i et andet menneskes hele skæbne, digterens eller prinsens.
 
 ## Owner
 
-[LykkensBlomst](play_lykkens_blomst.md)
+- Project: khai-plays-hcandersen
 
 ## Initiated by
 
-Nissen, der drysser sit magiske sølvstøv og fremsiger besværgelser over Henrik og Johanne under deres trolovelsessøvn.
+Skovfogedens hånd, der lukker sig om en af [Perlerne](piece_perlerne.md), mens tvivlen om egen lykke endnu brænder i ham.
 
 ## Direction
 
-Fra skovfogedparret Henrik og Johanne i skovens idyl til fangevogteren Tage og hustruen Elna under svære kår i fængslet, og tilbage igen.
+Overgangen går fra det velkendte hjem til det fuldstændigt fremmede, fra egen krop og stemme til digterens sygeleje eller prinsens hof, uden varsel og uden vej tilbage, før prøvelsen er levet til ende.
 
 ## Lever
 
-Nissens magiske gestus, skiftet i belysning og kulisser, samt parrets pludselige tøjskift og tab af oprindelige minder.
+Nissens gave og skovfogedens egen tvivl, som sammen åbner døren til det liv, perlen bærer i sig.
 
 ## Echo
 
-Magiske xylofonklange, nissens drillende grin bag scenen, det pludselige skift til et dystert koldt lys, og lykkens blomsts glød.
+Hver forvandling efterlader skovfogeden rigere på erfaring og fattigere på illusion, idet det fremmede liv viser sig langt tungere at bære, end det så ud fra hjemmets vindueskarm.

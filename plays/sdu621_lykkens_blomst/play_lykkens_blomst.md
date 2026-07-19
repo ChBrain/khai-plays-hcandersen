@@ -1,16 +1,16 @@
 ---
 khai: play
 title: "Lykkens Blomst"
-declared: "LykkensBlomst"
-description: "En eventyr-komedie i to akter om en magisk blomst, der tester et ungt pars kærlighed og lykke."
+declared: "Lykkens Blomst"
+description: "En skovfoged tvivler på sin lykke og prøver digterens og prinsens skæbne, før han vender hjem."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-10"
+  date: "2026-07-19"
 ---
 
-# Play: LykkensBlomst
+# Play: Lykkens Blomst
 
 ## Estate
 
@@ -22,29 +22,26 @@ Lykkens Blomst
 
 ## Arc
 
-I den frodige Jægersborg skov mødes det unge skovfogedpar Henrik og Johanne under de grønne trækroner. Da de beslutter at indgå trolovelse, finder og plukker de den yderst sjældne og magiske lykkens blomst. Men skovens hemmelige beboer, en drilsk nisse, vogter over blomsten og advarer dem mod dens uforudsigelige kraft. For at teste parrets sande lykke og troskab iværksætter nissen en eventyrlig forvandling. Henrik og Johanne kastes ind i en ny tidsalder og forvandles til fangevogteren Tage og hans hårdtarbejdende hustru Elna, der lever under svære og fattige kår i et dystert fængselstårn. Her udsættes de for nød, grådighed og mistillid under lykkestest processen. På trods af de barske livsvilkår og nissens drillerier nægter parret at lade sig splitte. De indser gennem den magiske blomsts vedvarende glød, at sand lykke ikke afhænger af ydre rigdom eller status, men af deres urokkelige kærlighed. Efter at have modstået prøvelserne, forløser nissen forvandlingen, og parret genforenes i skovens trygge og glade rammer.
+I skovfogedens hjem gror Lykkens Blomst, tegnet på det jævne og kærlige liv, han deler med sin hustru. En nisse lægger mærke til, at blomsten synes at visne, og skovfogeden fyldes af tvivl om, hvorvidt hans stille lykke er den bedste, der findes. Nissen skaffer to fortryllede perler, som hver kan føre skovfogeden ind i et andet liv, så han kan prøve, om berømmelse eller sagnhistorie giver større lykke end hans egen. Den første perle fører ham ind i digteren Johannes Ewalds skikkelse, syg, ensom og fattig trods sit udødelige navn. Den anden perle fører ham til kong Valdemars middelalderlige hof som prins Buris, viklet ind i den sørgelige kærlighed til Liden Kirsten, hvor sagnets tunge skæbne venter. Efter begge prøvelser vender skovfogeden hjem til sin hustru og sin egen blomst og forstår, at hverken et udødeligt navn eller en kongekrone kan måle sig med at være der, hvor man elsker livet og selv er elsket.
 
 ## Company
 
-- [HenrikPersona](persona_henrik.md)
-- [JohannePersona](persona_johanne.md)
-- [NissePersona](persona_nisse.md)
-- [SkovfogedPosition](position_skovfoged.md)
-- [BrudPosition](position_brud.md)
-- [SkovtrollPosition](position_skovtroll.md)
-- [Lykkesblomst](piece_blomst.md)
-- [JaegersborgSkov](place_skov.md)
+- [Skovfogedparret](persona_skovfogedparret.md)
+- [Tilfredse](position_tilfredse.md)
+- [Perlerne](piece_perlerne.md)
+- [Skovfogedhjemmet](place_skovfogedhjem.md)
 - [Forvandling](process_forvandling.md)
-- [Lykkestest](process_lykkestest.md)
-- [KaerlighedsvalgPlan](plan_kaerlighedsvalg.md)
-- [EventyrKomedie](pitch_eventyr_komedie.md)
+- [Erkendelse](process_erkendelse.md)
+- [Lykkeprøven](plan_lykkeproeven.md)
+- [Tilfredshed](pitch_tilfredshed.md)
 
 ## Triggers
 
-- [plot_skovlykken.md](plot_skovlykken.md) udløses, når tæppet går op, og den muntre skovmusik lyder under Jægersborgs store ege.
-- [plot_tidenskifter.md](plot_tidenskifter.md) udløses, når parret lægger sig til at sove under egetræet, og skovens lys skifter til mystisk violet.
-- [plot_snoebolden.md](plot_snoebolden.md) udløses, når nissen træder frem på scenen med en stor sæk guld og tilbyder at købe deres blomst.
+- [plot_blomsten_visner.md](plot_blomsten_visner.md) igangsættes af, at nissen opdager den visnende blomst og vækker skovfogedens tvivl om sin egen lykke.
+- [plot_ewalds_liv.md](plot_ewalds_liv.md) igangsættes af den første perle, der fører skovfogeden ind i digteren Johannes Ewalds fattige og ensomme liv.
+- [plot_buris_og_kirsten.md](plot_buris_og_kirsten.md) igangsættes af den anden perle, der fører skovfogeden til kong Valdemars hof som prins Buris.
+- [plot_hjemkomsten.md](plot_hjemkomsten.md) igangsættes af skovfogedens beslutning om at forlade begge prøvelser og vende hjem til sit eget liv.
 
 ## Stakes
 
-Kærligheden skal overleve nissens prøvelser og ydre forvandlinger for at bevise, at lykken findes i hjertet.
+Spillet stiller det jævne og det ophøjede over for hinanden: er det digterens udødelige navn eller kongens krone, der bærer den sande lykke, eller er den snarere at finde i det stille hjem, hvor man elsker og bliver elsket igen? Fordi det fulde manuskript fra 1845 ikke har kunnet opspores, holder denne opsætning sig bevidst til det forsigtige og bekræftede, de historiske skikkelser og nissen, frem for at opdigte navne eller biroller uden kildebelæg.
