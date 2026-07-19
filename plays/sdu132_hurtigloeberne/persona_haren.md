@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Hurtig](position_hurtig.md) det stolte og vævre dyr, som altid vil være først over mållinjen.
+Den hurtigste over den korte strækning, hvem forsamlingen tilkender [Førstepris](piece_foerstepris.md) for en fart, ingen af de fremmødte kunne måle sig med.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-En væver krabat med lange ører, der tror at verden er skabt til at blive overhalet i ét enkelt spring.
+En vever krabat med lange ører og spændstige ben, der bærer sig med en selvfølgelig stolthed over egen hurtighed.
 
 ## Action
 
-Han slår kolbøtter, praler af sin hurtighed og lægger sig til at sove midt på banen for at vise sin overlegenhed.
+Han fremviser sin fart for forsamlingen med et par lynhurtige spring, mens han lytter henkastet til, hvad de øvrige stemmer siger om hans slægt og hans evner.
 
 ## Shadow
 
-Hans store hovmod og dovenskab gør, at han let lader sig aflede og glemmer målet undervejs.
+Hans forfængelighed får ham til at tage klapsalverne for givet, så han knap bemærker, hvor nøje hans sag egentlig bliver vejet.
 
 ## Tell
 
-Han vipper med ørerne, hopper rastløst fra side til side og griner hånligt af de langsomme.
+Han vipper utålmodigt med ørerne og skifter vægt fra ben til ben, som var han allerede i fart, selv mens han står stille.
