@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Position: Stolt
 
 ## Taxonomy
 
-Den ranke holdning, der hæver sig over sin ringe stand og forlanger at blive seen.
+Den ranke holdning hos den, der regner sig selv til en fin slægt, selvom verden kun ser ukrudt.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den ranke holdning, der hæver sig over sin ringe stand og forlanger at blive se
 
 ## Has
 
-En usårlig værdighed og en tro på, at man bærer en indre skønhed under en barsk ydre skal.
+En urokkelig tro på egen byrd og en indre overbevisning om, at piggene skjuler en kerne af værdi.
 
 ## Orders
 
-Hold hovedet højt, stå imod vind og vejr, og lad dig ikke kue af havens fine roser.
+Ret dig op mod stakittet, tæl din slægt blandt havens fineste, og lad dig ikke kue af landevejens støv.
 
 ## Loses
 
-Sanserne for sine egne begrænsninger og evnen til at bøje sig, når stormen raser.
+Evnen til at se sig selv med andres øjne og den ydmyghed, der hører den virkelig ringe til.
 
 ## Drives
 
-Lysten til at bevise sit værd og opnå en plads i de fornemmes erindring.
+Håbet om at blive kaldt frem fra grøften og få sin plads anerkendt blandt de dyrkede.
