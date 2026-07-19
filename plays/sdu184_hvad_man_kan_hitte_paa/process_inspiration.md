@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Process: Inspiration
 
 ## Taxonomy
 
-Den pludselige åbenbaring, hvor hverdagens ting afslører deres iboende eventyr og historier.
+Den flygtige åbenbaring, hvor vrimlen af mennesker et øjeblik afslører deres iboende eventyr og historier.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den pludselige åbenbaring, hvor hverdagens ting afslører deres iboende eventyr
 
 ## Initiated by
 
-Brugbarheden af den kloge kones [Briller](piece_briller.md) og hendes belæring.
+Lånet af den kloge kones [Briller](piece_briller.md) og [Hørerør](piece_hoereroer.md), som hun kræver tilbage, før han går.
 
 ## Direction
 
-Inspirationen bevæger sig fra den ydre verden af døde ting direkte ind i digterens hjerte.
+Inspirationen strømmer fra den ydre verden af mennesker og ting gennem de lånte instrumenter, men bliver aldrig digterens egen.
 
 ## Lever
 
-Blikket gennem de tykke brilleglas på en simpel, jordisk genstand.
+Synet gennem brillerne og lyden gennem hørerøret, rettet mod vrimlen af mennesker på vejen.
 
 ## Echo
 
-En rislende fornemmelse af lys og lyst til at skabe, der fortrænger skriveblokeringen.
+Et kort glimt af lys og lyst til at skabe, der lukker sig igen i samme øjeblik, konen kræver briller og hørerør tilbage.
