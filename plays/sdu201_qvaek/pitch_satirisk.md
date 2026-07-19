@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Pitch: Satirisk
 
 ## Taxonomy
 
-Den særlige stemning, som gennemsyrer forestillingen [Qvæk](play_qvaek.md). Den ændrer ikke på karakterernes skæbne eller rekvisitterne på scenen. Den bestemmer blot den emotionelle klang, der omgiver fortællingen.
+Den spottende grundtone, som forestillingen [Qvæk](play_qvaek.md) spilles i, hvor selvbestaltet kritik og faglig selvovervurdering udstilles side om side.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den særlige stemning, som gennemsyrer forestillingen [Qvæk](play_qvaek.md). De
 
 ## Tenor
 
-Den særlige tone, som formidler stykkets kerne til beskueren.
+En let, hurtig og drilsk tone, der lader hver skikkelse dømme sig selv med egne ord, mens den underliggende hensigt hele tiden peger på de menneskelige forbilleder bag dyrenes selvhøjtidelighed.
 
 ## Undertow
 
-Den underliggende spænding, som lurer under forestillingens overflade.
+Under morskaben ligger en skarp kritik af den kritiske presse selv, af redaktører, der udnævner sig selv, og af anmeldere, der gør det, de kender bedst, til målestok for alt andet.
 
 ## Nerve
 
-Det følsomme punkt i forestillingen, der rammer beskuerens hjerte.
+Nerven rammer den, der genkender sig selv i frøens oppustede strube eller i bidragydernes ivrige selvfremstilling, og som må le, netop fordi det gør ondt at kende sig selv igen deri.
 
 ## Echo
 
-Eftersmagen af forestillingen, der bliver hængende i tankerne, når lyset er gået ud.
+En eftersmag af et grinende, men bittert stik, som bliver hængende, når man næste gang læser en anmeldelse skrevet af en, der selv har udnævnt sig til dommer.
