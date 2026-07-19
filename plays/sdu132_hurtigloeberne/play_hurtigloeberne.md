@@ -2,12 +2,12 @@
 khai: play
 title: "The Fast Runners"
 declared: "Hurtigløberne"
-description: "En munter historie om haren, sneglen og uglen, der kappes om en pris på skovens løbebane."
+description: "En forsamling af dyr strides om fart, slægt og flid, før haren og sneglen hver får deres fortjente pris."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: Hurtigløberne
@@ -22,31 +22,33 @@ Hurtigløberne
 
 ## Arc
 
-I den tætte skov udfordrer den stolte og lynhurtige hare den lille, langsomme snegl til et væddeløb ad skovstien hen mod den hvide mållinje, hvor uglen sidder klar som dommer med den gyldne pris. Haren, der er fuld af hovmod og slet ikke tvivler på sin sejr, lægger sig til at sove undervejs for at håne sin modstander. Sneglen derimod kryber ufortrødent og tålmodigt fremad uden ophold. Da haren vågner, er det for sent; sneglen har krydset linjen, og uglen afsiger en klog dom, der hylder fliden og spidder overmodet.
+Der udloves en førstepris og en andenpris til de hurtigste blandt dyrene, og en forsamling kaldes sammen for at afgøre sagen. Straks rejser striden sig om, hvad hurtighed egentlig skal måles på. Muldyret vil tælle fart og fornemt ophav i ét åndedrag, milepælen holder fast i stilling og rækkefølge, og svalens sag, den utvivlsomt hurtigste af alle, må lades ude af betragtning, fordi hun selv er fløjet bort til varmere himmelstrøg. Til sidst fortæller talsmanden om sneglen, der brugte et halvt år på at krydse tærsklen og fik sin skal til at revne af den hast, hun lagde i det. Forsamlingen ender med at tilkende haren førsteprisen for hans fart og sneglen andenprisen for hendes udholdenhed, mens hver stemme i salen fortsat mener, at kendelsen kunne være faldet anderledes ud.
 
 ## Company
 
 - [Haren](persona_haren.md)
 - [Sneglen](persona_sneglen.md)
-- [Uglen](persona_uglen.md)
-- [Hurtig](position_hurtig.md)
-- [Langsom](position_langsom.md)
-- [Dommer](position_dommer.md)
-- [Pris](piece_pris.md)
-- [Bane](piece_bane.md)
-- [Skoven](place_skoven.md)
-- [Mållinjen](place_maallinjen.md)
-- [Løbe](process_loebe.md)
-- [Bedrag](process_bedrag.md)
-- [Sejr](plan_sejr.md)
-- [Ære](plan_aere.md)
+- [Svalen](persona_svalen.md)
+- [Muldyret](persona_muldyret.md)
+- [Milepælen](persona_milepaelen.md)
+- [Talsmanden](persona_talsmanden.md)
+- [Hurtighed](position_hurtighed.md)
+- [Rækkefølge](position_raekkefoelge.md)
+- [Flid](position_flid.md)
+- [Førstepris](piece_foerstepris.md)
+- [Andenpris](piece_andenpris.md)
+- [Forsamlingen](place_forsamlingen.md)
+- [Tærsklen](place_taersklen.md)
+- [Rådslagning](process_raadslagning.md)
+- [Stamtavlen](plan_stamtavlen.md)
 - [Satirisk](pitch_satirisk.md)
 
 ## Triggers
 
-- [plot_loebet.md](plot_loebet.md) udløses af, at haren udfordrer sneglen til væddeløb på skovens løbebane.
-- [plot_dommen.md](plot_dommen.md) udløses af, at sneglen når mållinjen, mens haren har sovet, og uglen skal afsige dom.
+- [plot_bekendtgoerelsen.md](plot_bekendtgoerelsen.md) udløses af, at der udloves en førstepris og en andenpris, og forsamlingen kaldes sammen.
+- [plot_raadslagningen.md](plot_raadslagningen.md) udløses af, at ordet gives frit, og hver stemme i forsamlingen lægger sin egen målestok frem.
+- [plot_dommen.md](plot_dommen.md) udløses af, at rådslagningen er forbi, og forsamlingen skal afsige sin kendelse.
 
 ## Stakes
 
-Kampen står mellem den hurtiges hovmod og den langsommes tålmodige flid. Når målstregen nås, må alle skovens dyr indse, at hurtighed uden udholdenhed intet er værd, og at den sande ære tilfalder den, som fuldfører sit arbejde med troskab.
+Sagen står ikke mellem to løbere på en bane, men mellem de stemmer i forsamlingen, der hver vil afgøre hurtighed efter sin egen målestok: fart og slægt, stilling og orden, eller udholdenhed og flid. Netop derfor bæres spillet af en forsamling af dømmende stemmer snarere end af et kapløb; kun ved at lade hver stemme fremføre sin sag kan det vise sig, hvor let en fastsat målestok bøjes, når egne interesser blander sig, og hvor de to hædersgaver til sidst dog lander på et rimeligt, om end omstridt, grundlag.
