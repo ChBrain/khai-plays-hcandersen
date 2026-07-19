@@ -1,19 +1,19 @@
 ---
 khai: process
-title: "The Revelation"
+title: "The Recognition"
 declared: "Åbenbaring"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Process: Åbenbaring
 
 ## Taxonomy
 
-Den pludselige og uformidlede erkendelse af det guddommelige nærvær, som skænkes den rene sjæl uden intellektuelle anstrengelser.
+Den stille, uforstyrrede genkendelse af det dyrebare, som pigen alene når frem til, uden lærdom eller bevis at støtte sig til.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den pludselige og uformidlede erkendelse af det guddommelige nærvær, som skæn
 
 ## Initiated by
 
-Det faldende himmelblad og det enfoldige barns modtagelige sind i haven.
+Den sælsomme plantes duft og skønhed, der møder pigens åbne og fromme blik midt i skovens upåagtede krog.
 
 ## Direction
 
-Fra de himmelske højder ned til jorden, direkte ind i hjertet på den, der ikke tvivler.
+Fra en overset plante mellem tidsler og nælder til et enkelt, elsket blad, gemt i det stille rum, et hjem og en bibel udgør.
 
 ## Lever
 
-Barnets uskyld, kærlighed og det fuldstændige fravær af fordomme eller skeptiske barrierer.
+Hendes uskyld og fromhed, der ikke kræver, at noget først lader sig forklare eller bevise, før det kan elskes.
 
 ## Echo
 
-Erkendelsen efterlader en dyb indre fred, en uudslukkelig glæde og en viden, der ikke behøver ord eller logiske beviser.
+Bladet forbliver grønt i hendes bibel og siden i hendes kiste. Det er den ene helbredelse i hele fortællingen, der virkelig lykkes, og den lindrer ingen andre end hende selv.

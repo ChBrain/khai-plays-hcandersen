@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Stolt](position_stolt.md) ukrudtsplante, der stræber efter anerkendelse trods sine skarpe pigge.
+[Stolt](position_stolt.md) tidsel ved landevejen, der regner sig selv blandt havens fine slægt og ser sin krone som et adelsmærke.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-En stikkende og vejrskærmet urt, som ranker sig trodsigt ved havegærdet og kigger opad.
+En højstammet og stivbenet plante med grå, furede stængler og en krans af skarpe, sølvgrønne blade.
 
 ## Action
 
-Den breder sine blade ud mod lyset og værner om sin smukke, rødviolette blomst mod vinden.
+Den retter sin rødlilla krone mod solen og løfter hovedet, hver gang herskabets gæster går forbi gærdet.
 
 ## Shadow
 
-En dyb misundelse over for havens fine beboere og en frygt for at ende som værdiløst affald.
+En stille bitterhed over at stå udenfor stakittet, mens dens plantede slægtning nydes som prydplante inde i haven.
 
 ## Tell
 
-Den svajer langsomt i vestenvinden og lader sine skarpe nåle sitre i det høje græs.
+Den svajer stift i vinden og lader sine pigge stritte, som var de et skjold mod ringeagt.

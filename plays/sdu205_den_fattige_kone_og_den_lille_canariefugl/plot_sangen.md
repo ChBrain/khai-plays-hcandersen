@@ -25,7 +25,7 @@ Når kanariefuglen modtager sine frø og begynder at fløjte.
 
 ## Action
 
-Oppe i [vindueskarmen](place_vindueskarmen.md) sidder [Fuglen](persona_fuglen.md) i sin position som [Sanger](position_sanger) i sit [Bur](piece_bur.md). Opmuntret af de få [Hampfroe](piece_hampfroe.md) indleder den en klar [Sang](process_sang.md), der fylder stuen med en [Hjertevarm](pitch_hjertevarm.md) klang.
+Oppe i [vindueskarmen](place_vindueskarmen.md) sidder [Fuglen](persona_fuglen.md) i sin position som [Sanger](position_sanger.md) i sit [Bur](piece_bur.md). Opmuntret af de få [Hampfroe](piece_hampfroe.md) indleder den en klar [Sang](process_sang.md), der fylder stuen med en [Hjertevarm](pitch_hjertevarm.md) klang.
 
 ## Stage
 
