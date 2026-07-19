@@ -4,6 +4,7 @@ title: "The Toad"
 declared: "Skrubtudsen"
 description: "En lille skrubtudse drømmer om det store lys og begynder en farefuld rejse mod himlen, drevet af sin indre længsel."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

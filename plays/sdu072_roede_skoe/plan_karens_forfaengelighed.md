@@ -3,6 +3,7 @@ khai: plan
 title: "Karen's Vanity Plan"
 declared: "Karens Forfængelighed"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

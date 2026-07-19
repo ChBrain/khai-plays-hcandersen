@@ -4,6 +4,7 @@ title: "Kunstens Dannevirke"
 declared: "KunstensDannevirke"
 description: "Et patriotisk forspil om kunstens og sprogets åndelige forsvar under treårskrigen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

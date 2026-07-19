@@ -4,6 +4,7 @@ title: "Agnete og Havmanden"
 declared: "Agnete"
 description: "Et dramatisk digt og læsedrama i to akter efter den gamle, tragiske folkevise om havet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

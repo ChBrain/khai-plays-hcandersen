@@ -3,6 +3,7 @@ khai: plot
 title: "The Facade of the Manor"
 declared: "Facade"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

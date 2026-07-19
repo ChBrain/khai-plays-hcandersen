@@ -4,6 +4,7 @@ title: "The Bishop of Boerglum and his Kinsman"
 declared: "Bispen paa Børglum og hans Frænde"
 description: "En grådig bisp plyndrer sine frænder, indtil slægtens hævner Jens Glob fælder ham julenat under messen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

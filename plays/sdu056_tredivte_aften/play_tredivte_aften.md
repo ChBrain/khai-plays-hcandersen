@@ -4,6 +4,7 @@ title: "Thirtieth Evening"
 declared: "Tredivte Aften"
 description: "Månen ser en bjørnetrækker og hans bjørn lege på torvet i en lille by."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

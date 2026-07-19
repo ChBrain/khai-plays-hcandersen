@@ -4,6 +4,7 @@ title: "The Wind Tells of Valdemar Daae and His Daughters"
 declared: "Vinden fortæller om Valdemar Daae og hans Døtre"
 description: "En beretning om herremanden Valdemar Daae, der forarmes af sin besættelse af alkymien, indtil vinden blæser alt bort."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

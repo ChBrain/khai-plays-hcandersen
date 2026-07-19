@@ -4,6 +4,7 @@ title: "Little Ida's Flowers"
 declared: "Den lille Idas Blomster"
 description: "Ida oplever sine visne blomster danse til et midnatsbal og begraver dem derefter i haven, så de kan gro igen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

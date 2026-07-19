@@ -4,6 +4,7 @@ title: "What Old Johanne Told"
 declared: "Hvad gamle Johanne fortalte"
 description: "Gamle Johanne beretter om sølle Rasmus, der modløs visner bort, mens trofast omhu og erindring lever videre."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

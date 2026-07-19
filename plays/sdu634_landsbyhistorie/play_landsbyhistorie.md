@@ -4,6 +4,7 @@ title: "En Landsbyhistorie"
 declared: "En Landsbyhistorie"
 description: "Et folkeskuespil i fem akter på Solhvervsgaarden, hvor kærlighed, pligt og forsoning overvinder fordomme."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

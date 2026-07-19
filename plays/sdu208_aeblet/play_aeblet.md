@@ -4,6 +4,7 @@ title: "The Apple"
 declared: "Æblet"
 description: "To børn planter en æblekerne i en urtepotte, men tiden bringer glemsel og forgængelighed, mens træet vokser."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

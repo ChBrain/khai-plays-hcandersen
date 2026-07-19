@@ -4,6 +4,7 @@ title: "Ib and Little Christine"
 declared: "Ib og lille Christine"
 description: "Ib og lille Christine vokser op sammen i skoven, men deres skæbner skilles før de finder forløsning."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

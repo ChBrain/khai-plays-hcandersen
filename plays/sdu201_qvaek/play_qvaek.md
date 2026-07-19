@@ -4,6 +4,7 @@ title: "Qvæk"
 declared: "Qvæk"
 description: "Skovens dyr stifter et kritisk blad, og en selvbestaltet frø kårer sig selv til dets kritiker."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

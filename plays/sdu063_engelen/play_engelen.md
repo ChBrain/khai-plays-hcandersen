@@ -4,6 +4,7 @@ title: "The Angel"
 declared: "Engelen"
 description: "En engel fører et afdødt barn til Himlen, mens de samler minder og en vissen markblomst fra barnets jordeliv."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

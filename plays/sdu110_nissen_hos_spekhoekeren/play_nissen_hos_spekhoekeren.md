@@ -4,6 +4,7 @@ title: "The Goblin and the Grocer"
 declared: "Nissen hos Spekhøkeren"
 description: "En nisse trækkes mellem de materielle glæder hos spækhøkeren og de poetiske åbenbaringer på studentens loftskammer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

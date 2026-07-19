@@ -4,6 +4,7 @@ title: "The Steadfast Tin Soldier"
 declared: "Den standhaftige Tinsoldat"
 description: "En tinsoldat forbliver standhaftig i sin kærlighed til en papirdanserinde gennem svære prøvelser og flammer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

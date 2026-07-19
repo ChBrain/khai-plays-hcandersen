@@ -4,6 +4,7 @@ title: "Kongen drømmer"
 declared: "KongenDroemmer"
 description: "Et originalt romantisk drama om Christian 2.s drømme og indre forsoning i Sønderborg Slots fængsel."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

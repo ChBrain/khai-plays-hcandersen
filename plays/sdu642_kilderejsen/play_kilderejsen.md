@@ -4,6 +4,7 @@ title: "Intermediet til Holbergs: Kilderejsen"
 declared: "Intermediet til Holbergs: Kilderejsen"
 description: "Et musikalsk mellemspil om folkelivet, ofringer og stævnemøder ved en hellig kilde på Sankthansaften."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

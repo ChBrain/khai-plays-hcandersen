@@ -4,6 +4,7 @@ title: "Alfsol"
 declared: "Alfsol"
 description: "Hans Christian Andersens første nordiske tragedie i fem akter om den skønne Alfsol og hendes tragiske skæbne."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

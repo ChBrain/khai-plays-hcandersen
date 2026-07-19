@@ -4,6 +4,7 @@ title: "Peiter, Peter, and Peer"
 declared: "Peiter, Peter og Peer"
 description: "Storken bringer de tre brødre Peiter, Peter og Peer til verden, hvor de møder hver deres skæbne undervejs."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

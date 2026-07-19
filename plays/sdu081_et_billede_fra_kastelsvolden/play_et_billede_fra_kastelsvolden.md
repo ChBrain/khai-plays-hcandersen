@@ -4,6 +4,7 @@ title: "A Picture from the Citadel Ramparts"
 declared: "Et Billede fra Kastelsvolden"
 description: "En veteran og et legende barn mødes på volden i en bittersød kontrast mellem liv og fængsel."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

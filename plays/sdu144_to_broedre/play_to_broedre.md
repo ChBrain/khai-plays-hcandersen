@@ -4,6 +4,7 @@ title: "Two Brothers"
 declared: "To Brødre"
 description: "To brødre ærer deres fædreland: den ene med naturvidenskabens lys, den anden med lovens og retfærdighedens sværd."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

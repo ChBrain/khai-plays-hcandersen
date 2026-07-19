@@ -3,6 +3,7 @@ khai: plot
 title: "The Moon Journey"
 declared: "Månen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

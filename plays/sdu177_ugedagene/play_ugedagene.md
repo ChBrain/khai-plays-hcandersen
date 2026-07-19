@@ -4,6 +4,7 @@ title: "The Days of the Week"
 declared: "Ugedagene"
 description: "Ugedagene mødes til gilde for at finde ud af, hvem af dem der er den vigtigste dag i det evige kredsløb."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

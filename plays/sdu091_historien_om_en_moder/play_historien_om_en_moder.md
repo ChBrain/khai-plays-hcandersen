@@ -4,6 +4,7 @@ title: "The Story of a Mother"
 declared: "Historien om en moder"
 description: "En moders desperate kamp og opofrelse for at redde sit syge barn fra Døden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

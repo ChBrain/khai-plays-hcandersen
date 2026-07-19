@@ -4,6 +4,7 @@ title: "The Ice-Maiden"
 declared: "Iisjomfruen"
 description: "Iisjomfruen kræver den unge jæger Rudy i bjergenes dybe kløfter og den kolde sø."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

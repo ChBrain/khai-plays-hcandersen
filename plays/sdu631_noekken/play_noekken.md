@@ -4,6 +4,7 @@ title: "Nøkken"
 declared: "Nøkken"
 description: "En opera i én akt i svensk sagnmiljø, hvor dronningens forklædning som Nøkken løser en elskovskonflikt."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

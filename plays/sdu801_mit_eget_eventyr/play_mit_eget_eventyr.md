@@ -4,6 +4,7 @@ title: "Mit eget Eventyr uden Digtning"
 declared: "Mit eget Eventyr uden Digtning"
 description: "Selvbiografisk erindringsspil om det kolde møde med Jacob Grimm i Berlin og den varme forsoning i København."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

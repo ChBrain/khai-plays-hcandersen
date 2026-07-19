@@ -4,6 +4,7 @@ title: "What One Can Invent"
 declared: "Hvad man kan hitte paa"
 description: "En ung mand søger digtergaven hos en klog kone i skoven, men lånte briller gør ingen digter."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

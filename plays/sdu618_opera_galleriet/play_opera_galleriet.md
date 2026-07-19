@@ -4,6 +4,7 @@ title: "Vandring gjennem Opera-Galleriet"
 declared: "Vandring gjennem Opera-Galleriet"
 description: "En deklamatorisk ramme og satirisk vaudeville, der guider tilskuerne gennem berømte operabilleder."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

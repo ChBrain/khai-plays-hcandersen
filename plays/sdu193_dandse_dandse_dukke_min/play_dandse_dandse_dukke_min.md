@@ -4,6 +4,7 @@ title: "Dance, Dance, Doll of Mine!"
 declared: "Dandse, dandse Dukke min!"
 description: "Den lille Amalie leger og synger med sin dukke, mens Tante prøver at opdrage hende til fornuft."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

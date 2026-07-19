@@ -4,6 +4,7 @@ title: "Lykkens Blomst"
 declared: "Lykkens Blomst"
 description: "En skovfoged tvivler på sin lykke og prøver digterens og prinsens skæbne, før han vender hjem."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

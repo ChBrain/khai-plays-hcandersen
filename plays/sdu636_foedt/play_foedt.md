@@ -4,6 +4,7 @@ title: "Han er ikke født"
 declared: "Han er ikke født"
 description: "Et lystspil i to akter på jyske herregårde, hvor en huslærers kærlighed overvinder standsbarrierer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

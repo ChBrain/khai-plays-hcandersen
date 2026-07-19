@@ -4,6 +4,7 @@ title: "What the Old Man Does is Always Right"
 declared: "Hvad Fatter gør, det er altid det Rigtige"
 description: "En godtroende bonde gør kun dårlige byttehandler, men vinder alligevel guld pga. sin kones urokkelige kærlighed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "Children's Talk"
 declared: "Børnesnak"
 description: "En rig pige hævder, at folk med '-sen'-navne intet er, men en fattig lerdreng vokser op og modbeviser hendes ord."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

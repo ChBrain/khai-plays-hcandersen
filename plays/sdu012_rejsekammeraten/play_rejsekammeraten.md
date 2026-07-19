@@ -4,6 +4,7 @@ title: "The Traveling Companion"
 declared: "Rejsekammeraten"
 description: "Johannes betaler en død mands gæld og får hjælp af en mystisk ledsager til at bryde en prinsesses forbandelse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

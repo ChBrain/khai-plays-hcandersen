@@ -4,6 +4,7 @@ title: "In the Children's Room"
 declared: "I Børnestuen"
 description: "Gudfaderen omdanner en børnestue til et teater, hvor en handske vækkes til live."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

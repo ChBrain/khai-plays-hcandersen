@@ -4,6 +4,7 @@ title: "En Ødeland"
 declared: "Oedeland"
 description: "Tryllespil om Flottwells ødsle forfald, tjeneren Valentins trofasthed og feen Cheristanes magiske redning."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

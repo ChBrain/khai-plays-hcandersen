@@ -4,6 +4,7 @@ title: "The Thorny Path of Honor"
 declared: "Ærens Tornevei"
 description: "Geniet vandrer ad en tornet vej gennem modgang, men historien skænker ham anerkendelse og en gylden krone."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

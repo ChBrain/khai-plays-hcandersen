@@ -3,6 +3,7 @@ khai: position
 title: "The Human"
 declared: "Menneske"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

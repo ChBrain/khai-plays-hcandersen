@@ -4,6 +4,7 @@ title: "De Vises Steen"
 declared: "De Vises Steen"
 description: "En vismand lærer sine børn om sandhed, skønhed og godhed, men kun troen finder de vises sten."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

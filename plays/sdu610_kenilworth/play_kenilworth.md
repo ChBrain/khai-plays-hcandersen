@@ -4,6 +4,7 @@ title: "Festen paa Kenilworth"
 declared: "Kenilworth"
 description: "Et romantisk syngespil i tre akter om den hemmelige kærlighed mellem Leicester og Emmy."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

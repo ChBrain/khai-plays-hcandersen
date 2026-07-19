@@ -4,6 +4,7 @@ title: "The Storks"
 declared: "Storkene"
 description: "En storkefamilie på et tag plages af drengenes onde sang, men lærer at flyve og tager en retfærdig hævn over dem."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

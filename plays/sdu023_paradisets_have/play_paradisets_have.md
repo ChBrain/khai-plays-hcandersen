@@ -4,6 +4,7 @@ title: "The Garden of Paradise"
 declared: "Paradisets Have"
 description: "En kongeprins flyver med østenvinden til Paradisets Have, men bukker under for fristelsen og kysser den smukke fe."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

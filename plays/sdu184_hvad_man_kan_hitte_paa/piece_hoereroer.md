@@ -3,6 +3,7 @@ khai: piece
 title: "The Ear Trumpet"
 declared: "Hørerør"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Storm Shifts the Signboards"
 declared: "Stormen flytter Skilt"
 description: "En storm ombytter byens skilte i natten og afslører hykleri og skjulte sandheder gennem bidende satire."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

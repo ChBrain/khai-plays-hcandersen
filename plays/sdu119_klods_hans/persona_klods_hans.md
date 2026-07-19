@@ -3,6 +3,7 @@ khai: persona
 title: "Jack the Dullard"
 declared: "Klods-Hans"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

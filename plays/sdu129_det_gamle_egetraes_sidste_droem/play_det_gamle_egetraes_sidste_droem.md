@@ -4,6 +4,7 @@ title: "The Old Oak Tree's Last Dream"
 declared: "Det gamle Egetræes sidste Drøm"
 description: "Et egetræ drømmer julenat sin skønneste drøm om himlen, mens en vinterstorm knækker dets rødder."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

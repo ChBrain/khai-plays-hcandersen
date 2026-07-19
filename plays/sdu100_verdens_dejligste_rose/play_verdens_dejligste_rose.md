@@ -4,6 +4,7 @@ title: "The World's Fairest Rose"
 declared: "Verdens dejligste Rose"
 description: "En døende dronning kan kun frelses ved at se verdens dejligste rose, som viser sig i den dybeste kærlighed i hjertet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

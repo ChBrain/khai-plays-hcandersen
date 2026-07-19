@@ -3,6 +3,7 @@ khai: plot
 title: "The Pride of the Apple Branch"
 declared: "Æblegrenens Hovmod"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

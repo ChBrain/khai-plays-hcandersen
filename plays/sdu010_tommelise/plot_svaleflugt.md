@@ -3,6 +3,7 @@ khai: plot
 title: "The Escape with the Swallow"
 declared: "Svaleflugt"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Neighbouring Families"
 declared: "Nabofamilierne"
 description: "To nabofamilier - de stolte roser og de støjende gråspurve - lever side om side adskilt af et hegn."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

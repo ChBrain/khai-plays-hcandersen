@@ -4,6 +4,7 @@ title: "The Swan's Nest"
 declared: "Svanereden"
 description: "Mellem Østersøen og Vesterhavet ligger en gammel svanerede, hvorfra stolte svaner flyver ud over hele verden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

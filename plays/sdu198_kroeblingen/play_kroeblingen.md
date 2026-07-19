@@ -4,6 +4,7 @@ title: "The Cripple"
 declared: "Krøblingen"
 description: "En lam dreng finder trøst i en eventyrbog og redder en sangfugl, hvilket fører til hans helbredelse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

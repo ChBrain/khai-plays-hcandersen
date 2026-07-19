@@ -4,6 +4,7 @@ title: "The Fir Tree"
 declared: "Grantræet"
 description: "Et ungt grantræ har så travlt med at længes efter fremtiden, at det glemmer at glæde sig over nuet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

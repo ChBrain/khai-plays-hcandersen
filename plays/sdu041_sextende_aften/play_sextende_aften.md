@@ -4,6 +4,7 @@ title: "Sixteenth Evening"
 declared: "Sextende Aften"
 description: "Månen oplyser en rejsende i ørkenen, der søger ly i sit telt under stjernerne."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

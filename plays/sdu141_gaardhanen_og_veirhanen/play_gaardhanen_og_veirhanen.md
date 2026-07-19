@@ -4,6 +4,7 @@ title: "The Yard Cock and the Weathercock"
 declared: "Gaardhanen og Veirhanen"
 description: "En stolt gårdhane og en stiv vejrhane strides om storhed, indtil stormen viser altings forfald."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

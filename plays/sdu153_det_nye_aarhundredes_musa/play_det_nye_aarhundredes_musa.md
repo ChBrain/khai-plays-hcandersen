@@ -4,6 +4,7 @@ title: "The Muse of the New Century"
 declared: "Det nye Aarhundredes Musa"
 description: "Musaen fra det nye århundrede bringer den sande digtergnist og oplysning til en ny tids modtagere."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: plan
 title: "The Quest for the Pure Maiden"
 declared: "StatuePlan"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

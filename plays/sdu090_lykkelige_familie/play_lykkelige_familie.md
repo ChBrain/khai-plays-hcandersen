@@ -4,6 +4,7 @@ title: "The Happy Family"
 declared: "Den lykkelige familie"
 description: "Hvide snegle i en skræppeskov drømmer om herregården og sikrer slægtens overlevelse gennem en arving."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: plot
 title: "The Song of the Wind"
 declared: "Vindens Sang"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

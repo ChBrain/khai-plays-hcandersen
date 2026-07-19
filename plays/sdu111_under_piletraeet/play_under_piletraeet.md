@@ -4,6 +4,7 @@ title: "Under the Willow Tree"
 declared: "Under Piletræet"
 description: "En melankolsk fortælling om barndomsvennerne Knud og Johanne, hvis kærlighed og drømme skilles under piletræets skygge."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Poor Woman and the Canary"
 declared: "Den fattige Kone og den lille Canariefugl"
 description: "En fattig enke kan ikke skaffe sin døde mand en kiste, før en nabofugls sang vækker naboernes barmhjertighed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
