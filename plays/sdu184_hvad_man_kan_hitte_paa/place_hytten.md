@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Place: Hytten
@@ -25,11 +25,11 @@ En lille stue med lavt til loftet, en knitrende ild i kaminen og hylder fyldt me
 
 ## Holds
 
-Den kloge kones [Briller](piece_briller.md) og hendes store [Bog](piece_bog.md).
+Den kloge kones [Briller](piece_briller.md) og hendes [Hørerør](piece_hoereroer.md).
 
 ## Offers
 
-Ro, inspiration og en følelse af, at magien lurer lige under overfladen.
+Ro, et lånt glimt af indsigt og en følelse af, at magien lurer lige under overfladen.
 
 ## Withheld
 

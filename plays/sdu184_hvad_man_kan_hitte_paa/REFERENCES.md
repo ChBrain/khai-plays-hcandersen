@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # What One Can Invent: Reference
@@ -33,6 +33,6 @@ Source to constraint, per file.
 - **the places ([Hytten](place_hytten.md), [Skoven](place_skoven.md))**: where it plays.
 - **the processes ([Digtning](process_digtning.md), [Inspiration](process_inspiration.md))**: the acts it turns on.
 - **the positions ([Soegende](position_soegende.md), [Indviet](position_indviet.md), [Kritisk](position_kritisk.md))**: the structural roles it fields.
-- **the pieces ([Briller](piece_briller.md), [Bog](piece_bog.md))**: the objects it turns on.
+- **the pieces ([Briller](piece_briller.md), [Hørerør](piece_hoereroer.md))**: the objects it turns on.
 - **the plans ([Soegning](plan_soegning.md), [Undervisning](plan_undervisning.md))**: the schemes it stages.
 - **the tenor ([Satirisk](pitch_satirisk.md))**: the key it is played in.
