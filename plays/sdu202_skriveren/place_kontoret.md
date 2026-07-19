@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Place: Kontoret
 
 ## Taxonomy
 
-Et stille kontor med bogreoler og et stort skrivebord i eg.
+Embedsmandens kontor, hvor skriveren første gang sætter sin pen til papiret og vinder sin herres ros.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Et stille kontor med bogreoler og et stort skrivebord i eg.
 
 ## Shown
 
-Et mørkt studerekammer med bogreoler og et stort skrivebord.
+Et velholdt kontor med et tungt skrivebord og bunker af papirer, der venter på en pæn hånd.
 
 ## Holds
 
-Den flittige [skriveren](persona_skriveren.md), det tunge [blaekhus](piece_blaekhus.md) og den hvide [fjerpen](piece_fjerpen.md).
+[Embedsmanden](persona_embedsmanden.md), [Skriveren](persona_skriveren.md) og [Pennen](piece_pennen.md), som går fra hånd til dom på samme bord.
 
 ## Offers
 
-Concentration, ro og en uforstyrret arbejdsramme.
+Et fast embede og en ugentlig ros, der stiger skriveren til hovedet.
 
 ## Withheld
 
-Udelivets støj og solens distraktioner.
+Al kundskab om de kunstarter, skriveren snart sætter sig til doms over.
