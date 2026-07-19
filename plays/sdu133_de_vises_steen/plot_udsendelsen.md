@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-19"
 ---
 
 # Plot: Udsendelsen
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Morgenlyset bryder frem over de evige mure i [Paradis](place_paradis.md), og en klar stemme kalder.
+I [Solens Træ](place_solens_trae.md) samler [Faderen](persona_faderen.md) sine børn om sig for sidste gang, før de voksne sønner skal ud i verden.
 
 ## Action
 
-[Den søgende](persona_soegende.md), som befinder sig i en [længselsfuld](position_laengselsfuld.md) tilstand, modtager den hellige [bog](piece_bog.md) og gør klar til sin [søgen](process_soegen.md). Han følger sin plan for [afsløring](plan_afsloering.md) af sandheden. Men ved havens yderste port lurer [skyggen](persona_skygge.md), klar til at indtage sin [vildledende](position_vildledende.md) rolle. Hele scenen svøbes i en stemning af dyb [mystik](pitch_mystik.md).
+[Faderen](persona_faderen.md), der er [Læremesteren](position_laeremesteren.md), viser [Bogen](piece_bogen.md) frem og lærer sine børn, hvordan det Sande, det Skønne og det Gode forenet bliver til de vises sten. [Sønnerne](persona_soennerne.md), hver [Sansesøgeren](position_sansesoegende.md) på sin egen vis, tager imod lærdommen med den sans, de hver især er begavet med, mens [Datteren](persona_datteren.md) lytter uden at kunne se bogens sider. Da tiden er inde, drager sønnerne ud, én for én, mens datteren bliver tilbage.
 
 ## Stage
 
-[Den søgende](persona_soegende.md) står ved portalen til [Paradis](place_paradis.md) med den tunge [bog](piece_bog.md) i sine hænder, mens [skyggen](persona_skygge.md) tegner sig som et mørkt omrids på tærsklen til den ydre verden.
+Fire brødre står i slottets øverste sal med bogen opslået foran sig, mens den blinde søster sidder stille i baggrunden med ansigtet vendt mod stemmerne.
 
 ## Tension
 
-Skønt rejsen begynder med håb og ren vilje, er den første tåge af tvivl allerede ved at samle sig om den søgendes fødder, idet han tager det første skridt ud.
+Faderens tillid til, at én enkelt gave er nok til at bære hver søn gennem verden, står i skarp kontrast til datterens stille, ubemærkede evne, som ingen i rummet endnu regner for noget.
