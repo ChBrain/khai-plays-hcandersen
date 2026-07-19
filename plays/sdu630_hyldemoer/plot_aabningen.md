@@ -3,6 +3,7 @@ khai: plot
 title: "The Invocation of Phantasus"
 declared: "Aabningen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

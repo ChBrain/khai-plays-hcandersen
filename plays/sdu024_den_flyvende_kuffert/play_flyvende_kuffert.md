@@ -4,6 +4,7 @@ title: "The Flying Trunk"
 declared: "Den flyvende Kuffert"
 description: "En købmandssøn flyver i en magisk kuffert til Tyrkiet, vinder en prinsesse, men mister alt da kufferten brænder."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

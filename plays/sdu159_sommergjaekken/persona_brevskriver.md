@@ -3,6 +3,7 @@ khai: persona
 title: "The Letter Writer"
 declared: "Brevskriver"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

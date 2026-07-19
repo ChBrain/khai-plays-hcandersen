@@ -4,6 +4,7 @@ title: "A Child's Tale"
 declared: "Et Børneeventyr"
 description: "To børn leger i haven og huset, mens kærlighed og tro spirer gennem deres uskyldige leg."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

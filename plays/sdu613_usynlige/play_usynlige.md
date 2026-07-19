@@ -4,6 +4,7 @@ title: "Den Usynlige paa Sprogø"
 declared: "Usynlige"
 description: "En original dramatisk spøg i én akt om en fader, der gøres usynlig på det isbelagte Sprogø."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

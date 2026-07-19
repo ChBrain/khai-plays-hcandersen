@@ -4,6 +4,7 @@ title: "The Beetle"
 declared: "Skarnbassen"
 description: "En hovmodig skarnbasse forlader kejserens stald i vrede, men må efter en svær rejse vende ydmyget hjem."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

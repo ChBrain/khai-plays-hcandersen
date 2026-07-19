@@ -4,6 +4,7 @@ title: "A Rose from Homer's Grave"
 declared: "En Rose fra Homers Grav"
 description: "En rose ved Homers grav drømmer om udødelighed og flyver ud i verden som erindring i en sangers bog."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

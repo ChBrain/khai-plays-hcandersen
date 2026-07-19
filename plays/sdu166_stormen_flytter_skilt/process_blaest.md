@@ -3,6 +3,7 @@ khai: process
 title: "The Wind"
 declared: "Blaest"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "Twenty-Fifth Evening"
 declared: "Fem og tyvende Aften"
 description: "Månen ser en lille skorstensfejer dreng dukke op på taget i morgengryet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

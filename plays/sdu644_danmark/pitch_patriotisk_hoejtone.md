@@ -3,6 +3,7 @@ khai: pitch
 title: "The Patriotic Tone"
 declared: "PatriotiskHoejtone"
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

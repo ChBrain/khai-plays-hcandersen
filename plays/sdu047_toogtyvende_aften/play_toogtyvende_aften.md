@@ -4,6 +4,7 @@ title: "Twenty-Second Evening"
 declared: "To og tyvende Aften"
 description: "Månen lyser ind i Tyrol, hvor en mand betragter de hellige billeder på husets mure under nattehimlen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

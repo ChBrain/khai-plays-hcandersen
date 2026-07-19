@@ -4,6 +4,7 @@ title: "Sixth Evening"
 declared: "Sjette Aften"
 description: "Månen kigger ind ad et lille kvistvindue og fortæller om den fattige students søgen efter sandhed."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

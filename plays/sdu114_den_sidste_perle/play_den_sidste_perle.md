@@ -4,6 +4,7 @@ title: "The Last Pearl"
 declared: "Den sidste Perle"
 description: "Engle bringer velsignelser til et nyfødt barn, men den sidste perle, sorgen, mangler for at fuldende livet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

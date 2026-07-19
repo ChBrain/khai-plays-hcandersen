@@ -4,6 +4,7 @@ title: "The Temperaments"
 declared: "Temperamenterne"
 description: "En allegorisk skildring af temperamenterne personificeret ved jordens og vandets skabninger i strid og harmoni."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

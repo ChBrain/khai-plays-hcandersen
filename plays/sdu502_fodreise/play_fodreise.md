@@ -4,6 +4,7 @@ title: "A Journey on Foot"
 declared: "Fodreise"
 description: "En fantastisk og satirisk rejse nytårsnat, hvor den unge digter fristes af Satan og vandrer mod Amager."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

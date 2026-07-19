@@ -4,6 +4,7 @@ title: "The Old God Still Lives"
 declared: "Den gamle Gud lever endnu"
 description: "En troende fader og hans håbende barn finder uventet hjælp i nød, da en fugl bringer dem brød."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

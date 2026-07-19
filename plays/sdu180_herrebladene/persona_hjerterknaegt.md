@@ -3,6 +3,7 @@ khai: persona
 title: "The Knave of Hearts"
 declared: "Hjerterknægt"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

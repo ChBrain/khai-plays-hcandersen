@@ -3,6 +3,7 @@ khai: plot
 title: "The Missing Pearl Plot"
 declared: "Mangel"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

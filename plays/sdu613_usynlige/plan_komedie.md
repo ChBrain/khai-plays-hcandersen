@@ -3,6 +3,7 @@ khai: plan
 title: "The Comedy to Trick the Father"
 declared: "KomediePlan"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

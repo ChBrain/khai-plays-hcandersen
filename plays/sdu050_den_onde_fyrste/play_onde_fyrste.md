@@ -4,6 +4,7 @@ title: "The Wicked Prince"
 declared: "Den onde Fyrste"
 description: "En hovmodig fyrste erobrer verden og angriber Gud med et luftskib, men knuses af en engel og en enkelt myg."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

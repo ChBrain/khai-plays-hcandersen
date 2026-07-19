@@ -4,6 +4,7 @@ title: "Golden Treasure"
 declared: "Guldskat"
 description: "Peter vokser op med musikken, drager i krig med sin tromme og vender hjem som en hædret musiker til moders glæde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

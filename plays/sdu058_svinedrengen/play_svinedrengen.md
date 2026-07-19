@@ -4,6 +4,7 @@ title: "The Swineherd"
 declared: "Svinedrengen"
 description: "En prins forklæder sig som svinedreng for at teste en prinsesse, der foretrækker legetøj frem for ægte roser."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

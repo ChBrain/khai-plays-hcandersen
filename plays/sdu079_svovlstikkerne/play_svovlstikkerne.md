@@ -4,6 +4,7 @@ title: "The Little Match Girl"
 declared: "Svovlstikkerne"
 description: "En frysende pige tænder svovlstikker nytårsaften, ser visioner og dør i kulden for at forenes med sin bedstemor."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

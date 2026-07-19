@@ -4,6 +4,7 @@ title: "The Girl Who Trod on the Loaf"
 declared: "Pigen som traadte paa Broedet"
 description: "Den stolte pige Inger træder på et brød for at skåne sine sko og synker i dyndet, men forløses til sidst af en tåre."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

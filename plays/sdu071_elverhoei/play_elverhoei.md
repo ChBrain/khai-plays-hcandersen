@@ -4,6 +4,7 @@ title: "The Elfin Hill"
 declared: "Elverhøi"
 description: "Elverkongen holder gilde i Elverhøi for troldgubben fra Dovre og sønnerne for at arrangere et strategisk giftermål."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

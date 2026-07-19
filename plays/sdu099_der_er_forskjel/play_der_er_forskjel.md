@@ -4,6 +4,7 @@ title: "There is a Difference"
 declared: "Der er Forskjel"
 description: "En stolt æblegren i en vase og en ydmyg mælkebøtte i grøften lærer om livets sande værdisættelse under solen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

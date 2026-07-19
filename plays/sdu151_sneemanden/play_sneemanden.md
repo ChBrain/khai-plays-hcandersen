@@ -4,6 +4,7 @@ title: "The Snowman"
 declared: "Sneemanden"
 description: "En sneemand forelsker sig i en kakkelovn og smelter væk, da foråret kommer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

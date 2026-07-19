@@ -4,6 +4,7 @@ title: "The Sunken Monastery"
 declared: "Det sjunkne Kloster"
 description: "Et kloster synker i søen, mens munken beder og åmanden ser til fra dybet."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

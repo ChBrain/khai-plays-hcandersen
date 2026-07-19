@@ -4,6 +4,7 @@ title: "To Be or Not to Be"
 declared: "Tro"
 description: "Historien om Niels Bryde, der splittes mellem kold naturvidenskab og håbet om menneskeåndens udødelighed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

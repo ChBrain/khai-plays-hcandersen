@@ -4,6 +4,7 @@ title: "Little Tuk"
 declared: "Lille Tuk"
 description: "En lille dreng passer sin søster frem for lektierne, men i en drøm besøger byerne ham og lærer ham geografien."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

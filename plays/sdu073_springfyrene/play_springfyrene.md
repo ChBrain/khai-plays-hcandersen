@@ -4,6 +4,7 @@ title: "The Jumpers"
 declared: "Springfyrene"
 description: "En loppe, en græshoppe og en springgås konkurrerer om prinsessen, og springgåsen vinder med sin forstand."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

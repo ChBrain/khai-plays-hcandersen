@@ -4,6 +4,7 @@ title: "The Story of the Year"
 declared: "Årets Historie"
 description: "En fortælling om årstidernes skiften og spurvenes evige søgen efter forår midt i vinterens kulde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

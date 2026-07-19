@@ -4,6 +4,7 @@ title: "Skriveren"
 declared: "Skriveren"
 description: "En skriver, rost for sin smukke hånd, svulmer op til selvbestaltet dommer over kunstarter, han aldrig selv har øvet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

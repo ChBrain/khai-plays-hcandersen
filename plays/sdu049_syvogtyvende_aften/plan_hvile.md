@@ -3,6 +3,7 @@ khai: plan
 title: "The Rest"
 declared: "Hvile"
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

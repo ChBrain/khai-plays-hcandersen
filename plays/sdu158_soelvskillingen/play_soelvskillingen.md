@@ -4,6 +4,7 @@ title: "The Silver Shilling"
 declared: "Soelvskillingen"
 description: "En sølvskilling rejser ud i verden, udstødes som falsk med et hul, men genoprejses ved hjemkomsten til sit hjemland."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

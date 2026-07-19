@@ -4,6 +4,7 @@ title: "The Ghost at Palnatoke's Grave"
 declared: "Gjenfaerdet"
 description: "En gotisk fortælling om overtro og uheld ved Palnatokes gravhøj, hvor Jochum møder sin tragiske skæbne."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

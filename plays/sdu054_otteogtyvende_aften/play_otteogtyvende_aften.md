@@ -4,6 +4,7 @@ title: "Twenty-Eighth Evening"
 declared: "Otte og tyvende Aften"
 description: "Månen lyser over Vreta klosterkirke i Sverige og kigger ned i stenkisterne."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

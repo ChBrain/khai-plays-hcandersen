@@ -4,6 +4,7 @@ title: "Godfather's Picture Book"
 declared: "Gudfaders Billedbog"
 description: "En smuk billedbog med klipninger og fortællinger om København, erindring og en gammel tranlygtes skæbne."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

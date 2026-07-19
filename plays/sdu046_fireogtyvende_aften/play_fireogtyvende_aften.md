@@ -4,6 +4,7 @@ title: "Twenty-Fourth Evening"
 declared: "Fire og tyvende Aften"
 description: "Månen ser ind i et borgerhus i Frankfurt, hvor en pige sidder stille med en rose."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

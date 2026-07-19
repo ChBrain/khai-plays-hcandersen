@@ -4,6 +4,7 @@ title: "Hans and Grethe"
 declared: "Hans og Grethe. Smaastykker efter det Tydske"
 description: "Frit efter det tyske forlæg: to rivaliserende naboer strides om deres hestes fortræffeligheder."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

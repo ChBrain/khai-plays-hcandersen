@@ -4,6 +4,7 @@ title: "Kong Saul"
 declared: "Kong Saul"
 description: "En operatekst i fem akter om kong Sauls jalousi mod David, et heksebesøg og Samuels åbne profeti."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

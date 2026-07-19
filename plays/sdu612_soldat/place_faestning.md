@@ -3,6 +3,7 @@ khai: place
 title: "The Decaying Fortress"
 declared: "Faestning"
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

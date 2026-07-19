@@ -4,6 +4,7 @@ title: "Da Spanierne var her"
 declared: "Da Spanierne var her"
 description: "Et romantisk lystspil i tre akter om de spanske troppers indkvartering og en tabt sølvmedaljon i Middelfart."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Pepperman's Nightcap"
 declared: "Pebersvendens Nathue"
 description: "En ensom pebersvends stille liv og død i København, mens minderne om hans ungdom holdes i live af en gammel nathue."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

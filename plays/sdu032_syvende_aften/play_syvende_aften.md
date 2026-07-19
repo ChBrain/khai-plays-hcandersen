@@ -4,6 +4,7 @@ title: "Seventh Evening"
 declared: "Syvende Aften"
 description: "Månen fortæller om en ensom svanes flyvning mod en skovsø under den dybe nattehimmel."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

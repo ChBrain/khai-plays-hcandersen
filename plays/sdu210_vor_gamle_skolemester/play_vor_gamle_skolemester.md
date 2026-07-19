@@ -4,6 +4,7 @@ title: "Our Old Schoolmaster"
 declared: "Vor gamle Skolemester"
 description: "En nostalgisk fortælling om en skolemester, der anlagde sin have som et danmarkskort for at undervise børn."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

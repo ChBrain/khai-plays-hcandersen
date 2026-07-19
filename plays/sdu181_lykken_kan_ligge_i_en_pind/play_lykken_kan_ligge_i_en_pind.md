@@ -4,6 +4,7 @@ title: "Luck can lie in a Pin"
 declared: "Lykken kan ligge i en Pind"
 description: "Drejeren og hans kone mister alt i en storm, men finder rigdom og lykke i pæregrenens små pinde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

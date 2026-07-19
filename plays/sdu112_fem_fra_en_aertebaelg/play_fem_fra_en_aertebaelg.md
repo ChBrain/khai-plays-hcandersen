@@ -4,6 +4,7 @@ title: "Five Peas from a Pod"
 declared: "Fem fra en Ærtebælg"
 description: "Fem ærter spredes i verden; den mindste spirer i en tagrende og bringer håb til en syg pige."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

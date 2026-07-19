@@ -4,6 +4,7 @@ title: "Mulatten"
 declared: "Mulatten"
 description: "Et romantisk drama i fem akter om den dannede mulat Horatio og grevinde Cecilies kamp mod uretfærdighed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

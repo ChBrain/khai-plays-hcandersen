@@ -4,6 +4,7 @@ title: "It is You, the Fable refers to!"
 declared: "Det er Dig, Fabelen sigter til!"
 description: "Fabelen søger mennesket for at spejle dets forfængelighed og afsløre den skjulte sandhed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

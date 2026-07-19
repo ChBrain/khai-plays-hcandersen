@@ -4,6 +4,7 @@ title: "The Princess and the Pea"
 declared: "Prinsessen paa Ærten"
 description: "En prins søger en ægte prinsesse, som til sidst findes ved hjælp af en enkelt ært under tyve madrasser."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

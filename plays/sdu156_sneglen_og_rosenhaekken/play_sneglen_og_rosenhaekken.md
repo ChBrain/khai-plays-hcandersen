@@ -4,6 +4,7 @@ title: "The Snail and the Rosebush"
 declared: "Sneglen og Rosenhækken"
 description: "En selvglad snegl trækker sig ind i sit hus, mens en rosenhæk trofast blomstrer for verden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

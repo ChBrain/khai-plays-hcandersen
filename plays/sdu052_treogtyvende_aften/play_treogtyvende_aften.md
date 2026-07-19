@@ -4,6 +4,7 @@ title: "Twenty-Third Evening"
 declared: "Tre og tyvende Aften"
 description: "Månen kigger ind i et kammer i København, hvor en lille dreng forundres over gøgen i et gøgur."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

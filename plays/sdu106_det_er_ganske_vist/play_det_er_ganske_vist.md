@@ -4,6 +4,7 @@ title: "It's Quite True!"
 declared: "Det er ganske vist!"
 description: "En lille fjer spredes og vokser gennem sladder, indtil den bliver til en historie om fem døde høns."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

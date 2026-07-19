@@ -4,6 +4,7 @@ title: "The Little Mermaid"
 declared: "Den lille Havfrue"
 description: "Den lille havfrue ofrer sin stemme og sit liv i havet for at få menneskeben og søge en udødelig sjæl som menneske."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

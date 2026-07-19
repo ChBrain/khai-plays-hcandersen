@@ -4,6 +4,7 @@ title: "Chicken Grethe's Family"
 declared: "Hønse-Grethes Familie"
 description: "Hønse-Grethes simple liv og Marie Grubbes historiske minder flettes sammen i herregårdens skygge."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

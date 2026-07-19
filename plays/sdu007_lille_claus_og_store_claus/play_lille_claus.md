@@ -4,6 +4,7 @@ title: "Little Claus and Big Claus"
 declared: "Lille Claus og store Claus"
 description: "Lille Claus snyder den rige Store Claus gentagne gange, indtil Store Claus frivilligt lader sig drukne i en sæk."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

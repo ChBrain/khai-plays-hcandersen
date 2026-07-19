@@ -4,6 +4,7 @@ title: "The Rose Elf"
 declared: "Rosen-Alfen"
 description: "En lille rosenalf afslører et hemmeligt mord for en ung pige, hvis sorg fører til en tragisk og blomstrende hævn."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

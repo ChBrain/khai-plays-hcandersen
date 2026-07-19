@@ -4,6 +4,7 @@ title: "The Bell"
 declared: "Klokken"
 description: "En mystisk klokkes klang i skoven drager byens folk, men kun kongesønnen og fattigdrengen vandrer til dens ophav."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

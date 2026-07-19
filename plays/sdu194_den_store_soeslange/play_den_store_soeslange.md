@@ -4,6 +4,7 @@ title: "The Great Sea Serpent"
 declared: "Den store Søslange"
 description: "Havets dyr undrer sig over det nye telegrafkabel, som de forveksler med en stor, levende søslange."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

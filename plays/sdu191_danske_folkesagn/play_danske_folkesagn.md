@@ -4,6 +4,7 @@ title: "Danish Popular Legends"
 declared: "Danske Folkesagn"
 description: "En historisk fortælling om de gamle danske folkesagn, der overleveres langs åer og skove."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

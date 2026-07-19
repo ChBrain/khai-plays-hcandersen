@@ -3,6 +3,7 @@ khai: persona
 title: "Mette Mogens"
 declared: "Mette Mogens"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

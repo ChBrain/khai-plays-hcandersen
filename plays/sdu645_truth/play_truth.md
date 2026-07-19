@@ -4,6 +4,7 @@ title: "Truth"
 declared: "Truth"
 description: "Et allegorisk og filosofisk drama om Sandhedens og Løgnens strid i det illusionerede kejserhof."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: place
 title: "Siboni's Dining Salon"
 declared: "SiboniSalonPlace"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

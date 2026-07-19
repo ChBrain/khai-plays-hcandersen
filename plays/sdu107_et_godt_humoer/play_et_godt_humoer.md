@@ -4,6 +4,7 @@ title: "Good Humor"
 declared: "Et godt Humør"
 description: "En humorist arver sin fars gode humør og bruger det til at spidde borgerskabets dysterhed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

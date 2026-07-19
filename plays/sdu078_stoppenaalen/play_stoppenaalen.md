@@ -4,6 +4,7 @@ title: "The Darning Needle"
 declared: "Stoppenaalen"
 description: "En stoppenål, der tror hun er en synål, knækker og ender i rendestenen, men bevarer sit hovmod til det sidste."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

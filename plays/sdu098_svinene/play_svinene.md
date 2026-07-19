@@ -4,6 +4,7 @@ title: "Svinene"
 declared: "Svinene"
 description: "Fortælleren mindes Dickens' svin, ser en vogn blive svinesti, og hører skovens frie svin tale om skønhed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

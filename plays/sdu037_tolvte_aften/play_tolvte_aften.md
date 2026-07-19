@@ -4,6 +4,7 @@ title: "Twelfth Evening"
 declared: "Tolvte Aften"
 description: "Månen ser en rig mand i hans store sal, der trods sin rigdom føler en dyb, indre ensomhed."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

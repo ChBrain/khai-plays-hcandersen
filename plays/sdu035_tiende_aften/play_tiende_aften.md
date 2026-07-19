@@ -4,6 +4,7 @@ title: "Tenth Evening"
 declared: "Tiende Aften"
 description: "Månen og digteren søger poesi og ro ved skoven og grøften i nattens stille stund."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

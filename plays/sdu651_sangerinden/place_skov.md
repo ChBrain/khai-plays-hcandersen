@@ -3,6 +3,7 @@ khai: place
 title: "The Italian Forest"
 declared: "ItalienskSkovPlace"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

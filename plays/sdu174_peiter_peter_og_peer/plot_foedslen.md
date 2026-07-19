@@ -3,6 +3,7 @@ khai: plot
 title: "The Birth of the Brothers"
 declared: "Fødslen"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

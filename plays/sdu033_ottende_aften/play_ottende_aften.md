@@ -4,6 +4,7 @@ title: "The Eighth Evening"
 declared: "Ottende Aften"
 description: "Månen fortæller om en fange i et tårn, der længes efter frihed bag cellens gitter."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

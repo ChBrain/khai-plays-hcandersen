@@ -4,6 +4,7 @@ title: "The Rags"
 declared: "Laserne"
 description: "Dansk las og norsk las skændes i kludebunken, før de begge kværnes og genanvendes til fint hvidt papir."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
