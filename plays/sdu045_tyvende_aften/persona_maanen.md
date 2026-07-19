@@ -3,11 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -15,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md) over Rom, der denne aften følger en fattig pige op ad kejserpaladsets trappe.
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg og klar skive over havets horisont.
+En rund, blank skive, der hænger lavt over Roms syv høje.
 
 ## Action
 
-Skinner klart over sandet og bølgerne.
+Lyser ned mellem de brudte søjler og følger pigen på hendes gang op ad trappen.
 
 ## Shadow
 
-Frygter at tidens bølger vil slette alle menneskers værker.
+Frygter at dens lys aldrig kan trøste et barn, der græder alene på marmoret.
 
 ## Tell
 
-Lyser med et blegt, tålmodigt lys over det urolige hav.
+Lægger et blegt skær hen over de knuste trin, som ventede den selv på et svar.
