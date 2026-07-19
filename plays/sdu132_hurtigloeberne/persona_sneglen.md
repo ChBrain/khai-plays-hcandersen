@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Langsom](position_langsom.md) det tålmodige kryb, der bærer sit hus og aldrig opgiver rejsen mod målet.
+Den tålmodige, hvem forsamlingen tilkender [Andenpris](piece_andenpris.md) for hendes standhaftige flid over en lang og besværlig vej.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-En lille, tålmodig sjæl med hus på ryggen, som ved, at vejen er lang, men at fliden nok skal føre frem.
+En lille skabning med hus på ryggen og en revne i skallen, som vidner om den anstrengelse, hun har lagt for dagen.
 
 ## Action
 
-Han kryber støt fremad, millimeter for millimeter, uden at se sig tilbage eller lytte til harens spot.
+Hun fortæller stille om sin lange vandring hen over [Tærsklen](place_taersklen.md), mens forsamlingen lytter med voksende respekt.
 
 ## Shadow
 
-Han kan være så indadvendt i sit sneglehus, at han ikke ænser den verden og de farer, der rører sig omkring ham.
+Hendes beskedenhed gør, at hun næsten undskylder sin egen bedrift, som var flid mindre værd end fart.
 
 ## Tell
 
-Han strækker sine følehorn forsigtigt ud, efterlader et glitrende spor af slim og nikker langsomt.
+Hun strækker sine følehorn forsigtigt frem, som lyttede hun efter, om nogen endnu tvivler på hendes ord.
