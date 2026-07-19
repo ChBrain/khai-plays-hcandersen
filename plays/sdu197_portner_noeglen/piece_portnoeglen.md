@@ -1,19 +1,19 @@
 ---
 khai: piece
 title: "The Gate Key"
-declared: "Portnoeglen"
+declared: "Portnøglen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
-# Piece: Portnoeglen
+# Piece: Portnøglen
 
 ## Taxonomy
 
-Den tunge og rustne portnøgle af jern, der oprindeligt låste porten op, men nu bruges som et mystisk spådomsredskab.
+Den ganske almindelige gadedørsnøgle, som husets folk har ophøjet til et orakel, der kan svare ja og nej og stave hele sætninger bogstav for bogstav.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den tunge og rustne portnøgle af jern, der oprindeligt låste porten op, men nu
 
 ## Place
 
-[Stuen](place_stuen.md), hvor den hænger i snoren og dingler over Bibelen.
+[Hjemmet](place_hjemmet.md), hvor den lægges tværs over to pegefingre, hver gang huset vil vide noget.
 
 ## Load Bearing
 
-Den bærer kammerrådens håb om at finde en dybere mening og vejledning i tilværelsen.
+Den bærer hele husets tro på, at Lotte-Lenes fremtid er spået rigtigt, sejr og lykke, ord der først bliver sande, længe efter at ingen længere spørger til scenen.
 
 ## Apparent
 
-En stor, gammeldags jernnøgle med et slidt skaft og et tungt hoved, der lugter af koldt metal.
+En tung, gammel jernnøgle med et slidt hoved og et almindeligt skaft, ikke til at kende fra enhver anden dørnøgle.
 
 ## Yearbook
 
-Brugt i årevis til at låse byens tunge port op og i, men nu ophøjet til at tyde åndernes hemmeligheder.
+Har låst gadedøren i årevis, lånt sin tyngde ud til utallige aftener med spørgsmål og svar, og hænger til sidst uforandret på sit søm, længe efter at husets folk er holdt op med at spørge den om noget.
