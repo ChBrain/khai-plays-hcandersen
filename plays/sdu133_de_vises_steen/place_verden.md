@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-19"
 ---
 
 # Place: Verden
 
 ## Taxonomy
 
-Det larmende og brogede sted uden for haven, hvor menneskene bor, og hvor sandheden er spredt og skjult.
+Den store, fremmede verden uden for Solens Træ, hvor hver af sønnerne fristes gennem sin egen sans, og hvor datteren til sidst vandrer i stilhed og tro.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Det larmende og brogede sted uden for haven, hvor menneskene bor, og hvor sandhe
 
 ## Shown
 
-En støjende markedsplads med blinkende lys, glitrende boder og en tæt tåge af støv og forvirrende stemmer.
+En mangfoldig og lokkende verden fuld af skjulte skatte, fjerne toner, sjældne dufte og fremmede smage, spredt over lande og byer, ingen af søskendes øjne før har set.
 
 ## Holds
 
-[Skyggen](persona_skygge.md), der lurer i krogene, og tusinde falske stene, der glimter som guld.
+[Sønnerne](persona_soennerne.md), hver fanget i sin egen fælde, og siden [Datteren](persona_datteren.md), som vandrer gennem den samme verden uden at blive fanget af noget.
 
 ## Offers
 
-Sanseindtryk, fristelser og utallige veje, der fører i alle retninger.
+Netop det, hver sans længes efter, syn for øjet, toner for øret, duft for næsen, smag for tungen, og for den, der intet søger, stille lejligheder til at gøre godt.
 
 ## Withheld
 
-Den rene sandheds enkle klarhed, som overdøves af selskabslivets råb og prang.
+Enhver genvej hjem for de fire brødre, når de først har mistet sig selv i det, deres egen sans lovede dem.
