@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Pitch: Ironisk
 
 ## Taxonomy
 
-Den tørre og ironiske grundtone, som forestillingen [Portner-nøglen](play_portner_noeglen.md) spilles i. Den ændrer ikke på begivenhederne: ikke på kammerrådens søgende natur, ikke på portnøglens svingninger og ikke på brylluppet. Den bestemmer kun den humoristiske og let spottende klang, der omgiver fortællingen om menneskelig overtro og det jævne hverdagsliv.
+Den tørre, underspillede grundtone, som [Portnøglen](play_portner_noeglen.md) spilles i. Den ændrer ikke på nøglens svar, ikke på Lotte-Lenes fiasko på scenen og ikke på kammerrådindens død, den bestemmer kun, med hvilket lune vi ser husets tro blive gjort til skamme og siden, mod al forventning, indfriet.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Den tørre og ironiske grundtone, som forestillingen [Portner-nøglen](play_port
 
 ## Tenor
 
-En munter, afmålt og let spydig tone, som en fortæller, der trækker på skulderen af kammerrådens højtidelige spådomme og i stedet ophøjer den nøgterne fornuft.
+En rolig, lidt drilsk fortællerstemme, der lader husets højtidelige spådomme stå urørte, samtidig med at den nøgternt viser, hvor lidt de faktisk forudsagde det, der siden hændte.
 
 ## Undertow
 
-Under de overtroiske sysler lurer en sandhed om, at mennesket ofte søger dybe, mystiske svar på steder, hvor der blot er koldt jern og tomme bevægelser, fordi det frygter at træffe sine egne valg.
+Under nøglens svar lurer en stille sandhed: mennesker vil helst have deres fremtid stavet af en andens hånd, fordi det er lettere end selv at vente og se, hvad livet bringer.
 
 ## Nerve
 
-Det, der rammes, er den pludselige og lidt pinlige erkendelse af, at det åndelige sværmeri blot er en flugt fra det virkelige liv, og at det mystiske orakel blot er en gammel nøgle til porten.
+Det, der rammes, er øjeblikket, hvor ordene sejr og lykke, sagt om en scene, viser sig at gælde noget, ingen i stuen havde tænkt at spørge nøglen om.
 
 ## Echo
 
-Eftersmagen af spottet og det lune grin over, at portnøglen nu hænger pænt på sit søm og kun gør gavn, når den låser døren.
+Eftersmagen af et stille grin: nøglen tog aldrig fejl, den svarede blot på et spørgsmål, husets folk først forstod mange år senere.
