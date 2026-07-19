@@ -366,8 +366,8 @@
     {
       "kind": "play",
       "id": "sdu061_venskabs_pagten",
-      "title": "The Pact of Friendship",
-      "description": "To venner indgår en hellig venskabspagt i Grækenland, men kærligheden til den samme pige sætter pagten på prøve."
+      "title": "Venskabspagten",
+      "description": "Fortælleren og Aphtanides elsker begge Anastasia, men en gammel venskabspagt gør rivalerne til fostbrødre."
     },
     {
       "kind": "play",
@@ -577,7 +577,7 @@
       "kind": "play",
       "id": "sdu096_en_historie",
       "title": "A Story",
-      "description": "En digter søger sandheden i sit kammer, mens hans skrift dømmes af verden på markedet under lyset."
+      "description": "En streng præst føres i en drøm af sin afdøde hustru gennem natten og lærer at forkynde Guds nåde."
     },
     {
       "kind": "play",
@@ -690,8 +690,8 @@
     {
       "kind": "play",
       "id": "sdu115_et_blad_fra_himlen",
-      "title": "A Leaf from Heaven",
-      "description": "Et himmelsk blad daler ned og udfordrer menneskets lærdom, men forstås fuldt ud af et enfoldigt barn."
+      "title": "Et Blad fra Himlen",
+      "description": "Et himmelsk blad gror upåagtet i skoven; en fattig pige finder fred deri, mens kongens søgen ender tomhændet."
     },
     {
       "kind": "play",
@@ -781,7 +781,7 @@
       "kind": "play",
       "id": "sdu130_abc_bogen",
       "title": "The ABC Book",
-      "description": "Striden og samarbejdet mellem bogstaverne i ABC-bogen, fra A til Å."
+      "description": "En ny ABC-bog med pyntede vers vil afløse den gamle, men hanen på dens ryg spotter versene og fælder sin dom."
     },
     {
       "kind": "play",
@@ -793,13 +793,13 @@
       "kind": "play",
       "id": "sdu132_hurtigloeberne",
       "title": "The Fast Runners",
-      "description": "En munter historie om haren, sneglen og uglen, der kappes om en pris på skovens løbebane."
+      "description": "En forsamling af dyr strides om fart, slægt og flid, før haren og sneglen hver får deres fortjente pris."
     },
     {
       "kind": "play",
       "id": "sdu133_de_vises_steen",
-      "title": "The Philosopher's Stone",
-      "description": "En søgende rejser ud i verden for at finde de vises sten, men vildledes af skyggens bedrag."
+      "title": "De Vises Steen",
+      "description": "En vismand lærer sine børn om sandhed, skønhed og godhed, men kun troen finder de vises sten."
     },
     {
       "kind": "play",
