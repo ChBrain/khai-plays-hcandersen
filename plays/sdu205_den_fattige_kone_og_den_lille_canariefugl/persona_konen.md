@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Plejer](position_plejer.md) En gammel, fattig kone, der plejer sin fugl med kærlighed.
+En fattig enke, hvis mand er død, og som ikke ejer det ringeste til hans kiste.
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-En spinkel kvinde i slidt tøj ved et tomt bord.
+En udmarvet kvinde i sorgens slid ved sin mands dødsleje.
 
 ## Action
 
-Hælder hampfrø op til fuglen og smiler mildt.
+Hun våger tavs ved liget, til den fremmede fugls sang får hende til at bære den hjem til naboerne.
 
 ## Shadow
 
-Frygter at fuglen vil sulte eller dø af kulde.
+Frygter at måtte se sin mand stedt til hvile uden så meget som en kiste.
 
 ## Tell
 
-Taler blidt til fuglen med en træt, men kærlig røst.
+Hun folder hænderne og hvisker sin nød, som ingen andre i byen kender til.

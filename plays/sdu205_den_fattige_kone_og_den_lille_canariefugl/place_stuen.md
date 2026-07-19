@@ -6,14 +6,14 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Place: Stuen
 
 ## Taxonomy
 
-En lille, tarvelig stue med et bord, en stol og et vindue.
+Den fattige stue, hvor konens mand ligger død, og hvor al stykkets handling folder sig ud.
 
 ## Owner
 
@@ -21,16 +21,16 @@ En lille, tarvelig stue med et bord, en stol og et vindue.
 
 ## Shown
 
-Et lille, spartansk værelse med et træbord under månelyset.
+Et nøgent kammer med et enkelt leje, hvor den døde hviler under et hvidt lagen, mens det åbne vindue slipper aftenluften ind.
 
 ## Holds
 
-Den kærlige [konen](persona_konen.md), det spinkle [bur](piece_bur.md) og de få [hampfroe](piece_hampfroe.md).
+Den sørgende [Konen](persona_konen.md), hendes døde mand og den fremmede [Fuglen](persona_fuglen.md), der synger ved hans hovedgærde.
 
 ## Offers
 
-Et beskedent læ mod nattens kulde og en ramme for kærlighed.
+Det sidste ly for den døde, mens konen venter på svar for sin nød.
 
 ## Withheld
 
-Rigdommens overflod og sturens varme ovn.
+Kisten selv og den ro, som først følger med naboernes barmhjertighed.
