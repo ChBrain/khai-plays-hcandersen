@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # Twelfth Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _Tolvte Aften_ (SDU-037). Månen ser en rig mand i hans store sal, der trods sin rigdom føler en dyb, indre ensomhed.
+Staging Hans Christian Andersen's _Tolvte Aften_ (SDU-037). Månen ser en sangerinde synge i Pompejis gamle amfiteater, og stilheden vender tilbage tre minutter efter.
 
 ## Origin
 
-Hans Christian Andersen, _Tolvte Aften_, catalogued as SDU-037 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Tolvte Aften_, the Twelfth Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-037 (register vid 37) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Tolvte Aften_ (SDU-037)               | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                              | Scope                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Tolvte Aften_ (SDU-037)                                                      | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                        | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Twelfth Evening](https://andersen.sdu.dk/vaerk/hersholt/TwelfthEvening.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -28,11 +29,8 @@ What the production refuses to model, and to whom it delegates.
 
 Source to constraint, per file.
 
-- **the production ([play_tolvte_aften.md](play_tolvte_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Manden](persona_manden.md))**: the figures the production casts.
-- **the places ([Salen](place_salen.md), [Huset](place_huset.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Tilbageskuen](process_tilbageskuen.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Ensom](position_ensom.md))**: the structural roles it fields.
-- **the pieces ([Guld](piece_guld.md), [Lysekrone](piece_lysekrone.md))**: the objects it turns on.
-- **the plans ([Ro](plan_ro.md))**: the schemes it stages.
-- **the tenor ([Melankolsk](pitch_melankolsk.md))**: the key it is played in.
+- **the production ([play_tolvte_aften.md](play_tolvte_aften.md))**: the root that chains the 3 plots and casts the company.
+- **the personas ([Maanen](persona_maanen.md), [Sangerinden](persona_sangerinden.md))**: the figures the production casts.
+- **the places ([Amfiteateret](place_amfiteateret.md), [Pompeji](place_pompeji.md))**: where it plays.
+- **the positions ([Fortaeller](position_fortaeller.md), [De Fremmede](position_defremmede.md))**: the structural roles it fields.
+- **the tenor ([Flygtig](pitch_flygtig.md))**: the key it is played in.
