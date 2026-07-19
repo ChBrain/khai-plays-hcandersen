@@ -25,7 +25,7 @@ Når mørket falder på, og kulden trænger ind i stuen.
 
 ## Action
 
-Inde i den mørke [stuen](place_stuen.md) sidder [Konen](persona_konen.md) i sin position som [Plejer](position_plejer) ved bordet. Hendes plan om [Overlevelse](plan_overlevelse.md) sætter gang i en blid [Pleje](process_pleje.md) af sin lille ven under en [Hjertevarm](pitch_hjertevarm.md) stemning.
+Inde i den mørke [stuen](place_stuen.md) sidder [Konen](persona_konen.md) i sin position som [Plejer](position_plejer.md) ved bordet. Hendes plan om [Overlevelse](plan_overlevelse.md) sætter gang i en blid [Pleje](process_pleje.md) af sin lille ven under en [Hjertevarm](pitch_hjertevarm.md) stemning.
 
 ## Stage
 

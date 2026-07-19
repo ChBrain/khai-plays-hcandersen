@@ -25,7 +25,7 @@ Når dagens avis omdeles, og borgeren læser nyhederne.
 
 ## Action
 
-Inde i [byen](place_byen.md) sidder [Borgeren](persona_borgeren.md) i sin position som [Modtager](position_modtager) med den nyeste [Avis](piece_avis.md). Han følger sin plan om [Afsloering](plan_afsloering.md) for at afbøde den [Misforstaaelse](process_misforstaaelse.md), der plager byen under [Satirisk](pitch_satirisk.md) stemning.
+Inde i [byen](place_byen.md) sidder [Borgeren](persona_borgeren.md) i sin position som [Modtager](position_modtager.md) med den nyeste [Avis](piece_avis.md). Han følger sin plan om [Afsloering](plan_afsloering.md) for at afbøde den [Misforstaaelse](process_misforstaaelse.md), der plager byen under [Satirisk](pitch_satirisk.md) stemning.
 
 ## Stage
 

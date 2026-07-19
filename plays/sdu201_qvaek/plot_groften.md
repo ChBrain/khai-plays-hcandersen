@@ -25,7 +25,7 @@ Når tudsen begynder at synge sin aftenkvækken.
 
 ## Action
 
-Nede i den fugtige [groften](place_groften.md) sidder [Tudsen](persona_tudsen.md) i sin position som [Sanger](position_sanger) i det bløde [mudder](piece_mudder.md). Han udfører sin [Kvaekken](process_kvaekken.md) under en [Satirisk](pitch_satirisk.md) klang.
+Nede i den fugtige [groften](place_groften.md) sidder [Tudsen](persona_tudsen.md) i sin position som [Sanger](position_sanger.md) i det bløde [mudder](piece_mudder.md). Han udfører sin [Kvaekken](process_kvaekken.md) under en [Satirisk](pitch_satirisk.md) klang.
 
 ## Stage
 
