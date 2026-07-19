@@ -4,6 +4,7 @@ title: "Portnøglen"
 declared: "Portnøglen"
 description: "Husets portnøgle spår Lotte-Lene sejr og lykke på scenen, men livet indfrier ordene et andet sted."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

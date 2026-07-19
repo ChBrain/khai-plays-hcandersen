@@ -4,6 +4,7 @@ title: "Jack the Dullard"
 declared: "Klods-Hans"
 description: "Klods-Hans vinder prinsessen og kongeriget med en død krage, en gammel træsko og pludder fra grøften."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

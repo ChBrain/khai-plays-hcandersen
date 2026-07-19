@@ -4,6 +4,7 @@ title: "The Gardener and the Noble Family"
 declared: "Gartneren og Herskabet"
 description: "En stolt gartner og hans herskab strides om havens sande frugter og herligheder."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

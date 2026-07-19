@@ -4,6 +4,7 @@ title: "The Old Street Lamp"
 declared: "Gadeløgten"
 description: "En gammel, trofast gadeløgte pensioneres og reddes af den gamle vægter til et nyt og roligt liv i hans kælder."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

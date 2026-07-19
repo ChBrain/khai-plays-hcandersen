@@ -4,6 +4,7 @@ title: "The Jewish Girl"
 declared: "Jødepigen"
 description: "Sarah holder sit løfte til sin afdøde moder, men længes i sit indre efter den kristne forløsning."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

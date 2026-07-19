@@ -4,6 +4,7 @@ title: "A Story from the Sand Dunes"
 declared: "En Historie fra Klitterne"
 description: "Jørgen overlever et skibbrud, vokser op i klitterne og finder forløsning med Clara i den sanddækkede kirke."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

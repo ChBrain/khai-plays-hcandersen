@@ -4,6 +4,7 @@ title: "Et Blad fra Himlen"
 declared: "Et Blad fra Himlen"
 description: "Et himmelsk blad gror upåagtet i skoven; en fattig pige finder fred deri, mens kongens søgen ender tomhændet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Shepherdess and the Chimney Sweep"
 declared: "Hyrdinden"
 description: "To porcelænsfigurer flygter ud i den store verden, men hyrdindens angst tvinger dem til at vende om."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

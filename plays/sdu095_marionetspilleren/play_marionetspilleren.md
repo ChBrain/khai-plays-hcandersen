@@ -4,6 +4,7 @@ title: "The Puppet-Player"
 declared: "Marionetspilleren"
 description: "En marionetspiller drømmer om levende skuespillere, men dukkerne gør oprør og kræver deres egen frihed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

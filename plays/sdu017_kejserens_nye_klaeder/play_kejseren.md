@@ -4,6 +4,7 @@ title: "The Emperor's New Clothes"
 declared: "Kejserens nye Klæder"
 description: "Kejseren bedrages til at bære usynlige klæder i en procession, indtil et lille barn råber, at han ikke har noget på."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

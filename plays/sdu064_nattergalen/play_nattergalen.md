@@ -4,6 +4,7 @@ title: "The Nightingale"
 declared: "Nattergalen"
 description: "En sand nattergal bringes til kejserens hof, forvises til fordel for en kunstfugl, men redder senere kejseren fra Døden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

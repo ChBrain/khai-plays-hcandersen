@@ -4,6 +4,7 @@ title: "Ole Lukoie"
 declared: "Ole Lukøje"
 description: "Ole Lukøje besøger Hjalmar hver nat, sprøjter sød mælk i hans øjne og viser drømme, før Døden henter ham."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

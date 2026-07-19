@@ -4,6 +4,7 @@ title: "The Two Baronesses"
 declared: "Baronesser"
 description: "Historien om den unge og gamle baronesse, der spejler overgangen fra enevælde til en ny humanistisk tid."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

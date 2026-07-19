@@ -4,6 +4,7 @@ title: "Grandmother"
 declared: "Bedstemoder"
 description: "Bedstemoder sidder i sin lænestol, fuld af kærlighed, men må sige farvel og efterlade minder hos sit barnebarn."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

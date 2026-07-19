@@ -4,6 +4,7 @@ title: "The Phoenix Bird"
 declared: "Fugl Føniks"
 description: "Fugl Føniks genfødes af asken i Paradisets have og spreder poesiens og sangens evige lys til menneskeheden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

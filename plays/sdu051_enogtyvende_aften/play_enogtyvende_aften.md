@@ -4,6 +4,7 @@ title: "Twenty-First Evening"
 declared: "En og tyvende Aften"
 description: "Månen ser en pige trøste sin dukke efterladt i et træ i haven."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

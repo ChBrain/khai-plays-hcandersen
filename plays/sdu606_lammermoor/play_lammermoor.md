@@ -4,6 +4,7 @@ title: "Bruden fra Lammermoor"
 declared: "Lammermoor"
 description: "Et romantisk syngestykke i fire akter om slægten Ravenswoods undergang og den tragiske brud."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

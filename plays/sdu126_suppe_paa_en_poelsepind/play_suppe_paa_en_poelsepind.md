@@ -4,6 +4,7 @@ title: "Soup on a Sausage Peg"
 declared: "Suppe paa en Pølsepind"
 description: "Musekongen lover sin hånd til den, der kan koge suppe på en pølsepind, hvilket sender en mus ud på en lang rejse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

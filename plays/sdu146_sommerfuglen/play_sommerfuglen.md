@@ -4,6 +4,7 @@ title: "The Butterfly"
 declared: "Sommerfuglen"
 description: "En sommerfugl søger den rette brud blandt havens blomster, men ender fastnålet i stuen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

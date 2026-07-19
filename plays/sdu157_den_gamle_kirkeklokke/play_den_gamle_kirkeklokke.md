@@ -4,6 +4,7 @@ title: "The Old Church Bell"
 declared: "Den gamle Kirkeklokke"
 description: "En gammel kirkeklokkes klang overlever støberiet og tårnet for at inspirere et ungt digterbarn."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

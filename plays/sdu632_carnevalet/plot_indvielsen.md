@@ -3,6 +3,7 @@ khai: plot
 title: "The Dedication of Mount Helicon"
 declared: "indvielsen"
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

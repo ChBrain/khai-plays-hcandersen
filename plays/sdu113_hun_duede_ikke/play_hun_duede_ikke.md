@@ -4,6 +4,7 @@ title: "She Was No Good"
 declared: "Hun duede ikke"
 description: "En fattig vaskekone slider sig ihjel for sin søn, mens borgmesteren dømmer hende hårdt."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

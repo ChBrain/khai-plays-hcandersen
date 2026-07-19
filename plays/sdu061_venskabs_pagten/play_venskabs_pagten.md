@@ -4,6 +4,7 @@ title: "Venskabspagten"
 declared: "Venskabspagten"
 description: "Fortælleren og Aphtanides elsker begge Anastasia, men en gammel venskabspagt gør rivalerne til fostbrødre."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

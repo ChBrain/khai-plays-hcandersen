@@ -4,6 +4,7 @@ title: "Twelve by the Mail"
 declared: "Tolv med Posten"
 description: "Tolv rejsende ankommer med postvognen nytårsaften for at fordele årets måneder imellem sig."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

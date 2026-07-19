@@ -4,6 +4,7 @@ title: "The Windmill"
 declared: "Veirmøllen"
 description: "En stolt vejrmølle brænder, men genopbygges af mølleren og finder derved sin dybere mening."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

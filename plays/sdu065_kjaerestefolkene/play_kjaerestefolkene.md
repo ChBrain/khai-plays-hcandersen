@@ -4,6 +4,7 @@ title: "The Sweethearts"
 declared: "Kjærestefolkene"
 description: "En snurretop frier til en læderbold, der afviser ham, forsvinder i en tagrende og genfindes år efter i skraldet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

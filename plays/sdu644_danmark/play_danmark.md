@@ -4,6 +4,7 @@ title: "Danmark"
 declared: "Danmark"
 description: "En allegorisk og patriotisk guldalderprolog om Danmarks genfundne fortid og folkets hyldest til landet."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

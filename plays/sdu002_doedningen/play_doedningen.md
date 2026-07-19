@@ -4,6 +4,7 @@ title: "The Dead Man"
 declared: "Dødningen"
 description: "Johannes betaler en død mands gæld og får følgeskab af en mystisk hjælper, der beskytter ham på rejsen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Diving Bell"
 declared: "Dykker-Klokken"
 description: "En dykker stiger ned på havbunden i sin klokke og møder en havfrue i det hemmelighedsfulde dyb."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

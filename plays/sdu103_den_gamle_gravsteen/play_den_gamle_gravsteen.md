@@ -4,6 +4,7 @@ title: "The Old Gravestone"
 declared: "Den gamle Gravsteen"
 description: "Et gammelt ægtepar mindes i deres hyggelige gård, før graven og erindringen forvandler deres eftermæle."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

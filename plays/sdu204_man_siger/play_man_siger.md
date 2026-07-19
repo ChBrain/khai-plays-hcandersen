@@ -4,6 +4,7 @@ title: "Folks Say"
 declared: '"Man siger -"!'
 description: 'Byens borgere hvisker og spreder rygter om hinanden, baseret på hvad "man siger".'
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

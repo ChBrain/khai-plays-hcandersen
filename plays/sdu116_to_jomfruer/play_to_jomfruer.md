@@ -4,6 +4,7 @@ title: "Two Maidens"
 declared: "To Jomfruer"
 description: "To stolte brolæggerjomfruer kæmper mod et nyt, sjelløst navn og mister derved deres fremtidige lykke."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

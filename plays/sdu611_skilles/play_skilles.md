@@ -4,6 +4,7 @@ title: "Skilles og mødes"
 declared: "Skilles og mødes"
 description: "En vaudeville i to dele: spanske tropper i Odense 1808, og et gensyn femogtyve år senere."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

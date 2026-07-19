@@ -3,6 +3,7 @@ khai: pitch
 title: "The Beginning of Life"
 declared: "Livets begyndelse"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

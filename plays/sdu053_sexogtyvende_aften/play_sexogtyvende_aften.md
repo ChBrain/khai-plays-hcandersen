@@ -4,6 +4,7 @@ title: "Twenty-Sixth Evening"
 declared: "Sex og tyvende Aften"
 description: "Månen lyser over smalle gader i Kina og kigger ind i et tempel, hvor en præst tænder lamperne."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

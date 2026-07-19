@@ -65,3 +65,28 @@ stays `0.x`; the numbering guard rejects a major bump.
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); the
 source is credited where it is in the public domain, never claimed. `main` is
 protected: pull requests and the gate checks are required before merge.
+
+## Provenance
+
+Invention is legitimate; unmarked invention is the defect. The rule is canon,
+not house-local: `@chbrain/khai-arch` owns the vocabulary (`provenanceValues`)
+and the kit enforces it per file. Every content file declares in frontmatter
+where its substance stands relative to the declared source - the file is
+always this house's authorship; provenance says whether the substance derives
+from the source:
+
+```yaml
+provenance: sourced | free | unverified
+```
+
+- **sourced** - the substance derives from the declared work; divergence from
+  the source is a finding.
+- **free** - declared invention, knowingly beyond or beside the source; a
+  marked invention reviews as clean, and fidelity findings do not apply to it.
+- **unverified** - the sourcing is not yet proven; the file claims no
+  fidelity until resolved.
+
+An absent key reads as **sourced** - the strictest class is the default, so
+silence never launders invention. Class moves are Choregos rulings, by order
+only. The house adopts the canon-borne key via the kit bump and backfills its
+declarations in the same change.

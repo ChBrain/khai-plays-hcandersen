@@ -4,6 +4,7 @@ title: "Grief of Heart"
 declared: "Hjertesorg"
 description: "Børn betaler knapper for at se en hundegrav, mens en fattig dreng udelukkes og rammes af ægte hjertesorg."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

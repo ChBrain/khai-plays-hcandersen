@@ -4,6 +4,7 @@ title: "The Bottle Neck"
 declared: "Flaskehalsen"
 description: "En flaske gennemgår en lang livscyklus fra stolthed til brud, indtil kun halsen er tilbage som fuglekop."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "In a Thousand Years"
 declared: "Om Aartusinder"
 description: "Amerikas unge flyver i luftskib over verdenshavet for at se det gamle Europas historiske ruiner på en hastig rundrejse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

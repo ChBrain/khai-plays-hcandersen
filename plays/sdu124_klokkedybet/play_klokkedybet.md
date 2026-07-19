@@ -4,6 +4,7 @@ title: "The Bell-Deep"
 declared: "Klokkedybet"
 description: "En kirkeklokke falder i Odense Å, hvor Åmanden lytter til dens klang og minder fra dybet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

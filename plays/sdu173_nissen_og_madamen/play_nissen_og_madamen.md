@@ -4,6 +4,7 @@ title: "The Goblin and the Woman"
 declared: "Nissen og Madamen"
 description: "Nissen må vælge mellem madammens grød og gartnerens vers i en strid om poesi og praktisk husholdning."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

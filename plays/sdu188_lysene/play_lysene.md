@@ -4,6 +4,7 @@ title: "The Candles"
 declared: "Lysene"
 description: "To lys har forskellige skæbner: det ene stolt i stuen, det andet ydmygt og glædesbringende i hytten."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Wild Swans"
 declared: "De vilde Svaner"
 description: "Elisa må udstå stumhed og strikke brændenældeskjorter for at befri sine elleve brødre fra heksens forbandelse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

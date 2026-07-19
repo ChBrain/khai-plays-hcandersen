@@ -4,6 +4,7 @@ title: "Ogier the Dane"
 declared: "Holger Danske"
 description: "Holger Danske sover under Kronborg og venter på at vågne, mens en billedskærer foreviger ham i en galionsfigur."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Fast Runners"
 declared: "Hurtigløberne"
 description: "En forsamling af dyr strides om fart, slægt og flid, før haren og sneglen hver får deres fortjente pris."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

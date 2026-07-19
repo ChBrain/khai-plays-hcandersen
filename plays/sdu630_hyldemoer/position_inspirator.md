@@ -3,6 +3,7 @@ khai: position
 title: "Inspirer of Dreams"
 declared: "DrømmeInspirator"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

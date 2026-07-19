@@ -4,6 +4,7 @@ title: "On the Last Day"
 declared: "På den yderste Dag"
 description: "En afdød mands sjæl rejser mod Himlen med en engel og møder Guds uendelige nåde under dommen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

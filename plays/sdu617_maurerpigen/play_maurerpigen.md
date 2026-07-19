@@ -4,6 +4,7 @@ title: "Maurerpigen"
 declared: "Maurerpigen"
 description: "En tragedie i fem akter om den spanske heltinde Raphaella og hendes skæbnesvangre sande ophav."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

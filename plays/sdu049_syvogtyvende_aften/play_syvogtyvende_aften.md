@@ -4,6 +4,7 @@ title: "Twenty-Seventh Evening"
 declared: "Syv og tyvende Aften"
 description: "Månen skinner over havet og følger en flok vilde svaner, hvoraf en træt svane synker."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

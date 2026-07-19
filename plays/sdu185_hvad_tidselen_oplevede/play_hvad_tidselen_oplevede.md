@@ -4,6 +4,7 @@ title: "What the Thistle Experienced"
 declared: "Hvad Tidselen oplevede"
 description: "En stolt tidsel ved gærdet bliver Skotlands mærke i en forlovelse og finder til sidst sin plads i selve eventyret."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

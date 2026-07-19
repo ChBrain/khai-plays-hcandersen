@@ -4,6 +4,7 @@ title: "The Teapot"
 declared: "Theepotten"
 description: "En stolt theepotte mister sin hank og tud, degraderes til urtepotte, men finder ny skønhed ved at huse en blomst."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

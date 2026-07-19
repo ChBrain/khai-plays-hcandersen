@@ -4,6 +4,7 @@ title: "A Story"
 declared: "En Historie"
 description: "En streng præst føres i en drøm af sin afdøde hustru gennem natten og lærer at forkynde Guds nåde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

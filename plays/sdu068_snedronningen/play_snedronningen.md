@@ -4,6 +4,7 @@ title: "The Snow Queen"
 declared: "Snedronningen"
 description: "Gerda søger efter Kay, som er bortført af Snedronningen, og redder ham med sine varme tårer i ispaladset."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

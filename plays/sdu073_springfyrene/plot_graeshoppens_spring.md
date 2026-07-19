@@ -3,6 +3,7 @@ khai: plot
 title: "The Grasshopper's Jump"
 declared: "Græshoppens spring"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

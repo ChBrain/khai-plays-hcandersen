@@ -3,6 +3,7 @@ khai: pitch
 title: "The Holbergian Satire"
 declared: "HolbergLystspil"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

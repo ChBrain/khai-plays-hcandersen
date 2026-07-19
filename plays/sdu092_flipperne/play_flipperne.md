@@ -4,6 +4,7 @@ title: "The Shirt Collar"
 declared: "Flipperne"
 description: "En pralende flip frier til alle han møder, ender som klud og genanvendes til papir."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

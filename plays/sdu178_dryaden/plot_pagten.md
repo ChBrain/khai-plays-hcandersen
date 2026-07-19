@@ -3,6 +3,7 @@ khai: plot
 title: "The Pact of Liberation"
 declared: "Pagten"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

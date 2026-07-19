@@ -4,6 +4,7 @@ title: "Hr. Rasmussen"
 declared: "Hr. Rasmussen"
 description: "Et muntert lystspil i to akter om hr Rasmussens kejtede frieri og selskabets rygter."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

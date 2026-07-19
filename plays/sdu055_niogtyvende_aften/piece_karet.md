@@ -3,6 +3,7 @@ khai: piece
 title: "The Carriage"
 declared: "Karet"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "The Bird of Popular Song"
 declared: "Folkesangens Fugl"
 description: "Folkesangens Fugl flyver over vand og skov for at bringe sang, erindring og poesi til folket."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

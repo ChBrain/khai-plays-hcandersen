@@ -4,6 +4,7 @@ title: "The Old House"
 declared: "Det gamle Hus"
 description: "Et forfaldent hus står i kontrast til moderne omgivelser, mens en tinsoldat bringer trøst til dets ensomme beboer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

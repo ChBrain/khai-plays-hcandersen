@@ -3,6 +3,7 @@ khai: plot
 title: "The Rest in the Grave"
 declared: "Hvilen i Graven"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

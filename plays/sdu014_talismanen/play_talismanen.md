@@ -4,6 +4,7 @@ title: "The Talisman"
 declared: "Talismanen"
 description: "Et ungt par søger lykkens talisman og finder den i hyttens simple nøjsomhed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

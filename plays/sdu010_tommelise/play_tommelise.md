@@ -4,6 +4,7 @@ title: "Thumbelina"
 declared: "Tommelise"
 description: "Den lille pige Tommelise overvinder tvungne ægteskaber med tudser og muldvarpe og flyver mod friheden med en svale."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

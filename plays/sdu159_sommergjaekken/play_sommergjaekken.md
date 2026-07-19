@@ -4,6 +4,7 @@ title: "The Snowdrop"
 declared: "Sommergjækken"
 description: "En lille sommergæk bryder gennem sneen, plukkes, lægges i et brev og presses i en bog som et minde om kærlighed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

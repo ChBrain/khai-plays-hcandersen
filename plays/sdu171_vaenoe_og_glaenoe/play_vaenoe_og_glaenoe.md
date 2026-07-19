@@ -4,6 +4,7 @@ title: "Vaenoe and Glaenoe"
 declared: "Vænø og Glænø"
 description: "En ø opsluges af havet, mens en anden trues og beskyttes af menneskets dæmninger."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

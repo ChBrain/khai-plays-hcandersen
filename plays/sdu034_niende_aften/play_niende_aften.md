@@ -4,6 +4,7 @@ title: "The Ninth Evening"
 declared: "Niende Aften"
 description: "Månen fortæller om en gøgler på torvet, der underholder med sin tromme og maske under nattens stjerner."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "Brylluppet ved Como-Søen"
 declared: "ComoSoeBryllup"
 description: "En romantisk opera i tre akter om Renzos og Lucias trolovelse og adskillelse ved Como-Søen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

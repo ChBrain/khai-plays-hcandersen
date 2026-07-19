@@ -4,6 +4,7 @@ title: "The Greenies"
 declared: "De smaa Grønne"
 description: "En rosenbusk hjemsøges af indbildske bladlus, der udsuges af mariehønen i havens lille og grusomme drama."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

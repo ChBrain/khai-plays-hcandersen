@@ -3,6 +3,7 @@ khai: plot
 title: "The Leap-Frog's Triumph"
 declared: "Springgåsens triumf"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

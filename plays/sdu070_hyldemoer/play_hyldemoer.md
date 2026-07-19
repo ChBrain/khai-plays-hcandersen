@@ -4,6 +4,7 @@ title: "The Elder-Mother"
 declared: "Hyldemoer"
 description: "En syg dreng hører eventyret om Hyldemor og mindes et langt og kærligt liv under hyldetræets grene."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

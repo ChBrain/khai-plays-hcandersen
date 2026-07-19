@@ -4,6 +4,7 @@ title: "The ABC Book"
 declared: "ABC-Bogen"
 description: "En ny ABC-bog med pyntede vers vil afløse den gamle, men hanen på dens ryg spotter versene og fælder sin dom."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

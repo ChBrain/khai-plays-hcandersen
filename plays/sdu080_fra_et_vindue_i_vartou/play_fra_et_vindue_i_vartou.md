@@ -4,6 +4,7 @@ title: "From a Window in Vartov"
 declared: "Fra et Vindue i Vartou"
 description: "En gammel pige sidder ved Vartous vindue, mindes sin ungdoms kærlighed og skuer ud på voldens grønne liv."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

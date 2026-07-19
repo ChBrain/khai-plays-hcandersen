@@ -3,6 +3,7 @@ khai: persona
 title: "Holger Danske"
 declared: "Holger Danske"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

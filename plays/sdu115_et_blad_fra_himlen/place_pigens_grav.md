@@ -3,6 +3,7 @@ khai: place
 title: "The Girl's Grave"
 declared: "Pigens Grav"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

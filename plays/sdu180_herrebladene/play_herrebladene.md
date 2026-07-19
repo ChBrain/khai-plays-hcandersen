@@ -4,6 +4,7 @@ title: "The Court Cards"
 declared: "Herrebladene"
 description: "Kortene i papirslottet vågner til live og diskuterer renlighed, hovmod og livets sande værdier."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

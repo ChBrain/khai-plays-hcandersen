@@ -4,6 +4,7 @@ title: "Will-o'-the-Wisps Are in Town"
 declared: "Lygtemændene ere i Byen, sagde Mosekonen"
 description: "Mosekonen brygger og lygtemændene drager i byen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

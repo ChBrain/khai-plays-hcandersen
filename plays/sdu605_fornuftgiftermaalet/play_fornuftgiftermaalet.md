@@ -4,6 +4,7 @@ title: "Fornuftgiftermaalet Nr. 2"
 declared: "Fornuftgiftermaalet"
 description: "En satirisk, dramatisk drøm på Skagens Rev, hvor personificerede komedier undervises af en streng skolemester."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

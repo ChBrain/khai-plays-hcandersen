@@ -3,6 +3,7 @@ khai: persona
 title: "The Hen and the Cat"
 declared: "Hønen og Katten"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -4,6 +4,7 @@ title: "Den nye Barselstue"
 declared: "DenNyeBarselstue"
 description: "Et satirisk lystspil i én akt, der parodierer litterære kredse og plagiat."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

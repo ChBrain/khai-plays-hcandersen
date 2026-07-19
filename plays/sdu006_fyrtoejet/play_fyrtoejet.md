@@ -4,6 +4,7 @@ title: "The Tinderbox"
 declared: "Fyrtøjet"
 description: "En soldat stiger til tops og bliver konge ved hjælp af et magisk fyrtøj og tre store hunde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

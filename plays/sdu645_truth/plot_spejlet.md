@@ -3,6 +3,7 @@ khai: plot
 title: "The Light of the Mirror"
 declared: "spejlet"
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

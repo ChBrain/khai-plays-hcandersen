@@ -4,6 +4,7 @@ title: "A Section of Pearl-String"
 declared: "Et stykke Perlesnor"
 description: "Danmark bindes sammen af jernbanens skinner som en perlesnor, mens den rejsende samler sine erindringer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

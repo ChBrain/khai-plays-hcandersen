@@ -4,6 +4,7 @@ title: "The Flea and the Professor"
 declared: "Loppen og Professoren"
 description: "En luftslipper og hans dresserede loppe fanges af vilde, men undslipper ved list og en stor ballon."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
