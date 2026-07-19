@@ -2,13 +2,13 @@
 khai: play
 title: "Thirty-Second Evening"
 declared: "To og tredivte Aften"
-description: "Månen forsøger at kigge frem bag de jagende skyer under en kold og blæsende nat."
+description: "Gennem stormens flygtige lysglimt ser månen en fange riste et afskedstegn i cellens mur, før vognen fører ham bort."
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: To og tredivte Aften
@@ -23,28 +23,23 @@ To og tredivte Aften
 
 ## Arc
 
-Vinden blæser koldt og stærkt, og mørke skyer jager hen over himlen, så månen kun i korte øjeblikke kan kigge frem. Månen ser ned på en stille by, hvor gaderne ligger øde under stormen. Den betragter menneskenes lukkede huse og forsøger at sende sit måneskin ned som en trøstende hilsen i natten. Månen bevarer stormens kolde susen i sin evige fortælling, før den dækkes helt af skyerne.
+Vejret er koldt, stormfuldt og overskyet, og månen når kun i korte glimt at kaste sit lys mod jorden. Gennem et sådant glimt ser den ned i en øde fangegård, hvor en lukket vogn holder rede til at føre en fange bort, ud i landflygtighed eller mod døden. Inde i cellen falder månens stråler mellem de jernbeslagne tremmer og rammer fangen, der rister et sidste ord til afsked ind i murens sten, før han føres ud til vognen. Stormen suser om murene som en del af aftenens egen stemning, mens månen bærer billedet videre i sin fortælling til den fattige maler.
 
 ## Company
 
-- [Maanen](persona_maanen.md)
-- [Blaeser](persona_blaeser.md)
-- [Fortaeller](position_fortaeller.md)
-- [Vind](position_vind.md)
-- [Sky](piece_sky.md)
-- [Maaneskin](piece_maaneskin.md)
-- [Himlen](place_himlen.md)
-- [Byen](place_byen.md)
-- [Fortaelling](process_fortaelling.md)
-- [Storm](process_storm.md)
-- [Erindring](plan_erindring.md)
-- [Melankolsk](pitch_melankolsk.md)
+- [Månen](persona_maanen.md)
+- [Fangen](persona_fangen.md)
+- [Fortæller](position_fortaeller.md)
+- [Afskedsord](piece_afskedsord.md)
+- [Fangegården](place_fangegaarden.md)
+- [Iagttagelse](process_iagttagelse.md)
+- [Dyster](pitch_dyster.md)
 
 ## Triggers
 
-- [plot_natten.md](plot_natten.md) når stormen bryder løs over den stille by.
-- [plot_stormen.md](plot_stormen.md) når vinden blæser skyerne væk i et kort sekund.
+- [plot_glimt.md](plot_glimt.md) når stormen for et øjeblik lader skyerne glide fra hinanden.
+- [plot_afsked.md](plot_afsked.md) når måneskinnet når ind gennem tremmerne til fangens celle.
 
 ## Stakes
 
-Kampen står mellem stormens og skyernes forsøg på at formørke scenen, og månens vilje til at sende sit lys ned til den øde by.
+Kampen står ikke mellem stridende kræfter, men mellem stormens mørke og et enkelt, flygtigt glimt af lys. Aftenen rummer ingen udvikling og intet forehavende, kun ét ubevægeligt billede: en fange, en mur, et ristet ord og den vogn, der venter. Derfor bæres stykket alene af månen som fortæller og af det ene spor, hun får øje på, før mørket lukker sig om det igen.
