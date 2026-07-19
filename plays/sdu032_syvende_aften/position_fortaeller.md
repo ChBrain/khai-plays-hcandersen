@@ -3,18 +3,18 @@ khai: position
 title: "The Narrator"
 declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Position: Fortaeller
 
 ## Taxonomy
 
-En rolig og alvidende position, som fra sin høje plads betragter verden og genfortæller nattens hændelser.
+Den evige betragter af jordens begivenheder.
 
 ## Owner
 
@@ -22,16 +22,16 @@ En rolig og alvidende position, som fra sin høje plads betragter verden og genf
 
 ## Has
 
-Evnen til at se gennem nattens mørke og en stemme, der kan bringe det fjerne og glemte nær.
+Et roligt blik og sandfærdig tale.
 
 ## Orders
 
-Vandring over himmelen, iagttagelse af skovens og søens hemmeligheder, og deling af disse syner med den unge kunstner.
+Gem hvert øjeblik, der bærer betydning.
 
 ## Loses
 
-Sin forbindelse til jorden, da han kun kan betragte begivenhederne uden at røre dem.
+Evnen til selv at deltage i livet.
 
 ## Drives
 
-Trangen til at bevare øjeblikkets skønhed og nattens fortællinger mod glemslens mørke.
+At holde minderne i live.
