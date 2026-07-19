@@ -1,16 +1,16 @@
 ---
 khai: play
 title: "Skilles og mødes"
-declared: "Skilles"
-description: "En original vaudeville i to afdelinger om rejsende strandet på Sprogø i Storebælts drivis."
+declared: "Skilles og mødes"
+description: "En vaudeville i to dele: spanske tropper i Odense 1808, og et gensyn femogtyve år senere."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-19"
 ---
 
-# Play: Skilles
+# Play: Skilles og mødes
 
 ## Estate
 
@@ -18,34 +18,33 @@ stamp:
 
 ## Name
 
-Skilles
+Skilles og mødes
 
 ## Arc
 
-En broget gruppe af rejsende, herunder den strenge agent Blomme, hans datter Ingeborg, og hendes hemmelige elsker, den unge læge Andreas Meier, bliver strandet på den lille ø Sprogø midt i Storebælt på grund af voldsom drivis. Den unge Theodor Granner, som også er strandet på øens kro, opdager det unge pars hemmelighed og beslutter sig for at optræde som en hjælpsom formidler for at føre de to elskende sammen bag faderens ryg. Efter tyve år mødes karaktererne igen under helt andre livsomstændigheder, hvor ungdommens sværmeriske drømme og minder om separationen på Sprogø kastes i et nyt lys. Vaudevillens muntre og melankolske sange fletter fortidens og nutidens skæbner sammen, hvilket fører elskerne til en endelig, lykkelig genforening og fuldender cyklussen om at skilles og mødes.
+I 1808 indkvarteres spanske hjælpetropper i Odense, og byens indbyggere tager imod dem med den varme og skælmske nysgerrighed, som eftertiden har husket dem for. Midt i indkvarteringen forelsker en ung spansk soldat sig i en Odense-pige, hvis formynder våger over hende med borgerlig forsigtighed. Kærligheden må vige for regimentets videre march, og de unge skilles, som stykkets første del selv hedder, Spanierne i Odense. Komikeren Diego og hans makker Agenten fylder krostuerne med deres muntre duet, mens byen venter på afskeden. Femogtyve år senere mødes det gamle selskab igen, ældet og forandret af tiden, i stykkets anden del, Fem og tyve Aar derefter, hvor genkendelsens glæde langsomt letter den tavshed, årene har lagt mellem dem. Den barske afsked og den milde genforening fletter sig sammen til stykkets eget kredsløb, at skilles og at mødes.
 
 ## Company
 
-- [IngeborgPersona](persona_ingeborg.md)
-- [AndreasPersona](persona_andreas.md)
-- [TheodorPersona](persona_theodor.md)
-- [Elskerinde](position_elskerinde.md)
+- [Spanioleren](persona_spanioleren.md)
+- [Pigen](persona_pigen.md)
+- [Formynderen](persona_formynderen.md)
+- [DiegoOgAgenten](persona_diego_agenten.md)
 - [Bejler](position_bejler.md)
-- [Formidler](position_formidler.md)
-- [Murersang](piece_murersang.md)
-- [Sprogoe](place_sprogoe.md)
-- [Kroen](place_kroen.md)
-- [Drivis](process_drivis.md)
-- [Vaudeville](process_vaudeville.md)
-- [HjaelpPlan](plan_hjaelp.md)
-- [Svaermerisk](pitch_svaermerisk.md)
+- [Kaereste](position_kaereste.md)
+- [Formynder](position_formynder.md)
+- [Duetten](piece_duetten.md)
+- [Kvarteret](place_kvarteret.md)
+- [Byen](place_byen.md)
+- [Indkvartering](process_indkvartering.md)
+- [Genkendelse](process_genkendelse.md)
+- [Kredsløb](pitch_kredsloeb.md)
 
 ## Triggers
 
-- [plot_strandingen.md](plot_strandingen.md) udløses, når skipperen melder Storebælt fuld af drivis, og vognen standser foran kroen.
-- [plot_forviklingen.md](plot_forviklingen.md) udløses, når Theodor sætter sig ved klaveret og slår tonerne an til murersangen.
-- [plot_foreningen.md](plot_foreningen.md) udløses, når tyve år er gået, og det gamle rejseselskab mødes igen under forårets sol.
+- [plot_spanierne.md](plot_spanierne.md) udløses, når de spanske hjælpetropper ankommer og indkvarteres hos Odenses borgere i 1808.
+- [plot_femogtyve.md](plot_femogtyve.md) udløses, når det gamle rejseselskab mødes igen, femogtyve år efter adskillelsen.
 
 ## Stakes
 
-Kampen står mellem faderens borgerlige forventninger og de unge elskendes romantiske trofasthed midt i naturens kolde blokade.
+Kampen står mellem krigens flygtige nærhed og borgerskabets tålmodige, forsigtige ventetid, mens femogtyve års adskillelse sætter de unges løfter på en langsom prøve. Fordi hverken det fulde manuskript eller de unge elskendes egentlige navne fra 1835 har kunnet opspores i denne research, holder opsætningen sig bevidst til det bekræftede, Diego og Agenten, og lader den spanske soldat, den danske pige og hendes formynder stå unavngivne, frem for at låne navne eller genstande fra Andersens senere og forskellige stykke om de samme spanske tropper.
