@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # Seventh Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _Syvende Aften_ (SDU-032). Månen fortæller om en ensom svanes flyvning mod en skovsø under den dybe nattehimmel.
+Staging Hans Christian Andersen's _Syvende Aften_ (SDU-032). Månen ser rejsende passere vikingegraven ligegyldigt, mens en fattig pige til sidst stille beder ved dens sten.
 
 ## Origin
 
-Hans Christian Andersen, _Syvende Aften_, catalogued as SDU-032 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Syvende Aften_, the Seventh Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-032 (register vid 32) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Syvende Aften_ (SDU-032)              | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                                | Scope                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Syvende Aften_ (SDU-032)                                                       | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                          | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Seventh Evening](https://andersen.sdu.dk/vaerk/hersholt/SeventhEvening_e.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -28,11 +29,9 @@ What the production refuses to model, and to whom it delegates.
 
 Source to constraint, per file.
 
-- **the production ([play_syvende_aften.md](play_syvende_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Svanelederen](persona_svanelederen.md))**: the figures the production casts.
-- **the places ([Himlen](place_himlen.md), [Skoven](place_skoven.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Flugt](process_flugt.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Baerer](position_baerer.md))**: the structural roles it fields.
-- **the pieces ([Svanevinge](piece_svanevinge.md), [Skovsoe](piece_skovsoe.md))**: the objects it turns on.
-- **the plans ([Rejse](plan_rejse.md))**: the schemes it stages.
-- **the tenor ([mystisk](pitch_mystisk.md))**: the key it is played in.
+- **the production ([play_syvende_aften.md](play_syvende_aften.md))**: the root that chains the 3 plots and casts the company.
+- **the personas ([Maanen](persona_maanen.md), [Pigen](persona_pigen.md))**: the figures the production casts.
+- **the positions ([Fortaeller](position_fortaeller.md), [De Rejsende](position_rejsende.md))**: the structural roles it fields.
+- **the piece ([Vikingegraven](piece_vikingegraven.md))**: the object it turns on.
+- **the place ([Landevejen](place_landevejen.md))**: where it plays.
+- **the tenor ([Andaegtig](pitch_andaegtig.md))**: the key it is played in.

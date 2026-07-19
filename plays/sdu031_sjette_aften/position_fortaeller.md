@@ -1,20 +1,20 @@
 ---
 khai: position
 title: "The Narrator"
-declared: "Fortæller"
+declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
-# Position: Fortæller
+# Position: Fortaeller
 
 ## Taxonomy
 
-Holdningen hos månen, der uden at gribe ind observerer verden og genfortæller dens skæbner med mild indsigt.
+Den evige betragter af jordens begivenheder.
 
 ## Owner
 
@@ -22,16 +22,16 @@ Holdningen hos månen, der uden at gribe ind observerer verden og genfortæller 
 
 ## Has
 
-Et klart overblik over menneskenes liv, en rolig røst og evnen til at se gennem de mørkeste vinduer.
+Et roligt blik og sandfærdig tale.
 
 ## Orders
 
-Fortæl trofast om hvad du ser på din natlige vandring, og lad dine ord bringe trøst.
+Gem hvert øjeblik, der bærer betydning.
 
 ## Loses
 
-Muligheden for selv at deltage i det jordiske liv eller gribe ind i menneskenes skæbner.
+Evnen til selv at deltage i livet.
 
 ## Drives
 
-Trangen til at bevare øjeblikkets skønhed og dele den med digteren.
+At holde minderne i live.
