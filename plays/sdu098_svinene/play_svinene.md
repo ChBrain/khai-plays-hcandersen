@@ -1,13 +1,13 @@
 ---
 khai: play
-title: "The Pigs"
+title: "Svinene"
 declared: "Svinene"
-description: "En munter og bidende samtale mellem en ørn på en mødding og en gammel so i stalden om stolthed og rigtigt liv."
+description: "Fortælleren mindes Dickens' svin, ser en vogn blive svinesti, og hører skovens frie svin tale om skønhed."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: Svinene
@@ -22,27 +22,22 @@ Svinene
 
 ## Arc
 
-En stolt ørn, hvis vinger er stækkede, slår sig ned på gårdens mødding. Her møder han staldens beboere, anført af en gammel, selvtilfreds so. Der opstår en heftig strid om, hvad der er det sande og rigtige liv. Soen praler af sin lune stald, sit fulde trug og sit mudderhul, mens ørnen taler om himmelrummet og stormens frihed. Til sidst udstilles begges hovmod som tomme ord, der intet ændrer ved deres begrænsede tilværelse.
+Endnu før rejsen når Sverige, mindes fortælleren et gammelt ord om svinet fra den kære Charles Dickens, og siden den tid kommer man i lune blot af at høre en gris grynte. Ad en svensk skovvej ser han så en udtjent, fornem karet, sæderne og hjulene borte, gjort til svinesti for fire grise. Da han om efteråret kører forbi igen, står vognen tom; svinene er sluppet fri og lever nu som herrer i skoven. I deres rod mellem træerne falder ungerne og deres mor i en lille meningsudveksling: for ungerne tæller kun det spiselige, men Svinemoder svarer stille, at der altid vil findes nogen med sans for det skønne.
 
 ## Company
 
-- [Ørnen](persona_ornen.md)
-- [Soen](persona_soen.md)
-- [Stolt](position_stolt.md)
-- [Stalden](place_stalden.md)
-- [Marken](place_marken.md)
-- [Truget](piece_trug.md)
-- [Halmen](piece_halm.md)
-- [Æde](process_aede.md)
-- [Pludder](process_pludder.md)
-- [Status](plan_status.md)
-- [Satirisk](pitch_satirisk.md)
+- [Fortælleren](persona_fortaelleren.md)
+- [Svineflokken](persona_svineflokken.md)
+- [Skovvejen](place_skovvejen.md)
+- [Skælmeri](pitch_skaelmeri.md)
 
 ## Triggers
 
-- [plot_stalden.md](plot_stalden.md) udløses af gårdkarlens fodring af svinene og ørnens ankomst på møddingen.
-- [plot_striden.md](plot_striden.md) udløses af den gensidige foragt og diskussionen om storhed.
+- [plot_indledningen.md](plot_indledningen.md) udløses af fortællerens minde om Dickens' ord om svinet, inden rejsen når frem til Sverige.
+- [plot_vognen.md](plot_vognen.md) udløses af synet af den kasserede karet, gjort til svinesti ved den svenske skovvej.
+- [plot_efteraaret.md](plot_efteraaret.md) udløses af det andet besøg om efteråret, hvor vognen står tom og svinene er blevet frie.
+- [plot_samtalen.md](plot_samtalen.md) udløses af ungernes og Svinemoders lille uenighed om, hvad der egentlig tæller i livet.
 
 ## Stakes
 
-Kampen handler om at definere den sande stolthed og livsværdi. Ørnen kæmper for sin tabte værdighed under den åbne himmel, mens soen forsvarer det magelige fangenskab og den umiddelbare tilfredsstillelse i stalden. Hvis ørnen giver efter, synker han ned i staldens glemsel; hvis soen erkender sin begrænsning, brister hendes trygge verden.
+Her står ingenting på spil i egentlig forstand: fortælleren har ingen kamp at kæmpe, og ingen af svinene stræber efter noget, de ikke allerede har. Det eneste, der vejes, er en lille sætnings vægt i verden, om sansen for det skønne overhovedet overlever i en flok, der ellers kun spørger, om noget kan spises. Det spørgsmål lader sig ikke afgøre ved list eller styrke, kun ved at én stemme, nok så overhørt, insisterer på det stille og bliver ved.
