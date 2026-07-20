@@ -74,3 +74,35 @@ Content could not be established within budget, or no such work exists; needs a 
 | sdu211_de_blaae_bjerge | exists-content-unknown | Registered at andersen.sdu.dk/vaerk/register/info_e.html?vid=211: categorized under religious motifs, part of the 'Smaahistorier (Efter det Tydske)' group within Danske Folkesagn — confirming the 1973 booklet breadcrumb (small piece after a German source), but the sun-worship/investigator plot itself is not confirmed by any retrievable full text or summary. | As one half of a paired 'Smaastykker' booklet (a slight, minor piece), the board should stay tiny, 3-4 files: a Congregation-voice and an Investigator persona at most, no separate process or plan layer — this is a two-page vignette, not a construction warranting a company/process set. |
 | sdu212_hans_og_grethe | exists-content-unknown | Registered at andersen.sdu.dk/vaerk/register/info.html?vid=212, mirroring vid=211's pattern — confirms this is Andersen's own minor piece from the 1973 'De blaae Bjerge / Hans og Grethe' booklet, distinct from the unrelated Brothers Grimm 'Hans og Grete' (Hänsel und Gretel) that searches repeatedly and misleadingly surfaced instead. No plot text for the actual Andersen piece was retrievable; the staged 'brothers Hans and Grethe' (Grethe being a female name) remains an unresolved internal contradiction. | Matching its booklet-mate sdu211, keep this to a tiny 3-4 file board: two rival-neighbor personas around a boast/dispute motif, no elaborate process — a slight companion-piece scale, not a full template, and the sibling-gender contradiction should be resolved before any staging investment. |
 | sdu645_truth | not-found | No Andersen work titled 'Truth' or a matching Danish 'Sandheden'/Løgnen court allegory surfaced in either the SDU register or general searches; the generic Truth-vs-Lie court plot and the 'kejsersnit' (caesarean section) howler for the imperial court both point to fabrication rather than an obscure real source. | not-found; no board is warranted under this title - reroute the production to a confirmed Andersen source rather than sizing a board for an invented allegory. |
+
+## Resolution (update)
+
+The network limit that forced the `exists-content-unknown` verdicts was
+later worked around: the complete Hersholt text of _Billedbog uden
+Billeder_ was sourced evening by evening from the H.C. Andersen Centre's
+own pages (uploaded snapshots), and every evening was restaged from its
+verified text. This closes six of the ten Choregos items above, the six
+evenings, and confirms the numbering trap the campaign warned of, the
+boards were built from a translation numbered one ahead of Hersholt.
+
+| play | resolution |
+|---|---|
+| sdu039_fjortende_aften | Resolved, sourced: the Fourteenth Evening (the stork's-nest annunciation of a little brother). Restaged in PR #336. |
+| sdu042_syttende_aften | Resolved, sourced: the Seventeenth Evening (the four-year-old in her new dress, "what will the dogs think"). Restaged in PR #336. |
+| sdu043_attende_aften | Resolved, sourced: the Eighteenth Evening (Venice, the phantom city). Restaged in PR #336. |
+| sdu045_tyvende_aften | Resolved, sourced: the Twentieth Evening (Rome, the shattered pitcher on the imperial stair). Restaged in PR #333; two invented bell-rope motives and a miscited register number corrected in PR #338. |
+| sdu049_syvogtyvende_aften | Resolved, sourced: the Twenty-seventh Evening (the Chinese temple, Soui-houng and Pe). Realigned in PR #337, off the wrong swan evening. |
+| sdu052_treogtyvende_aften | Resolved, sourced: the Twenty-third Evening (Tyrol, the mountainside nunnery). Realigned in PR #337; the candidate redeclaration to the Twenty-fourth Evening's Copenhagen flashback is dissolved (that Copenhagen boy is the genuine Thorvaldsen story, now at sdu046). |
+
+Still open from this docket, unchanged by the evening work:
+
+- `sdu004_et_boerneeventyr` and `sdu645_truth` remain quarantined, to be
+  resolved at the SDU register (vid 4, vid 645) when those pages are
+  reachable; retirement of `sdu645_truth` still requires a dedicated order
+  on register evidence.
+- `sdu211_de_blaae_bjerge` and `sdu212_hans_og_grethe` keep their German-
+  source redeclaration; their actual booklet plot text was never
+  retrievable, so their content stays unverified until sourced.
+
+With the six evenings resolved, all thirty-three evenings of _Billedbog
+uden Billeder_ across the house are sourced.
