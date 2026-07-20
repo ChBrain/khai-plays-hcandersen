@@ -94,15 +94,43 @@ boards were built from a translation numbered one ahead of Hersholt.
 | sdu049_syvogtyvende_aften | Resolved, sourced: the Twenty-seventh Evening (the Chinese temple, Soui-houng and Pe). Realigned in PR #337, off the wrong swan evening. |
 | sdu052_treogtyvende_aften | Resolved, sourced: the Twenty-third Evening (Tyrol, the mountainside nunnery). Realigned in PR #337; the candidate redeclaration to the Twenty-fourth Evening's Copenhagen flashback is dissolved (that Copenhagen boy is the genuine Thorvaldsen story, now at sdu046). |
 
-Still open from this docket, unchanged by the evening work:
+Also resolved at the register:
 
-- `sdu004_et_boerneeventyr` and `sdu645_truth` remain quarantined, to be
-  resolved at the SDU register (vid 4, vid 645) when those pages are
-  reachable; retirement of `sdu645_truth` still requires a dedicated order
-  on register evidence.
-- `sdu211_de_blaae_bjerge` and `sdu212_hans_og_grethe` keep their German-
-  source redeclaration; their actual booklet plot text was never
-  retrievable, so their content stays unverified until sourced.
+- `sdu645_truth` — the register entry (vid 645, snapshot uploaded) settles
+  it: _Truth_ is a genuine Andersen work, drama category, BFN 1266, first
+  printed 13 January 1940 in Eiler Høeg's _Om H.C. Andersens Afreageren_,
+  catalogued as "Truth. Plastisk declamatorisk Opera uden Musik" and named
+  a children's parody-comedy. The `not-found`/fabrication verdict is
+  withdrawn and the work is **not retired**. The register confirms the
+  identity but not the text (still only in the 1940 print), so the board is
+  redeclared to the confirmed work and kept `unverified`, a marked
+  placeholder pending the 1940 text. Ruled in `order_rule_sdu645_truth.md`,
+  redeclared in PR #340.
+- `sdu004_et_boerneeventyr` — the full text was read at the Centre's own
+  edition page (`andersen.sdu.dk/vaerk/etboerneeventyr/`, register vid 4)
+  and the board reviewed against it. It is faithful, the Braunschweig frame
+  (the gambler-melodrama, the visiting-cards bonfire) and the inner tale
+  (the trusting King's lying-wager, the Prince's nine years, the ghost's
+  release), and stays `sourced`. A fidelity fix corrected the Prince's two
+  lies to the source's images (a regiment under each kale leaf, a swallow
+  hatched in the falling axe-head) and replaced an "act" exit with the
+  source's Days. Quarantine lifted; corrected in PR #342
+  (`order_correct_sdu004_fidelity.md`).
 
-With the six evenings resolved, all thirty-three evenings of _Billedbog
-uden Billeder_ across the house are sourced.
+- `sdu211_de_blaae_bjerge` and `sdu212_hans_og_grethe` — the register (vid
+  211, vid 212, snapshots uploaded) confirms both as genuine Andersen
+  works, register nrs 211 and 212 in the eventyr category, each first
+  published 23 December 1972 (manuscript pieces efter det Tydske; further
+  info: H.C. Andersen-litteraturen 1969-1994 nr. 224). Neither is a
+  fabrication; the German-source redeclaration stands. The register
+  confirms identity and first print but not the text, so each board's free
+  adaptation keeps its `free` class, a marked invention pending the 1972
+  text.
+
+With the six evenings, `sdu645`, `sdu004`, and the `sdu211`/`sdu212` pair
+resolved, all thirty-three evenings of _Billedbog uden Billeder_ across the
+house are sourced and **all ten** Choregos docket items are closed at the
+register. Three works remain without their text, and stay honestly marked
+until it is obtained: `sdu645` (the 1940 Høeg print) and `sdu211`/`sdu212`
+(their 1972 first printing) carry marked-invention placeholders awaiting a
+faithful restaging.

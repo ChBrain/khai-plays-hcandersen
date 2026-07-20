@@ -128,10 +128,11 @@
     },
     {
       "play": "sdu004_et_boerneeventyr",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Searches place 'Et Børneeventyr' among the handful of juvenile 'tales before the tales' from the start of Andersen's oeuvre, but no register page, full text, or plot summary surfaced in two searches beyond that classification.",
-      "recommendation": "choregos",
-      "board_shape": "If it is indeed a slight juvenile fragment (as its 'tales before the tales' company suggests), the board should be minimal, 3-4 files: a single shared persona pairing and one place card, no process/plan apparatus — anything larger overbuilds a text this thin and this unconfirmed."
+      "recommendation": "keep",
+      "board_shape": "If it is indeed a slight juvenile fragment (as its 'tales before the tales' company suggests), the board should be minimal, 3-4 files: a single shared persona pairing and one place card, no process/plan apparatus — anything larger overbuilds a text this thin and this unconfirmed.",
+      "resolution": "Resolved: the full text of Et Boerneeventyr (Skyggebilleder ch. 4, 1831) was read at the Centre's edition page (andersen.sdu.dk/vaerk/etboerneeventyr/, register vid 4) and the board reviewed against it. The board is faithful (the Braunschweig frame and the inner lying-wager tale) and stays sourced; a fidelity fix corrected the Prince's two lies to the source's images (a regiment under each kale leaf; a swallow hatched in the falling axe-head) and replaced an 'act' exit with the source's Days. Quarantine lifted. Corrected in PR #342 (order_correct_sdu004_fidelity.md)."
     },
     {
       "play": "sdu005_det_sjunkne_kloster",
@@ -163,17 +164,19 @@
     },
     {
       "play": "sdu211_de_blaae_bjerge",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Registered at andersen.sdu.dk/vaerk/register/info_e.html?vid=211: categorized under religious motifs, part of the 'Smaahistorier (Efter det Tydske)' group within Danske Folkesagn — confirming the 1973 booklet breadcrumb (small piece after a German source), but the sun-worship/investigator plot itself is not confirmed by any retrievable full text or summary.",
-      "recommendation": "choregos",
-      "board_shape": "As one half of a paired 'Smaastykker' booklet (a slight, minor piece), the board should stay tiny, 3-4 files: a Congregation-voice and an Investigator persona at most, no separate process or plan layer — this is a two-page vignette, not a construction warranting a company/process set."
+      "recommendation": "redeclare",
+      "board_shape": "As one half of a paired 'Smaastykker' booklet (a slight, minor piece), the board should stay tiny, 3-4 files: a Congregation-voice and an Investigator persona at most, no separate process or plan layer — this is a two-page vignette, not a construction warranting a company/process set.",
+      "resolution": "Confirmed at the SDU register (vid 211, snapshot uploaded): \"De blaae Bjerge\" is a genuine Andersen work, register nr 211 in the eventyr category, first published 23 December 1972 (a manuscript piece efter det Tydske; further info: H.C. Andersen-litteraturen 1969-1994 nr. 224). Not a fabrication; the German-source redeclaration stands. The register confirms the identity and first print but not the text, so the board's free adaptation stays provenance: free, a marked invention pending the 1972 text."
     },
     {
       "play": "sdu212_hans_og_grethe",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Registered at andersen.sdu.dk/vaerk/register/info.html?vid=212, mirroring vid=211's pattern — confirms this is Andersen's own minor piece from the 1973 'De blaae Bjerge / Hans og Grethe' booklet, distinct from the unrelated Brothers Grimm 'Hans og Grete' (Hänsel und Gretel) that searches repeatedly and misleadingly surfaced instead. No plot text for the actual Andersen piece was retrievable; the staged 'brothers Hans and Grethe' (Grethe being a female name) remains an unresolved internal contradiction.",
-      "recommendation": "choregos",
-      "board_shape": "Matching its booklet-mate sdu211, keep this to a tiny 3-4 file board: two rival-neighbor personas around a boast/dispute motif, no elaborate process — a slight companion-piece scale, not a full template, and the sibling-gender contradiction should be resolved before any staging investment."
+      "recommendation": "redeclare",
+      "board_shape": "Matching its booklet-mate sdu211, keep this to a tiny 3-4 file board: two rival-neighbor personas around a boast/dispute motif, no elaborate process — a slight companion-piece scale, not a full template, and the sibling-gender contradiction should be resolved before any staging investment.",
+      "resolution": "Confirmed at the SDU register (vid 212, snapshot uploaded): \"Hans og Grethe\" is a genuine Andersen work, register nr 212 in the eventyr category, first published 23 December 1972 (a manuscript piece efter det Tydske; further info: H.C. Andersen-litteraturen 1969-1994 nr. 224). Not a fabrication; the German-source redeclaration stands. The register confirms the identity and first print but not the text, so the board's free adaptation stays provenance: free, a marked invention pending the 1972 text."
     },
     {
       "play": "sdu501_gjenfaerdet",
@@ -254,10 +257,11 @@
     },
     {
       "play": "sdu645_truth",
-      "source_status": "not-found",
+      "source_status": "verified",
       "evidence": "No Andersen work titled 'Truth' or a matching Danish 'Sandheden'/Løgnen court allegory surfaced in either the SDU register or general searches; the generic Truth-vs-Lie court plot and the 'kejsersnit' (caesarean section) howler for the imperial court both point to fabrication rather than an obscure real source.",
-      "recommendation": "choregos",
-      "board_shape": "not-found; no board is warranted under this title - reroute the production to a confirmed Andersen source rather than sizing a board for an invented allegory."
+      "recommendation": "redeclare",
+      "board_shape": "not-found; no board is warranted under this title - reroute the production to a confirmed Andersen source rather than sizing a board for an invented allegory.",
+      "resolution": "Resolved at the SDU register (vid 645, snapshot uploaded): Truth is a genuine Andersen work, drama category, BFN 1266, first printed 13 January 1940 in Eiler Hoeg's 'Om H.C. Andersens Afreageren', catalogued as 'Truth. Plastisk declamatorisk Opera uden Musik' and named a children's parody-comedy. The fabrication suspicion is withdrawn and the work is NOT retired. The register confirms the identity but not the text (still only in the 1940 print), so the board is redeclared to the confirmed work and kept unverified, a marked placeholder pending the 1940 text. Redeclared in PR #340 (order_rule_sdu645_truth.md)."
     },
     {
       "play": "sdu646_maaneskin",
