@@ -26,7 +26,7 @@ stamp:
 
 ## Action
 
-I ni år følger [Prinsen](persona_prinsen.md) [Niårsplanen](plan_niaarsplanen.md) og lægger den ene voksende umulighed efter den anden for [Kongen](persona_kongen.md), et kålblad så stort som et torv, en lade så vældig den ikke kan øjnes fra ende til anden. Men kongen finder trofast hver historie mulig; prinsen og prinsessen tæres hen, mens [Løgneprøven](process_loegneproeven.md) fortsætter uden ende.
+I ni år følger [Prinsen](persona_prinsen.md) [Niårsplanen](plan_niaarsplanen.md) og lægger den ene umulighed efter den anden for [Kongen](persona_kongen.md), et kålblad hvorunder et helt regiment soldater kan stå ved hvert blad, en lade hvor en svale nåede at ruge sine unger ud i det faldende økseblad, før det ramte jorden. Men kongen finder trofast hver historie mulig; prinsen og prinsessen tæres hen, mens [Løgneprøven](process_loegneproeven.md) fortsætter uden ende.
 
 ## Stage
 

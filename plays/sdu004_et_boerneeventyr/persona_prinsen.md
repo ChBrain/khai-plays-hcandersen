@@ -27,7 +27,7 @@ Han fremstår tålmodig og opfindsom, villig til at ofre ungdommens år på ét 
 
 ## Action
 
-Han opfinder det ene forbløffende bevis efter det andet, et kålblad så stort at det dækker et helt torv, en lade så vældig at den ikke kan øjnes fra ende til anden, og lægger dem for kongen, som hver gang svarer, at det kan han godt tænke sig var sandt.
+Han opfinder det ene forbløffende bevis efter det andet, et kålblad så stort at der kan stå et regiment soldater under hvert blad, en lade hvor en svale nåede at bygge rede og udruge sine unger i det faldende økseblad, før det ramte jorden, og lægger dem for kongen, som hver gang svarer, at det kan han godt tænke sig var sandt.
 
 ## Shadow
 

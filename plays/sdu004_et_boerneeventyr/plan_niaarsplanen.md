@@ -27,7 +27,7 @@ Prinsen vil bruge ni år på at forberede stadig større beviser for sin fortæl
 
 ## Orders
 
-Byg videre på sidste års påfund, gør kålbladet større og laden højere, og læg det for kongen, så snart mod og midler tillader det.
+Læg kongen kålbladet og laden for, hvert påfund så uhyrligt det kan gøres, så snart mod og midler tillader det.
 
 ## Implementation
 
@@ -35,7 +35,7 @@ Udført ved at prinsen, år for år, lader nye vidnesbyrd, kålblade og lader og
 
 ## Targets
 
-- [ ] Opfinde et kålblad så stort, at det dækker et helt torv, og lægge det for kongen
-- [ ] Rejse en lade så vældig, at den ikke kan øjnes fra ende til anden, og lægge den for kongen
+- [ ] Lægge kongen det kålblad for, at der kan stå et regiment soldater under hvert blad
+- [ ] Lægge kongen den lade for, hvor en svale nåede at ruge sine unger ud i det faldende økseblad, før det ramte jorden
 - [ ] Finde det ene påfund, kongen omsider selv må kalde løgn
 - [ ] Vinde prinsessen og det halve rige, før ventetiden tærer dem begge op

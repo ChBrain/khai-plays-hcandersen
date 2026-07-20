@@ -30,7 +30,7 @@ Aftenen falder over Braunschweig, og [Fortælleren](persona_fortaelleren.md) sæ
 
 ## Stage
 
-[Fortælleren](persona_fortaelleren.md) rejser sig midt i akten, mens lyset fra [Melodramaet](piece_melodramaet.md) endnu flakker på scenen, og går ud i natten med sine brændte [Visitkortene](piece_visitkortene.md) som eneste selskab.
+[Fortælleren](persona_fortaelleren.md) rejser sig efter den anden af stykkets dage, mens lyset fra [Melodramaet](piece_melodramaet.md) endnu flakker på scenen, og går ud i natten med sine brændte [Visitkortene](piece_visitkortene.md) som eneste selskab.
 
 ## Tension
 
