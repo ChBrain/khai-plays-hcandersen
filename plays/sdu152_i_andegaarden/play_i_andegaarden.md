@@ -4,6 +4,7 @@ title: "In the Duck Yard"
 declared: "I Andegaarden"
 description: "En fremmed sangfugl søger ly i en andegård, men knuses af den herskesyge portugisiske ands falske godhed."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: plan
 title: "The Care"
 declared: "Omhu"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -34,6 +35,6 @@ Gennemført ved hendes trofaste, daglige gang i og omkring hønsehuset.
 
 ## Targets
 
-- [x] Sørget for foder to alle høns
+- [x] Sørget for foder til alle høns
 - [x] Sikret [Hoensehus](piece_hoensehus.md) mod natten
 - [x] Opretholdt den nænsomme [Pasning](process_pasning.md)

@@ -4,6 +4,7 @@ title: "Danmark"
 declared: "Danmark"
 description: "En allegorisk og patriotisk guldalderprolog om Danmarks genfundne fortid og folkets hyldest til landet."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Danmark
 
 ## Arc
 
-Ved en gammel kæmpehøj i skoven under de grønne ege samles det danske folk for at fejre fædrelandets storhed og rige historie. Skjalden stemmer sin harpe for at lede ceremonien, mens historiens muse Saga træder frem for at fremvise guldhornene og genoplive de stolte sagn fra Danmarks mytiske fortid. Gennem denne dramatiske genfortælling vækkes en stærk nationalfølelse og enhed i folkets hjerter. Til sidst åbenbares Moder Danmark selv i en ophøjet og kærlig skikkelse, hvorefter folket, skjalden og museet sværger hende evig kærlighed og troskab under tonerne af en storslået fælles hymne.
+Ved en gammel kæmpehøj i skoven under de grønne ege samles det danske folk for at fejre fædrelandets storhed og rige historie. Skjalden stemmer sin harpe for at lede ceremonien, mens historiens muse Saga træder frem for at fremvise guldhornene og genoplive de stolte sagn fra Danmarks mytiske fortid. Gennem denne dramatiske genfortælling vækkes en stærk nationalfølelse og enhed i folkets hjerter. Til sidst åbenbares Moder Danmark selv i en ophøjet og kærlig skikkelse, hvorefter folket, skjalden og musen sværger hende evig kærlighed og troskab under tonerne af en storslået fælles hymne.
 
 ## Company
 

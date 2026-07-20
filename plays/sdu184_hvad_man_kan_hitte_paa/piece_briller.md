@@ -3,17 +3,18 @@ khai: piece
 title: "The Spectacles"
 declared: "Briller"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Piece: Briller
 
 ## Taxonomy
 
-De magiske briller, som lader bæreren se den skjulte poesi og sandhed i alting.
+Den kloge kones briller, som hun låner den søgende digter, så han for en stund kan se poesien i vrimlen af mennesker.
 
 ## Owner
 
@@ -25,7 +26,7 @@ De magiske briller, som lader bæreren se den skjulte poesi og sandhed i alting.
 
 ## Load Bearing
 
-Brillerne gør det muligt for den søgende at se ud over hverdagens begrænsninger.
+Synet er lånt, ikke digterens eget: brillerne skærper hans blik, men konen kræver dem tilbage, før han går, og med dem forsvinder synet igen.
 
 ## Apparent
 
@@ -33,4 +34,4 @@ Et par tunge, gammeldags briller med slidt hornstel og tykke, ridsede glas.
 
 ## Yearbook
 
-Brugt af generationer af seere til at finde historier, hvor andre kun ser ingenting.
+Brugt af den kloge kone selv i årevis til at se det, andre går forbi; udlånt til søgende sjæle, men aldrig givet bort.

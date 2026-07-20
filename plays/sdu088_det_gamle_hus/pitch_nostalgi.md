@@ -3,6 +3,7 @@ khai: pitch
 title: "Nostalgia"
 declared: "Nostalgi"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ stamp:
 
 ## Tenor
 
-En mild, melankolsk og drømmende tone. Stemningen is præget af det stille forfald, duften af gamle lædertapeter, uret der tikker, og portrætternes tavse blikke. Denne blide sorg over svundne tider brydes kun af drengens friske liv og tinsoldatens klagesang, der minder om, at fortiden ikke kan fastholdes uændret.
+En mild, melankolsk og drømmende tone. Stemningen er præget af det stille forfald, duften af gamle lædertapeter, uret der tikker, og portrætternes tavse blikke. Denne blide sorg over svundne tider brydes kun af drengens friske liv og tinsoldatens klagesang, der minder om, at fortiden ikke kan fastholdes uændret.
 
 ## Undertow
 

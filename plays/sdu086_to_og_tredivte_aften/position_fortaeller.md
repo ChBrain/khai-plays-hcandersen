@@ -1,19 +1,20 @@
 ---
 khai: position
 title: "The Narrator"
-declared: "Fortaeller"
+declared: "Fortæller"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
-# Position: Fortaeller
+# Position: Fortæller
 
 ## Taxonomy
 
-Den evige betragter af jordens begivenheder.
+Positionen som den, der kun gennem stormens korte glimt kan se ned på jorden og må gemme det sete, før mørket lukker sig igen.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Den evige betragter af jordens begivenheder.
 
 ## Has
 
-Et roligt blik og sandfærdig tale.
+Et tålmodigt blik og evnen til at fastholde et øjeblik, selv når skyerne straks lukker sig om det igen.
 
 ## Orders
 
-Gem hvert øjeblik, der bærer betydning.
+Grib det korte glimt, når skyerne skilles, og bær billedet videre, selv efter mørket har lukket sig om det.
 
 ## Loses
 
-Evnen til selv at deltage i livet.
+Muligheden for at gribe ind i det, den ser, og evnen til at dvæle længere ved synet, end stormen tillader.
 
 ## Drives
 
-At holde minderne i live.
+Trangen til at bære det tunge, korte glimt videre som en fortælling, selv når stormen kræver det tilbage.

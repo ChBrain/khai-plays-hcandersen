@@ -3,6 +3,7 @@ khai: position
 title: "The Suitor Father"
 declared: "Bejlerfar"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Den fysiske styrke, naturens vildskab og magten over troldegutterne fra Dovrefje
 
 ## Orders
 
-Rejs to det danske gilde, vurder elverdøtrenes værd og find en passende alliance til slægten.
+Rejs til det danske gilde, vurder elverdøtrenes værd og find en passende alliance til slægten.
 
 ## Loses
 

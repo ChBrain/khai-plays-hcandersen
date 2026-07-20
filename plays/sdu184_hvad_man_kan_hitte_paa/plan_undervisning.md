@@ -3,10 +3,11 @@ khai: plan
 title: "The Teaching"
 declared: "Undervisning"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 status: active
 ---
 
@@ -14,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Den kloge kones plan om at kurere digterens skriveblokering ved at lære ham at se poesi i de enkle ting.
+Den kloge kones plan om at låne digteren sine egne instrumenter for en stund, og siden kræve dem tilbage.
 
 ## Owner
 
@@ -22,18 +23,18 @@ Den kloge kones plan om at kurere digterens skriveblokering ved at lære ham at 
 
 ## Direction
 
-At demonstrere poesiens nærvær gennem praktisk brug af briller og bog.
+At demonstrere poesiens nærvær midlertidigt ved at låne ham briller og hørerør, og siden tage dem tilbage.
 
 ## Orders
 
-Giv den unge mand brillerne på, lad ham læse i bogen, og lad ham finde historien i en simpel kartoffel.
+Lån den unge mand brillerne og hørerøret, send ham ud i vrimlen med syn for det, øre for det og hjerte med, og kræv siden begge dele tilbage.
 
 ## Implementation
 
-Gennemført ved tålmodigt at vise ham, hvordan verden ændrer sig, når man ser rigtigt efter.
+Gennemført ved tålmodigt at vise ham, hvordan verden lyder og ser anderledes ud gennem lånte instrumenter, som hun aldrig har til hensigt at give fra sig.
 
 ## Targets
 
-- [x] Tilbudt [Briller](piece_briller.md) til den søgende digter
-- [x] Slået op i den gamle [Bog](piece_bog.md)
-- [x] Sat gang i digterens [Inspiration](process_inspiration.md)
+- [x] Tilbudt [Briller](piece_briller.md) og [Hørerør](piece_hoereroer.md) til den søgende digter
+- [x] Sendt ham ud i vrimlen med lånt syn, hørelse og hjerte
+- [x] Krævet begge dele tilbage og henvist ham til fastelavnstønden

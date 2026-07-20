@@ -3,6 +3,7 @@ khai: place
 title: "The Workshop"
 declared: "Værkstedet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Det hyggelige og kreative rum, hvor billedskæreren arbejder med sit træ og overfører sagnene to fysisk form.
+Det hyggelige og kreative rum, hvor billedskæreren arbejder med sit træ og overfører sagnene til fysisk form.
 
 ## Owner
 

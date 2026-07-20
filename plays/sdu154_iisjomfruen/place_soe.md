@@ -3,6 +3,7 @@ khai: place
 title: "The Lake"
 declared: "Soe"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ En spejlblank, blå vandflade under den lune sommersol, omgivet af frodige vinst
 
 ## Offers
 
-En rolig overfart to bryllupsøen og kølig ro efter en lang dags varme.
+En rolig overfart til bryllupsøen og kølig ro efter en lang dags varme.
 
 ## Withheld
 

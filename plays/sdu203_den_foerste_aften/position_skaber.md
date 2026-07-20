@@ -3,6 +3,7 @@ khai: position
 title: "The Creator"
 declared: "Skaber"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Stillingen hos den, der omdanner månens ydre lys to indre poesi.
+Stillingen hos den, der omdanner månens ydre lys til indre poesi.
 
 ## Owner
 

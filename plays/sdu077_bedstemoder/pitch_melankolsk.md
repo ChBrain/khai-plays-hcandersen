@@ -3,6 +3,7 @@ khai: pitch
 title: "The Melancholic"
 declared: "Melankolsk"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Det, der rammes, er den dybe smerte ved at miste den, der elskede en mest, og st
 
 ## Echo
 
-En stille trøst, der breder sig i hjertet, når man indser, at kærligheden is stærkere end døden, og at de døde lever videre i vores erindring.
+En stille trøst, der breder sig i hjertet, når man indser, at kærligheden er stærkere end døden, og at de døde lever videre i vores erindring.

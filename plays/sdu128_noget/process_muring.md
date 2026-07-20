@@ -3,6 +3,7 @@ khai: process
 title: "The Bricklaying"
 declared: "Muring"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Den flittige [arbejder](persona_arbejder.md), der blander mørtel og lægger ste
 
 ## Direction
 
-Processen går fra det rå, våde ler to en tør og solid mur, der kan holde kulden ude.
+Processen går fra det rå, våde ler til en tør og solid mur, der kan holde kulden ude.
 
 ## Lever
 

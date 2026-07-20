@@ -3,6 +3,7 @@ khai: place
 title: "History"
 declared: "Historien"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Retfærdighed, evigt eftermæle og en ophøjelse af den smerte, der blev lidt i 
 
 ## Withheld
 
-Trøst to det levende menneske, der måtte dø i fattigdom og ensomhed, før anerkendelsen kom.
+Trøst til det levende menneske, der måtte dø i fattigdom og ensomhed, før anerkendelsen kom.

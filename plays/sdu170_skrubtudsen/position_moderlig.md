@@ -3,6 +3,7 @@ khai: position
 title: "The Motherly"
 declared: "Moderlig"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Hold dig til det trygge, pas på dine små, og advar dem mod verdens tørre og u
 
 ## Loses
 
-Forbindelsen to de børn, der vælger at lytte til deres egen indre længsel frem for hendes råd.
+Forbindelsen til de børn, der vælger at lytte til deres egen indre længsel frem for hendes råd.
 
 ## Drives
 

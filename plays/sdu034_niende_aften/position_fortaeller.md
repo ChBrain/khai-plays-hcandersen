@@ -1,19 +1,20 @@
 ---
 khai: position
 title: "The Narrator"
-declared: "Fortæller"
+declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
-# Position: Fortæller
+# Position: Fortaeller
 
 ## Taxonomy
 
-Den ophøjede og rolige rolle, der beretter om begivenhederne udefra og giver natten en stemme.
+Den evige betragter af jordens begivenheder.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Den ophøjede og rolige rolle, der beretter om begivenhederne udefra og giver na
 
 ## Has
 
-En rolig stemme, et skarpt blik og evnen til at se skønheden i de mest fattige og ydmyge stunder.
+Et roligt blik og sandfærdig tale.
 
 ## Orders
 
-Se alt, døm ingen, og fortæl kun det, du ser i nattens stille timer.
+Gem hvert øjeblik, der bærer betydning.
 
 ## Loses
 
-Enhver trang til selv at deltage i legen eller gribe ind i menneskenes små kår.
+Evnen til selv at deltage i livet.
 
 ## Drives
 
-Lysten til at dele billeder af verden med den fattige maler og trøste de søvnløse.
+At holde minderne i live.

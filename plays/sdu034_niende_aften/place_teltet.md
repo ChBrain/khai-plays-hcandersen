@@ -3,17 +3,18 @@ khai: place
 title: "The Tent"
 declared: "Teltet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Place: Teltet
 
 ## Taxonomy
 
-Gøglerfamiliens beskedne telt, der står i baggården og yder læ for natten og kulden.
+Det åbne skindtelt hundrede skridt fra dansen, hvor [Den Syge](persona_densyge.md) ligger sin sidste nat.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Gøglerfamiliens beskedne telt, der står i baggården og yder læ for natten og
 
 ## Shown
 
-Et lille, slidt lærredstelt med en flakkende lygte, et par tæpper og en kurv med tørt brød.
+Et åbent telt af sammensyede skind, med en vinduesåbning dækket af et udspændt skind mod nattens kulde.
 
 ## Holds
 
-Den trætte [Gøgleren](persona_goegleren.md) og den aflagte [Maske](piece_maske.md) efter spillets ophør.
+Rummer Den Syge og hans hustru, der sidder ved hans side og syr skindet stramt om hans lemmer, mens deres børn venter i mørket.
 
 ## Offers
 
-Et fristed for familien, fred fra torvets blikke, og et sted at dele det sparsomme måltid.
+Et sidste sted at spørge og svare, før vinduesåbningen åbnes, og Den Syge bæres ud mod havet ved [Groenland](place_groenland.md).
 
 ## Withheld
 
-Vinden, der suser gennem sprækkerne, og angsten for morgendagens rejse til en ny by.
+Ingen ro for hustruen, der må sy den levendes svøb med de samme hænder, hun siden ikke skal røre det døde legeme med.

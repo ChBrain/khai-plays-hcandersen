@@ -4,6 +4,7 @@ title: "The Mute Book"
 declared: "Den stumme Bog"
 description: "En studerende begraves med en bog fuld af tørrede blade, hvor hvert blad gemmer på et stumt minde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

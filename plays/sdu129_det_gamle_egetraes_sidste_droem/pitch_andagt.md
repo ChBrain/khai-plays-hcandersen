@@ -3,6 +3,7 @@ khai: pitch
 title: "Devotion"
 declared: "Andagt"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Det, der rammes, er den dybe længsel efter at høre til og blive husket, samt d
 
 ## Echo
 
-Eftersmagen af stykket is som en stille julemorgen efter stormen: en dyb fred, et strejf af sorg over det faldne træ, men også en løftet stemning af, at sjælen har fundet hjem i det evige lys.
+Eftersmagen af stykket er som en stille julemorgen efter stormen: en dyb fred, et strejf af sorg over det faldne træ, men også en løftet stemning af, at sjælen har fundet hjem i det evige lys.

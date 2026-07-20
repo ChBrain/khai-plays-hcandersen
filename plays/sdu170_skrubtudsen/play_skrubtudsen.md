@@ -4,6 +4,7 @@ title: "The Toad"
 declared: "Skrubtudsen"
 description: "En lille skrubtudse drømmer om det store lys og begynder en farefuld rejse mod himlen, drevet af sin indre længsel."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Skrubtudsen
 
 ## Arc
 
-Skrubtudsen lever på bunden af en mørk brønd. Modsat de andre tudser mærker den en uforklarlig stræben efter noget smukkere, en skjult ædelsten i sit indre, som driver den til at drømme om verden ovenfor. Da en spand sænkes ned for at hente vand, kryber den op på spandens kant og undslipper brøndens mørke. Ude i haven møder den en tilfreds frø, som ikke forstår dens rastløshed, og den erfarer, at storken lurer i græsset som en konstant trussel. Trods faren og den brændende sol fortsætter skrubtudsen sin søgen, indtil den finder sua endelige forløsning i den uendelige himmel.
+Skrubtudsen lever på bunden af en mørk brønd. Modsat de andre tudser mærker den en uforklarlig stræben efter noget smukkere, en skjult ædelsten i sit indre, som driver den til at drømme om verden ovenfor. Da en spand sænkes ned for at hente vand, kryber den op på spandens kant og undslipper brøndens mørke. Ude i haven møder den en tilfreds frø, som ikke forstår dens rastløshed, og den erfarer, at storken lurer i græsset som en konstant trussel. Trods faren og den brændende sol fortsætter skrubtudsen sin søgen, indtil den finder sin endelige forløsning i den uendelige himmel.
 
 ## Company
 

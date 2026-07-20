@@ -4,6 +4,7 @@ title: "The Sunken Monastery"
 declared: "Det sjunkne Kloster"
 description: "Et kloster synker i søen, mens munken beder og åmanden ser til fra dybet."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -46,4 +47,4 @@ Et gammelt kloster står ved bredden af den dybe sø, men jorden skælver og klo
 
 ## Stakes
 
-Kampen står mellem forgængelighed og evighed. Munken søger den himmelske frelse gennem bøn, mens naturen og åmanden tager klostret tilbage to det dybe vand. Trods katastrofen og den jordiske undergang lever troen videre i efterklangen.
+Kampen står mellem forgængelighed og evighed. Munken søger den himmelske frelse gennem bøn, mens naturen og åmanden tager klostret tilbage til det dybe vand. Trods katastrofen og den jordiske undergang lever troen videre i efterklangen.

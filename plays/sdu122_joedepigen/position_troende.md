@@ -3,6 +3,7 @@ khai: position
 title: "The Believer"
 declared: "Troende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Blidheden og evnen til at se datterens sande, åndelige behov for forløsning.
 
 ## Drives
 
-Viljen to at bevare slægtens arv og beskytte sin datter mod de kristnes indflydelse.
+Viljen til at bevare slægtens arv og beskytte sin datter mod de kristnes indflydelse.

@@ -3,6 +3,7 @@ khai: place
 title: "Heaven"
 declared: "Himlen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Guddommelig kærlighed, [Engel](persona_engel.md) og den frelste [Sjæl](persona
 
 ## Offers
 
-Evig fred, fuldkommen erkendelse, forløsning fra skyld og adgang to faderhuset.
+Evig fred, fuldkommen erkendelse, forløsning fra skyld og adgang til faderhuset.
 
 ## Withheld
 

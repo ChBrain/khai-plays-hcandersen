@@ -3,6 +3,7 @@ khai: plan
 title: "The Woodcarver's Creation"
 declared: "Billedskærerens skabning"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Billedskærerens plan for at forevige mindet om Holger Danske in træ og lade det rejse over havene som et symbol på landets stolthed.
+Billedskærerens plan for at forevige mindet om Holger Danske i træ og lade det rejse over havene som et symbol på landets stolthed.
 
 ## Owner
 

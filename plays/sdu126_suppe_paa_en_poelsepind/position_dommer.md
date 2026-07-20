@@ -3,6 +3,7 @@ khai: position
 title: "The Judge"
 declared: "Dommer"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Et skarpt blik for regler, en utålmodig hale og magten til at vælge eller fork
 
 ## Orders
 
-Lyt to de fremlagte beviser, smag på suppen, og træf det endelige valg uden tøven.
+Lyt til de fremlagte beviser, smag på suppen, og træf det endelige valg uden tøven.
 
 ## Loses
 

@@ -3,6 +3,7 @@ khai: position
 title: "The Anxious"
 declared: "Angstfuld"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ En frygtsom og forsvarende position, der opstår, når sjælen indser afstanden 
 
 ## Has
 
-Et tøvende blik, et hjerte tynget af uindrømmet stolthed, og en dyb frygt for ikke at være værdig to Himlens lys.
+Et tøvende blik, et hjerte tynget af uindrømmet stolthed, og en dyb frygt for ikke at være værdig til Himlens lys.
 
 ## Orders
 

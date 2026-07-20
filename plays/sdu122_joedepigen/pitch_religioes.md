@@ -3,6 +3,7 @@ khai: pitch
 title: "The Religious"
 declared: "Religiøs"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Smerten ved at skulle vælge mellem de to største pligter: æren af sine foræl
 
 ## Echo
 
-Kirkens klokkeklang, der bærer velsignelsen over muren to den udstødte grav. Duften af vilde blomster i solskinnet og en følelse af, at kærligheden altid sejrer over loven.
+Kirkens klokkeklang, der bærer velsignelsen over muren til den udstødte grav. Duften af vilde blomster i solskinnet og en følelse af, at kærligheden altid sejrer over loven.

@@ -3,6 +3,7 @@ khai: plot
 title: "The Wonder of the Exhibition"
 declared: "Udstillingen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ En strålende og støjende dag i [Paris](place_paris.md), hvor [udstillingen](pi
 
 ## Tension
 
-Selvom [dryaden](persona_dryade.md) is bjergtaget af den [skabende](position_skabende.md) kraft, mærker her storbyens tørre luft og jernets kolde greb, som langsomt kvæler hende midt i pragten.
+Selvom [dryaden](persona_dryade.md) er bjergtaget af den [skabende](position_skabende.md) kraft, mærker her storbyens tørre luft og jernets kolde greb, som langsomt kvæler hende midt i pragten.

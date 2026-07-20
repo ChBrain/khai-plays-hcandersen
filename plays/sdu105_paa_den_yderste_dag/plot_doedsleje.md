@@ -3,6 +3,7 @@ khai: plot
 title: "The Deathbed Scene"
 declared: "Dødslejet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Manden, der i sit liv har været kendt som strengt troende, drager sit sidste su
 
 ## Action
 
-Manden dør på sit [Dødsleje](place_doedsleje.md). [Engel](persona_engel.md) kommer to stede og iværksætter [Død](process_doed.md) for at frigøre den afdøde [Sjæl](persona_sjael.md). Sjælen træder frem i positionen som [Angstfuld](position_angstfuld.md), men forsøger straks at udføre sin [Opgørelse](plan_opgoerelse.md) for at bevise sin egen syndfrihed.
+Manden dør på sit [Dødsleje](place_doedsleje.md). [Engel](persona_engel.md) kommer til stede og iværksætter [Død](process_doed.md) for at frigøre den afdøde [Sjæl](persona_sjael.md). Sjælen træder frem i positionen som [Angstfuld](position_angstfuld.md), men forsøger straks at udføre sin [Opgørelse](plan_opgoerelse.md) for at bevise sin egen syndfrihed.
 
 ## Stage
 

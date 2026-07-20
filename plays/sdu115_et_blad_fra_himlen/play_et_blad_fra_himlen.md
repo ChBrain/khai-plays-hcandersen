@@ -1,13 +1,14 @@
 ---
 khai: play
-title: "A Leaf from Heaven"
+title: "Et Blad fra Himlen"
 declared: "Et Blad fra Himlen"
-description: "Et himmelsk blad daler ned og udfordrer menneskets lærdom, men forstås fuldt ud af et enfoldigt barn."
+description: "Et himmelsk blad gror upåagtet i skoven; en fattig pige finder fred deri, mens kongens søgen ender tomhændet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: Et Blad fra Himlen
@@ -22,31 +23,28 @@ Et Blad fra Himlen
 
 ## Arc
 
-En engel flyver hen over haven og taber et lille grønt blad, der stammer fra selve himlen. Bladet lander på jorden, og dets overjordiske skønhed udfordrer menneskenes forstand. Det enfoldige barn ser bladet og fyldes med umiddelbar glæde og forstår dets himmelske natur uden tvivl. Den lærde mand forsøger i sit studerekammer at undersøge bladet med sit forstørrelsesglas for at finde en videnskabelig forklaring. Men hans skeptiske sind kan ikke fatte det mirakuløse, og bladet smuldrer for hans blik. Kun gennem den rene åbenbaring kan bladets sande væsen erkendes.
+Højt over skyerne bærer en engel en blomst fra himlens have ned mod jorden, og et enkelt lille blad løsner sig og daler ned i en fugtig plet af en ganske almindelig skov, mellem tidsler, nælder og andet kvas. Der gror bladet op til en sælsom, duftende plante, som de andre planter håner, fordi den ikke ligner dem. En lærd mand kan ikke bestemme dens art, skriver alligevel en afhandling om den og hædres derfor, uden at planten selv får noget for det. En fattig pige ser dens skønhed, hvor ingen andre så noget, bryder kun ét blad af og gemmer det i sin bibel, hvor det holder sig grønt og friskt. Nogle uger senere dør hun, og bladet lægges med hende i graven. I samme land har kongen længe lidt under et tungsind, hverken arbejde, lærdom eller lystighed kan lette, og en vis mand melder, at et blad af denne plante alene kan helbrede ham. Kongens folk gennemsøger skoven, men finder intet, for en svinehyrde, der samlede tidsler til brænding, har for længst uvidende revet hele planten op med rode. Kongen går selv ud til stedet, siger, at her groede den, og lader det indhegne med et gyldent gitter og bevogte af en vagt dag og nat. Planten er tabt, kongen forbliver akkurat, som han var før, og den eneste, der virkelig fandt lindring i bladet, er den pige, ingen søgte efter.
 
 ## Company
 
-- [Engelen](persona_engelen.md)
-- [Barnet](persona_barnet.md)
-- [Den lærde](persona_den_laerde.md)
-- [Bringer](position_bringer.md)
-- [Enfoldig](position_enfoldig.md)
-- [Skeptisk](position_skeptisk.md)
-- [Himmelbladet](piece_himmelblad.md)
-- [Forstørrelsesglasset](piece_forstoerrelsesglas.md)
-- [Haven](place_haven.md)
-- [Studerekammeret](place_studerekammeret.md)
+- [Pigen](persona_pigen.md)
+- [Kongen](persona_kongen.md)
+- [Vagten](persona_vagten.md)
+- [Troende](position_troende.md)
+- [Utrøstelig](position_utroestelig.md)
+- [Vidne](position_vidne.md)
+- [Himmelbladet](piece_himmelbladet.md)
+- [Skoven](place_skoven.md)
+- [Pigens Grav](place_pigens_grav.md)
 - [Åbenbaring](process_aabenbaring.md)
-- [Søgning](process_sogning.md)
-- [Sandhed](plan_sandhed.md)
-- [Undersøgelse](plan_undersoegelse.md)
-- [det Mystiske](pitch_mystisk.md)
+- [Søgning](process_soegning.md)
+- [Ironien](pitch_ironien.md)
 
 ## Triggers
 
-- [plot_faldet.md](plot_faldet.md) igangsættes af engelen, der flyver over haven og lader bladet falde.
-- [plot_erkendelsen.md](plot_erkendelsen.md) igangsættes af den lærdes videnskabelige undersøgelse i studerekammeret.
+- [plot_bladet.md](plot_bladet.md) igangsættes af englens tabte blad, der falder ned i skoven og gror op i det skjulte.
+- [plot_kongen.md](plot_kongen.md) igangsættes af kongens mangeårige tungsind og den vise mands bud om den ene lindring.
 
 ## Stakes
 
-Kampen mellem den intellektuelle skepticisme og den barnlige tro, hvor den, der søger at dissekere det guddommelige med forstanden, mister dets velsignelse, mens den enfoldige sjæl ser sandheden i sin reneste form.
+Fortællingen følger ét blads vej fra himlen til en fattig piges grav, og kræver ingen rænker mellem flere skikkelser, kun to sider af samme tab: den stille genkendelse hos pigen og kongens højrøstede, men forgæves eftersøgning. Bladet og planten er den ene genstand, alt drejer sig om, mens englen, den lærde og svinehyrden kun berører historien i forbifarten uden selv at bære en stemme i den. Stykket ender uden lindring for kongen, akkurat som han var før, mens den eneste virkelige trøst falder den til del, ingen søgte efter.

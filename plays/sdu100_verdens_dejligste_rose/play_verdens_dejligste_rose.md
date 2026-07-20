@@ -4,6 +4,7 @@ title: "The World's Fairest Rose"
 declared: "Verdens dejligste Rose"
 description: "En døende dronning kan kun frelses ved at se verdens dejligste rose, som viser sig i den dybeste kærlighed i hjertet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -48,4 +49,4 @@ Dronningen ligger syg af en svær helsot, og kun den dejligste rose i verden kan
 
 ## Stakes
 
-Kampen mod døden handler ikke om den ydre verdens rigdomme eller den jordiske skønhed, men om at genkende den reneste, mest uselviske kærlighed, som alene har magt to at hele sjælen og skænke livet på ny.
+Kampen mod døden handler ikke om den ydre verdens rigdomme eller den jordiske skønhed, men om at genkende den reneste, mest uselviske kærlighed, som alene har magt til at hele sjælen og skænke livet på ny.

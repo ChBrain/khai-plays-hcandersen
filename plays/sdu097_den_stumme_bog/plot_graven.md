@@ -3,6 +3,7 @@ khai: plot
 title: "The Grave of the Student"
 declared: "Graven og den stumme Bog"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

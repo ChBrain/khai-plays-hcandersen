@@ -3,6 +3,7 @@ khai: piece
 title: "The Linden Leaf"
 declared: "Lindeblad"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Det lille, hjerteformede blad fra lindetræet, som fungerer som alfens transport
 
 ## Load Bearing
 
-Bærer alfen og sandheden fra gerningsstedet i skoven og direkte ind to pigens kammer.
+Bærer alfen og sandheden fra gerningsstedet i skoven og direkte ind til pigens kammer.
 
 ## Apparent
 

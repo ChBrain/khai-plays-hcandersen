@@ -3,6 +3,7 @@ khai: piece
 title: "The Signboard Piece"
 declared: "Skilt_stykke"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Det bærer byens ydre orden og er det redskab, hvormed stormen udfører sin sati
 
 ## Apparent
 
-Et malet træskilt, der i stormens greb forvandles fra en fast sandhed to et redskab for kaos og afsløring.
+Et malet træskilt, der i stormens greb forvandles fra en fast sandhed til et redskab for kaos og afsløring.
 
 ## Yearbook
 

@@ -3,6 +3,7 @@ khai: position
 title: "The Suffering"
 declared: "Lidende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ En tung byrde af ensomhed, en uopfyldt længsel efter menneskelig varme, og den 
 
 ## Orders
 
-Vandr videre ad den stenede sti, modtag slagene uden at slå igen, og lad din smerte modnes to kunst.
+Vandr videre ad den stenede sti, modtag slagene uden at slå igen, og lad din smerte modnes til kunst.
 
 ## Loses
 

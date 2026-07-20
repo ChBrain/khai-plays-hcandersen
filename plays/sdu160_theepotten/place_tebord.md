@@ -3,6 +3,7 @@ khai: place
 title: "The Tea Table"
 declared: "Tebord"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ En hvid dug af damask, fine porcelænskopper, sølvskeer og duftende damp, der s
 
 ## Holds
 
-[Theepotte](persona_theepotte.md) og de fine kopper og kander, der lytter to hendes praleri.
+[Theepotte](persona_theepotte.md) og de fine kopper og kander, der lytter til hendes praleri.
 
 ## Offers
 

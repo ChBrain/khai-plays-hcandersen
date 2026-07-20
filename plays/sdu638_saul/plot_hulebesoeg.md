@@ -3,6 +3,7 @@ khai: plot
 title: "The Visit to Endor"
 declared: "hulebesoeg"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

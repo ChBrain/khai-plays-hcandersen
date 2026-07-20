@@ -3,6 +3,7 @@ khai: persona
 title: "The Muse"
 declared: "Musa"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Fremtidens ånd, der nedstiger fra tinderne for at agere som [bebuder](position_
 
 ## Projection
 
-En lysende skikkelse med stjerneklare øjne og vinger af ren tanke, svøbt i fremtidens skinnende slør, der gliding lydløst gennem luften.
+En lysende skikkelse med stjerneklare øjne og vinger af ren tanke, svøbt i fremtidens skinnende slør, der glider lydløst gennem luften.
 
 ## Action
 

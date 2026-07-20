@@ -3,6 +3,7 @@ khai: plot
 title: "The Night Descends"
 declared: "Natten Sænker Sig"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Højt på himlen står [Maanen](persona_maanen.md) i sin position som [Fortaelle
 
 ## Stage
 
-Maanen glider frem bag skyerne og betragter verden nedenfor. Alt is stille i huset, hvor faderen sover, og virkeligheden hviler. I haven begynder skyggerne at strække sig, og måneskinnet fanges i vinduesruderne, hvilket skaber en følelse af hemmelighed og forventning. Det er her, nattens magiske spil skal begynde.
+Maanen glider frem bag skyerne og betragter verden nedenfor. Alt er stille i huset, hvor faderen sover, og virkeligheden hviler. I haven begynder skyggerne at strække sig, og måneskinnet fanges i vinduesruderne, hvilket skaber en følelse af hemmelighed og forventning. Det er her, nattens magiske spil skal begynde.
 
 ## Tension
 

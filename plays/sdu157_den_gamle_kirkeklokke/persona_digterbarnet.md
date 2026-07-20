@@ -3,6 +3,7 @@ khai: persona
 title: "The Poet Child"
 declared: "Digterbarnet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Inspireret](position_inspireret.md) og følsom sjæl, der lytter to historiens tavse stemmer og forvandler klokkens klang til levende ord.
+[Inspireret](position_inspireret.md) og følsom sjæl, der lytter til historiens tavse stemmer og forvandler klokkens klang til levende ord.
 
 ## Owner
 

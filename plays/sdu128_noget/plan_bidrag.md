@@ -3,6 +3,7 @@ khai: plan
 title: "The Plan for Contribution"
 declared: "Bidrag"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -36,5 +37,5 @@ Planen eksekveres på den mudrede byggeplads med sved på panden og mudder på a
 
 - [x] Etablere sit eget teglbrænderi på byggepladsen
 - [x] Levere holdbare mursten til byens huse
-- [x] Give en bunke mursten to en fattig kone, så hun kan bygge et lille hus
+- [x] Give en bunke mursten til en fattig kone, så hun kan bygge et lille hus
 - [x] Efterlade sig et beskedent, men solidt minde om sin flid

@@ -3,6 +3,7 @@ khai: process
 title: "The Liberation"
 declared: "Frigørelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Djævelens pagt, der besegles af dryadens brændende ønske om at opleve Paris o
 
 ## Direction
 
-Fra den tunge, dybe ro i skoven to en febrilsk, flyvende dans gennem luften mod den glitrende storby.
+Fra den tunge, dybe ro i skoven til en febrilsk, flyvende dans gennem luften mod den glitrende storby.
 
 ## Lever
 

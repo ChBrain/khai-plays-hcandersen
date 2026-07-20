@@ -4,6 +4,7 @@ title: "Ravnen eller Broderprøven"
 declared: "Ravnen"
 description: "En eventyrlig og magisk trylleopera i tre akter om brodertroskab, forbandelser og frelse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

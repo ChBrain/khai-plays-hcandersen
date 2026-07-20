@@ -4,6 +4,7 @@ title: "Kept Secret but not Forgotten"
 declared: "Gjemt er ikke glemt"
 description: "Tre fortællinger om barmhjertighed, solskin og kærlig sorg, som gemmes i erindringen og aldrig glemmes."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

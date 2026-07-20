@@ -3,6 +3,7 @@ khai: position
 title: "Bound"
 declared: "Bundet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-En tilstand af at være rodfæstet og uløseligt knyttet to et sted eller et naturvæsen.
+En tilstand af at være rodfæstet og uløseligt knyttet til et sted eller et naturvæsen.
 
 ## Owner
 

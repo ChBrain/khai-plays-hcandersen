@@ -3,6 +3,7 @@ khai: place
 title: "The Street"
 declared: "Gaden"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ En brolagt gade flankeret af gamle huse, badet i regn, blæst og nattens dybe sk
 
 ## Offers
 
-Udsyn to byens borgere, forbipasserende og naturens elementer som vinden og stjernerne.
+Udsyn til byens borgere, forbipasserende og naturens elementer som vinden og stjernerne.
 
 ## Withheld
 

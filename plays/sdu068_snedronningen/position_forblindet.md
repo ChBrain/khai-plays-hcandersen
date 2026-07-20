@@ -3,6 +3,7 @@ khai: position
 title: "Blinded"
 declared: "Forblindet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Evnen til at føle glæde, empati, kærlighed og huske de vigtigste ting i livet
 
 ## Drives
 
-At finde den absolutte logiske orden og perfektion uden hensyn to følelsesmæssige bånd.
+At finde den absolutte logiske orden og perfektion uden hensyn til følelsesmæssige bånd.

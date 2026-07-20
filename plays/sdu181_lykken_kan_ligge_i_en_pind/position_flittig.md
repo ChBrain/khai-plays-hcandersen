@@ -3,6 +3,7 @@ khai: position
 title: "The Diligent"
 declared: "Flittig"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ Den flittige indstilling, der nægter at give op og i stedet finder virkelyst i 
 
 ## Has
 
-Et fast greb om værktøjet, urokkelig tålmodighed og viljen to omdanne råt træ til nyttige genstande.
+Et fast greb om værktøjet, urokkelig tålmodighed og viljen til at omdanne råt træ til nyttige genstande.
 
 ## Orders
 

@@ -3,6 +3,7 @@ khai: persona
 title: "The Child"
 declared: "Barnet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ Et lille barn med store, undrende øjne og lyst, krøllet hår, der falder ned o
 
 ## Action
 
-Barnet sidder på skamlen og ser op på bedstemoderen, mens det lytter to hendes fortællinger og sange.
+Barnet sidder på skamlen og ser op på bedstemoderen, mens det lytter til hendes fortællinger og sange.
 
 ## Shadow
 

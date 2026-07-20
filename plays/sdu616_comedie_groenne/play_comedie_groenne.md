@@ -4,6 +4,7 @@ title: "En Comedie i det Grønne"
 declared: "ComedieGroenne"
 description: "En vaudeville i én akt, der undervejs parodierer tidens hegelianske filosofi og Søren Kierkegaard."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

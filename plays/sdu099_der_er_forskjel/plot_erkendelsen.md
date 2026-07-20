@@ -3,6 +3,7 @@ khai: plot
 title: "The Humble Recognition"
 declared: "Den Ydmyge Erkendelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ stamp:
 
 ## Cue
 
-Børnene løber ud på marken og plukker dandelions, mens æblegrenen betragter dem fra sit vindue.
+Børnene løber ud på marken og plukker mælkebøtter, mens æblegrenen betragter dem fra sit vindue.
 
 ## Action
 

@@ -3,10 +3,11 @@ khai: pitch
 title: "The Satirical"
 declared: "Satirisk"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Pitch: Satirisk
@@ -25,7 +26,7 @@ En munter, ironisk og let spottende klang. Det er lyden af den kloge kones tørr
 
 ## Undertow
 
-En underliggende vished om, at de store, komplicerede teorier om kunst og digtning ofte er tomme, mens de sande historier ligger gemt i det mest hverdagsagtige og simple.
+En underliggende vished om, at den, der bruger andres redskaber til at se, aldrig ejer synet selv, og at kritikkens brød er lettere at vinde end digterkunstens.
 
 ## Nerve
 
@@ -33,4 +34,4 @@ Det komiske sammenstød mellem den unge digters højtravende melankoli og den kl
 
 ## Echo
 
-En let og befriende eftersmag af latter, der minder os om ikke at tage os selv for højtideligt, og at poesien kan findes i alt, hvis blot vi har de rette briller på.
+En let og bidende eftersmag af latter: for den, der ikke selv kan hitte på noget, er der altid et levebrød i at slå løs på dem, der kan.

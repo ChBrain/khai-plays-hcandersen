@@ -3,6 +3,7 @@ khai: plot
 title: "The Grief"
 declared: "Sorgen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ stamp:
 
 ## Cue
 
-Uden for den lukkede [port](place_port.md), hvor vejen is støvet og kold.
+Uden for den lukkede [port](place_port.md), hvor vejen er støvet og kold.
 
 ## Action
 

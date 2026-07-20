@@ -4,6 +4,7 @@ title: "The Darning Needle"
 declared: "Stoppenaalen"
 description: "En stoppenål, der tror hun er en synål, knækker og ender i rendestenen, men bevarer sit hovmod til det sidste."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -47,4 +48,4 @@ En stoppenål, der anser sig selv for at være så fin, at hun bilder sig ind at
 
 ## Stakes
 
-Kontrasten mellem den dybeste sociale fornedrelse og det uforanderlige hovmod. Historien spidder det menneskelige mindreværdskompleks, der forsøger at ophøje enhver ulykke to et tegn på adelig særstatus, og minder os om, at hovmodet sjældent kureres af modgang.
+Kontrasten mellem den dybeste sociale fornedrelse og det uforanderlige hovmod. Historien spidder det menneskelige mindreværdskompleks, der forsøger at ophøje enhver ulykke til et tegn på adelig særstatus, og minder os om, at hovmodet sjældent kureres af modgang.

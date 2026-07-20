@@ -3,6 +3,7 @@ khai: persona
 title: "Grethe"
 declared: "Grethe"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,12 +27,12 @@ En stolt landmand, der vogter over sin landejendom og sin elskede hoppe.
 
 ## Action
 
-Sammenligner og fremhæver sin hoppes smidighed og hurtighed frem for broderens hest.
+Sammenligner og fremhæver sin hoppes smidighed og hurtighed frem for naboens hest.
 
 ## Shadow
 
-Plages af misundelse over broderens hingsts rå styrke.
+Plages af misundelse over naboens hingsts rå styrke.
 
 ## Tell
 
-Taler med en skarp, ironisk tone og afviser broderens store ord med et smil.
+Taler med en skarp, ironisk tone og afviser naboens store ord med et smil.

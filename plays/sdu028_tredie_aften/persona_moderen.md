@@ -3,6 +3,7 @@ khai: persona
 title: "The Mother"
 declared: "Moderen"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -34,4 +35,4 @@ Hun frygter, at fattigdommen og sygdommen skal tage hendes lille barn fra hende 
 
 ## Tell
 
-Hendes stemme is blød og skælvende af kærlighed, og hun stryger barnets pande med en trøstende hånd.
+Hendes stemme er blød og skælvende af kærlighed, og hun stryger barnets pande med en trøstende hånd.

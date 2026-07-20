@@ -4,6 +4,7 @@ title: "The Galoshes of Fortune"
 declared: "Lykkens Galoscher"
 description: "Et par magiske galoscher opfylder bærerens ønsker, hvilket fører til absurde og ubehagelige situationer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

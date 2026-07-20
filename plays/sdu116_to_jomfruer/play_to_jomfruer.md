@@ -4,6 +4,7 @@ title: "Two Maidens"
 declared: "To Jomfruer"
 description: "To stolte brolæggerjomfruer kæmper mod et nyt, sjelløst navn og mister derved deres fremtidige lykke."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ To Jomfruer
 
 ## Arc
 
-To gamle brolæggerjomfruer står i materialgården og hører et rygte om, at de skal kaldes stempler. De nægter hårdnakket at lade sig ombøde to en livløs ting, da de anser jomfru for et menneskenavn. Den yngste jomfru er forlovet med en mægtig dampramler, som dog truer med at bryde forlovelsen, hvis hun ikke længere er en jomfru. Trods advarsler fra hjulbøren og favnemålet om den europæiske nødvendighed, holder de fast i deres stolthed. Da arbejdet kalder, og de tvinges til at stampe brostenene på gaden under det nye navn, tier de og lider. Men prisen for stoltheden er høj: dampramleren hæver forlovelsen, da han ikke vil have med et stempel at gøre, og de to jomfruer forbliver jomfruer til deres dages ende.
+To gamle brolæggerjomfruer står i materialgården og hører et rygte om, at de skal kaldes stempler. De nægter hårdnakket at lade sig omdøbe til en livløs ting, da de anser jomfru for et menneskenavn. Den yngste jomfru er forlovet med en mægtig dampramler, som dog truer med at bryde forlovelsen, hvis hun ikke længere er en jomfru. Trods advarsler fra hjulbøren og favnemålet om den europæiske nødvendighed, holder de fast i deres stolthed. Da arbejdet kalder, og de tvinges til at stampe brostenene på gaden under det nye navn, tier de og lider. Men prisen for stoltheden er høj: dampramleren hæver forlovelsen, da han ikke vil have med et stempel at gøre, og de to jomfruer forbliver jomfruer til deres dages ende.
 
 ## Company
 

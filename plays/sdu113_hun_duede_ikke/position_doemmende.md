@@ -3,6 +3,7 @@ khai: position
 title: "The Judging"
 declared: "Dømmende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Hold fast i lovens bogstav, fordøm de fattiges svagheder som moralsk forfald, o
 
 ## Loses
 
-Barmhjertigheden, evnen til at se næstegærlighedens sande væsen og forbindelsen to Guds egentlige retfærdighed.
+Barmhjertigheden, evnen til at se næstegærlighedens sande væsen og forbindelsen til Guds egentlige retfærdighed.
 
 ## Drives
 

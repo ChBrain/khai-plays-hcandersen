@@ -3,10 +3,11 @@ khai: persona
 title: "The Canary"
 declared: "Fuglen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Sanger](position_sanger.md) En lille kanariefugl i et bur, der bringer glæde til konen.
+Naboernes lille kanariefugl, sluppet ud af sit bur, der finder vej til den dødes stue.
 
 ## Owner
 
@@ -22,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En gul fjerskikkelse, der sidder på sin pind i buret.
+En lille gul fugl, der slår ned gennem det åbne vindue som ud af det blå.
 
 ## Action
 
-Hopper lystigt rundt og spiser af konens hånd.
+Den sætter sig ved den døde mands hovedgærde og slår sin klareste sang.
 
 ## Shadow
 
-Frygter burets kulde og ensomhed, når konen sover.
+Er langt hjemmefra og finder først ro, når den atter sidder i sit eget bur.
 
 ## Tell
 
-Fløjter en klar og trøstende salmemelodi.
+Den synger renest netop dér, hvor ingen venter en sang.

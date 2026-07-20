@@ -3,6 +3,7 @@ khai: piece
 title: "The Flower"
 declared: "Blomst"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ En lysende og duftende blomst, der folder sig ud i al sin pragt som et levende h
 
 ## Yearbook
 
-Frembragt af forårets varme stråler for at lyse op i vindueskarmen og bringe glæde to den fattige stue.
+Frembragt af forårets varme stråler for at lyse op i vindueskarmen og bringe glæde til den fattige stue.

@@ -3,6 +3,7 @@ khai: plan
 title: "The Nurturing"
 declared: "Pleje"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ Løget vil suge fugt og næring fra jorden i theepottens indre, strække sine r�
 
 ## Orders
 
-Træk vand to dig gennem rødderne, bryd igennem den tørre jordskorpe, og voks støt mod lyset i vindueskarmen.
+Træk vand til dig gennem rødderne, bryd igennem den tørre jordskorpe, og voks støt mod lyset i vindueskarmen.
 
 ## Implementation
 

@@ -3,6 +3,7 @@ khai: position
 title: "The Playful"
 declared: "Legefuld"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ En åben og dynamisk position på gulvet, der søger underholdning, socialt samv
 
 ## Has
 
-Lysten til leg, evnen to at organisere komedier og en uforpligtende glæde ved øjeblikkets fornøjelser.
+Lysten til leg, evnen til at organisere komedier og en uforpligtende glæde ved øjeblikkets fornøjelser.
 
 ## Orders
 

@@ -3,6 +3,7 @@ khai: process
 title: "The Narration"
 declared: "Fortaelling"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Månens blik gennem teatrets tagvindue.
 
 ## Direction
 
-Fra den lydløse dans to historiens evige erindring.
+Fra den lydløse dans til historiens evige erindring.
 
 ## Lever
 

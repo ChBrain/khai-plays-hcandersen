@@ -4,6 +4,7 @@ title: "The Porter's Son"
 declared: "Portnerens Søn"
 description: "Georg, portnerens søn, overvinder klasseskel gennem sin kunst og vinder sin elskede Emilie trods alle hindringer."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

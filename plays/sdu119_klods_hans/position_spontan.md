@@ -3,6 +3,7 @@ khai: position
 title: "The Spontaneous"
 declared: "Spontan"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ En åben og uforberedt indstilling, der reagerer på øjeblikkets indskydelser o
 
 ## Has
 
-En sorgløs tilgang to tilværelsen, modet til at fremstå tåbelig og evnen til at improvisere under pres.
+En sorgløs tilgang til tilværelsen, modet til at fremstå tåbelig og evnen til at improvisere under pres.
 
 ## Orders
 

@@ -4,6 +4,7 @@ title: "Anne Lisbeth"
 declared: "Anne Lisbeth"
 description: "En moder forlader sit eget barn for herskabets skyld, men hjemsøges af hans ånd og soner sin skyld på stranden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

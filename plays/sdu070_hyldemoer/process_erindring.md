@@ -3,6 +3,7 @@ khai: process
 title: "The Remembering"
 declared: "Erindring"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Den åndelige og følelsesmæssige rejse tilbage i tiden, where fortidens kærlige øjeblikke genoplives og deles.
+Den åndelige og følelsesmæssige rejse tilbage i tiden, hvor fortidens kærlige øjeblikke genoplives og deles.
 
 ## Owner
 

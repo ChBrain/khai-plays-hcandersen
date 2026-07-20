@@ -4,6 +4,7 @@ title: "The Drop of Water"
 declared: "Vanddraaben"
 description: "Krible-Krable ser i en vanddråbe en kaotisk mikroverden af kæmpende vanddyr."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

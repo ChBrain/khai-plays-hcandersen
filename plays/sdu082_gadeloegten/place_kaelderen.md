@@ -3,6 +3,7 @@ khai: place
 title: "The Cellar"
 declared: "Kælderen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Et trygt otium fyldt med nærvær, venskab og beskyttelse mod omsmeltning.
 
 ## Withheld
 
-Udsigten to den store verden og nattehimlen, som løgten plejede at spejle sig i.
+Udsigten til den store verden og nattehimlen, som løgten plejede at spejle sig i.

@@ -3,6 +3,7 @@ khai: plot
 title: "The Surrender"
 declared: "Overgivelsen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Døden tager moderens hænder og viser hende to skæbner i en vandbrønd.
 
 ## Action
 
-[Døden](persona_doeden.md) viser hende to menneskers fremtid: den ene fuld af lykke og velsignelse, den anden fuld af nød, elendighed og synd. Han fortæller, at en af disse skæbner ville være hendes barns. Moderen indser sin afmagt og sin potentielle egoisme. Hun gennemgår en fuldstændig [Kapitulation](process_kapitulation.md), slipper sit tag i [Barnesjæl](piece_barnesjael.md) og lader den mægtige [Hoster](position_hoster.md) tage barnet med sig ind i det ukendte land, mens hun beder Gud om at lade sin vilje ske.
+[Døden](persona_doeden.md) viser hende til menneskers fremtid: den ene fuld af lykke og velsignelse, den anden fuld af nød, elendighed og synd. Han fortæller, at en af disse skæbner ville være hendes barns. Moderen indser sin afmagt og sin potentielle egoisme. Hun gennemgår en fuldstændig [Kapitulation](process_kapitulation.md), slipper sit tag i [Barnesjæl](piece_barnesjael.md) og lader den mægtige [Hoster](position_hoster.md) tage barnet med sig ind i det ukendte land, mens hun beder Gud om at lade sin vilje ske.
 
 ## Stage
 

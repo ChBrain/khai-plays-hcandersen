@@ -4,6 +4,7 @@ title: "A Picture from the Citadel Ramparts"
 declared: "Et Billede fra Kastelsvolden"
 description: "En veteran og et legende barn mødes på volden i en bittersød kontrast mellem liv og fængsel."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -41,7 +42,7 @@ På en smuk efterårsdag står en gammel veteran på Kastelsvolden og lader sit 
 
 ## Triggers
 
-- [plot_volden.md](plot_volden.md) igangsættes af veteranens ankomst to Kastelsvolden.
+- [plot_volden.md](plot_volden.md) igangsættes af veteranens ankomst til Kastelsvolden.
 - [plot_leg.md](plot_leg.md) igangsættes af barnets leg på de grønne skråninger under veteranens opsyn.
 - [plot_erindring.md](plot_erindring.md) igangsættes af det falmende efterårsløv, der vækker veteranens minder.
 - [plot_forgaengelighed.md](plot_forgaengelighed.md) igangsættes af barnets møde med fængselsmuren og den mørke celle.

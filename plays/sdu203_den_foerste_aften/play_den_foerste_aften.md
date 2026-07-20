@@ -4,6 +4,7 @@ title: "The First Evening"
 declared: "Den første Aften"
 description: "Månens allerførste aften, hvor den ser ind til den unge digter og inspirerer hans første fortælling."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

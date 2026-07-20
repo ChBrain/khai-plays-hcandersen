@@ -4,6 +4,7 @@ title: "Souffleurens Benefice"
 declared: "Benefice"
 description: "Vaudeville i én akt om souffleurens desperate forberedelser og det kaotiske retsopgør før hans beneficeforestilling."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

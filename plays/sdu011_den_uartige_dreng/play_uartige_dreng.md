@@ -4,6 +4,7 @@ title: "The Naughty Boy"
 declared: "Den uartige Dreng"
 description: "Amor søger ly hos en gammel digter i stormen, men skyder ham i hjertet med sin pil efter at være blevet varmet op."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

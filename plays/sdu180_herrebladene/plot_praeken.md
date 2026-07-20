@@ -3,6 +3,7 @@ khai: plot
 title: "The Cleanliness Sermon"
 declared: "Præken"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ stamp:
 
 ## Cue
 
-William nikker to kortene, og en af dem træder helt frem.
+William nikker til kortene, og en af dem træder helt frem.
 
 ## Action
 

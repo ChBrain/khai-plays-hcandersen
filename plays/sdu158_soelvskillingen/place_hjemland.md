@@ -3,6 +3,7 @@ khai: place
 title: "The Homeland"
 declared: "Hjemland"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Det land, hvor skillingen is præget og født, og hvor dens værdi er almindeligt kendt og respekteret.
+Det land, hvor skillingen er præget og født, og hvor dens værdi er almindeligt kendt og respekteret.
 
 ## Owner
 

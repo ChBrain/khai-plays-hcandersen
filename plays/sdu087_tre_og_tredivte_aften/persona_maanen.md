@@ -3,10 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på himlen, der fuldender sin rejse og tager afsked.
+[Fortaeller](position_fortaeller.md) over verdens vinduer, der denne aften kigger ind til [Søskendeflokken](position_soeskendeflokken.md) gennem en rude uden forhæng.
 
 ## Owner
 
@@ -22,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En stor, lysende fuldmåne lige foran vinduet.
+En rund, blid skive, der skinner lige ind ad ruden, hvor intet forhæng er trukket for.
 
 ## Action
 
-Lyser varmt ind på malerens ansigt.
+Kigger ind over lampen og følger den mindstes foldede hænder, mens hun siger sin aftenbøn.
 
 ## Shadow
 
-Frygter at maleren vil føle sig ensom, når den er væk.
+Frygter at gå glip af netop det øjeblik, hvor et barns store alvor brister i et lille, uskyldigt ønske.
 
 ## Tell
 
-Taler med en mild og vemodig røst.
+Gemmer synet af pigen og hendes smørønske, som var det den kæreste af alle aftenens historier.

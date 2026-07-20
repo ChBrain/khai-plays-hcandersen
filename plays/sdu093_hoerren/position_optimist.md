@@ -3,6 +3,7 @@ khai: position
 title: "The Optimist"
 declared: "Optimist"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Sin oprindelige form som plante, sit linnedvæsende og til sidst sit papirlegeme
 
 ## Drives
 
-At blive to noget gavnligt og smukt, og at bevare glæden uanset hvor hårdt skæbnen rammer.
+At blive til noget gavnligt og smukt, og at bevare glæden uanset hvor hårdt skæbnen rammer.

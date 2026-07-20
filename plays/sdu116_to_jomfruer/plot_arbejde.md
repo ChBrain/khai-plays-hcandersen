@@ -3,6 +3,7 @@ khai: plot
 title: "The Work on the Street"
 declared: "Arbejdet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

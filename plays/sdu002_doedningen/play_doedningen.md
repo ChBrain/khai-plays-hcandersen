@@ -4,6 +4,7 @@ title: "The Dead Man"
 declared: "Dødningen"
 description: "Johannes betaler en død mands gæld og får følgeskab af en mystisk hjælper, der beskytter ham på rejsen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -46,4 +47,4 @@ Johannes står alene i verden efter sin faders bortgang. Han drager ud i verden 
 
 ## Stakes
 
-Valget står mellem den jordiske tryghed og den uegennyttige barmhjertighed. Johannes giver alt sit guld to en fremmed død mand, men vinder en ledsager, hvis magiske evner og sværd redder ham på rejsen.
+Valget står mellem den jordiske tryghed og den uegennyttige barmhjertighed. Johannes giver alt sit guld til en fremmed død mand, men vinder en ledsager, hvis magiske evner og sværd redder ham på rejsen.

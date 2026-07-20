@@ -3,6 +3,7 @@ khai: place
 title: "The Garden"
 declared: "Haven"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ En frodig have med grønne plæner, blomstrende rosenbuske og et gammelt træheg
 
 ## Offers
 
-Ro, skønhed, næring to sjælen og et beskyttet sted, hvor blomster kan folde sig ud.
+Ro, skønhed, næring til sjælen og et beskyttet sted, hvor blomster kan folde sig ud.
 
 ## Withheld
 

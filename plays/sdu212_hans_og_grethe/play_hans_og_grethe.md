@@ -1,16 +1,17 @@
 ---
 khai: play
 title: "Hans and Grethe"
-declared: "Hans og Grethe"
-description: "To naboer og brødre praler og strides uophørligt om deres hestes fortræffeligheder."
+declared: "Hans og Grethe. Smaastykker efter det Tydske"
+description: "Frit efter det tyske forlæg: to rivaliserende naboer strides om deres hestes fortræffeligheder."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-07-12"
 ---
 
-# Play: Hans og Grethe
+# Play: Hans og Grethe. Smaastykker efter det Tydske
 
 ## Estate
 
@@ -18,11 +19,11 @@ stamp:
 
 ## Name
 
-Hans og Grethe
+Hans og Grethe. Smaastykker efter det Tydske
 
 ## Arc
 
-To brødre, Hans og Grethe, ejer hver deres tilstødende landejendom. Deres daglige liv præges af en konstant indbyrdes rivalisering og stolthed. Hans ejer en stærk og stolt hingst, mens Grethe ejer en hurtig og smidig hoppe. Ved skellet mellem deres ejendomme indleder de en uendelig samtale præget af praleri og sammenligning af deres hestes styrker og svagheder. Deres plan om overbevisning af broderen om eget dyrs overlegenhed fastlåser dem i en cirkulær strid, der forenes under den dramatiske klang.
+To naboer, Hans og Grethe, ejer hver deres tilstødende landejendom. Deres daglige liv præges af en konstant indbyrdes rivalisering og stolthed. Hans ejer en stærk og stolt hingst, mens Grethe ejer en hurtig og smidig hoppe. Ved skellet mellem deres ejendomme indleder de en uendelig samtale præget af praleri og sammenligning af deres hestes styrker og svagheder. Deres plan om overbevisning af naboen om eget dyrs overlegenhed fastlåser dem i en cirkulær strid, der forenes under den dramatiske klang.
 
 ## Company
 
@@ -40,8 +41,8 @@ To brødre, Hans og Grethe, ejer hver deres tilstødende landejendom. Deres dagl
 ## Triggers
 
 - [plot_naboskab.md](plot_naboskab.md) udløses, når morgenlyset rammer de to tilstødende landejendomme.
-- [plot_hestestriden.md](plot_hestestriden.md) udløses, når brødrene mødes ved hegnet for at sammenligne deres heste.
+- [plot_hestestriden.md](plot_hestestriden.md) udløses, når naboerne mødes ved hegnet for at sammenligne deres heste.
 
 ## Stakes
 
-Kampen står mellem brødrenes forfængelighed og stædige behov for at overgå hinanden, hvilket forhindrer dem i at se værdien af deres nabo-fællesskab.
+Kampen står mellem naboernes forfængelighed og stædige behov for at overgå hinanden, hvilket forhindrer dem i at se værdien af deres nabo-fællesskab.

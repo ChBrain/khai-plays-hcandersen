@@ -3,10 +3,11 @@ khai: persona
 title: "The Wise Woman"
 declared: "Kone"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -26,7 +27,7 @@ En klog, rolig og mildt ironisk kvinde, der bor alene i skoven.
 
 ## Action
 
-Hun brygger urtete, pudser sine briller og læser i sin store, hemmelige bog.
+Hun brygger urtete, pudser sine briller og lytter efter fremmede stemmer gennem sit hørerør.
 
 ## Shadow
 

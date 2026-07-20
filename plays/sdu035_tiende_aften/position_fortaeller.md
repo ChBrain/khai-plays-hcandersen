@@ -3,17 +3,18 @@ khai: position
 title: "The Narrator"
 declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Position: Fortaeller
 
 ## Taxonomy
 
-Den evige og tålmodige betragter, hvis opgave det er at formidle nattens stille billeder til den søgende digter.
+Den evige betragter af jordens begivenheder.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Den evige og tålmodige betragter, hvis opgave det er at formidle nattens stille
 
 ## Has
 
-En dyb og rolig stemme, et uendeligt register af minder og evnen til at finde skønhed i det små.
+Et roligt blik og sandfærdig tale.
 
 ## Orders
 
-Lys over jorden, del dine billeder med den, der lytter, og lad historien flyde frit i natten.
+Gem hvert øjeblik, der bærer betydning.
 
 ## Loses
 
-Magten til at ændre menneskenes skæbne eller gribe ind i deres ensomme og svære stunder.
+Evnen til selv at deltage i livet.
 
 ## Drives
 
-Længslen efter at lade nattens forvandling blive forstået og husket af det søgende menneskehjerte.
+At holde minderne i live.

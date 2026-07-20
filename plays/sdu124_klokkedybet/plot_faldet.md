@@ -3,6 +3,7 @@ khai: plot
 title: "The Fall of the Bell"
 declared: "Klokkens Fald"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Tårnet ryster, og stormen suser gennem glughullerne. Klokken falder med et drø
 
 ## Tension
 
-Overgangen fra luftens frie højde til vandets mørke dyb, hvor klokkens røst forvandles to en hemmelighedsfuld undervandsmelodi under den [Mystisk](pitch_mystisk.md) stemning.
+Overgangen fra luftens frie højde til vandets mørke dyb, hvor klokkens røst forvandles til en hemmelighedsfuld undervandsmelodi under den [Mystisk](pitch_mystisk.md) stemning.

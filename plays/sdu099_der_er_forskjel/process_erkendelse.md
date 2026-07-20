@@ -3,6 +3,7 @@ khai: process
 title: "The Recognition"
 declared: "Erkendelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Fra forblindet stolthed og adskillelse til en ydmyg indsigt i det fælles værd.
 
 ## Lever
 
-Børnenes hænder, der plukker dandelions og puster til fjerboldene med glæde.
+Børnenes hænder, der plukker mælkebøtter og puster til fjerboldene med glæde.
 
 ## Echo
 

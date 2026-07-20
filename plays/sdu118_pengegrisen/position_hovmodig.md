@@ -3,6 +3,7 @@ khai: position
 title: "The Proud"
 declared: "Hovmodig"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Hold dig hævet over mængden, rangl med dine rigdomme, afvis enhver deltagelse 
 
 ## Loses
 
-Al værdi og anseelse, hvis den falder ned på gulvet, knuses to skår og mister sine mønter til omverdenen.
+Al værdi og anseelse, hvis den falder ned på gulvet, knuses til skår og mister sine mønter til omverdenen.
 
 ## Drives
 

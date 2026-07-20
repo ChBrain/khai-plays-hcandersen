@@ -3,6 +3,7 @@ khai: persona
 title: "The Bulb"
 declared: "Loeg"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ Det ligger skjult og mørkt under jorden, tørt og brunt i sit ydre, men fuld af
 
 ## Action
 
-Det trækker næring to sig fra den fugtige jord i theepottens indre og strækker sine rødder ud efter tryghed.
+Det trækker næring til sig fra den fugtige jord i theepottens indre og strækker sine rødder ud efter tryghed.
 
 ## Shadow
 

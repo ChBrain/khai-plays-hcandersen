@@ -3,6 +3,7 @@ khai: position
 title: "The Proud"
 declared: "Stolt"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-En position præget af hovmod, stolthed og en blind tiltro to eget værd og ydre skønhed.
+En position præget af hovmod, stolthed og en blind tiltro til eget værd og ydre skønhed.
 
 ## Owner
 

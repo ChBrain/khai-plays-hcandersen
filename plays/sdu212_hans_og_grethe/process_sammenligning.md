@@ -3,6 +3,7 @@ khai: process
 title: "Comparison"
 declared: "Sammenligning"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ En systematisk vurdering af hingstens rå kraft mod hoppens adræthed og hurtigh
 
 ## Lever
 
-Rivaliseringen og ønsket om at devaluere broderens besiddelser.
+Rivaliseringen og ønsket om at devaluere naboens besiddelser.
 
 ## Echo
 

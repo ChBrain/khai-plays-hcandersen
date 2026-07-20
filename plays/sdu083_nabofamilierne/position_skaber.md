@@ -3,6 +3,7 @@ khai: position
 title: "The Creator"
 declared: "Skaber"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,11 +22,11 @@ En position som skaber af skønhed og poesi, der beriger havens atmosfære uden 
 
 ## Has
 
-Fine kronblade, en dyb og berusende duft, samt evnen to at tiltrække sollys og beundring.
+Fine kronblade, en dyb og berusende duft, samt evnen til at tiltrække sollys og beundring.
 
 ## Orders
 
-Voks i skønhed, spred din duft to glæde for verden, og bær vidnesbyrd om livets fineste øjeblikke.
+Voks i skønhed, spred din duft til glæde for verden, og bær vidnesbyrd om livets fineste øjeblikke.
 
 ## Loses
 

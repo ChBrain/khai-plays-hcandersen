@@ -3,6 +3,7 @@ khai: process
 title: "The Demise"
 declared: "Forgængelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Nattens frembrud og storbyens tørre, støvede luft, som udtørrer dryadens sart
 
 ## Direction
 
-Fra den berusende glæde ved at se udstillingen to det totale fysiske forfald og hendes endelige svinden ind til ingenting.
+Fra den berusende glæde ved at se udstillingen til det totale fysiske forfald og hendes endelige svinden ind til ingenting.
 
 ## Lever
 

@@ -3,6 +3,7 @@ khai: plot
 title: "The Cart of Moving Day"
 declared: "Vognen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Udsigt fra det høje [tårn](place_taarn.md) ned mod den mudrede [gade](place_ga
 
 ## Tension
 
-Selvom folk flytter deres ting i håb om et nyt og bedre hjem, ser [Ole](persona_ole.md) kun flytningen som en forberedelse to det endelige opbrud, hvor alt jordisk gods kastes i rendestenen som værdiløse stumper.
+Selvom folk flytter deres ting i håb om et nyt og bedre hjem, ser [Ole](persona_ole.md) kun flytningen som en forberedelse til det endelige opbrud, hvor alt jordisk gods kastes i rendestenen som værdiløse stumper.

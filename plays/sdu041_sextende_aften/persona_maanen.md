@@ -3,10 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md) over [Teatret](place_teatret.md), der denne aften følger Pulcinellen fra scenens latter til Columbines stille grav.
 
 ## Owner
 
@@ -22,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg og lysende skive over klitterne.
+En rund, blank skive, der hænger lavt over kirkegårdens visnede krans og teatrets tomme scene.
 
 ## Action
 
-Kaster sit kolde, hvide lys over sandet.
+Lyser sit blege skær over den lille mand, der sidder alene ved graven, længe efter at klapsalverne er forstummet.
 
 ## Shadow
 
-Frygter at sandstormen vil opsluge hele landskabet.
+Frygter at ingen andre end den selv nogensinde ser sorgen, der gemmer sig bag klovnens grimasser.
 
 ## Tell
 
-Gør alle skygger i sandet lange og slørede.
+Gemmer synet af Pulcinellen på graven, som et grotesk gravmæle, før den fortæller det videre.

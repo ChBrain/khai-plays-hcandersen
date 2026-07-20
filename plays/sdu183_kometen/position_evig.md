@@ -3,6 +3,7 @@ khai: position
 title: "The Eternal"
 declared: "Evig"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Lys klart i mørket, hold kursen gennem verdensrummet og forbliv uændret trods 
 
 ## Loses
 
-Forbindelsen to det nære, det varme og den flygtige varme, som kun findes hos de levende.
+Forbindelsen til det nære, det varme og den flygtige varme, som kun findes hos de levende.
 
 ## Drives
 

@@ -3,6 +3,7 @@ khai: pitch
 title: "Modernity"
 declared: "Modernitet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Under den glitrende overflade og dampens hvide skyer løber en dyb og melankolsk
 
 ## Nerve
 
-Det, der rammes, er den dybe menneskelige splittelse mellem længslen efter det trygge og det farefulde begær efter det nye og ukendte. Pulsen stiger i takt med storbyens hastighed, og der spilles på fryden og angsten ved at overgive sig to en strøm, der trækker os væk fra vores rødder mod en glitrende, men usikker fremtid.
+Det, der rammes, er den dybe menneskelige splittelse mellem længslen efter det trygge og det farefulde begær efter det nye og ukendte. Pulsen stiger i takt med storbyens hastighed, og der spilles på fryden og angsten ved at overgive sig til en strøm, der trækker os væk fra vores rødder mod en glitrende, men usikker fremtid.
 
 ## Echo
 

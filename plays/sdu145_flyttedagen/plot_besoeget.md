@@ -3,6 +3,7 @@ khai: plot
 title: "The Visit to the Watchman"
 declared: "Besøget"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

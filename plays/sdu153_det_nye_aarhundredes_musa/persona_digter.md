@@ -3,6 +3,7 @@ khai: persona
 title: "The Poet"
 declared: "Digter"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ En ung mand med et tænksomt blik, siddende ved et enkelt træbord i et beskeden
 
 ## Action
 
-Han sidder i stilhed og lytter opmærksomt to nattens lyde, mens han venter på den åbenbaring, der skal forløse hans kunst.
+Han sidder i stilhed og lytter opmærksomt til nattens lyde, mens han venter på den åbenbaring, der skal forløse hans kunst.
 
 ## Shadow
 

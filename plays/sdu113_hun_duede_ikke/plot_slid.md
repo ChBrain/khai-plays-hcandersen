@@ -3,6 +3,7 @@ khai: plot
 title: "The Drudgery"
 declared: "Slidet"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Scenen viser åbredden dækket af rimfrost. Vaskekonen står bøjet over vandet,
 
 ## Tension
 
-Kontrasten mellem det frosne, fjendtlige vand og hendes urokkelige vilje to at fortsætte arbejdet for at holde døden fra døren.
+Kontrasten mellem det frosne, fjendtlige vand og hendes urokkelige vilje til at fortsætte arbejdet for at holde døden fra døren.

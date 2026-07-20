@@ -4,6 +4,7 @@ title: "Chicken Grethe's Family"
 declared: "Hønse-Grethes Familie"
 description: "Hønse-Grethes simple liv og Marie Grubbes historiske minder flettes sammen i herregårdens skygge."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -47,4 +48,4 @@ Historien om Hønse-Grethe, der lever sit stille liv på herregården med at pas
 
 ## Stakes
 
-Kampen står mellem hverdagens stille overlevelse gennem omsorgsfuldt arbejde og historiens ubarmhjertige gang, der opsluger adelens hovmod og lader fortidens glans forfalde to aske.
+Kampen står mellem hverdagens stille overlevelse gennem omsorgsfuldt arbejde og historiens ubarmhjertige gang, der opsluger adelens hovmod og lader fortidens glans forfalde til aske.

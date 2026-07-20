@@ -3,6 +3,7 @@ khai: pitch
 title: "Pathos"
 declared: "Patos"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,11 +26,11 @@ En højtidelig, dyb og eksistentiel klang. Det er kirkeklokkens tunge malmlyd un
 
 ## Undertow
 
-Under den ophøjede tone og det kosmiske mørke ligger menneskets dybe angst for at stå ansigt to ansigt med den endelige sandhed. Det er frygten for, at ens inderste tanker og hemmeligheder skal blive lagt blottet frem under evighedens klare lys, hvor ingen forklædning kan holde.
+Under den ophøjede tone og det kosmiske mørke ligger menneskets dybe angst for at stå ansigt til ansigt med den endelige sandhed. Det er frygten for, at ens inderste tanker og hemmeligheder skal blive lagt blottet frem under evighedens klare lys, hvor ingen forklædning kan holde.
 
 ## Nerve
 
-Det, der rammes, er den pludselige og smertefulde overgang fra stolt forvisning to dyb, rystende erkendelse af egen ufuldkommenhed. Det øjeblik, hvor det selvretfærdige menneske må slippe sit hårde forsvar og bøje sig i støvet for at modtage barmhjertigheden.
+Det, der rammes, er den pludselige og smertefulde overgang fra stolt forvisning til dyb, rystende erkendelse af egen ufuldkommenhed. Det øjeblik, hvor det selvretfærdige menneske må slippe sit hårde forsvar og bøje sig i støvet for at modtage barmhjertigheden.
 
 ## Echo
 

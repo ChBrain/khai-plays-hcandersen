@@ -3,6 +3,7 @@ khai: place
 title: "The Drawer"
 declared: "Skuffe"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Et midlertidigt hvilested og en scene for sladder, statuskampe og indbyrdes fnis
 
 ## Withheld
 
-Friheden to at bevæge sig frit uden for husets vægge og den friske luft fra det åbne vindue.
+Friheden til at bevæge sig frit uden for husets vægge og den friske luft fra det åbne vindue.

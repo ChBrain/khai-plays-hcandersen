@@ -3,6 +3,7 @@ khai: plan
 title: "The Accounting"
 declared: "Opgørelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Sjælens plan om at fremvise sine jordiske dyder og nidkære ydre tro for at vin
 
 ## Direction
 
-At retfærdiggøre sit hårde liv, henvise to sin trofasthed mod loven og kræve sin plads blandt de udvalgte.
+At retfærdiggøre sit hårde liv, henvise til sin trofasthed mod loven og kræve sin plads blandt de udvalgte.
 
 ## Orders
 

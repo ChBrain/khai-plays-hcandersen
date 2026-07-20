@@ -4,6 +4,7 @@ title: "Danish Popular Legends"
 declared: "Danske Folkesagn"
 description: "En historisk fortælling om de gamle danske folkesagn, der overleveres langs åer og skove."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Danske Folkesagn
 
 ## Arc
 
-Fortælleren vandrer gennem det danske landskab og lytter til de sagn, der knytter sig til åer og gamle høje. Ved Odense Å møder han Åmanden, det mystiske væsen fra dybet, der holder fast i de gamle historier. Fortælleren søger to indsamle disse mundtlige overleveringer for at bevare dem mod glemsel. Åmanden deler det rislende vands visdom, og fortælleren nedskriver sagnene, før historiens spor slettes under den historiske klang.
+Fortælleren vandrer gennem det danske landskab og lytter til de sagn, der knytter sig til åer og gamle høje. Ved Odense Å møder han Åmanden, det mystiske væsen fra dybet, der holder fast i de gamle historier. Fortælleren søger at indsamle disse mundtlige overleveringer for at bevare dem mod glemsel. Åmanden deler det rislende vands visdom, og fortælleren nedskriver sagnene, før historiens spor slettes under den historiske klang.
 
 ## Company
 

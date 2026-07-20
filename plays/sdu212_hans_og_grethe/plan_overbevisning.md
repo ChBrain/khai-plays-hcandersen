@@ -3,6 +3,7 @@ khai: plan
 title: "Convinced Superiority"
 declared: "Overbevisning"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-En stædig plan om at demonstrere og hævde sin egen hests overlegenhed over for broderen.
+En stædig plan om at demonstrere og hævde sin egen hests overlegenhed over for naboen.
 
 ## Owner
 

@@ -4,6 +4,7 @@ title: "The Metal Pig"
 declared: "Metalsvinet"
 description: "En fattig dreng i Firenze oplever en magisk nat på ryggen af metalsvinet, der fører ham ind i kunstens verden."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -47,4 +48,4 @@ En lille, fattig dreng falder i søvn på det berømte bronzesvin i Firenze. Om 
 
 ## Stakes
 
-Kampen står mellem den kolde og fattige virkeligheds begrnsning og sjælens flugt mod det skønne. Drengen risikerer at bukke under for sult og kulde, men indsatsen er intet mindre end hans evighed som kunstner.
+Kampen står mellem den kolde og fattige virkeligheds begrænsning og sjælens flugt mod det skønne. Drengen risikerer at bukke under for sult og kulde, men indsatsen er intet mindre end hans evighed som kunstner.

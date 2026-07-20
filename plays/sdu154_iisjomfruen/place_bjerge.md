@@ -3,6 +3,7 @@ khai: place
 title: "The Mountains"
 declared: "Bjerge"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ De vilde, schweiziske alpetinder og de dybe, iskolde gletsjerspalter.
 
 ## Shown
 
-Fra de grønne dale to de hvide tinder og de dybe, blå og bundløse kløfter i isen.
+Fra de grønne dale til de hvide tinder og de dybe, blå og bundløse kløfter i isen.
 
 ## Holds
 

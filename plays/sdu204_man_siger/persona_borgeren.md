@@ -3,6 +3,7 @@ khai: persona
 title: "The Citizen"
 declared: "Borgeren"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ En nysgerrig mand på torvet med en avis i hånden.
 
 ## Action
 
-Lytter to hvisken og forsøger at undersøge sagen.
+Lytter til hvisken og forsøger at undersøge sagen.
 
 ## Shadow
 

@@ -3,6 +3,7 @@ khai: position
 title: "The Inspired"
 declared: "Inspireret"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Et åbent hjerte, et skarpt øre for naturens og historiens hvisken samt en urol
 
 ## Orders
 
-Lyt opmærksomt to tidens strøm, glem dig selv, og giv klokkens gamle sjæl en ny og udødelig stemme.
+Lyt opmærksomt til tidens strøm, glem dig selv, og giv klokkens gamle sjæl en ny og udødelig stemme.
 
 ## Loses
 

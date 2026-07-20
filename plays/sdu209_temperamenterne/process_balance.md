@@ -3,6 +3,7 @@ khai: process
 title: "The Balance"
 declared: "Balance"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Flegmatikerens tålmodige indgriben med vandet.
 
 ## Direction
 
-Fra det stormfulde kaos to en rolig sameksistens.
+Fra det stormfulde kaos til en rolig sameksistens.
 
 ## Lever
 

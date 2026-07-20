@@ -4,6 +4,7 @@ title: "I Maaneskin"
 declared: "Maaneskin"
 description: "Alpescener fra de tyrolske Bjærge om Rosels trofasthed og Mathies' hjemkomst fra krigen under måneskinnet."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

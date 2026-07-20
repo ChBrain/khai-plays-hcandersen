@@ -4,6 +4,7 @@ title: "Dronningen paa 16 Aar"
 declared: "Dronningen"
 description: "Et historisk lystspil og drama i to akter om den unge dronning Christinas pligt og afkald."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: place
 title: "The World"
 declared: "Verden"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Verden, den kolde og regnfulde menneskelige virkelighed, som prinsen forvises to efter sit syndefald.
+Verden, den kolde og regnfulde menneskelige virkelighed, som prinsen forvises til efter sit syndefald.
 
 ## Owner
 

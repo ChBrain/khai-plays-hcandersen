@@ -3,6 +3,7 @@ khai: process
 title: "The Narration"
 declared: "Fortaelling"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Månens blik ned i gøglerens lejr.
 
 ## Direction
 
-Fra den simple lejr to historiens evige erindring.
+Fra den simple lejr til historiens evige erindring.
 
 ## Lever
 

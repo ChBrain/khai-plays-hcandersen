@@ -3,6 +3,7 @@ khai: process
 title: "Soup Cooking"
 declared: "Suppekogning"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Processen bevæger sig fra den tomme gryde til en duftende, fantasifuld suppe sk
 
 ## Lever
 
-Den rejsendes talegaver og evne to at besnære tilskuernes fantasi, så de tror på miraklet.
+Den rejsendes talegaver og evne til at besnære tilskuernes fantasi, så de tror på miraklet.
 
 ## Echo
 

@@ -3,6 +3,7 @@ khai: plan
 title: "The Order"
 declared: "Orden"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -34,7 +35,7 @@ Planen udføres i [gade](place_gade.md) ved at modstå hverdagens slid og vindst
 
 ## Targets
 
-- [x] Forblive solidt fæstnet to butikkens mur
+- [x] Forblive solidt fæstnet til butikkens mur
 - [x] Vise butikkens korrekte og pæne navn til offentligheden
 - [x] Modstå efterårets regn og mindre blæsevejr
 - [x] Undgå at afsløre nogen af de hemmeligheder, der gemmer sig bag døren

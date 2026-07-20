@@ -1,19 +1,20 @@
 ---
 khai: position
 title: "The Narrator"
-declared: "Fortæller"
+declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
-# Position: Fortæller
+# Position: Fortaeller
 
 ## Taxonomy
 
-Den observerende og formidlende holdning hos månen, der ser alt ovenfra og deler sine syner med verden.
+Den evige betragter af jordens begivenheder.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Den observerende og formidlende holdning hos månen, der ser alt ovenfra og dele
 
 ## Has
 
-En klar, ophøjet distance til jordens lidelser, men alligevel en dyb og melankolsk medfølelse.
+Et roligt blik og sandfærdig tale.
 
 ## Orders
 
-Rejs over himmelhvælvet, betragt menneskenes ensomhed, og bring deres historier tilbage til jorden.
+Gem hvert øjeblik, der bærer betydning.
 
 ## Loses
 
-Muligheden for at gribe direkte ind i handlingen eller lindre den lidendes smerte med hænder.
+Evnen til selv at deltage i livet.
 
 ## Drives
 
-Lysten til at huske og fastholde de glemte skæbner og give dem en stemme i nattens stilhed.
+At holde minderne i live.

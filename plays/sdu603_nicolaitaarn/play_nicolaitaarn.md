@@ -4,6 +4,7 @@ title: "Kjærlighed paa Nicolai Taarn"
 declared: "NicolaiTaarn"
 description: "En heroisk vaudeville i én akt på Nikolaj Tårn hvor publikum stemmer om Alisons og Ellens skæbne."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

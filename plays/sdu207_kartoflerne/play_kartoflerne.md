@@ -4,6 +4,7 @@ title: "Potatoes"
 declared: "Kartoflerne"
 description: "En historie om den ydmyge kartoffels kamp mod befolkningens mistro og dens endelige sejr som livgivende føde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -2,12 +2,13 @@
 khai: play
 title: "A Story"
 declared: "En Historie"
-description: "En digter søger sandheden i sit kammer, mens hans skrift dømmes af verden på markedet under lyset."
+description: "En streng præst føres i en drøm af sin afdøde hustru gennem natten og lærer at forkynde Guds nåde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: En Historie
@@ -22,29 +23,28 @@ En Historie
 
 ## Arc
 
-En digter sidder i sit ensomme kammer og søger sandheden. Han nedskriver sine dybeste tanker som en skrift, drevet af et ønske om at finde den rene sandhed og vinde verdens anerkendelse. Da han bringer sit værk ud på markedet, træder verden frem i rollen som dommer. Under det skarpe lys afdækkes skriftens sande værd, og digteren må sande, at hans søgen og afsløring fører til en ubarmhjertig dom.
+En præst prædiker med brændende alvor om den evige ild, der venter de ugudelige, og hans strenghed lægger sig som en skygge over hans milde hustru, der lider stille under læren. Hustruen dør, og en nat viser hendes ånd sig for ham i drømme: hun har fået lov at vende tilbage og beder ham vise hende blot én eneste sjæl blandt de fortabte, som Guds nåde ikke kan nå. Sammen vandrer de gennem natten forbi synderes skæbner, og for hver enkelt finder præsten en menneskelig historie, en formildende omstændighed, så han ikke kan fælde sin dom. Da dagen gryer, vågner han grædende ved siden af sin levende hustru, det hele var kun en drøm, og fra den dag forkynder han Guds nåde og kærlighed.
 
 ## Company
 
-- [Digteren](persona_digteren.md)
-- [Verden](persona_verden.md)
-- [Soegende](position_soegende.md)
-- [Dommer](position_dommer.md)
-- [Skrift](piece_skrift.md)
-- [Lys](piece_lys.md)
-- [Kammeret](place_kammeret.md)
-- [Markedet](place_markedet.md)
-- [Sogning](process_sogning.md)
-- [Afsloering](process_afsloering.md)
-- [Sandhed](plan_sandhed.md)
-- [Anerkendelse](plan_anerkendelse.md)
-- [det Filosofiske](pitch_filosofisk.md)
+- [Præsten](persona_praesten.md)
+- [Hustruen](persona_hustruen.md)
+- [Dømmende](position_doemmende.md)
+- [Formildende](position_formildende.md)
+- [Ilden](piece_ilden.md)
+- [Kirken](place_kirken.md)
+- [Hjemmet](place_hjemmet.md)
+- [Natten](place_natten.md)
+- [Formørkelsen](process_formoerkelsen.md)
+- [Drømmerejsen](process_droemmerejsen.md)
+- [Nåden](pitch_naaden.md)
 
 ## Triggers
 
-- [plot_skabelsen.md](plot_skabelsen.md) udløses af digterens ensomme søgen i sit kammer, hvor han skriver sit værk.
-- [plot_dommen.md](plot_dommen.md) udløses af digterens beslutning om at bringe sin skrift ud på markedet til offentlig afsløring.
+- [plot_praedikenen.md](plot_praedikenen.md) udløses af præstens brændende prædiken om den evige ild, som mørkner hustruens sind.
+- [plot_droemmebesoeget.md](plot_droemmebesoeget.md) udløses af hustruens ånd, der vender tilbage i drømme og beder præsten finde én fortabt sjæl, nåden ikke kan nå.
+- [plot_opvaagningen.md](plot_opvaagningen.md) udløses af morgengryet, der vækker præsten grædende ved siden af sin levende hustru.
 
 ## Stakes
 
-I det trange kammer kæmpes der for at fastholde den rene sandhed mod markedets larm. Når skriften bringes for dagens lys, trues digterens indre verden af en hård og overfladisk dom, som kan knuse hans spinkle håb om anerkendelse.
+Fortællingen rummer kun to sjæle og én natlig rejse, derfor bæres scenen af to personaer, præsten og hans hustru, og af de to modsatrettede holdninger, de bærer: den dømmende strenghed og den formildende barmhjertighed. Ilden er det eneste stykke, der er nødvendigt, fordi hele historien drejer sig om, hvorvidt den evige straf kan mildnes. Kirken, hjemmet og natten rummer de tre steder for præstens forvandling, og de to processer, formørkelsen og drømmerejsen, fører ham fra fordømmelse til nåde. Ingen plan hører hjemme her, for ingen af de to lægger rænker; hustruens genkomst er en gave, ikke en beregning, og præstens omvendelse kommer af, hvad han ser, ikke af noget skema, han følger.

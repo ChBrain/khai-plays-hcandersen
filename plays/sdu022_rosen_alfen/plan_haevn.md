@@ -3,6 +3,7 @@ khai: plan
 title: "The Revenge Plan"
 declared: "Hævnplanen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ Alfen søger at hidkalde havens bier og blomsternes sjæle for at dræbe mordere
 
 ## Orders
 
-Alfen hidkalder bierne og blomsterne to at angribe broderen og stikke ham to døde.
+Alfen hidkalder bierne og blomsterne til at angribe broderen og stikke ham til døde.
 
 ## Implementation
 
@@ -35,6 +36,6 @@ Planen udføres i haven, hvor alliancen smedes, og fuldbyrdes i broderens værel
 ## Targets
 
 - [x] Vække blomsternes og jasminsjælenes vrede over tabet
-- [x] Flyve hen to dronningebien og aftale angrebet
+- [x] Flyve hen til dronningebien og aftale angrebet
 - [x] Lede sværmen af vrede bier ind ad morderens vindue
-- [x] Stikke den sovende morder to døde i hans egen seng
+- [x] Stikke den sovende morder til døde i hans egen seng

@@ -1,20 +1,21 @@
 ---
 khai: persona
 title: "The Moon"
-declared: "Månen"
+declared: "Maanen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
-# Persona: Månen
+# Persona: Maanen
 
 ## Taxonomy
 
-[Fortæller](position_fortaeller.md) og natlig iagttager, der svæver over jorden og ser alt det glemte liv i de mørke afkroge.
+[Fortaeller](position_fortaeller.md) over Grønlands østkyst, som den denne aften når ved at følge trækfuglen og den svømmende hval mod nord.
 
 ## Owner
 
@@ -22,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg, rund skive af rent sølv, der kigger mildt og tålmodigt ned fra den mørke nathimmel.
+En bleg skive med et ansigt så mat som et åkandeblad, revet fra sin stilk og drevet ugevis på det åbne vand.
 
 ## Action
 
-Den vandrer tavs hen over himlen, mens den samler på historier og kaster sit klare lys over teltets tørre brød.
+Følger trækfuglen og den svømmende hval hen over havet til den nøgne, ismistklædte kyst og lyser sit svage skær ned mellem nordlysets flammende søjler.
 
 ## Shadow
 
-Den frygter de tunge, sorte skyer, der kan lukke dens øjne og efterlade de ensomme i totalt mørke.
+Frygter at dens svage stråler drukner i nordlysets hvirvlende ild og aldrig når ned til dem, der venter et svar dernede.
 
 ## Tell
 
-Den blegner mod morgenrøden og hvisker sine hemmeligheder to kunstneren, når natten er omme.
+Gemmer synet af dansen og Den Syges stille rejse til havet, før den bærer det videre som endnu et blad i sin billedbog uden billeder.

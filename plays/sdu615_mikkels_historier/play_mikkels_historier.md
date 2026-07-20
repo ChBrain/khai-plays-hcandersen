@@ -1,16 +1,17 @@
 ---
 khai: play
 title: "Mikkels Kjærlighedshistorier i Paris"
-declared: "MikkelsHistorier"
+declared: "Mikkels Kjærlighedshistorier i Paris"
 description: "En humoristisk vaudeville-monolog om en simpel dansk soldat og hans rejsefortællinger i Paris."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-07-10"
 ---
 
-# Play: MikkelsHistorier
+# Play: Mikkels Kjærlighedshistorier i Paris
 
 ## Estate
 

@@ -3,6 +3,7 @@ khai: piece
 title: "The Mare"
 declared: "Hoppen"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Det hurtige og smidige hundyr, der repræsenterer Grethes stolthed og modstykke til broderens hest.
+Det hurtige og smidige hundyr, der repræsenterer Grethes stolthed og modstykke til naboens hest.
 
 ## Owner
 

@@ -3,6 +3,7 @@ khai: plan
 title: "The Tempest"
 declared: "Uvejr"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -34,7 +35,7 @@ Planen udføres i [gade](place_gade.md) under stormnatten, hvor vinden hærger u
 
 ## Targets
 
-- [x] Samle nok vindstyrke to at flå jernkrogene fri
+- [x] Samle nok vindstyrke til at flå jernkrogene fri
 - [x] Ryste lygterne og skræmme vægteren væk
 - [x] Flytte skiltene uden at ødelægge deres læsbarhed
 - [x] Placere skiltene på nye, satiriske og afslørende steder

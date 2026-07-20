@@ -3,10 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md) over Vreta, der denne aften lader sit lys falde gennem gitteret ind i klosterkirkens hvælving.
 
 ## Owner
 
@@ -22,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg skive over kroens tag.
+En rund, blank skive, der hænger lavt over de mørke fyrreskove ved Roxens øde bredder.
 
 ## Action
 
-Kaster sit kolde, hvide lys over landevejen.
+Sender sine stråler gennem gitteret i muren og lader dem falde på den forgyldte trækrone og de sovende kongers stenkister.
 
 ## Shadow
 
-Frygter at rejsen aldrig vil finde sin afslutning.
+Frygter at selv dens egen erindring om kongernes stolte smil en dag visner som ormstukket træ.
 
 ## Tell
 
-Gør karetens skygge lang og utydelig på vejen.
+Lader sit kolde skær dvæle længst ved den skrøbelige krone, som ventede den selv på et svar fra de tavse døde.

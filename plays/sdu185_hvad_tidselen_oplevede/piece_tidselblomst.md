@@ -3,17 +3,18 @@ khai: piece
 title: "The Thistle Flower"
 declared: "Tidselblomst"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-19"
 ---
 
 # Piece: Tidselblomst
 
 ## Taxonomy
 
-Tidselens smukke rødviolette krone, der lyser op midt i de skarpe og ugæstfrie pigge.
+Tidselens rødlilla krone, plukket til en knaphulsblomst og gjort til Skotlands mærke og en forlovelses segl.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Tidselens smukke rødviolette krone, der lyser op midt i de skarpe og ugæstfrie
 
 ## Place
 
-[Marken](place_marken.md) tæt ved havegærdet, hvor den vajer frit i luften.
+[Hegnet](place_hegnet.md) langs landevejen, hvor den vokser lige uden for det hvide stakit.
 
 ## Load Bearing
 
-Al den stolthed og drøm om skønhed, som tidselen besidder, hviler i denne enkle blomst.
+Hele tidselens krav på ære og hele forlovelsens tegn hviler alene i denne ene plukkede krone.
 
 ## Apparent
 
-En farverig blomstertop omgivet af stikkende kurveblade, der holder dyr og mennesker på afstand.
+En fyldig, tornekranset blomst i dybt violet, der vender sig mod den forbipasserende færdsel.
 
 ## Yearbook
 
-Spiret om foråret, vokset stor under sommersolen, plukket om efteråret og tørret i en kærlighedsbog.
+Spiret ved gærdet om foråret, udpeget af den unge skotske dame som hjemlandets mærke, plukket uskadt til en knaphulsblomst af godsets unge herre, og til sidst husket som varsel om en forlovelse indgået samme aften.

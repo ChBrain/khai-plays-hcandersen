@@ -3,6 +3,7 @@ khai: process
 title: "The Narration"
 declared: "Fortælling"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Månens frembrud på nattehimlen, som kaster lys over de glemte kroge af verden.
 
 ## Direction
 
-Fra et stumt, mørkt landskab to en levende og lysende beretning fuld af poesi.
+Fra et stumt, mørkt landskab til en levende og lysende beretning fuld af poesi.
 
 ## Lever
 

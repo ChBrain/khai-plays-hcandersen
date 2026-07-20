@@ -3,6 +3,7 @@ khai: plot
 title: "The Whispering River"
 declared: "Aaen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Når fortælleren når åbredden og hører åens rislen.
 
 ## Action
 
-Ved [aaen](place_aaen.md) stiger [Aamanden](persona_aamanden.md) op i sin position som [Vaesen](position_vaesen) i det klare [vand](piece_vand.md). Hans hvisken aktiverer fortællerens plan om [Bevaring](plan_bevaring.md), og understøtter den [Overlevering](process_overlevering.md) af sagn, der klinger [Historisk](pitch_historisk.md).
+Ved [aaen](place_aaen.md) stiger [Aamanden](persona_aamanden.md) op i sin position som [Vaesen](position_vaesen.md) i det klare [vand](piece_vand.md). Hans hvisken aktiverer fortællerens plan om [Bevaring](plan_bevaring.md), og understøtter den [Overlevering](process_overlevering.md) af sagn, der klinger [Historisk](pitch_historisk.md).
 
 ## Stage
 

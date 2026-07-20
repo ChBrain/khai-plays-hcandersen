@@ -4,6 +4,7 @@ title: "There is a Difference"
 declared: "Der er Forskjel"
 description: "En stolt æblegren i en vase og en ydmyg mælkebøtte i grøften lærer om livets sande værdisættelse under solen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Der er Forskjel
 
 ## Arc
 
-En blomstrende æblegren knækkes af sit træ og bringes ind i stuen, hvor den placeres i en fornem vase og beundres af alle. Grenen fyldes med stolthed og ser med ringeagt ned på de simple mælkebøtter, der vokser i den fugtige grøftekant. Men da den iagttager solen, der skinner på alt levende uden forskel, og ser de glade børnehænder samle dandelions op som var det det reneste guld, kastes dens hovmod to jorden. Den indser til sidst, at livets sande værdi og skønhed ikke måles i ydre pragt eller salonselskabets anerkendelse, men i den fælles livskraft, som alt skabt deler under den samme sol.
+En blomstrende æblegren knækkes af sit træ og bringes ind i stuen, hvor den placeres i en fornem vase og beundres af alle. Grenen fyldes med stolthed og ser med ringeagt ned på de simple mælkebøtter, der vokser i den fugtige grøftekant. Men da den iagttager solen, der skinner på alt levende uden forskel, og ser de glade børnehænder samle mælkebøtter op som var det det reneste guld, kastes dens hovmod til jorden. Den indser til sidst, at livets sande værdi og skønhed ikke måles i ydre pragt eller salonselskabets anerkendelse, men i den fælles livskraft, som alt skabt deler under den samme sol.
 
 ## Company
 
@@ -43,7 +44,7 @@ En blomstrende æblegren knækkes af sit træ og bringes ind i stuen, hvor den p
 ## Triggers
 
 - [plot_vasen.md](plot_vasen.md) udløses af æblegrenens anbringelse i stuens porcelænsvase.
-- [plot_erkendelsen.md](plot_erkendelsen.md) udløses af børnenes glade leg med dandelions i grøften foran stuevinduet.
+- [plot_erkendelsen.md](plot_erkendelsen.md) udløses af børnenes glade leg med mælkebøtter i grøften foran stuevinduet.
 
 ## Stakes
 

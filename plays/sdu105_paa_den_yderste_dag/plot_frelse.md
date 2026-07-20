@@ -3,6 +3,7 @@ khai: plot
 title: "The Salvation Scene"
 declared: "Frelsen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Himlens port åbner sig langsomt under en strøm af varmt, gyldent lys. De grimm
 
 ## Tension
 
-Overgangen fra den dybeste fortvivlelse to den ultimative glæde og forløsning ved Guds nåde.
+Overgangen fra den dybeste fortvivlelse til den ultimative glæde og forløsning ved Guds nåde.

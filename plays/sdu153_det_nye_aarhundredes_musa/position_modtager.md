@@ -3,6 +3,7 @@ khai: position
 title: "The Receiver"
 declared: "Modtager"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Sikkerheden i det kendte og hverdagens trygge banaliteter, når den nye sandhed 
 
 ## Drives
 
-Søgen efter sand mening og trangen to at udtrykke det, der endnu ikke er formuleret af andre.
+Søgen efter sand mening og trangen til at udtrykke det, der endnu ikke er formuleret af andre.

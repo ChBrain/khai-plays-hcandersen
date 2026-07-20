@@ -4,6 +4,7 @@ title: "En Nat i Roeskilde"
 declared: "NatIRoeskilde"
 description: "En vaudevillespøg i én akt om to mænd, der deler værelse og hustru."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

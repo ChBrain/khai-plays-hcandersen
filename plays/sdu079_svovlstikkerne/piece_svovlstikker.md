@@ -3,6 +3,7 @@ khai: piece
 title: "The Matches"
 declared: "Svovlstikker"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Et bundt billige svovlstikker, som er pigens handelsvare og hendes eneste kilde to varme og visioner.
+Et bundt billige svovlstikker, som er pigens handelsvare og hendes eneste kilde til varme og visioner.
 
 ## Owner
 

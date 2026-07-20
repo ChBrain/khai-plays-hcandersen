@@ -3,6 +3,7 @@ khai: position
 title: "The Soil Container"
 declared: "Jordbeholder"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ En position kendetegnet ved fornedring, glemsel og det at være fyldt med mørk,
 
 ## Has
 
-En dyb tålmodighed, en kold krop af brudt porcelæn og en evne to at give alt sit tomrum væk to muld og rødder.
+En dyb tålmodighed, en kold krop af brudt porcelæn og en evne til at give alt sit tomrum væk til muld og rødder.
 
 ## Orders
 

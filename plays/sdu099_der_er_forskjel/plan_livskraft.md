@@ -3,6 +3,7 @@ khai: plan
 title: "The Vitality"
 declared: "Livskraft"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mælkebøttens enkle plan om at vokse flittigt, spredes med vinden og bringe lys to enhver, der ser den.
+Mælkebøttens enkle plan om at vokse flittigt, spredes med vinden og bringe lys til enhver, der ser den.
 
 ## Owner
 

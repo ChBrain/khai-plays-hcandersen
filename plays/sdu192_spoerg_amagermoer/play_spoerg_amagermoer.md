@@ -4,6 +4,7 @@ title: "Ask the Amager Wife"
 declared: "Spørg Amagermo'er!"
 description: "En surrealistisk fortælling om den gamle gulerods bejlen til gulerodsbruden, før de begge ender i suppen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

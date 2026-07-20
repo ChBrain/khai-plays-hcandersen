@@ -3,6 +3,7 @@ khai: position
 title: "The Elf"
 declared: "Alf"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,11 +22,11 @@ Naturens usynlige vogter og vidne, der formidler sandheden mellem blomster og me
 
 ## Has
 
-Evnen to at flyve ubemærket omkring, høre naturens sprog og hviske hemmeligheder direkte ind i de sovendes drømme.
+Evnen til at flyve ubemærket omkring, høre naturens sprog og hviske hemmeligheder direkte ind i de sovendes drømme.
 
 ## Orders
 
-Afdæk ugerningen, trøst den sørgende pige og hidkald havens væsner to den endelige hævn.
+Afdæk ugerningen, trøst den sørgende pige og hidkald havens væsner til den endelige hævn.
 
 ## Loses
 

@@ -2,8 +2,9 @@
 khai: play
 title: "Truth"
 declared: "Truth"
-description: "Et allegorisk og filosofisk drama om Sandhedens og Løgnens strid i det illusionerede kejsersnit."
+description: "Et allegorisk og filosofisk drama om Sandhedens og Løgnens strid i det illusionerede kejserhof."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Truth
 
 ## Arc
 
-I et glitrende kejsersnit lever hoffet i konstant pragt og behagelige illusioner, styret af den veltalende kansler Løgnen, som har forvist jomfru Sandheden til mørket. Den unge filosof og søger forsøger ihærdigt at bringe klarhed til hoffet og sniger sig ind med Sandhedens spejl, der afslører alle falske forklædninger og viser tingenes rette natur. Da spejlet tabes foran tronen, bryder det skarpe lys Løgnens besværgelser, og Kejseren vågner op til virkeligheden. De falske smigrere flygter i forfærdelse, mens den tilslørede Sandhed træder frem i sin sande, strålende skikkelse og genindsættes i ære midt under hoffets forløsende enighed.
+I et glitrende kejserhof lever hoffet i konstant pragt og behagelige illusioner, styret af den veltalende kansler Løgnen, som har forvist jomfru Sandheden til mørket. Den unge filosof og søger forsøger ihærdigt at bringe klarhed til hoffet og sniger sig ind med Sandhedens spejl, der afslører alle falske forklædninger og viser tingenes rette natur. Da spejlet tabes foran tronen, bryder det skarpe lys Løgnens besværgelser, og Kejseren vågner op til virkeligheden. De falske smigrere flygter i forfærdelse, mens den tilslørede Sandhed træder frem i sin sande, strålende skikkelse og genindsættes i ære midt under hoffets forløsende enighed.
 
 ## Company
 

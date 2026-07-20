@@ -4,6 +4,7 @@ title: "Auntie Toothache"
 declared: "Tante Tandpine"
 description: "Rasmussen plages af Madam Tandpines pinefulde besøg, mens tantens søde sager nærer den groteske smerte."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: process
 title: "Judgment"
 declared: "Dom"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Kærlighedens sande og skjulte ofre over for den ydre, magtfulde facades fordøm
 
 ## Echo
 
-Borgmesterens kolde ord "hun duede ikke", der forvandles to sandhedens "hun duede i sandhed" i eftermælet.
+Borgmesterens kolde ord "hun duede ikke", der forvandles til sandhedens "hun duede i sandhed" i eftermælet.

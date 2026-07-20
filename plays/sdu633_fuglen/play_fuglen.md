@@ -4,6 +4,7 @@ title: "Fuglen i Pæretræet"
 declared: "Fuglen i Pæretræet"
 description: "En lystig vaudeville i én akt på Nørrebro, hvor de elskende vinder faderens samtykke trods nabostrid."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

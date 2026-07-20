@@ -4,6 +4,7 @@ title: "Who Was the Happiest?"
 declared: "Hvem var den Lykkeligste?"
 description: "En strid om, hvem af havens skabninger der var den lykkeligste, mens vinden søger svaret over gravkammeret."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

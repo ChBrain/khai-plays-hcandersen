@@ -3,6 +3,7 @@ khai: position
 title: "The Aeronaut"
 declared: "Aeronaut"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ En ukuelig tro på vindene, kendskab til varme og gas, samt en urokkelig optimis
 
 ## Orders
 
-Stig højt to vejrs, lad de jordiske bekymringer ligge bag dig og find altid en vej ud af kniben ved at stige opad.
+Stig højt til vejrs, lad de jordiske bekymringer ligge bag dig og find altid en vej ud af kniben ved at stige opad.
 
 ## Loses
 

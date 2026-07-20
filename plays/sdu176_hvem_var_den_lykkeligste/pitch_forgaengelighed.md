@@ -3,6 +3,7 @@ khai: pitch
 title: "Transience"
 declared: "Forgængelighed"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Forgængelighedens tone, blid, vemodig og uundgåelig. Klangfarven er præget af
 
 ## Undertow
 
-Under forgængeligheden ligger en trøstende vished om livets evige kredsløb. Selvom den enkelte rose visner og dør, vender hendes blade tilbage to jorden, og hækken vil bære nye knopper næste sommer. Denne understrøm holder spillet fri for bitterhed; det er ikke en klagesang over døden, men en hyldest til den fuldendte skæbne, hvor intet liv er spildt, uanset om det ender i sorg eller nytte.
+Under forgængeligheden ligger en trøstende vished om livets evige kredsløb. Selvom den enkelte rose visner og dør, vender hendes blade tilbage til jorden, og hækken vil bære nye knopper næste sommer. Denne understrøm holder spillet fri for bitterhed; det er ikke en klagesang over døden, men en hyldest til den fuldendte skæbne, hvor intet liv er spildt, uanset om det ender i sorg eller nytte.
 
 ## Nerve
 

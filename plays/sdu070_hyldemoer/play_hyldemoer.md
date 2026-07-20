@@ -4,6 +4,7 @@ title: "The Elder-Mother"
 declared: "Hyldemoer"
 description: "En syg dreng hører eventyret om Hyldemor og mindes et langt og kærligt liv under hyldetræets grene."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Hyldemoer
 
 ## Arc
 
-En lille, syg dreng, der har fået våde fødder, ligger i sin seng og får serveret varm hyldete fra en gammel thekande. Ud af thekanden rejser den forunderlige Hyldemor sig. Hun tager ham med på en vidunderlig rejse i erindringen, hvor de ser det gamle ægtepars lange, kærlige liv udfolde sig fra ungdommens glade forår to alderdommens gyldne bryllup under det store hyldetræ. Gennem hendes magiske fortælling finder drengen trøst, varme og endelig helbredelse.
+En lille, syg dreng, der har fået våde fødder, ligger i sin seng og får serveret varm hyldete fra en gammel thekande. Ud af thekanden rejser den forunderlige Hyldemor sig. Hun tager ham med på en vidunderlig rejse i erindringen, hvor de ser det gamle ægtepars lange, kærlige liv udfolde sig fra ungdommens glade forår til alderdommens gyldne bryllup under det store hyldetræ. Gennem hendes magiske fortælling finder drengen trøst, varme og endelig helbredelse.
 
 ## Company
 

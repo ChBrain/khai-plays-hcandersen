@@ -4,6 +4,7 @@ title: "Golden Treasure"
 declared: "Guldskat"
 description: "Peter vokser op med musikken, drager i krig med sin tromme og vender hjem som en hædret musiker til moders glæde."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -44,7 +45,7 @@ Peter var søn af en trommeslager, og i hans barndom spåede en klog kone, at ha
 - [plot_barndommen.md](plot_barndommen.md) igangsættes af spådommen om den gemte guldskat i Peters indre.
 - [plot_afrejsen.md](plot_afrejsen.md) igangsættes af krigens udbrud, da Peter tager afsked med sit hjem.
 - [plot_krigens_alvor.md](plot_krigens_alvor.md) igangsættes af slaget på krigsmarken, hvor trommen kalder til kamp.
-- [plot_gensynet.md](plot_gensynet.md) igangsættes af freden og Peters hjemkomst to moderen som en fri musiker.
+- [plot_gensynet.md](plot_gensynet.md) igangsættes af freden og Peters hjemkomst til moderen som en fri musiker.
 
 ## Stakes
 

@@ -3,6 +3,7 @@ khai: process
 title: "Washing"
 declared: "Vask"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,15 +22,15 @@ Den evige og udmattende proces, hvor snavsetøjet gnides mod brættet i det kold
 
 ## Initiated by
 
-Iværksat af [Vaskekone](persona_vaskekone.md) ved [Å](place_aa.md) som hendes eneste vej to at tjene til livets ophold.
+Iværksat af [Vaskekone](persona_vaskekone.md) ved [Å](place_aa.md) som hendes eneste vej til at tjene til livets ophold.
 
 ## Direction
 
-En bevægelse fra det snavsede stof to det rene hvide tøj, modsat vaskekonens krop, der slides ned fra svaghed to død.
+En bevægelse fra det snavsede stof til det rene hvide tøj, modsat vaskekonens krop, der slides ned fra svaghed til død.
 
 ## Lever
 
-Nødvendigheden af at tjene en skilling og kærligheden to sønnen, der driver hende ud i det isnende vand trods sygdom.
+Nødvendigheden af at tjene en skilling og kærligheden til sønnen, der driver hende ud i det isnende vand trods sygdom.
 
 ## Echo
 

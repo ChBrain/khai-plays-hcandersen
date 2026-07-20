@@ -4,6 +4,7 @@ title: "The Snow Queen"
 declared: "Snedronningen"
 description: "Gerda søger efter Kay, som er bortført af Snedronningen, og redder ham med sine varme tårer i ispaladset."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Snedronningen
 
 ## Arc
 
-Kay får en splint af det onde troldspejl i øjet og i hjertet, hvilket gør ham kold og hånlig over for Gerda. Han bliver bortført af Snedronningen to hendes slot i Norden. Gerda nægter at opgive ham og begiver sig ud på en farefuld rejse for at finde ham. Gennem sin uskyld, kærlighed og varme tårer lykkes det hende at smelte isen i Kays hjerte, befri ham fra Snedronningens magt og bringe ham hjem til deres taghave.
+Kay får en splint af det onde troldspejl i øjet og i hjertet, hvilket gør ham kold og hånlig over for Gerda. Han bliver bortført af Snedronningen til hendes slot i Norden. Gerda nægter at opgive ham og begiver sig ud på en farefuld rejse for at finde ham. Gennem sin uskyld, kærlighed og varme tårer lykkes det hende at smelte isen i Kays hjerte, befri ham fra Snedronningens magt og bringe ham hjem til deres taghave.
 
 ## Company
 

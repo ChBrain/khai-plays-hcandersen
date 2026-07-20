@@ -3,10 +3,11 @@ khai: persona
 title: "The Penman"
 declared: "Skriveren"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Kontorist](position_kontorist.md) En flittig og dedikeret skriver, der lever for sit arbejde.
+[Kritikeren](position_kritikeren.md) En skriver, ansat for sin smukke håndskrift, der efter en uges ros rejser sig som selvbestaltet dommer over kunsten.
 
 ## Owner
 
@@ -22,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bøjet skikkelse over skrivebordet, oplyst af et enkelt lys.
+En mand med rank ryg og en pen i hånden, der hurtigt bytter beskedenheden ud med en hævet hage.
 
 ## Action
 
-Dypper pennen i blækket og skriver hurtigt.
+Skriver rene afskrifter om formiddagen og fælder højtidelige domme over digte, billeder, statuer og toner om eftermiddagen.
 
 ## Shadow
 
-Frygter at løbe tør for blæk før bogen er fuldført.
+Tror, at den smukke hånd giver ham ret til at dømme kunstarter, han aldrig selv har øvet.
 
 ## Tell
 
-Fører pennen med faste og øvede bevægelser.
+Retter på sit ærme og udtaler sin dom, som var den endelig og ubestridelig.

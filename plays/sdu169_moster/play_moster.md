@@ -4,6 +4,7 @@ title: "Auntie"
 declared: "Moster"
 description: "Moster elsker teatret over alt og lever i en verden af skuespil og dramatiske visioner."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

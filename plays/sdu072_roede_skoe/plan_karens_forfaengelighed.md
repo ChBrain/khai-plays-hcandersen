@@ -3,6 +3,7 @@ khai: plan
 title: "Karen's Vanity Plan"
 declared: "Karens Forfængelighed"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ Karen vil bære de smukke, røde sko til alle festlige og hellige lejligheder fo
 
 ## Orders
 
-Karen beslutter at bære skoene mod fruens råd, ignorere præstens ord og danse uden hensyn to andres formaninger.
+Karen beslutter at bære skoene mod fruens råd, ignorere præstens ord og danse uden hensyn til andres formaninger.
 
 ## Implementation
 

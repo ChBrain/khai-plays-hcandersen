@@ -4,6 +4,7 @@ title: "Skibet"
 declared: "Skibet"
 description: "En underholdende vaudeville i én akt om et skib i karantæne, forvekslinger og kærlighedsbreve."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

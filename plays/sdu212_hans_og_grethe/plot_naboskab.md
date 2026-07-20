@@ -3,6 +3,7 @@ khai: plot
 title: "The Neighborly Life"
 declared: "Naboskab"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Når morgenlyset rammer de to tilstødende landejendomme.
 
 ## Action
 
-På den fælles [Landejendom](place_landejendom.md) står brødrene [Hans](persona_hans.md) og [Grethe](persona_grethe.md) i deres position som [Nabobroder](position_nabobroder.md). De betragter hinandens ejendomme og indleder en stum rivalisering, der er præget af den [Dramatisk](pitch_dramatisk.md) spænding mellem dem.
+På den fælles [Landejendom](place_landejendom.md) står naboerne [Hans](persona_hans.md) og [Grethe](persona_grethe.md) i deres position som [Nabobroder](position_nabobroder.md). De betragter hinandens ejendomme og indleder en stum rivalisering, der er præget af den [Dramatisk](pitch_dramatisk.md) spænding mellem dem.
 
 ## Stage
 

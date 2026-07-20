@@ -3,6 +3,7 @@ khai: plan
 title: "The Winds' Plan"
 declared: "Vindenes Plan"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ At blæse over jorden, samle nyheder og historier, og transportere den værdige 
 
 ## Orders
 
-Rapporter jævnligt til moderen in vindgrotten, hjælp rejsende i nød, og bær prinsen over havene til Paradis.
+Rapporter jævnligt til moderen i vindgrotten, hjælp rejsende i nød, og bær prinsen over havene til Paradis.
 
 ## Implementation
 

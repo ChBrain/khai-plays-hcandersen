@@ -3,6 +3,7 @@ khai: position
 title: "The Narrator"
 declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Rollen som den sandfærdige iagttager, der formidler nattens stille billeder og menneskers sorger to verden.
+Rollen som den sandfærdige iagttager, der formidler nattens stille billeder og menneskers sorger til verden.
 
 ## Owner
 

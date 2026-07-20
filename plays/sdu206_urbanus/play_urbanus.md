@@ -4,6 +4,7 @@ title: "Urbanus"
 declared: "Urbanus"
 description: "Munken Urbanus lytter til en skovfugls sang og opdager, at der er gået hundrede år under hans lytning."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -46,4 +47,4 @@ Munken Urbanus vandrer ud i klosterskoven med sin klosterbog for at grunde over 
 
 ## Stakes
 
-Kampen står mellem klostrets begrænsede tid, der måler menneskelivet i år, og den himmelske sang, der åbner porten to evigheden.
+Kampen står mellem klostrets begrænsede tid, der måler menneskelivet i år, og den himmelske sang, der åbner porten til evigheden.

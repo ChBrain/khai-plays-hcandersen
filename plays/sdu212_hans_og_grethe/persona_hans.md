@@ -3,6 +3,7 @@ khai: persona
 title: "Hans"
 declared: "Hans"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -30,7 +31,7 @@ Praler højlydt af sin hests styrke og formue over for sin bror ved skellet.
 
 ## Shadow
 
-Frygter at broderens hoppe reelt er mere værdifuld eller hurtigere.
+Frygter at naboens hoppe reelt er mere værdifuld eller hurtigere.
 
 ## Tell
 

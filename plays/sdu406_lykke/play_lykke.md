@@ -4,6 +4,7 @@ title: "Lucky Peer"
 declared: "Lykke"
 description: "Historien om den fattige, heldige kunstner Peer, der dør i sit største triumføjeblik på operascenen."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

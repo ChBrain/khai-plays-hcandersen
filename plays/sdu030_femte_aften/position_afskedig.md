@@ -3,6 +3,7 @@ khai: position
 title: "The One Saying Goodbye"
 declared: "Afskedig"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,8 +30,8 @@ Bliv stående på den kolde kaj, vink med din rystende hånd og hold brevet tæt
 
 ## Loses
 
-Nærheden to den elskede, trygheden i hans arme og håbet om en hurtig genforening.
+Nærheden til den elskede, trygheden i hans arme og håbet om en hurtig genforening.
 
 ## Drives
 
-Kærlighedens ubændige styrke og viljen to at bevare erindringen ren trods den geografiske adskillelse.
+Kærlighedens ubændige styrke og viljen til at bevare erindringen ren trods den geografiske adskillelse.

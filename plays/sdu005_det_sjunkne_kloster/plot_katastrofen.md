@@ -3,6 +3,7 @@ khai: plot
 title: "The Catastrophe"
 declared: "Katastrofen"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Murene begynder at slå revner, og søens kolde vand trænger ind over tærsklen
 
 ## Action
 
-I den skælvende [Ruin](place_ruin.md) knæler den gamle [Munk](persona_munk.md) i sin position som [Bedende](position_bedende.md). Han udfører sin plan om [Frelse](plan_frelse.md) by at holde fast i sin [Salmebog](piece_salmebog.md) og lade sin [Boen](process_boen.md) stige mod himlen, mens klostrets [Sinking](process_sinking.md) trækker alt ned i den mørke [Soe](place_soe.md). Imens ringer den tunge [Klosterklokke](piece_klosterklokke.md) sin sidste andagtsfulde sang. Hele denne undergang udspiller sig under den dybe, [Andagtsfuld](pitch_andagtsfuld.md) tone.
+I den skælvende [Ruin](place_ruin.md) knæler den gamle [Munk](persona_munk.md) i sin position som [Bedende](position_bedende.md). Han udfører sin plan om [Frelse](plan_frelse.md) ved at holde fast i sin [Salmebog](piece_salmebog.md) og lade sin [Boen](process_boen.md) stige mod himlen, mens klostrets [Sinking](process_sinking.md) trækker alt ned i den mørke [Soe](place_soe.md). Imens ringer den tunge [Klosterklokke](piece_klosterklokke.md) sin sidste andagtsfulde sang. Hele denne undergang udspiller sig under den dybe, [Andagtsfuld](pitch_andagtsfuld.md) tone.
 
 ## Stage
 

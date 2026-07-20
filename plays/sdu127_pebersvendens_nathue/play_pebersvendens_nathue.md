@@ -4,6 +4,7 @@ title: "The Pepperman's Nightcap"
 declared: "Pebersvendens Nathue"
 description: "En ensom pebersvends stille liv og død i København, mens minderne om hans ungdom holdes i live af en gammel nathue."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Pebersvendens Nathue
 
 ## Arc
 
-Den gamle pebersvend Anton lever et stille liv i et koldt kammer i København, hvor han arbejder flittigt, men lever isoleret fra selskabet. Under sin gamle nathue drømmer han sig tilbage til sit hjemland Tyskland og ungdommens tabte kærlighed, Marie, som han i sin tid forlod på grund af misforstået pligt. Gennem mindernes bittersøde erindring genoplever han kærligheden og sua egen forsømmelse. Da vinteren strammer sit tag, dør Anton alene i sin seng, og naboerne finder ham med nathuen på, uvidende om den rige og melankolske verden, han bar i sit indre.
+Den gamle pebersvend Anton lever et stille liv i et koldt kammer i København, hvor han arbejder flittigt, men lever isoleret fra selskabet. Under sin gamle nathue drømmer han sig tilbage til sit hjemland Tyskland og ungdommens tabte kærlighed, Marie, som han i sin tid forlod på grund af misforstået pligt. Gennem mindernes bittersøde erindring genoplever han kærligheden og sin egen forsømmelse. Da vinteren strammer sit tag, dør Anton alene i sin seng, og naboerne finder ham med nathuen på, uvidende om den rige og melankolske verden, han bar i sit indre.
 
 ## Company
 

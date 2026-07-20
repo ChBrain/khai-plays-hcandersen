@@ -3,6 +3,7 @@ khai: plan
 title: "The Fortune"
 declared: "Rigdom"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Professorens plan om at rejse verden rundt med loppen for at vinde guld og genop
 
 ## Direction
 
-At udstille loppens kunster, modtage rige gaver fra hofferne og spare op to en ny, pragtfuld ballon.
+At udstille loppens kunster, modtage rige gaver fra hofferne og spare op til en ny, pragtfuld ballon.
 
 ## Orders
 

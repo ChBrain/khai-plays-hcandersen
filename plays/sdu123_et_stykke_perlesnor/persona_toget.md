@@ -3,6 +3,7 @@ khai: persona
 title: "The Train"
 declared: "Toget"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-Den mægtige og dampende maskine, en sand [Forbinder](position_forbinder.md) of landets egne, der bringer mennesker og nyheder hurtigt over broer og gennem skove.
+Den mægtige og dampende maskine, en sand [Forbinder](position_forbinder.md) af landets egne, der bringer mennesker og nyheder hurtigt over broer og gennem skove.
 
 ## Owner
 

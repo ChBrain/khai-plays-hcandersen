@@ -3,6 +3,7 @@ khai: position
 title: "The Marking"
 declared: "Markerende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ En fast plads på muren, en klar og tydelig tekst, der fortæller alle, hvad der
 
 ## Orders
 
-Hæng fast, fortæl din sandhed eller din løgn to alle, og vig ikke en tomme fra din plads.
+Hæng fast, fortæl din sandhed eller din løgn til alle, og vig ikke en tomme fra din plads.
 
 ## Loses
 
@@ -33,4 +34,4 @@ Sin oprindelige sammenhæng, sin sandhedsværdi og sin faste plads, når ydre kr
 
 ## Drives
 
-Viljen to at fastholde ordenen og sikre, at alt og alle forbliver på deres rette plads.
+Viljen til at fastholde ordenen og sikre, at alt og alle forbliver på deres rette plads.

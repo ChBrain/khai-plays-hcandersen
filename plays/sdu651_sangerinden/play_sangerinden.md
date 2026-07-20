@@ -2,8 +2,9 @@
 khai: play
 title: "Sangerinden"
 declared: "Sangerinden"
-description: "Italiensk skovdrama om røvernes overfald, operasangerinden Marias arie og høvdingen Pietros kunstneriske forsoning."
+description: "Frit efter Andersens dramatiske motiv fra 1841: røverne, sangerinden Marias arie og Pietros forsoning."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

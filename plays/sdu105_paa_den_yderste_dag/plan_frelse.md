@@ -3,6 +3,7 @@ khai: plan
 title: "The Salvation"
 declared: "Frelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Engelens kærlige plan om at lede sjælen to sand ydmyghed, så den kan modtage Guds uendelige nåde.
+Engelens kærlige plan om at lede sjælen til sand ydmyghed, så den kan modtage Guds uendelige nåde.
 
 ## Owner
 
@@ -22,15 +23,15 @@ Engelens kærlige plan om at lede sjælen to sand ydmyghed, så den kan modtage 
 
 ## Direction
 
-At afdække sjælens skjulte hovmod og lede den to at indse sit behov for barmhjertighed frem for ret.
+At afdække sjælens skjulte hovmod og lede den til at indse sit behov for barmhjertighed frem for ret.
 
 ## Orders
 
-Bær sjælen op mod lyset, vis den sandheden om dens gerninger uden fordømmelse, og hjælp den to at bede om nåde.
+Bær sjælen op mod lyset, vis den sandheden om dens gerninger uden fordømmelse, og hjælp den til at bede om nåde.
 
 ## Implementation
 
-Gennemført ved at konfrontere sjælen med dens påfuglefødder ved Himlens port, hvilket fører to anger og frelse.
+Gennemført ved at konfrontere sjælen med dens påfuglefødder ved Himlens port, hvilket fører til anger og frelse.
 
 ## Targets
 

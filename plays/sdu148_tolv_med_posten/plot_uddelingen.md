@@ -3,6 +3,7 @@ khai: plot
 title: "The Sorting of Goods"
 declared: "Uddelingen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Som den [udfoerende](position_udfoerende.md) leder tager [postillon](persona_pos
 
 ## Stage
 
-[Postillon](persona_postillon.md) står ved vognens bagagerum og rækker pakkerne ned to vagten, mens sneen fortsat falder tæt omkring dem.
+[Postillon](persona_postillon.md) står ved vognens bagagerum og rækker pakkerne ned til vagten, mens sneen fortsat falder tæt omkring dem.
 
 ## Tension
 

@@ -3,6 +3,7 @@ khai: process
 title: "The Chirping"
 declared: "Kvidren"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Spurvenes vågnen ved daggry og deres konstante behov for at dele nyheder og adv
 
 ## Direction
 
-Fra reden under tagskægget, gennem luften og hen over hegnet to havens fjerneste hjørner.
+Fra reden under tagskægget, gennem luften og hen over hegnet til havens fjerneste hjørner.
 
 ## Lever
 

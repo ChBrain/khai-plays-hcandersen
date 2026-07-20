@@ -3,6 +3,7 @@ khai: process
 title: "The Journey"
 declared: "Rejse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Processen fører musen gennem prøvelser, møder med andre væsner og frem til d
 
 ## Lever
 
-Musens nysgerrighed og vilje to at udholde strabadser frem for at give op på halvvejen.
+Musens nysgerrighed og vilje til at udholde strabadser frem for at give op på halvvejen.
 
 ## Echo
 

@@ -4,6 +4,7 @@ title: "The Daisy"
 declared: "Gåseurten"
 description: "En lille gåseurt oplever lærkens sang og kærlighed, men må dele dens tragiske skæbne i et trangt fuglebur."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

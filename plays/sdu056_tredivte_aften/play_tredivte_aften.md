@@ -2,12 +2,13 @@
 khai: play
 title: "Thirtieth Evening"
 declared: "Tredivte Aften"
-description: "Månen ser en bjørnetrækker og hans bjørn lege på torvet i en lille by."
+description: "Månen kigger ind i et vognskur om natten, hvor rejsende sover trygt og en musikantfamilie drømmer om savn."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: Tredivte Aften
@@ -22,30 +23,23 @@ Tredivte Aften
 
 ## Arc
 
-Månen lyser over et stille torv i en lille by. Her finder den en bjørnetrækker og hans store bjørn, som har søgt ly for natten. I måneskinnet begynder bjørnen en munter og fri leg trods sin tunge lænke. Bjørnetrækkeren ser til med et smil og håber på overlevelse gennem sin kunst. Månen betragter det humoristiske spil og bevarer denne livsbekræftende stund i sin evige fortælling.
+Tæt ved landevejen ligger en kro, og lige overfor den knejser et stort vognskur, hvis tag netop var ved at blive tækket. Månen skinner ned gennem sparrerne og de åbne lugehuller højt oppe og finder vej ind i det dunkle skur. På en bjælke sover en kalkun, og i den tomme krybbe ligger kun en sadel tilbage. Midt i skuret holder en rejsevogn, hvor de rejsende ligger og blunder trygt, mens hestene vandes udenfor, og kusken strækker benene, efter at have sovet det meste af turen bekvemt på bukken. Døren til karlekammeret står åben, sengen ligger overendevendt, og på gulvet står et lys, der er brændt dybt ned i sin pibe. Vinden blæser koldt gennem skuret, og natten er nu nærmere sin morgen end sin midnat. I en af sidebåsene sover en familie af fattige, omvandrende musikanter. Faderen og moderen drømmer nok om de brændende dråber, der er tilbage i deres flaske, mens den blege lille pige drømmer om de brændende tårer i sine egne øjne. Ved deres hoveder ligger deres harpe, og ved deres fødder ligger deres hund.
 
 ## Company
 
 - [Maanen](persona_maanen.md)
-- [Manden](persona_manden.md)
-- [Bjoernen](persona_bjoernen.md)
+- [Pigen](persona_pigen.md)
 - [Fortaeller](position_fortaeller.md)
-- [Foerer](position_foerer.md)
-- [Tamt](position_tamt.md)
-- [Laenke](piece_laenke.md)
-- [Tromme](piece_tromme.md)
-- [Torvet](place_torvet.md)
-- [Kroen](place_kroen.md)
-- [Fortaelling](process_fortaelling.md)
-- [Leg](process_leg.md)
-- [Overlevelse](plan_overlevelse.md)
-- [Humoristisk](pitch_humoristisk.md)
+- [Musikantfamilien](position_musikantfamilien.md)
+- [Vognskuret](place_vognskuret.md)
+- [Tyst](pitch_tyst.md)
 
 ## Triggers
 
-- [plot_natten.md](plot_natten.md) når månen lyser over det tomme torv og kroens tag.
-- [plot_leg.md](plot_leg.md) når bjørnen begynder sin muntre leg i måneskinnet.
+- [plot_skuret.md](plot_skuret.md) når Månen sænker sit lys gennem sparrerne og de åbne lugehuller og finder vej ind i det mørke vognskur.
+- [plot_musikanterne.md](plot_musikanterne.md) når Månens blik glider videre til sidebåsen, hvor den fattige musikantfamilie ligger og sover.
+- [plot_droemmene.md](plot_droemmene.md) når Månen ser, hvad hver af de sovende drømmer i nattens sidste time før daggry.
 
 ## Stakes
 
-Kampen står mellem den tunge jernlænkes begrænsning og bjørnens indre, glade livskraft og legesyge.
+Kampen står ikke mellem store modstandere, men mellem den sorgløse tryghed i rejsevognen og den stille nød i sidebåsen. Der er intet at bryde og ingen plan at lægge, for kilden selv rummer hverken sligt: kun ét skur, én nat og de sovende, som Månen finder derinde. Kun to positioner deler skuret mellem sig, tryg søvn for de rejsende og fattigdom for musikantfamilien, og kun én pige træder frem af sidebåsens mørke med sine egne tårer, mens resten forbliver navnløse i søvnen. Derfor bærer denne aften hverken stykke eller plan, kun tre optrin, der følger Månens blik fra bjælken over rejsevognen til sidebåsens bund og videre ind i drømmene selv.

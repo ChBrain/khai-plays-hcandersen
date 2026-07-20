@@ -4,6 +4,7 @@ title: "Fragmenter af Ahasverus"
 declared: "AhasverusFragmenter"
 description: "En filosofisk og allegorisk billedrække om Ahasverus' tvivl og Columbus' opdagelsesrejse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

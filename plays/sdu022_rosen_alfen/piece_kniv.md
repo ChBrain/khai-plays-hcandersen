@@ -3,6 +3,7 @@ khai: piece
 title: "The Knife"
 declared: "Kniv"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Det kolde og skarpe stålredskab, der anvendes to at fuldbyrde ugerningen.
+Det kolde og skarpe stålredskab, der anvendes til at fuldbyrde ugerningen.
 
 ## Owner
 

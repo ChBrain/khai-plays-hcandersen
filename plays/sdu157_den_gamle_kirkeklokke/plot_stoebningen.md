@@ -3,6 +3,7 @@ khai: plot
 title: "The Casting"
 declared: "Støbningen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ I det sodede [Stoeberiet](place_stoeberiet.md) forenes metallerne i den glødend
 
 ## Stage
 
-Røgen stiger tæt mod loftet, mens støberiarbejderne slår tappen ud af smelteovnen. Det glødende metal strømmer som en bæk of flydende guld ned i lerformen, hvor det hvisler og bobler. Da malmen er afkølet, brydes formen med tunge hammerslag, og den rene, blanke klokke løftes frem af mørket. Den hejses op i det vindblæste tårn, hvor den tager sit første dybe åndedrag og slår sit første stolte slag over det vidstrækte land.
+Røgen stiger tæt mod loftet, mens støberiarbejderne slår tappen ud af smelteovnen. Det glødende metal strømmer som en bæk af flydende guld ned i lerformen, hvor det hvisler og bobler. Da malmen er afkølet, brydes formen med tunge hammerslag, og den rene, blanke klokke løftes frem af mørket. Den hejses op i det vindblæste tårn, hvor den tager sit første dybe åndedrag og slår sit første stolte slag over det vidstrækte land.
 
 ## Tension
 

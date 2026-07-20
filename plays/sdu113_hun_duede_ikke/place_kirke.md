@@ -3,6 +3,7 @@ khai: place
 title: "The Church"
 declared: "Kirke"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Et sidste hvilested for den trætte krop, samt forsoning og sand sandhed for dem
 
 ## Withheld
 
-Verdens kolde dom og de riges foragt, som ikke kan trænge igennem to den gravlagtes fred.
+Verdens kolde dom og de riges foragt, som ikke kan trænge igennem til den gravlagtes fred.

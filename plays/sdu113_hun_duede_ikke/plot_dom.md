@@ -3,6 +3,7 @@ khai: plot
 title: "The Judgment"
 declared: "Dommen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Borgmesteren står ved sit lune vindue og ser ned mod åen.
 
 ## Action
 
-[Borgmester](persona_borgmester.md) indtager sin [Dømmende](position_doemmende.md) position og udtaler en kold [Dom](process_dom.md) over vaskekonens moral. Han forsøger at gennemføre sin plan om [Retfærdiggørelse](plan_retfaerdiggoerelse.md) ved at kalde hende uduelig og henvise to hendes forbrug af drammen, mens han ser ned på kurvene med [Snavsetøj](piece_snavsetoej.md) som et tegn på hendes lave stand.
+[Borgmester](persona_borgmester.md) indtager sin [Dømmende](position_doemmende.md) position og udtaler en kold [Dom](process_dom.md) over vaskekonens moral. Han forsøger at gennemføre sin plan om [Retfærdiggørelse](plan_retfaerdiggoerelse.md) ved at kalde hende uduelig og henvise til hendes forbrug af drammen, mens han ser ned på kurvene med [Snavsetøj](piece_snavsetoej.md) som et tegn på hendes lave stand.
 
 ## Stage
 

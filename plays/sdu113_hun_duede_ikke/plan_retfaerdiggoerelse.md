@@ -3,6 +3,7 @@ khai: plan
 title: "Justification"
 declared: "Retfærdiggørelse"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -30,7 +31,7 @@ Døm vaskekonens drikkeri hårdt, belær hendes søn om moral, og hold fast i, a
 
 ## Implementation
 
-Gennemført ved offentlige udtalelser og formaninger to naboerne og vaskekonens søn om hendes uduelighed.
+Gennemført ved offentlige udtalelser og formaninger til naboerne og vaskekonens søn om hendes uduelighed.
 
 ## Targets
 

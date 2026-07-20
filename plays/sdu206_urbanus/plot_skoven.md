@@ -3,6 +3,7 @@ khai: plot
 title: "The Deep Woods"
 declared: "Skoven"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Når fuglen begynder sin sang i det højeste træ.
 
 ## Action
 
-Dybte inde i [skoven](place_skoven.md) sidder [Fugl](persona_fugl.md) i sin position som [Sanger](position_sanger) og synger en [Salme](piece_salme.md). Sangens skønhed vækker munkens plan om [Frelse](plan_frelse.md) og drager ham ind i en dyb [Forundring](process_forundring.md) under den [Religioes](pitch_religioes.md) klang.
+Dybte inde i [skoven](place_skoven.md) sidder [Fugl](persona_fugl.md) i sin position som [Sanger](position_sanger.md) og synger en [Salme](piece_salme.md). Sangens skønhed vækker munkens plan om [Frelse](plan_frelse.md) og drager ham ind i en dyb [Forundring](process_forundring.md) under den [Religioes](pitch_religioes.md) klang.
 
 ## Stage
 

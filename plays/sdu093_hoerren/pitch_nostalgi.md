@@ -3,6 +3,7 @@ khai: pitch
 title: "Nostalgia"
 declared: "Nostalgi"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Det sårbare punkt er erkendelsen af forgængelighed. Den rammer den dybe mennes
 
 ## Echo
 
-En opløftende og varm fornemmelse af, at døden ikke er afslutningen, men en port to noget smukkere. Sangen om, at intet forsvinder helt, men blot skifter form, klinger efter i sindet.
+En opløftende og varm fornemmelse af, at døden ikke er afslutningen, men en port til noget smukkere. Sangen om, at intet forsvinder helt, men blot skifter form, klinger efter i sindet.

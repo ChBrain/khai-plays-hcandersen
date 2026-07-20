@@ -3,6 +3,7 @@ khai: pitch
 title: "The Moralizing"
 declared: "Moraliserende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Under den smukke overflade ligger en vemodig sandhed om menneskelig blindhed. De
 
 ## Nerve
 
-Smerten ved den pludselige erkendelse af sit eget hovmod. Det er øjeblikket, hvor den stolte gren må se sine egne blomster visne i en lukket stue, mens de forkastede dandelions fejres som guld af uskyldige børn.
+Smerten ved den pludselige erkendelse af sit eget hovmod. Det er øjeblikket, hvor den stolte gren må se sine egne blomster visne i en lukket stue, mens de forkastede mælkebøtter fejres som guld af uskyldige børn.
 
 ## Echo
 

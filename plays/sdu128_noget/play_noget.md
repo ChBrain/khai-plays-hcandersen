@@ -4,6 +4,7 @@ title: "Something"
 declared: "Noget"
 description: "Fem brødre søger at blive noget i verden, men ved Himmelporten vejer en simpel mursten tungere end de andres store ord."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

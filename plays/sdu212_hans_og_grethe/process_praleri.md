@@ -3,6 +3,7 @@ khai: process
 title: "Boasting"
 declared: "Praleri"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ Den konstante verbaliserede selvforherligelse og praleri over for naboen.
 
 ## Initiated by
 
-Udsigten til broderens hest ved hegnet eller en tilfældig bemærkning om dyrenes værdi.
+Udsigten til naboens hest ved hegnet eller en tilfældig bemærkning om dyrenes værdi.
 
 ## Direction
 

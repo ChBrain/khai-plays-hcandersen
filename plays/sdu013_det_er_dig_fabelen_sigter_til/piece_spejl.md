@@ -3,6 +3,7 @@ khai: piece
 title: "The Mirror"
 declared: "Spejl"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ En smukt udskåret guldramme med et blankt glas, der oprindeligt kun viser det y
 
 ## Yearbook
 
-Gennem generationer brugt til at bekræfte menneskets forfængelige tro, indtil fabelens magi tvinger det to at vise virkeligheden.
+Gennem generationer brugt til at bekræfte menneskets forfængelige tro, indtil fabelens magi tvinger det til at vise virkeligheden.

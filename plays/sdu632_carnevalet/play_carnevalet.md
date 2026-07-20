@@ -4,6 +4,7 @@ title: "Indledning til Carnevalet"
 declared: "Indledning til Carnevalet"
 description: "En festlig prolog skrevet til kunstnerkarnevallerne på Casino, hvor nissen og marschallen indleder maskespillet."
 license: CC-BY-NC-SA-4.0
+provenance: unverified
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

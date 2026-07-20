@@ -4,6 +4,7 @@ title: "The Shadow"
 declared: "Skyggen"
 description: "En lærds mands skygge river sig løs, vinder magt og vender tilbage for at tilintetgøre sin tidligere herre."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

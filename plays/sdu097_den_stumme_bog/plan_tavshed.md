@@ -3,6 +3,7 @@ khai: plan
 title: "The Silence"
 declared: "Tavshed"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,7 +27,7 @@ At beskytte de mest sårbare minder mod andres nysgerrighed ved at tage dem med 
 
 ## Orders
 
-Hold hemmelighederne skjult, lad ikke et eneste ord slippe ud to de levende, og lad bogen forblive stum.
+Hold hemmelighederne skjult, lad ikke et eneste ord slippe ud til de levende, og lad bogen forblive stum.
 
 ## Implementation
 

@@ -4,6 +4,7 @@ title: "The Buckwheat"
 declared: "Boghveden"
 description: "En stolt boghvede nægter at bøje sig for stormen og bliver afsvedet, mens de ydmyge afgrøder overlever."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

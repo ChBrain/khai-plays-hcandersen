@@ -3,6 +3,7 @@ khai: plot
 title: "The Journey"
 declared: "Rejsen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Sjælen har forladt legemet og skal bringes bort fra jorden.
 
 ## Stage
 
-Scenen viser det uendelige verdensrum under stjernerne. Jorden svinder bort dybt nede som et lille lys, mens engelen svæver roligt fremad med sjælen tæt ind to sit bryst, under nattens storhed.
+Scenen viser det uendelige verdensrum under stjernerne. Jorden svinder bort dybt nede som et lille lys, mens engelen svæver roligt fremad med sjælen tæt ind til sit bryst, under nattens storhed.
 
 ## Tension
 

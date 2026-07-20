@@ -3,6 +3,7 @@ khai: persona
 title: "The Elf"
 declared: "Alfen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,11 +27,11 @@ En bittelille og usynlig skabning, der bevæger sig let gennem luften og ser alt
 
 ## Action
 
-Han flyver fra blomst to blomst, overværer det blodige mord og rejser på et lindeblad for at hviske sandheden to den sovende pige.
+Han flyver fra blomst til blomst, overværer det blodige mord og rejser på et lindeblad for at hviske sandheden til den sovende pige.
 
 ## Shadow
 
-Han er for lille to at gribe fysisk ind i menneskenes verden og må forlade sig på at vække andres hævnlyst eller sorg for at skabe retfærdighed.
+Han er for lille til at gribe fysisk ind i menneskenes verden og må forlade sig på at vække andres hævnlyst eller sorg for at skabe retfærdighed.
 
 ## Tell
 

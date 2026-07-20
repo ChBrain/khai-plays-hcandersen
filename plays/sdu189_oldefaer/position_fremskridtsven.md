@@ -3,6 +3,7 @@ khai: position
 title: "The Friend of Progress"
 declared: "Fremskridtsven"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Søg efter viden, omfavn den nye teknologi og bryd med fortidens hæmmende fordo
 
 ## Loses
 
-Respekten for traditionernes trygge rammer og den tålmodighed, der kræves for at lytte to de gamle.
+Respekten for traditionernes trygge rammer og den tålmodighed, der kræves for at lytte til de gamle.
 
 ## Drives
 

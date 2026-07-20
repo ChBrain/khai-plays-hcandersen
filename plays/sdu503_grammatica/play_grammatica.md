@@ -4,6 +4,7 @@ title: "The Beautiful Grammatica"
 declared: "Grammatica"
 description: "En satirisk kærlighedshistorie personificeret af latinske grammatikord under Mama Nominativs styre."
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -3,6 +3,7 @@ khai: process
 title: "The Elfin-Troll Alliance"
 declared: "Alliance"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Forhandlingen og etableringen af det strategiske bånd mellem elverfolket og de 
 
 ## Direction
 
-Processen bevæger sig fra den indledende bejlen og de unge troldegutters afvisning to en uventet personlig alliance mellem kongerne selv.
+Processen bevæger sig fra den indledende bejlen og de unge troldegutters afvisning til en uventet personlig alliance mellem kongerne selv.
 
 ## Lever
 

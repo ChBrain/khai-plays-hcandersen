@@ -4,6 +4,7 @@ title: "The Wild Swans"
 declared: "De vilde Svaner"
 description: "Elisa må udstå stumhed og strikke brændenældeskjorter for at befri sine elleve brødre fra heksens forbandelse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ De vilde Svaner
 
 ## Arc
 
-Elleve kongesønner forvandles til vilde svaner af deres onde stedmoder, dronningen, og deres søster Elisa forstødes. Elisa finder sine brødre ved havet, og de bærer hende i et net til et fremmet land, hvor hun bosætter sig i en grotte. En god fe åbenbarer i en drøm, at hun kan befri sine brødre ved at plukke brændenælder på kirkegården, stampe dem og strikke elleve skjorter af dem, alt imens hun bevarer en absolut, livsvigtig tavshed. Den unge konge finder hende og tager hende med til sit slot som dronning, men ærkebiskoppen mistænker hende for hekseri, da hun om natten søger på kirkegården efter flere nælder. Elisa dømmes til bålet, men netop som hun føres derhen, ankommer de elleve svaner. Hun kaster skjorterne over dem, forbandelsen brydes (pånær hos den yngste, hvis ene skjorteærme mangler og efterlader ham med en svanevinge), og da hun atter må tale, bekræfter hun sin uskyld.
+Elleve kongesønner forvandles til vilde svaner af deres onde stedmoder, dronningen, og deres søster Elisa forstødes. Elisa finder sine brødre ved havet, og de bærer hende i et net til et fremmed land, hvor hun bosætter sig i en grotte. En god fe åbenbarer i en drøm, at hun kan befri sine brødre ved at plukke brændenælder på kirkegården, stampe dem og strikke elleve skjorter af dem, alt imens hun bevarer en absolut, livsvigtig tavshed. Den unge konge finder hende og tager hende med til sit slot som dronning, men ærkebiskoppen mistænker hende for hekseri, da hun om natten søger på kirkegården efter flere nælder. Elisa dømmes til bålet, men netop som hun føres derhen, ankommer de elleve svaner. Hun kaster skjorterne over dem, forbandelsen brydes (pånær hos den yngste, hvis ene skjorteærme mangler og efterlader ham med en svanevinge), og da hun atter må tale, bekræfter hun sin uskyld.
 
 ## Company
 

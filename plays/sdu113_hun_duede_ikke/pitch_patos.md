@@ -3,6 +3,7 @@ khai: pitch
 title: "Pathos"
 declared: "Patos"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,8 +30,8 @@ Under historiens barske realisme ligger en dyb sorg over verdens uretfærdighed 
 
 ## Nerve
 
-Nerven rammes i den skærende kontrast mellem den ydre, ynkelige fremtræden - vaskekonens rystende hænder og dramflasken - og hendes indre, ophøjede renhed. Det er det smerteligt smukke øjeblik, hvor hendes slid forvandles to den højeste kærlighed.
+Nerven rammes i den skærende kontrast mellem den ydre, ynkelige fremtræden - vaskekonens rystende hænder og dramflasken - og hendes indre, ophøjede renhed. Det er det smerteligt smukke øjeblik, hvor hendes slid forvandles til den højeste kærlighed.
 
 ## Echo
 
-Eftersmagen er en stille, rystende forløsning og en urokkelig fred. Det er bekræftelsen af, at den ringeagtede vaskekone stedes to hvile med en værdighed, som ingen jordisk borgmester kan tage fra hende, og at hendes kærlighed lever videre.
+Eftersmagen er en stille, rystende forløsning og en urokkelig fred. Det er bekræftelsen af, at den ringeagtede vaskekone stedes til hvile med en værdighed, som ingen jordisk borgmester kan tage fra hende, og at hendes kærlighed lever videre.

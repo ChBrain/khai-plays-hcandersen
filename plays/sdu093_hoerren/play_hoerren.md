@@ -4,6 +4,7 @@ title: "The Flax"
 declared: "Hørren"
 description: "Hørrens rejse fra grøn plante på marken gennem forvandling til tråd, linned, papir og til sidst aske og ånd."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

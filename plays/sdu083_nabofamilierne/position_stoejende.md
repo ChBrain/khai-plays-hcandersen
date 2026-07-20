@@ -3,6 +3,7 @@ khai: position
 title: "The Noisy One"
 declared: "Støjende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,15 +22,15 @@ En position præget af rastløshed, konstant aktivitet og højrøstet tilstedev�
 
 ## Has
 
-Hurtige vinger, et skarpt næb og en uophørlig stemme to at ytre sig og skrælde op.
+Hurtige vinger, et skarpt næb og en uophørlig stemme til at ytre sig og skrælde op.
 
 ## Orders
 
-Kvidr løs om alt og ingenting, forsvar dit territorium, og sørg for mad to de små i reden.
+Kvidr løs om alt og ingenting, forsvar dit territorium, og sørg for mad til de små i reden.
 
 ## Loses
 
-Varmen, madkilderne og stemmens styrke, når den hårde vinter fryser haven to is.
+Varmen, madkilderne og stemmens styrke, når den hårde vinter fryser haven til is.
 
 ## Drives
 

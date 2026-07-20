@@ -3,6 +3,7 @@ khai: process
 title: "The Remembrance"
 declared: "Erindring"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -25,7 +26,7 @@ Minderne om de svundne skoledage hos den voksne elev.
 
 ## Direction
 
-Fra nutidens travlhed to barndommens læreår.
+Fra nutidens travlhed til barndommens læreår.
 
 ## Lever
 

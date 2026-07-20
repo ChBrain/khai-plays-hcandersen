@@ -3,6 +3,7 @@ khai: persona
 title: "The Mother"
 declared: "Moderen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -30,7 +31,7 @@ Hun holder sin datters hånd fast og lader hende sværge ved fædrenes Gud.
 
 ## Shadow
 
-Hendes kærlighed to datteren er blandet med frygten for, at datterens sjæl skal fortabes i de kristnes tro.
+Hendes kærlighed til datteren er blandet med frygten for, at datterens sjæl skal fortabes i de kristnes tro.
 
 ## Tell
 

@@ -3,6 +3,7 @@ khai: position
 title: "The Lovers"
 declared: "Elskende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ En sårbar og hengiven position på konsolbordet, der søger at beskytte sin gen
 
 ## Has
 
-En dyb, inderlig kærlighed to hinanden, en skrøbelig porcelænskrop, og et ønske om at forblive sammen uanset modgang.
+En dyb, inderlig kærlighed til hinanden, en skrøbelig porcelænskrop, og et ønske om at forblive sammen uanset modgang.
 
 ## Orders
 

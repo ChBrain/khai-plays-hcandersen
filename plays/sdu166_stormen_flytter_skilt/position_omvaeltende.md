@@ -3,6 +3,7 @@ khai: position
 title: "The Upending"
 declared: "Omvaeltende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-En position defineret ved uro, kraft og viljen to at ruske op i det etablerede og vende op og ned på alting.
+En position defineret ved uro, kraft og viljen til at ruske op i det etablerede og vende op og ned på alting.
 
 ## Owner
 
@@ -21,7 +22,7 @@ En position defineret ved uro, kraft og viljen to at ruske op i det etablerede o
 
 ## Has
 
-En uforudsigelig styrke, en vildskab der ikke lader sig binde af regler, og evnen to at skabe forandring på et øjeblik.
+En uforudsigelig styrke, en vildskab der ikke lader sig binde af regler, og evnen til at skabe forandring på et øjeblik.
 
 ## Orders
 
@@ -29,7 +30,7 @@ Blæs over gaderne, ryst de pæne facader, og lad intet hænge, hvor det plejer 
 
 ## Loses
 
-Sin vildskab og sin evne to at bevæge verden, når stormen lægger sig og alt igen bliver stille.
+Sin vildskab og sin evne til at bevæge verden, når stormen lægger sig og alt igen bliver stille.
 
 ## Drives
 

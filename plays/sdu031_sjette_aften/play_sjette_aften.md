@@ -2,12 +2,13 @@
 khai: play
 title: "Sixth Evening"
 declared: "Sjette Aften"
-description: "Månen kigger ind ad et lille kvistvindue og fortæller om den fattige students søgen efter sandhed."
+description: "Månen fortæller om en digter, der på Upsalas gravhøje hvisker et navn, vinden skal tie med."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: Sjette Aften
@@ -22,28 +23,24 @@ Sjette Aften
 
 ## Arc
 
-Månen stiger op og kaster sit klare lys ind gennem det lille vindue i kvistkammeret. Derinde sidder den unge student, fattig på jordisk gods, men rig på ånd. Han læser flittigt i en gammel bog under det hendøende stearinlys' skær. Hans søgen efter sandhed er hans indre drivkraft. Månen fortæller om dette stille øjeblik, hvor studentens ensomme studier og det svage lys i natten smelter sammen til en filosofisk betragtning over menneskets stræben.
+Månen har været i Upsala, fortæller den, og har set den store slette, dækket af groft græs og golde marker, spejle sig i Fyrisåen, mens et dampskib skræmte fiskene ind i sivene. Skyerne jog hinanden hen under den og kastede deres lange skygger over Odins, Thors og Freyas høje, som gravhøjene der kaldes. Ingen mindesten står på dem, og ingen klippevæg lader den rejsende male sit navn, så han skærer det i stedet ind i den tynde tørv, og den bare jord langs bakkerne dækkes af et net af bogstaver og navne, en udødelighed der varer, til næste tørvevækst dækker den igen. Øverst på en af højene stod en digter og tømte et mjødhorn prydet med en bred sølvring, og han hviskede et navn, som han bad vindene tie med, men Månen hørte det og kendte det. En grevekrone glimtede over navnet, og derfor turde han ikke sige det højt. Månen smilede, for digterens egen krone glimter over hans, og navnet Eleanora d'Este står ved siden af Tassos, og Månen ved også, hvor skønhedens rose blomstrer. Sådan talte Månen, men så gled en sky ind imellem dem. Måtte skyer aldrig komme imellem digteren og rosen.
 
 ## Company
 
 - [Maanen](persona_maanen.md)
-- [Studenten](persona_studenten.md)
+- [Digteren](persona_digteren.md)
 - [Fortaeller](position_fortaeller.md)
-- [Soegende](position_soegende.md)
-- [Gammel Bog](piece_gammel_bog.md)
-- [Stearinlys](piece_stearinlys.md)
-- [Kvistkammeret](place_kvistkammeret.md)
-- [Vinduet](place_vinduet.md)
-- [Fortaelling](process_fortaelling.md)
-- [Studie](process_studie.md)
-- [Sandhed](plan_sandhed.md)
-- [Filosofisk](pitch_filosofisk.md)
+- [Upsalasletten](place_upsalasletten.md)
+- [Bakkerne](place_bakkerne.md)
+- [Hornet](piece_hornet.md)
+- [Diskret](pitch_diskret.md)
 
 ## Triggers
 
-- [plot_natten.md](plot_natten.md) udløses af månens opstigning på himlen, hvor dens stråler rammer kvistkammerets vindue.
-- [plot_studiet.md](plot_studiet.md) udløses af studentens tænding af stearinlyset for at læse videre i den gamle bog.
+- [plot_ankomsten.md](plot_ankomsten.md) når Månen ankommer til Upsalasletten og ser sit eget billede i Fyrisåen.
+- [plot_hvisken.md](plot_hvisken.md) når digteren øverst på Bakkerne tømmer hornet og hvisker sit navn ud i natten.
+- [plot_skyen.md](plot_skyen.md) når en sky glider ind mellem Månen og digteren, og fortællingen standser.
 
 ## Stakes
 
-Kampen står mellem den fysiske fattigdom og den åndelige rigdom. Lyset brænder ned, og natten er kold, men studentens søgen efter sandhed overvinder det omgivende mørke. Månens fortælling viser, at den sande storhed findes i den stille og ensomme stræben efter indsigt.
+Kampen står ikke mellem store modstandere, men mellem det hviskede og det hørte, mellem en digters fortrolige navn og den måne, der ikke kan lade være med at lytte. Kilden selv er kort, en enkelt scene på en slette og en høj, og derfor bærer aftenen kun to personaer, to steder, én genstand og tre optrin, samme beskedne omfang som Tyvende Aften, hvis lerkrukke heller ikke krævede mere end elleve dokumenter til at bære sin vægt. Kun ét diskret tonefald binder tørvens flygtige runer sammen med digterens varige krone, og ingen anden stilling end fortællerens er nødvendig, for hverken slette eller høj rummer andre roller end den, der ser, og den, der hvisker.

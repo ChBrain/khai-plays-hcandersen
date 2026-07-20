@@ -3,6 +3,7 @@ khai: piece
 title: "The Old Rook Trees"
 declared: "Raegetraeer"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-De ældgamle, halvdøde rågetræer in haven, som herskabet insisterer på at bevare for deres historiske udseende.
+De ældgamle, halvdøde rågetræer i haven, som herskabet insisterer på at bevare for deres historiske udseende.
 
 ## Owner
 

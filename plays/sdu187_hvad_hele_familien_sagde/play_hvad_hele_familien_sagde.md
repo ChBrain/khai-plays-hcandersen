@@ -4,6 +4,7 @@ title: "What the Whole Family Said"
 declared: "Hvad hele Familien sagde"
 description: "Lille Maries fødselsdag og Gudfaders fortælling minder os om, at livet selv er det smukkeste eventyr."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

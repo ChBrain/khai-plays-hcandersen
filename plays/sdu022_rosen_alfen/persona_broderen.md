@@ -3,6 +3,7 @@ khai: persona
 title: "The Brother"
 declared: "Broderen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -34,4 +35,4 @@ Han hjemsøges af en konstant frygt for at blive opdaget, hvilket gør ham mist�
 
 ## Tell
 
-Han trækker i sit mørke bælte og ser sig rastløst over skulderen, når han taler to sin søster.
+Han trækker i sit mørke bælte og ser sig rastløst over skulderen, når han taler til sin søster.

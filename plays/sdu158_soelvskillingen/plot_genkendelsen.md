@@ -3,6 +3,7 @@ khai: plot
 title: "The Recognition"
 declared: "Genkendelsen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Den [rejsende](persona_rejsende.md) udfører sin planlagte [hjemkomst](plan_hjem
 
 ## Stage
 
-I en hyggelig stue i [hjemland](place_hjemland.md) rækker den [rejsende](persona_rejsende.md) [skillingen](persona_skilling.md) to en lokal borger, der smiler og bekræfter dens ægthed, mens lyset falder på dens slidte overflade.
+I en hyggelig stue i [hjemland](place_hjemland.md) rækker den [rejsende](persona_rejsende.md) [skillingen](persona_skilling.md) til en lokal borger, der smiler og bekræfter dens ægthed, mens lyset falder på dens slidte overflade.
 
 ## Tension
 

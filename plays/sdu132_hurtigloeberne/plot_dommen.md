@@ -3,10 +3,11 @@ khai: plot
 title: "The Verdict"
 declared: "Dommen"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Plot: Dommen
@@ -21,16 +22,16 @@ stamp:
 
 ## Cue
 
-Sneglen når frem til kridtstregen, og haren vågner med et sæt.
+[Rådslagning](process_raadslagning.md) er omsider forbi, og forsamlingen venter i stilhed på, hvad kendelsen bliver.
 
 ## Action
 
-Ved den hvide [Mållinjen](place_maallinjen.md) sidder [Uglen](persona_uglen.md) i sin position som [Dommer](position_dommer.md) klar til at overrække den fine [Pris](piece_pris.md). [Sneglen](persona_sneglen.md) når endelig målet efter sit lange slid. [Haren](persona_haren.md) vågner af sit [Bedrag](process_bedrag.md) og indser sit tabt væddeløb på den trættende [Bane](piece_bane.md). Uglen afsiger derefter sin dom over løberne, hvilket fuldender fortællingen.
+Forsamlingen afgør, at [Førstepris](piece_foerstepris.md) tilfalder [Haren](persona_haren.md) for hans utvivlsomme fart over den korte strækning, uanset muldyrets snak om slægt. [Andenpris](piece_andenpris.md) tilfalder [Sneglen](persona_sneglen.md), fordi hendes halve år ved [Tærsklen](place_taersklen.md) og den revnede skal vidner om en flid, ingen kan tilsidesætte. [Svalen](persona_svalen.md)s sag forbliver uafgjort, siden hun ikke selv var til stede for at modtage nogen hæder.
 
 ## Stage
 
-Sneglen berører kridtstregen med sit følehorn til stor jubel for de forsamlede dyr. Haren kommer styrtende i vilde spring, men det er for sent; han må standse og skamme sig. Uglen rømmer sig betydningsfuldt, blinker med øjnene og placerer den duftende laurbærkrans på sneglens ryg, mens hun retter en belærende tale mod haren.
+De to hædersgaver overrækkes for øjnene af hele [Forsamlingen](place_forsamlingen.md); haren tager imod sin med et let buk, mens sneglen modtager sin langsomt og med synlig rørthed.
 
 ## Tension
 
-Det pinlige øjeblik for haren, der må indse, at hans hurtighed var nyttesløs mod sneglens flid, ledsaget af uglens kloge dom.
+Glæden hos de to hædrede skygges af den stille erkendelse blandt de tilstedeværende, at kendelsen kunne være faldet ganske anderledes ud, hvis blot én stemme mere havde talt højere end de andre.

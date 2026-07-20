@@ -3,6 +3,7 @@ khai: position
 title: "The Combative"
 declared: "Stridende"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -29,7 +30,7 @@ Angrib enhver, der kommer nær dig, forsvar dit territorium til sidste blodsdrå
 
 ## Loses
 
-Muligheden for fred, samarbejde og harmonisk sameksistens, hvilket fører to evigt kaos og gensidig udslettelse.
+Muligheden for fred, samarbejde og harmonisk sameksistens, hvilket fører til evigt kaos og gensidig udslettelse.
 
 ## Drives
 

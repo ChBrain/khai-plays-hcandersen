@@ -3,6 +3,7 @@ khai: piece
 title: "Faith"
 declared: "Tro"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Mandens tro, der i livet var hård, regelret og dømmende, men som må renses og forvandles to en ydmyg tillid to Guds kærlighed.
+Mandens tro, der i livet var hård, regelret og dømmende, men som må renses og forvandles til en ydmyg tillid til Guds kærlighed.
 
 ## Owner
 

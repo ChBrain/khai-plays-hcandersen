@@ -4,6 +4,7 @@ title: "The Old Oak Tree's Last Dream"
 declared: "Det gamle Egetræes sidste Drøm"
 description: "Et egetræ drømmer julenat sin skønneste drøm om himlen, mens en vinterstorm knækker dets rødder."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ Det gamle Egetræes sidste Drøm
 
 ## Arc
 
-Et gammelt egetræ står på en høj skrænt ved havet og har levet i trehundrede og seksoghalvtreds år. Dets trofaste dryade deler dets liv og glæde i sommertiden. Da vinteren kommer, falder træet i en dyb søvn. Julenat drømmer det en vidunderlig drøm, hvor det vokser højere og højere, indtil dets grene berører skyerne, og det trækker alle skovens små planter og dryaden med sig op i lyset og evigheden. Metens egetræet drømmer denne lyksalige drøm, raser en voldsom julestorm over havet og fælder det gamle træ. Det vågner aldrig i denne verden, men dør lykkeligt i sin forening med himlen.
+Et gammelt egetræ står på en høj skrænt ved havet og har levet i trehundrede og seksoghalvtreds år. Dets trofaste dryade deler dets liv og glæde i sommertiden. Da vinteren kommer, falder træet i en dyb søvn. Julenat drømmer det en vidunderlig drøm, hvor det vokser højere og højere, indtil dets grene berører skyerne, og det trækker alle skovens små planter og dryaden med sig op i lyset og evigheden. Mens egetræet drømmer denne lyksalige drøm, raser en voldsom julestorm over havet og fælder det gamle træ. Det vågner aldrig i denne verden, men dør lykkeligt i sin forening med himlen.
 
 ## Company
 

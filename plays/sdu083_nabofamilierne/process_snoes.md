@@ -3,6 +3,7 @@ khai: process
 title: "The Twisting"
 declared: "Snoes"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ Den langsomme, organiske proces, hvor planterne snor og strækker sig op ad hegn
 
 ## Initiated by
 
-Forårets varme og planternes iboende trang to at søge mod lyset og brede sig.
+Forårets varme og planternes iboende trang til at søge mod lyset og brede sig.
 
 ## Direction
 
@@ -29,7 +30,7 @@ Fra jordbunden og rødderne, op langs hegnets brædder og ud i det åbne luftrum
 
 ## Lever
 
-Sollyset og regnen, som nærer stænglerne og giver dem styrke to at klatre højere.
+Sollyset og regnen, som nærer stænglerne og giver dem styrke til at klatre højere.
 
 ## Echo
 

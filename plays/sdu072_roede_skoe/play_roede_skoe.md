@@ -4,6 +4,7 @@ title: "The Red Shoes"
 declared: "De røde Skoe"
 description: "Karen besættes af sine røde sko og tvinges til at danse utrætteligt, indtil hun søger bod og tilgivelse."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

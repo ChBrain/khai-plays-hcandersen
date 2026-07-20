@@ -4,6 +4,7 @@ title: "Paa Langebro"
 declared: "Paa Langebro"
 description: "En folkekomedie i fire akter om den fattige Frands, en tigger på Langebro og en drøm om en skjult skat."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

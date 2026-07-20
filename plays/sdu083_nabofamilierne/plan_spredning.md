@@ -3,6 +3,7 @@ khai: plan
 title: "The Spreading"
 declared: "Spredning"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -22,7 +23,7 @@ En ydre plan om at udbrede skønhed, frø og duft ud over havens grænser.
 
 ## Direction
 
-At vokse over hegnet og lade kronbladene og duften spredes med vinden to nye steder.
+At vokse over hegnet og lade kronbladene og duften spredes med vinden til nye steder.
 
 ## Orders
 

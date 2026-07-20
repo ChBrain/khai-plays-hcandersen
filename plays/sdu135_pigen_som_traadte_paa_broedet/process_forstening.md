@@ -3,6 +3,7 @@ khai: process
 title: "The Petrifaction"
 declared: "Forstening"
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -21,7 +22,7 @@ Den gradvise og kolde fastlåsning af Ingers krop i mosen, hvor hun forvandles t
 
 ## Initiated by
 
-[Inger](persona_inger.md), da hun træder på [brødet](piece_broed.md) and synker ned under mosebundens tørvelag.
+[Inger](persona_inger.md), da hun træder på [brødet](piece_broed.md) og synker ned under mosebundens tørvelag.
 
 ## Direction
 

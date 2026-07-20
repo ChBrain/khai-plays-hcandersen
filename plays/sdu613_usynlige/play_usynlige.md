@@ -1,16 +1,17 @@
 ---
 khai: play
 title: "Den Usynlige paa Sprogø"
-declared: "Usynlige"
+declared: "Den Usynlige paa Sprogø"
 description: "En original dramatisk spøg i én akt om en fader, der gøres usynlig på det isbelagte Sprogø."
 license: CC-BY-NC-SA-4.0
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-07-10"
 ---
 
-# Play: Usynlige
+# Play: Den Usynlige paa Sprogø
 
 ## Estate
 
@@ -18,7 +19,7 @@ stamp:
 
 ## Name
 
-Usynlige
+Den Usynlige paa Sprogø
 
 ## Arc
 

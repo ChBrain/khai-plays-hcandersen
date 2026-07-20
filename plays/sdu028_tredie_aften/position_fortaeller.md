@@ -3,6 +3,7 @@ khai: position
 title: "The Narrator"
 declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
+provenance: free
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -33,4 +34,4 @@ Muligheden for at tale direkte til menneskene på jorden, da månen kun kan lyse
 
 ## Drives
 
-At bringe lys to de mørke steder og bevare mindet om menneskelig godhed og kærlighed.
+At bringe lys til de mørke steder og bevare mindet om menneskelig godhed og kærlighed.
