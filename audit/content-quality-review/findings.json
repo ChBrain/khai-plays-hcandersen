@@ -423,8 +423,9 @@
         "prose": 3,
         "playability": 3
       },
-      "flag": true,
-      "reason": "Unverifiable and doubtful; prose stumbles ('pudser sit erobrede minde', the ungrammatical 'de stolte, slag paa volden')."
+      "flag": false,
+      "reason": "Unverifiable and doubtful; prose stumbles ('pudser sit erobrede minde', the ungrammatical 'de stolte, slag paa volden').",
+      "resolution": "Resolved: restaged to the verified Fourteenth Evening (the willow-watch and the stork's-nest annunciation of a little brother), provenance sourced, independently fidelity-reviewed. Merged in PR #336."
     },
     {
       "play": "sdu040_femtende_aften",
@@ -456,8 +457,9 @@
         "prose": 4,
         "playability": 3
       },
-      "flag": true,
-      "reason": "Unverifiable against the real Seventeenth Evening; widow-at-grave is plausible Andersen mood but likely invented given the batch pattern."
+      "flag": false,
+      "reason": "Unverifiable against the real Seventeenth Evening; widow-at-grave is plausible Andersen mood but likely invented given the batch pattern.",
+      "resolution": "Resolved: restaged to the verified Seventeenth Evening (the four-year-old in her new blue dress and rose-coloured bonnet), provenance sourced, independently fidelity-reviewed. Merged in PR #336."
     },
     {
       "play": "sdu043_attende_aften",
@@ -467,8 +469,9 @@
         "prose": 4,
         "playability": 3
       },
-      "flag": true,
-      "reason": "Unverifiable and doubtful; Company lists both 'Baad' as piece and 'Baaden' as place, a redundant/confusing casting."
+      "flag": false,
+      "reason": "Unverifiable and doubtful; Company lists both 'Baad' as piece and 'Baaden' as place, a redundant/confusing casting.",
+      "resolution": "Resolved: restaged to the verified Eighteenth Evening (Venice, the phantom city, the bound-winged lion and the Bridge of Sighs), provenance sourced, independently fidelity-reviewed. Merged in PR #336."
     },
     {
       "play": "sdu044_nittende_aften",
@@ -489,8 +492,9 @@
         "prose": 3,
         "playability": 3
       },
-      "flag": true,
-      "reason": "Unverifiable and doubtful; 'hvisker alle spor ud' misspells 'visker ud' (writes 'whispers' for 'wipes'), a real Danish error."
+      "flag": false,
+      "reason": "Unverifiable and doubtful; 'hvisker alle spor ud' misspells 'visker ud' (writes 'whispers' for 'wipes'), a real Danish error.",
+      "resolution": "Resolved: restaged to the verified Twentieth Evening (Rome, the girl whose water-pitcher shatters on the imperial stair), provenance sourced, independently fidelity-reviewed. Merged in PR #333 (fidelity corrected in #338)."
     },
     {
       "play": "sdu046_fireogtyvende_aften",
@@ -533,8 +537,9 @@
         "prose": 4,
         "playability": 3
       },
-      "flag": true,
-      "reason": "Unverifiable: cannot confirm the 27th evening depicts a sinking swan over the sea; the tableau is also thin and template-like."
+      "flag": false,
+      "reason": "Unverifiable: cannot confirm the 27th evening depicts a sinking swan over the sea; the tableau is also thin and template-like.",
+      "resolution": "Resolved: restaged to the verified Twenty-seventh Evening (the Chinese temple, Soui-houng and Pe, the Moon's beam like a sword between them), provenance sourced, independently fidelity-reviewed. Merged in PR #337."
     },
     {
       "play": "sdu050_den_onde_fyrste",
@@ -565,8 +570,9 @@
         "prose": 4,
         "playability": 3
       },
-      "flag": true,
-      "reason": "Unverifiable and doubtful: no recollection of any cuckoo-clock-in-Copenhagen evening in Billedbog uden Billeder; the scene smells invented."
+      "flag": false,
+      "reason": "Unverifiable and doubtful: no recollection of any cuckoo-clock-in-Copenhagen evening in Billedbog uden Billeder; the scene smells invented.",
+      "resolution": "Resolved: restaged to the verified Twenty-third Evening (Tyrol, the mountainside nunnery and the young nun's tear as the postilion's horn dies), provenance sourced, independently fidelity-reviewed. Merged in PR #337."
     },
     {
       "play": "sdu053_sexogtyvende_aften",

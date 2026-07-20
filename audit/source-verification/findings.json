@@ -52,10 +52,11 @@
     },
     {
       "play": "sdu039_fjortende_aften",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Could not pin down Hersholt's Fourteenth Evening specifically; translations disagree on where content falls here (an older Howitt translation's 14th evening — a dying nightingale on Lüneburg Heath — is folded by Hersholt into the *Fifteenth* Evening instead), so the true 14th content is unresolved after budgeted searches.",
-      "recommendation": "choregos",
-      "board_shape": "Unresolved — defer board sizing until the actual 14th-evening scene is confirmed against the Hersholt/andersen.sdu.dk numbering."
+      "recommendation": "restaged",
+      "board_shape": "Unresolved — defer board sizing until the actual 14th-evening scene is confirmed against the Hersholt/andersen.sdu.dk numbering.",
+      "resolution": "Resolved by the Billedbog restage program: the complete Hersholt text was later sourced evening by evening at andersen.sdu.dk, confirming the Fourteenth Evening. The board now stages the willow-watch and the stork's-nest annunciation of a little brother, provenance sourced, independently fidelity-reviewed. Merged in PR #336. The prior exists-content-unknown verdict reflected the network-blocked search at campaign time."
     },
     {
       "play": "sdu040_femtende_aften",
@@ -66,17 +67,19 @@
     },
     {
       "play": "sdu042_syttende_aften",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Could not confirm Hersholt's Seventeenth Evening content within budgeted searches (andersen.sdu.dk's SeventeenthEvening_e.html page did not surface indexed content); the widow-at-the-grave scene as staged is unverified against it.",
-      "recommendation": "choregos",
-      "board_shape": "Unresolved — defer board sizing until the actual 17th-evening scene is confirmed."
+      "recommendation": "restaged",
+      "board_shape": "Unresolved — defer board sizing until the actual 17th-evening scene is confirmed.",
+      "resolution": "Resolved by the Billedbog restage program: the complete Hersholt text was later sourced evening by evening at andersen.sdu.dk, confirming the Seventeenth Evening. The board now stages the four-year-old in her new blue dress and rose-coloured bonnet, provenance sourced, independently fidelity-reviewed. Merged in PR #336. The prior exists-content-unknown verdict reflected the network-blocked search at campaign time."
     },
     {
       "play": "sdu043_attende_aften",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Could not confirm Hersholt's Eighteenth Evening content within budgeted searches; an older (Howitt) translation's 18th evening is the hissed-actor story, but that content demonstrably maps to Hersholt's *Nineteenth* Evening instead (see sdu044 below), so cross-translation numbering cannot be trusted here and the true 18th remains unresolved.",
-      "recommendation": "choregos",
-      "board_shape": "Unresolved — defer board sizing until the actual 18th-evening scene is confirmed."
+      "recommendation": "restaged",
+      "board_shape": "Unresolved — defer board sizing until the actual 18th-evening scene is confirmed.",
+      "resolution": "Resolved by the Billedbog restage program: the complete Hersholt text was later sourced evening by evening at andersen.sdu.dk, confirming the Eighteenth Evening. The board now stages Venice, the phantom city, the bound-winged lion and the Bridge of Sighs, provenance sourced, independently fidelity-reviewed. Merged in PR #336. The prior exists-content-unknown verdict reflected the network-blocked search at campaign time."
     },
     {
       "play": "sdu044_nittende_aften",
@@ -87,24 +90,27 @@
     },
     {
       "play": "sdu045_tyvende_aften",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Could not confirm Hersholt's Twentieth Evening content within budgeted searches; a differently-numbered (Howitt) translation places a Fez caravan crossing a salt plain at its 20th evening, but the Howitt/Hersholt offset demonstrated elsewhere (Howitt N maps closer to Hersholt N+1) means this cannot be trusted as evidence for Hersholt's 20th, so the boy-on-the-beach scene as staged is unverified.",
-      "recommendation": "choregos",
-      "board_shape": "Unresolved — defer board sizing until the actual 20th-evening scene is confirmed."
+      "recommendation": "restaged",
+      "board_shape": "Unresolved — defer board sizing until the actual 20th-evening scene is confirmed.",
+      "resolution": "Resolved by the Billedbog restage program: the complete Hersholt text was later sourced evening by evening at andersen.sdu.dk, confirming the Twentieth Evening. The board now stages Rome, the girl whose water-pitcher shatters on the imperial stair, provenance sourced, independently fidelity-reviewed. Merged in PR #333 (fidelity corrected in #338). The prior exists-content-unknown verdict reflected the network-blocked search at campaign time."
     },
     {
       "play": "sdu049_syvogtyvende_aften",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Could not confirm Hersholt's Twenty-seventh Evening content within budgeted searches; searches only surfaced Andersen's unrelated standalone tale 'The Wild Swans' as a false-positive alongside the Picturebook, so the sinking-swan scene as staged is unverified.",
-      "recommendation": "choregos",
-      "board_shape": "Unresolved — defer board sizing until the actual 27th-evening scene is confirmed."
+      "recommendation": "restaged",
+      "board_shape": "Unresolved — defer board sizing until the actual 27th-evening scene is confirmed.",
+      "resolution": "Resolved by the Billedbog restage program: the complete Hersholt text was later sourced evening by evening at andersen.sdu.dk, confirming the Twenty-seventh Evening. The board now stages the Chinese temple, Soui-houng and Pe, the Moon's beam like a sword between them, provenance sourced, independently fidelity-reviewed. Merged in PR #337. The prior exists-content-unknown verdict reflected the network-blocked search at campaign time."
     },
     {
       "play": "sdu052_treogtyvende_aften",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Could not confirm Hersholt's Twenty-third Evening directly; notably, Hersholt's confirmed Twenty-fourth Evening (andersen.sdu.dk/vaerk/hersholt/TwentyFourthEvening_e.html) contains a retrospective flashback to a small boy awake in a poor Copenhagen room peeking from behind a bed curtain — close in flavor to the staged 'boy in a Copenhagen room' but not confirmed to include a cuckoo clock, and it sits in evening 24, not 23. This near-miss needs closer checking before ruling redeclare in or out.",
-      "recommendation": "choregos",
-      "board_shape": "Unresolved — defer board sizing; if the Copenhagen-boy lead in the 24th evening pans out this may become a redeclare rather than a restage."
+      "recommendation": "restaged",
+      "board_shape": "Unresolved — defer board sizing; if the Copenhagen-boy lead in the 24th evening pans out this may become a redeclare rather than a restage.",
+      "resolution": "Resolved by the Billedbog restage program: the complete Hersholt text was later sourced evening by evening at andersen.sdu.dk, confirming the Twenty-third Evening. The board now stages Tyrol, the mountainside nunnery and the young nun's tear as the postilion's horn dies, provenance sourced, independently fidelity-reviewed. Merged in PR #337. The prior exists-content-unknown verdict reflected the network-blocked search at campaign time."
     },
     {
       "play": "sdu055_niogtyvende_aften",
