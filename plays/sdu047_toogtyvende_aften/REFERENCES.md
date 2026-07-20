@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # Twenty-Second Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _To og tyvende Aften_ (SDU-047). Månen lyser ind i Tyrol, hvor en mand betragter de hellige billeder på husets mure under nattehimlen.
+Staging Hans Christian Andersen's _Toogtyvende Aften_ (SDU-047). Månen ser en lille pige våge ved sin dukke, fastsat højt i havens træ, mens hun ransager sin samvittighed.
 
 ## Origin
 
-Hans Christian Andersen, _To og tyvende Aften_, catalogued as SDU-047 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Toogtyvende Aften_, the Twenty-second Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-047 (register vid 47) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _To og tyvende Aften_ (SDU-047)        | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                                         | Scope                                                                    |
+| ------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Toogtyvende Aften_ (SDU-047)                                                            | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                                   | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Twenty-second Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentySecondEvening.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -28,11 +29,9 @@ What the production refuses to model, and to whom it delegates.
 
 Source to constraint, per file.
 
-- **the production ([play_toogtyvende_aften.md](play_toogtyvende_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Manden](persona_manden.md))**: the figures the production casts.
-- **the places ([Tyrol](place_tyrol.md), [Huset](place_huset.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Tilbedelse](process_tilbedelse.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Troende](position_troende.md))**: the structural roles it fields.
-- **the pieces ([Billede](piece_billede.md), [Kors](piece_kors.md))**: the objects it turns on.
-- **the plans ([Beskyttelse](plan_beskyttelse.md))**: the schemes it stages.
-- **the tenor ([Poetisk](pitch_poetisk.md))**: the key it is played in.
+- **the production ([play_toogtyvende_aften.md](play_toogtyvende_aften.md))**: the root that chains the 3 plots and casts the company.
+- **the personas ([Maanen](persona_maanen.md), [Pigen](persona_pigen.md))**: the figures the production casts.
+- **the place ([Haven](place_haven.md))**: where it plays.
+- **the position ([Fortaeller](position_fortaeller.md))**: the structural role it fields.
+- **the piece ([Dukken](piece_dukken.md))**: the object it turns on.
+- **the tenor ([Aengstelig](pitch_aengstelig.md))**: the key it is played in.

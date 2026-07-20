@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
-# Twenty-Sixth Evening: Reference
+# Twenty-sixth Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _Sex og tyvende Aften_ (SDU-053). Månen lyser over smalle gader i Kina og kigger ind i et tempel, hvor en præst tænder lamperne.
+Staging Hans Christian Andersen's _Sexogtyvende Aften_ (SDU-053). Månen så en lille skorstensfejer juble af glæde, da han for første gang stak hovedet ud af en skorstens top.
 
 ## Origin
 
-Hans Christian Andersen, _Sex og tyvende Aften_, catalogued as SDU-053 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Sexogtyvende Aften_, the Twenty-sixth Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-053 (register vid 53) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Sex og tyvende Aften_ (SDU-053)       | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                                       | Scope                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Sexogtyvende Aften_ (SDU-053)                                                         | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                                 | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Twenty-sixth Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentySixthEvening.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -29,10 +30,7 @@ What the production refuses to model, and to whom it delegates.
 Source to constraint, per file.
 
 - **the production ([play_sexogtyvende_aften.md](play_sexogtyvende_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Praesten](persona_praesten.md))**: the figures the production casts.
-- **the places ([Kina](place_kina.md), [Templet](place_templet.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Ceremoni](process_ceremoni.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Tilbedende](position_tilbedende.md))**: the structural roles it fields.
-- **the pieces ([Gudebillede](piece_gudebillede.md), [Lampe](piece_lampe.md))**: the objects it turns on.
-- **the plans ([Andagt](plan_andagt.md))**: the schemes it stages.
-- **the tenor ([Mystisk](pitch_mystisk.md))**: the key it is played in.
+- **the personas ([Maanen](persona_maanen.md), [Skorstensfejeren](persona_skorstensfejeren.md))**: the figures the production casts.
+- **the place ([Skorstenen](place_skorstenen.md))**: where it plays.
+- **the position ([Fortaeller](position_fortaeller.md))**: the structural role it fields.
+- **the tenor ([Jublende](pitch_jublende.md))**: the key it is played in.

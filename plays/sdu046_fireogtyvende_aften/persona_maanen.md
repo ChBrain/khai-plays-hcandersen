@@ -3,11 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -15,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md) over Danmark og Rom, der denne aften følger den lille Bertel ved rokken og, mange år efter, hylden ved bugten.
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg skive over Frankfurts gamle bindingsværk.
+En rund, blank skive, der lyser lige så roligt over et fattigt kammer i Grønnegade som over Vatikanets marmorhaller.
 
 ## Action
 
-Sender sit sølvfarvede lys gennem stueruden.
+Følger drengen ved rokken, dvæler ved gudernes billeder i Rom, og kender ham igen som mand i bådene på bugten.
 
 ## Shadow
 
-Frygter at de gamle minder vil forsvinde i mørket.
+Frygter at ingen andre end den selv ser sammenhængen mellem det fattige barn og den hyldede mand, før råbet endelig lyder fra bådene.
 
 ## Tell
 
-Lyser med et blegt og melankolsk skær på pigen.
+Lægger det samme blege skær over rokken, over Nilgruppens marmor og over de fakkelbelyste både, som var de ét og samme billede.
