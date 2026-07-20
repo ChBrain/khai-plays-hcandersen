@@ -94,15 +94,30 @@ boards were built from a translation numbered one ahead of Hersholt.
 | sdu049_syvogtyvende_aften | Resolved, sourced: the Twenty-seventh Evening (the Chinese temple, Soui-houng and Pe). Realigned in PR #337, off the wrong swan evening. |
 | sdu052_treogtyvende_aften | Resolved, sourced: the Twenty-third Evening (Tyrol, the mountainside nunnery). Realigned in PR #337; the candidate redeclaration to the Twenty-fourth Evening's Copenhagen flashback is dissolved (that Copenhagen boy is the genuine Thorvaldsen story, now at sdu046). |
 
-Still open from this docket, unchanged by the evening work:
+Also resolved at the register:
 
-- `sdu004_et_boerneeventyr` and `sdu645_truth` remain quarantined, to be
-  resolved at the SDU register (vid 4, vid 645) when those pages are
-  reachable; retirement of `sdu645_truth` still requires a dedicated order
-  on register evidence.
+- `sdu645_truth` — the register entry (vid 645, snapshot uploaded) settles
+  it: _Truth_ is a genuine Andersen work, drama category, BFN 1266, first
+  printed 13 January 1940 in Eiler Høeg's _Om H.C. Andersens Afreageren_,
+  catalogued as "Truth. Plastisk declamatorisk Opera uden Musik" and named
+  a children's parody-comedy. The `not-found`/fabrication verdict is
+  withdrawn and the work is **not retired**. The register confirms the
+  identity but not the text (still only in the 1940 print), so the board is
+  redeclared to the confirmed work and kept `unverified`, a marked
+  placeholder pending the 1940 text. Ruled in `order_rule_sdu645_truth.md`,
+  redeclared in PR #340.
+
+Still open from this docket:
+
+- `sdu004_et_boerneeventyr` stays quarantined, to be resolved at the SDU
+  register (vid 4) when that page is reachable; its full text is hosted at
+  `andersen.sdu.dk/vaerk/etboerneeventyr/` and is the next candidate.
 - `sdu211_de_blaae_bjerge` and `sdu212_hans_og_grethe` keep their German-
   source redeclaration; their actual booklet plot text was never
   retrievable, so their content stays unverified until sourced.
 
-With the six evenings resolved, all thirty-three evenings of _Billedbog
-uden Billeder_ across the house are sourced.
+With the six evenings and `sdu645` resolved, all thirty-three evenings of
+_Billedbog uden Billeder_ across the house are sourced, and eight of the
+ten Choregos docket items are closed; the two still open are `sdu004`
+(pending its register page) and the `sdu211`/`sdu212` booklet pair (pending
+their print text).
