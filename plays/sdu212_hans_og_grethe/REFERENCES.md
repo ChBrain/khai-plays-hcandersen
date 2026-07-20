@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-20"
 ---
 
 # Hans and Grethe: Reference
@@ -10,12 +10,13 @@ Staging Hans Christian Andersen's _Hans og Grethe. Smaastykker efter det Tydske_
 
 ## Origin
 
-Hans Christian Andersen, _Hans og Grethe. Smaastykker efter det Tydske_, catalogued as SDU-212 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Hans og Grethe. Smaastykker efter det Tydske_, catalogued as SDU-212 (register vid 212, in the eventyr category) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history. The register confirms it as a genuine Andersen work, a manuscript piece after the German first published 23 December 1972; it gives the identity and first print but not the text, so the board below stages a free adaptation, marked `free`, pending the 1972 printing.
 
-| Source            | Key Work / Event                                         | Scope                                                                 |
-| ----------------- | -------------------------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Hans og Grethe. Smaastykker efter det Tydske_ (SDU-212) | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk)                   | The chronological works database the house anchors title and text to. |
+| Source            | Key Work / Event                                                    | Scope                                                                                |
+| ----------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **H.C. Andersen** | _Hans og Grethe. Smaastykker efter det Tydske_ (SDU-212)            | The work the production adapts.                                                      |
+| **SDU register**  | [vid 212](https://andersen.sdu.dk/vaerk/register/info.html?vid=212) | The catalogue entry confirming the work, its eventyr category, and 1972 first print. |
+| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk)                              | The chronological works database the house anchors title and text to.                |
 
 ## Restrictions
 
