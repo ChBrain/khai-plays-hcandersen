@@ -1,5 +1,59 @@
 # @chbrain/khai-plays-hcandersen
 
+## 0.270.0
+
+### Minor Changes
+
+- c74b657: Play: stage SDU 609 (Agnete og Havmanden).
+- 1e33e43: Play: stage SDU 610 (Festen paa Kenilworth).
+- 74c44e1: Play: stage SDU 611 (Skilles og mødes).
+- aa210fa: Play: stage SDU 612 (En rigtig Soldat).
+- dd262ed: Play: stage SDU 613 (Den Usynlige paa Sprogø).
+- 4c908fc: Play: stage SDU 614 (Mulatten).
+- d6c056e: Play: stage SDU 615 (Mikkels Kjærlighedshistorier i Paris).
+- d24795d: Play: stage SDU 616 (En Comedie i det Grønne).
+- 271ccb7: Play: stage SDU 617 (Maurerpigen).
+- 2d641e1: Play: stage SDU 618 (Vandring gjennem Opera-Galleriet).
+- 7d8339e: Play: stage SDU 619 (Kongen drømmer).
+- 8afb92b: Play: stage SDU 620 (Fragmenter af Ahasverus).
+- bf8ab10: Play: stage SDU 621 (Lykkens Blomst).
+- 156182e: Play: stage SDU 622 (Liden Kirsten).
+- 34671d2: Play: stage SDU 623 (Ahasverus).
+- 0cc6ab5: Play: stage SDU 624 (Kunstens Dannevirke).
+- 51aebe7: Play: stage SDU 625 (Brylluppet ved Como-Søen).
+- 20c96f2: Play: stage SDU 626 (Meer end Perler og Guld).
+- f30a508: Play: stage SDU 627 (En Nat i Roeskilde).
+- d650634: Play: stage SDU 628 (Ole Lukøie).
+- cbe83fc: Play: stage SDU 629 (Den nye Barselstue).
+- dbae909: Play: stage SDU 630 (Hyldemoer).
+- 6506bdd: Play: stage SDU 631 (Nøkken).
+- 54e57b1: Play: stage SDU 632 (Indledning til Carnevalet).
+- fdf1d1d: Play: stage SDU 633 (Fuglen i Pæretræet).
+- 4805747: Play: stage SDU 634 (En Landsbyhistorie).
+- 5da542b: Play: stage SDU 635 (Paa Langebro).
+- d960217: Play: stage SDU 636 (Han er ikke født).
+- 719ea30: Play: stage SDU 637 (Da Spanierne var her).
+- e1985ed: Play: stage SDU 638 (Kong Saul).
+- db96c15: Play: stage SDU 639 (I Vetturinens Vogn).
+- a553c10: Play: stage SDU 642 (Intermediet til Holbergs: Kilderejsen).
+- 168423f: Play: stage SDU 643 (Hr. Rasmussen).
+- 06eda10: Play: stage SDU 644 (Danmark).
+- 5cbaf44: Play: stage SDU 645 (Truth).
+- f03a943: Play: stage SDU 646 (I Maaneskin).
+- 00447c5: Play: stage SDU 647 (Souffleurens Benefice).
+- d6d95b0: Play: stage SDU 650 (En Oedeland).
+- 871d254: Play: stage SDU 651 (Sangerinden).
+- 1f7798c: Stage SDU 801: Mit eget Eventyr uden Digtning — Hans Christian Andersens selvbiografi med møderne med Jacob Grimm i Berlin og Weimar (1844).
+
+### Patch Changes
+
+- 744e366: Adopt the registry build-drift gate: bump `@chbrain/khai-tests` to `^0.1.27` and rebuild `registry.json` from source. The rebuild reconciles the registry to a fresh build (adding the `kind` discriminator each entry lacked) so the new conformance gate — which asserts the committed `registry.json` equals a fresh build — passes. Mechanical reconciliation; no content changes.
+- 4ece9a6: Stage SDU 801 siboni-first-patron plot, depicting H.C. Andersen's audition at Giuseppe Siboni's dinner party and C.E.F. Weyse's collection in 1819.
+- a05aaf6: Stage SDU 801 leaves-odense plot, depicting H.C. Andersen's departure from Odense in 1819.
+- ed19a43: Fix trigger and company structure for SDU 629 (Den nye Barselstue).
+- 4de2073: Restore H.C. Andersen authenticity to SDU 207-212 and resolve structural trigger warnings across 43 plays.
+- 40ab5f5: Play: correct SDU 801 — the Grimm reconciliation happened in Copenhagen (Aug 1844), not Weimar. Replace the Weimar plot/place with Copenhagen (Grimm arriving in travelling dress at the trunk-packing), replace the textually-unsupported nightcap with the dedicated volume of tales, refine the Berlin scene to the memoir's wording, and add the Dec 1845 Berlin Christmas plot (reading to both Grimm brothers).
+
 ## 0.230.0
 
 ### Minor Changes
