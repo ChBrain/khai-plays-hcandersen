@@ -3,11 +3,11 @@ khai: position
 title: "The Narrator"
 declared: "Fortaeller"
 license: CC-BY-NC-SA-4.0
-provenance: unverified
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Position: Fortaeller
