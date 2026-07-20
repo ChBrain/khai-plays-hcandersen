@@ -164,17 +164,19 @@
     },
     {
       "play": "sdu211_de_blaae_bjerge",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Registered at andersen.sdu.dk/vaerk/register/info_e.html?vid=211: categorized under religious motifs, part of the 'Smaahistorier (Efter det Tydske)' group within Danske Folkesagn — confirming the 1973 booklet breadcrumb (small piece after a German source), but the sun-worship/investigator plot itself is not confirmed by any retrievable full text or summary.",
-      "recommendation": "choregos",
-      "board_shape": "As one half of a paired 'Smaastykker' booklet (a slight, minor piece), the board should stay tiny, 3-4 files: a Congregation-voice and an Investigator persona at most, no separate process or plan layer — this is a two-page vignette, not a construction warranting a company/process set."
+      "recommendation": "redeclare",
+      "board_shape": "As one half of a paired 'Smaastykker' booklet (a slight, minor piece), the board should stay tiny, 3-4 files: a Congregation-voice and an Investigator persona at most, no separate process or plan layer — this is a two-page vignette, not a construction warranting a company/process set.",
+      "resolution": "Confirmed at the SDU register (vid 211, snapshot uploaded): \"De blaae Bjerge\" is a genuine Andersen work, register nr 211 in the eventyr category, first published 23 December 1972 (a manuscript piece efter det Tydske; further info: H.C. Andersen-litteraturen 1969-1994 nr. 224). Not a fabrication; the German-source redeclaration stands. The register confirms the identity and first print but not the text, so the board's free adaptation stays provenance: free, a marked invention pending the 1972 text."
     },
     {
       "play": "sdu212_hans_og_grethe",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Registered at andersen.sdu.dk/vaerk/register/info.html?vid=212, mirroring vid=211's pattern — confirms this is Andersen's own minor piece from the 1973 'De blaae Bjerge / Hans og Grethe' booklet, distinct from the unrelated Brothers Grimm 'Hans og Grete' (Hänsel und Gretel) that searches repeatedly and misleadingly surfaced instead. No plot text for the actual Andersen piece was retrievable; the staged 'brothers Hans and Grethe' (Grethe being a female name) remains an unresolved internal contradiction.",
-      "recommendation": "choregos",
-      "board_shape": "Matching its booklet-mate sdu211, keep this to a tiny 3-4 file board: two rival-neighbor personas around a boast/dispute motif, no elaborate process — a slight companion-piece scale, not a full template, and the sibling-gender contradiction should be resolved before any staging investment."
+      "recommendation": "redeclare",
+      "board_shape": "Matching its booklet-mate sdu211, keep this to a tiny 3-4 file board: two rival-neighbor personas around a boast/dispute motif, no elaborate process — a slight companion-piece scale, not a full template, and the sibling-gender contradiction should be resolved before any staging investment.",
+      "resolution": "Confirmed at the SDU register (vid 212, snapshot uploaded): \"Hans og Grethe\" is a genuine Andersen work, register nr 212 in the eventyr category, first published 23 December 1972 (a manuscript piece efter det Tydske; further info: H.C. Andersen-litteraturen 1969-1994 nr. 224). Not a fabrication; the German-source redeclaration stands. The register confirms the identity and first print but not the text, so the board's free adaptation stays provenance: free, a marked invention pending the 1972 text."
     },
     {
       "play": "sdu501_gjenfaerdet",

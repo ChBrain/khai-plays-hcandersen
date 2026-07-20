@@ -117,14 +117,20 @@ Also resolved at the register:
   source's Days. Quarantine lifted; corrected in PR #342
   (`order_correct_sdu004_fidelity.md`).
 
-Still open from this docket:
+- `sdu211_de_blaae_bjerge` and `sdu212_hans_og_grethe` — the register (vid
+  211, vid 212, snapshots uploaded) confirms both as genuine Andersen
+  works, register nrs 211 and 212 in the eventyr category, each first
+  published 23 December 1972 (manuscript pieces efter det Tydske; further
+  info: H.C. Andersen-litteraturen 1969-1994 nr. 224). Neither is a
+  fabrication; the German-source redeclaration stands. The register
+  confirms identity and first print but not the text, so each board's free
+  adaptation keeps its `free` class, a marked invention pending the 1972
+  text.
 
-- `sdu211_de_blaae_bjerge` and `sdu212_hans_og_grethe` keep their German-
-  source redeclaration; their actual booklet plot text was never
-  retrievable, so their content stays unverified until sourced.
-
-With the six evenings, `sdu645`, and `sdu004` resolved, all thirty-three
-evenings of _Billedbog uden Billeder_ across the house are sourced, and
-**nine of the ten** Choregos docket items are closed; the one still open is
-the `sdu211`/`sdu212` German-source booklet pair, whose print text was
-never online and stays unverified until sourced.
+With the six evenings, `sdu645`, `sdu004`, and the `sdu211`/`sdu212` pair
+resolved, all thirty-three evenings of _Billedbog uden Billeder_ across the
+house are sourced and **all ten** Choregos docket items are closed at the
+register. Three works remain without their text, and stay honestly marked
+until it is obtained: `sdu645` (the 1940 Høeg print) and `sdu211`/`sdu212`
+(their 1972 first printing) carry marked-invention placeholders awaiting a
+faithful restaging.
