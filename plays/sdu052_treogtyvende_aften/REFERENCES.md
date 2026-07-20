@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # Twenty-Third Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _Tre og tyvende Aften_ (SDU-052). Månen kigger ind i et kammer i København, hvor en lille dreng forundres over gøgen i et gøgur.
+Staging Hans Christian Andersen's _Treogtyvende Aften_ (SDU-052). Månen ser to unge nonner i et tyrolsk klostertårn, hvor en rejsevogns horn dør hen for klosterklokken.
 
 ## Origin
 
-Hans Christian Andersen, _Tre og tyvende Aften_, catalogued as SDU-052 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Treogtyvende Aften_, the Twenty-Third Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-052 (register vid 52) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Tre og tyvende Aften_ (SDU-052)       | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                                       | Scope                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Treogtyvende Aften_ (SDU-052)                                                         | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                                 | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Twenty-Third Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentyThirdEvening.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -28,11 +29,8 @@ What the production refuses to model, and to whom it delegates.
 
 Source to constraint, per file.
 
-- **the production ([play_treogtyvende_aften.md](play_treogtyvende_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Drengen](persona_drengen.md))**: the figures the production casts.
-- **the places ([Kammeret](place_kammeret.md), [Koebenhaven](place_koebenhaven.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Iagttagelse](process_iagttagelse.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Undrende](position_undrende.md))**: the structural roles it fields.
-- **the pieces ([Ur](piece_ur.md), [Goeg](piece_goeg.md))**: the objects it turns on.
-- **the plans ([Opmaerksomhed](plan_opmaerksomhed.md))**: the schemes it stages.
-- **the tenor ([Hjertevarm](pitch_hjertevarm.md))**: the key it is played in.
+- **the production ([play_treogtyvende_aften.md](play_treogtyvende_aften.md))**: the root that chains the 3 plots and casts the company.
+- **the personas ([Maanen](persona_maanen.md), [Nonnen](persona_nonnen.md))**: the figures the production casts.
+- **the places ([Tyrol](place_tyrol.md), [Klostret](place_klostret.md))**: where it plays.
+- **the positions ([Fortaeller](position_fortaeller.md), [Nonnerne](position_nonnerne.md))**: the structural roles it fields.
+- **the tenor ([Laengselsfuld](pitch_laengselsfuld.md))**: the key it is played in.

@@ -7,7 +7,7 @@ provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -15,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md), der denne aften lader sit blik glide fra Frankfurts berømte mindesmærker hen mod et jævnt hus ved Jødegyden, hvor en gammel moder bæres til sit barndomshjem.
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg skive, der svinder ind i morgengryet.
+En rund, blank skive, der hænger lavt over Frankfurts tage og finder vej gennem den grønmalede dørs åbning.
 
 ## Action
 
-Sender de sidste blege stråler ned mod taget.
+Kaster sit lys ind over den oplyste trappe og videre ud over den mørke Jødegyde, hvor bærestolen bæres frem.
 
 ## Shadow
 
-Frygter at solens lys vil slette nattehimlens historier.
+Frygter, at billedet af sønnens kys på moderens hånd en dag blot bliver en overtro, ingen længere forstår.
 
 ## Tell
 
-Viser den arbejdende dreng i det tidlige gry.
+Gemmer synet af huset og gaden, til det kan fortælles videre under to ord: en moder.

@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # Twenty-Seventh Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _Syv og tyvende Aften_ (SDU-049). Månen skinner over havet og følger en flok vilde svaner, hvoraf en træt svane synker.
+Staging Hans Christian Andersen's _Syvogtyvende Aften_ (SDU-049). Månen ser den unge præst Soui-houng og den smukke Pe holdt adskilt af sit eget kolde lys.
 
 ## Origin
 
-Hans Christian Andersen, _Syv og tyvende Aften_, catalogued as SDU-049 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Syvogtyvende Aften_, the Twenty-seventh Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-049 (register vid 49) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Syv og tyvende Aften_ (SDU-049)       | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                                           | Scope                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Syvogtyvende Aften_ (SDU-049)                                                             | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                                     | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Twenty-seventh Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentySeventhEvening.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -28,11 +29,9 @@ What the production refuses to model, and to whom it delegates.
 
 Source to constraint, per file.
 
-- **the production ([play_syvogtyvende_aften.md](play_syvogtyvende_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Svanen](persona_svanen.md))**: the figures the production casts.
-- **the places ([Havet](place_havet.md), [Himlen](place_himlen.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Flugt](process_flugt.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Traet](position_traet.md))**: the structural roles it fields.
-- **the pieces ([Vinge](piece_vinge.md), [Skum](piece_skum.md))**: the objects it turns on.
-- **the plans ([Hvile](plan_hvile.md))**: the schemes it stages.
-- **the tenor ([Melankolsk](pitch_melankolsk.md))**: the key it is played in.
+- **the production ([play_syvogtyvende_aften.md](play_syvogtyvende_aften.md))**: the root that chains the 3 plots and casts the company.
+- **the personas ([Maanen](persona_maanen.md), [Soui-houng](persona_souihoung.md), [Pe](persona_pe.md))**: the figures the production casts.
+- **the places ([Templet](place_templet.md), [Tagterrassen](place_tagterrassen.md))**: where it plays.
+- **the position ([Fortaeller](position_fortaeller.md))**: the structural role it fields.
+- **the piece ([Fiskeglasset](piece_fiskeglasset.md))**: the object it turns on.
+- **the tenor ([Adskilt](pitch_adskilt.md))**: the key it is played in.

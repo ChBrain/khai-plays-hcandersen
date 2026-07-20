@@ -1,21 +1,22 @@
 ---
-updated: "2026-07-18"
+updated: "2026-07-19"
 ---
 
 # Twenty-First Evening: Reference
 
 ## Line of Work
 
-Staging Hans Christian Andersen's _En og tyvende Aften_ (SDU-051). Månen ser en pige trøste sin dukke efterladt i et træ i haven.
+Staging Hans Christian Andersen's _Enogtyvende Aften_ (SDU-051). Månen følger en karavane gennem ørkenen, mens en hustru hjemme beder for sin fjerne mand.
 
 ## Origin
 
-Hans Christian Andersen, _En og tyvende Aften_, catalogued as SDU-051 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Enogtyvende Aften_, the Twenty-First Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-051 (register vid 51) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source            | Key Work / Event                       | Scope                                                                 |
-| ----------------- | -------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _En og tyvende Aften_ (SDU-051)        | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk) | The chronological works database the house anchors title and text to. |
+| Source                   | Key Work / Event                                                                       | Scope                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Enogtyvende Aften_ (SDU-051)                                                          | The tale the production stages.                                          |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                                 | The chronological works database the house anchors title and text to.    |
+| **Hersholt Translation** | [Twenty-First Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentyFirstEvening.html) | The English-language edition anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
@@ -28,11 +29,9 @@ What the production refuses to model, and to whom it delegates.
 
 Source to constraint, per file.
 
-- **the production ([play_enogtyvende_aften.md](play_enogtyvende_aften.md))**: the root that chains the 2 plots and casts the company.
-- **the personas ([Maanen](persona_maanen.md), [Pigen](persona_pigen.md))**: the figures the production casts.
-- **the places ([Haven](place_haven.md), [Traeet](place_traeet.md))**: where it plays.
-- **the processes ([Fortaelling](process_fortaelling.md), [Omsorg](process_omsorg.md))**: the acts it turns on.
-- **the positions ([Fortaeller](position_fortaeller.md), [Bedroevet](position_bedroevet.md))**: the structural roles it fields.
-- **the pieces ([Dukke](piece_dukke.md), [Trae](piece_trae.md))**: the objects it turns on.
-- **the plans ([Troest](plan_troest.md))**: the schemes it stages.
-- **the tenor ([Troestende](pitch_troestende.md))**: the key it is played in.
+- **the production ([play_enogtyvende_aften.md](play_enogtyvende_aften.md))**: the root that chains the 3 plots and casts the company.
+- **the personas ([Maanen](persona_maanen.md), [Koebmanden](persona_koebmanden.md), [Hustruen](persona_hustruen.md))**: the figures the production casts.
+- **the places ([Oerkenen](place_oerkenen.md), [Palmelunden](place_palmelunden.md))**: where it plays.
+- **the positions ([Fortaeller](position_fortaeller.md), [Karavanen](position_karavanen.md), [Negerflokken](position_negerflokken.md))**: the structural roles it fields.
+- **the piece ([Firkanten](piece_firkanten.md))**: the object it turns on.
+- **the tenor ([Trofast](pitch_trofast.md))**: the key it is played in.
