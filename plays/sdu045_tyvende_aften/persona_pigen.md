@@ -31,7 +31,7 @@ Bærer en billig lerkrukke fyldt med vand op ad den stejle trappe hver aften.
 
 ## Shadow
 
-Frygter bedstemoderens vrede over den knuste krukke mere end hun tør sige højt.
+Græder over det ringe, knuste kar uden at ane den uvurderlige pragt, hun lever midt iblandt.
 
 ## Tell
 
