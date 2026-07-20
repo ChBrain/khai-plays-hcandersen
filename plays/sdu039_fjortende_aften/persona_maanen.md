@@ -3,11 +3,11 @@ khai: persona
 title: "The Moon"
 declared: "Maanen"
 license: CC-BY-NC-SA-4.0
-provenance: unverified
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 type: fictional
 ---
 
@@ -15,7 +15,7 @@ type: fictional
 
 ## Taxonomy
 
-[Fortaeller](position_fortaeller.md) Fortaeller på den mørke himmel, en kold og fjern betragter.
+[Fortaeller](position_fortaeller.md) over to bøndergårde ved en skovvej, der denne aften følger to søskendes samtale under det gamle piletræ.
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: fictional
 
 ## Projection
 
-En bleg skive over byens volde.
+En rund, blank skive, der ser ned på to gamle bøndergårde ved en snæver skovvej.
 
 ## Action
 
-Kaster sit lys ind på den gamle soldat.
+Lyser sit stille skær ned over piletræets grene og de to søskende, der sidder derunder.
 
 ## Shadow
 
-Frygter at fortidens bedrifter vil gå helt i glemmebogen.
+Frygter, at dens eget kolde lys aldrig kan forklare et under, som et enkelt vindpust letter for et barnehjerte.
 
 ## Tell
 
-Lyser med et historisk og sølvgråt skær.
+Lader et blegt skær glide hen over gårdenes mosgroede tage, som ventede den selv på svaret.

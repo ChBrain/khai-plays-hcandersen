@@ -3,18 +3,18 @@ khai: place
 title: "The Sea"
 declared: "Havet"
 license: CC-BY-NC-SA-4.0
-provenance: unverified
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Place: Havet
 
 ## Taxonomy
 
-Det uendelige, mørke hav under stjernerne.
+Det åbne farvand uden for byen, hvor tågen ligger som en sørgeslør, og den sorte gondol glider stille hen over de grønne bølger.
 
 ## Owner
 
@@ -22,16 +22,16 @@ Det uendelige, mørke hav under stjernerne.
 
 ## Shown
 
-Et uroligt hav af dybblå bølger med sølvskinnende toppe.
+En tynd tåge over vandfladen og en enkelt gondol, der bevæger sig lydløst som et genfærd.
 
 ## Holds
 
-Det rummer Båden, fisken i dybet og nattevindens susen.
+Rummer [Adriaterhavet](persona_adriaterhavet.md) selv, hvis dyb engang modtog vielsesringen fra Bucentaurens dæk.
 
 ## Offers
 
-Fangst, uendelig frihed og naturens rå råstyrke.
+Den eneste vej ind til byen, nu hvor intet vognhjul og intet hesteklip længere lyder i dens gader.
 
 ## Withheld
 
-Landjordens fasthed og hjemmets varme arne.
+Ingen larm af liv fra land; kun fiskene svømmer tavse gennem de druknede gader.

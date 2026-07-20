@@ -2,13 +2,13 @@
 khai: play
 title: "Thirty-Third Evening"
 declared: "Tre og tredivte Aften"
-description: "Månen tager afsked med den fattige maler i tagkammeret og lover at huske deres aftener sammen."
+description: "Månen ser en fireårig pige bede sin aftenbøn og indrømme, hun ønsker rigeligt smør på sit daglige brød."
 license: CC-BY-NC-SA-4.0
-provenance: free
+provenance: sourced
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-26"
+  date: "2026-07-19"
 ---
 
 # Play: Tre og tredivte Aften
@@ -23,28 +23,24 @@ Tre og tredivte Aften
 
 ## Arc
 
-Det er den sidste nat, og månen kigger ind i tagkammeret for at tage afsked med den fattige maler. Gennem de mange aftener har de delt jordens billeder, men nu må månen rejse videre. Maleren sidder ved sit bord med sin billedbog og skrivepen, klar til at nedskrive den sidste beretning. Månen lover, at deres venskab og billedbogen vil blive bevaret, før den glider væk bag horisonten.
+Månen skinner ind gennem en rude, hvor intet forhæng er trukket for, fordi ingen bor lige overfor. Den er glad for børn, især de mindste, og plejer ellers at kigge ind mellem gardin og vindueskarm for at følge dem, når de klæder sig af og på. Denne aften ser den lige ind i et helt barnekammer, hvor en søskendeflok gør sig klar til søvn. Blandt dem er en lille pige på kun fire år, der kan sit Fadervor lige så godt som de ældre, og hver aften sidder moderen ved hendes seng og lytter, til hun har bedt færdigt, kysser hende og bliver, til hun falder i søvn. De to ældste søskende er lidt vilde denne aften: den ene danser rundt på et ben i nathue og lang skjorte, den anden stiller sig op på en stol fuld af tøj og udråber sig selv til en græsk statue, mens de to andre lægger legetøjet omhyggeligt i skuffen, for sådan skal det være. Så sætter moderen sig ved den mindstes seng og byder de andre være stille, for den lille søster skal sige sit Fadervor. Månen kigger ind over lampen og ser den fireårige ligge i sit rene, hvide linned med de små hænder foldet og ansigtet meget alvorligt, mens hun siger bønnen højt, ord for ord. Midt i bønnen afbryder moderen hende: hvorfor tilføjer hun altid noget efter ordene om det daglige brød, som hun ikke kan forstå? Pigen beder moderen om ikke at blive vred og indrømmer, at hun blot har sagt: med rigeligt smør på.
 
 ## Company
 
 - [Maanen](persona_maanen.md)
-- [Maleren](persona_maleren.md)
+- [Moderen](persona_moderen.md)
+- [Pigen](persona_pigen.md)
 - [Fortaeller](position_fortaeller.md)
-- [Kunstner](position_kunstner.md)
-- [Billedbog](piece_billedbog.md)
-- [Skrivepen](piece_skrivepen.md)
-- [Tagkammeret](place_tagkammeret.md)
-- [Himlen](place_himlen.md)
-- [Fortaelling](process_fortaelling.md)
-- [Afsked](process_afsked.md)
-- [Bevaring](plan_bevaring.md)
-- [Melankolsk](pitch_melankolsk.md)
+- [Søskendeflokken](position_soeskendeflokken.md)
+- [Barnekammeret](place_barnekammeret.md)
+- [Uskyldig](pitch_uskyldig.md)
 
 ## Triggers
 
-- [plot_natten.md](plot_natten.md) når månen stiger op foran malerens tagvindue for sidste gang.
-- [plot_afskeden.md](plot_afskeden.md) når maleren tager sin pen for at skrive det sidste ord.
+- [plot_vinduet.md](plot_vinduet.md) når Månen finder en rude uden forhæng og ser ind til barnekammeret.
+- [plot_fadervor.md](plot_fadervor.md) når moderen sætter sig ved den mindstes seng og byder søskendeflokken være stille.
+- [plot_smoerret.md](plot_smoerret.md) når moderen midt i bønnen afbryder pigen for at spørge, hvad de sidste ord betyder.
 
 ## Stakes
 
-Kampen står mellem ensomhedens tomhed efter månens afgang, og billedbogens kraft, der bevarer deres venskab for evigt.
+Kampen står ikke mellem store modstandere, men mellem bønnens højtidelighed og barnets jordnære, uskyldige tilføjelse. Der er intet objekt at bære og ingen plan at lægge, for kilden selv rummer kun ét kammer, én bøn og ét lille svar: tre personaer, to positioner, ét sted og tre optrin bærer hele aftenen, og kun én uskyldig tone binder andagten sammen med det barnlige ønske om smør.
