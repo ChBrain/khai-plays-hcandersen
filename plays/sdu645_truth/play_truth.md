@@ -2,7 +2,7 @@
 khai: play
 title: "Truth"
 declared: "Truth"
-description: "Et allegorisk og filosofisk drama om Sandhedens og Løgnens strid i det illusionerede kejserhof."
+description: "Ubekræftet pladsholder for Andersens børne-parodikomedie Truth (BFN 1266) fra 1940, hvis tekst endnu mangler."
 license: CC-BY-NC-SA-4.0
 provenance: unverified
 stamp:

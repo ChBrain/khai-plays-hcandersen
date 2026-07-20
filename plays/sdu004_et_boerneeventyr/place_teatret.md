@@ -26,7 +26,7 @@ En tætpakket sal med tunge gardiner og flakkende lys, hvor scenen viser en spil
 
 ## Holds
 
-[Melodramaet](piece_melodramaet.md), publikum, og fortælleren selv, indtil han forlader sin plads midt i akten.
+[Melodramaet](piece_melodramaet.md), publikum, og fortælleren selv, indtil han forlader sin plads efter stykkets anden dag.
 
 ## Offers
 
