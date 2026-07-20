@@ -10,13 +10,13 @@ Staging Hans Christian Andersen's _Tyvende Aften_ (SDU-045). Månen ser en pige 
 
 ## Origin
 
-Hans Christian Andersen, _Tyvende Aften_, the Twentieth Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-045 (register item 313) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Tyvende Aften_, the Twentieth Evening (Hersholt numbering) of _Billedbog uden Billeder_, catalogued as SDU-045 (register vid 45) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
 
-| Source                   | Key Work / Event                                                                    | Scope                                                                    |
-| ------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **H.C. Andersen**        | _Tyvende Aften_ (SDU-045)                                                           | The tale the production stages.                                          |
-| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                              | The chronological works database the house anchors title and text to.    |
-| **Hersholt Translation** | [Twentieth Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentiethEvening_e.html) | The English-language edition anchoring the evening's Hersholt numbering. |
+| Source                   | Key Work / Event                                                                    | Scope                                                                                      |
+| ------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **H.C. Andersen**        | _Tyvende Aften_ (SDU-045)                                                           | The tale the production stages.                                                            |
+| **SDU Centret**          | [hcandersen.dk](https://hcandersen.dk)                                              | The chronological works database the house anchors title and text to.                      |
+| **Hersholt Translation** | [Twentieth Evening](https://andersen.sdu.dk/vaerk/hersholt/TwentiethEvening_e.html) | The English-language edition (register vid 45) anchoring the evening's Hersholt numbering. |
 
 ## Restrictions
 
