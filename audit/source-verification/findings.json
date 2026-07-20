@@ -128,10 +128,11 @@
     },
     {
       "play": "sdu004_et_boerneeventyr",
-      "source_status": "exists-content-unknown",
+      "source_status": "verified",
       "evidence": "Searches place 'Et Børneeventyr' among the handful of juvenile 'tales before the tales' from the start of Andersen's oeuvre, but no register page, full text, or plot summary surfaced in two searches beyond that classification.",
-      "recommendation": "choregos",
-      "board_shape": "If it is indeed a slight juvenile fragment (as its 'tales before the tales' company suggests), the board should be minimal, 3-4 files: a single shared persona pairing and one place card, no process/plan apparatus — anything larger overbuilds a text this thin and this unconfirmed."
+      "recommendation": "keep",
+      "board_shape": "If it is indeed a slight juvenile fragment (as its 'tales before the tales' company suggests), the board should be minimal, 3-4 files: a single shared persona pairing and one place card, no process/plan apparatus — anything larger overbuilds a text this thin and this unconfirmed.",
+      "resolution": "Resolved: the full text of Et Boerneeventyr (Skyggebilleder ch. 4, 1831) was read at the Centre's edition page (andersen.sdu.dk/vaerk/etboerneeventyr/, register vid 4) and the board reviewed against it. The board is faithful (the Braunschweig frame and the inner lying-wager tale) and stays sourced; a fidelity fix corrected the Prince's two lies to the source's images (a regiment under each kale leaf; a swallow hatched in the falling axe-head) and replaced an 'act' exit with the source's Days. Quarantine lifted. Corrected in PR #342 (order_correct_sdu004_fidelity.md)."
     },
     {
       "play": "sdu005_det_sjunkne_kloster",
