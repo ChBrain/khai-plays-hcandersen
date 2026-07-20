@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-19"
+updated: "2026-07-20"
 ---
 
 # Et Børneeventyr: Reference
@@ -10,12 +10,13 @@ Staging Hans Christian Andersen's _Et Børneeventyr_ (SDU-004), the fourth chapt
 
 ## Origin
 
-Hans Christian Andersen, _Et Børneeventyr_, the fourth chapter of _Skyggebilleder_ (1831), catalogued as SDU-004 in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history.
+Hans Christian Andersen, _Et Børneeventyr_, the fourth chapter of _Skyggebilleder af en Reise til Harzen_ (published 19 September 1831), catalogued as SDU-004 (register vid 4) in the register of the H.C. Andersen Centret at Syddansk Universitet, the authoritative source for the Danish texts, titles, and publication history. The full text is read at the Centre's own edition page and verified against it.
 
-| Source            | Key Work / Event                                    | Scope                                                                 |
-| ----------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
-| **H.C. Andersen** | _Et Børneeventyr_ (SDU-004), _Skyggebilleder_ ch. 4 | The tale the production stages.                                       |
-| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk)              | The chronological works database the house anchors title and text to. |
+| Source            | Key Work / Event                                                   | Scope                                                                             |
+| ----------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **H.C. Andersen** | _Et Børneeventyr_ (SDU-004), _Skyggebilleder_ ch. 4                | The tale the production stages.                                                   |
+| **SDU text page** | [Et Børne-Eventyr](https://andersen.sdu.dk/vaerk/etboerneeventyr/) | The Centre's full-text edition (register vid 4), the verified source staged here. |
+| **SDU Centret**   | [hcandersen.dk](https://hcandersen.dk)                             | The chronological works database the house anchors title and text to.             |
 
 ## Restrictions
 
